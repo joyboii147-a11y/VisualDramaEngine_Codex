@@ -1,0 +1,28 @@
+SHOT EP25-26-S088 / CLIP A064. One continuous cinematic live-action shot, vertical 9:16.
+TARGET DURATION: 8 seconds including handles.
+Animate the supplied final frame from the immediately preceding specified clip. Use only this request's image and instructions.
+SCENE GEOGRAPHY: an outdoor daytime jewelry exhibition beside a rectangular turquoise pool: cream stone deck, pale-gray stone pool coping, ivory-draped display tables and clear glass cases with gold frames under a light canopy on the zone-A side; an open zone-D walkway runs behind the display tables. Open sky and reflected pool light fill the space. at zone C beside the turquoise pool, Mae Wit faces the water and Rita is distant in it; the man stands directly behind Mae Wit.
+VISIBLE CAST: exactly two people: Mae Wit wearing "a champagne-nude floor-length fitted gown densely embroidered with tonal floral beadwork, high collar with a keyhole neckline, sheer long lace cape sleeves draping to the floor, pearl stud earrings, and dark brown hair in a low braided chignon with loose face-framing tendrils"; and the black-clad adult man behind her, seen only from the rear in "a black formal jacket, black crew-neck shirt, black tailored trousers, black leather shoes, and short black hair."
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: at the pool coping in zone C, looking diagonally along the pool edge toward Mae Wit and the black-clad man's rear; standing eye level, profile medium shot, 55mm, on the pool side of the action axis.
+FOREGROUND / VISIBLE BACKGROUND: Mae Wit is closest to the pale-gray coping and turquoise water; Rita floats far in the water beyond her. The cream deck and zone-A display canopy are far behind the man; his face remains concealed.
+OFF-FRAME: Airin is outside frame at the zone-A edge preparing to help; Wit remains beyond the zone-D approach; no other person enters the shot.
+LIGHTING / COLOR: high soft daylight, open-sky fill and pool reflections, 5600K; refined daylight luxury palette with champagne, ivory, pool-aqua and burgundy accents; clean jewel highlights, medium natural contrast, restrained saturation, and warm natural skin tones.
+PROP STATE: all stated wardrobe and hand states remain continuous; no prop teleports.
+START STATE: the man's open palm hovers at the center of Mae Wit's back. Mae Wit stares shocked toward the water, arms slightly open.
+PERFORMANCE CONTEXT: immediate poolside emergency.
+ACTION: The black-clad man forcefully pushes Mae Wit's middle back. Mae Wit cries her assigned line, throws both arms wide, pitches forward into the pool, and the man retreats out of frame.
+END STATE: Mae Wit has fallen into the water out of frame; the black-clad man has retreated and is absent.
+CAMERA: static continuous framing; no cut.
+VISUAL CONTINUITY: Preserve the supplied frame's faces, hair, wardrobe, wetness state, set geometry, lighting character and grade. Allow only specified movement. No identity swaps, added people or spontaneous props.
+AUDIO MODE: generated dialogue.
+SPEECH EVENT 1:
+SPEAKER: Mae Wit, visible on screen (ON).
+EXACT THAI DIALOGUE: "ว้ายยย!"
+VOICE IDENTITY: mature Thai female voice, poised mid-low register, clear warm timbre, standard Thai accent
+DELIVERY: long terrified scream.
+Lip-sync only Mae Wit to the assigned line.
+NON-SPEAKERS: the black-clad man is visible only from behind and makes no speech-like lip movements.
+Speak only the assigned dialogue exactly once, without paraphrasing or added words. No unassigned voices.
+AFTER SPEECH: hold the planned end state.
+AMBIENCE/SFX: pool water and emergency movement; no music.
+

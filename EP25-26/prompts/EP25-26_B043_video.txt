@@ -1,0 +1,21 @@
+SHOT EP25-26-S086 / CLIP B043. One continuous cinematic live-action shot, vertical 9:16.
+TARGET DURATION: 5 seconds including handles.
+Animate the supplied final frame from the immediately preceding specified clip. Use only this request's image and instructions.
+SCENE GEOGRAPHY: an outdoor daytime jewelry exhibition beside a rectangular turquoise pool: cream stone deck, pale-gray stone pool coping, ivory-draped display tables and clear glass cases with gold frames under a light canopy on the zone-A side; an open zone-D walkway runs behind the display tables. Open sky and reflected pool light fill the space. at water level in the turquoise pool near zone C, cream coping and the distant event deck are visible behind Rita.
+VISIBLE CAST: exactly one person: Rita in her soaked deep burgundy satin halter mini dress with wet half-up wavy hair; no glass is in her hands.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: poolside composition on the established pool-edge action axis; framing maintains the stated action and safe spatial separation.
+FOREGROUND / VISIBLE BACKGROUND: visible cream deck, pale-gray coping, turquoise water, and the appropriate poolside event background.
+OFF-FRAME: all people not named in VISIBLE CAST remain outside the composition.
+LIGHTING / COLOR: high soft daylight, open-sky fill and pool reflections, 5600K; refined daylight luxury palette with champagne, ivory, pool-aqua and burgundy accents; clean jewel highlights, medium natural contrast, restrained saturation, and warm natural skin tones.
+PROP STATE: all stated wardrobe and hand states remain continuous; no prop teleports.
+START STATE: Rita strikes the water after falling backward; the drinking glass has just left her hand and is not retained.
+PERFORMANCE CONTEXT: immediate poolside emergency.
+ACTION: Rita splashes down, resurfaces at neck depth coughing and treading water. The glass either drifts or sinks outside the crop, with no final location shown.
+END STATE: Rita floats at neck depth, soaked and coughing, hands empty.
+CAMERA: static continuous framing; no cut.
+VISUAL CONTINUITY: Preserve the supplied frame's faces, hair, wardrobe, wetness state, set geometry, lighting character and grade. Allow only specified movement. No identity swaps, added people or spontaneous props.
+AUDIO MODE: picture for separately edited dialogue.
+Do not generate intelligible speech or background chatter.
+PERFORMANCE: visible action timed to separately edited dialogue; lips do not form intelligible words.
+AMBIENCE/SFX: pool splashes and urgent movement; no music.
+

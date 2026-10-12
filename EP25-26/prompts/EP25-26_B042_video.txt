@@ -1,0 +1,20 @@
+SHOT EP25-26-S084 / CLIP B042. One continuous cinematic live-action shot, vertical 9:16.
+TARGET DURATION: 5 seconds including handles.
+Animate the supplied final frame from the immediately preceding specified clip. Use only this request's image and instructions.
+SCENE GEOGRAPHY: an outdoor daytime jewelry exhibition beside a rectangular turquoise pool: cream stone deck, pale-gray stone pool coping, ivory-draped display tables and clear glass cases with gold frames under a light canopy on the zone-A side; an open zone-D walkway runs behind the display tables. Open sky and reflected pool light fill the space. at zone C on the cream deck beside the turquoise pool, Rita faces Mae Wit across a clear gap; the pool is behind the camera.
+VISIBLE CAST: exactly two people: Rita in the deep burgundy satin halter mini dress and rose-ornamented stilettos, holding the half-full clear drinking glass in her left hand; Mae Wit in "a champagne-nude floor-length fitted gown densely embroidered with tonal floral beadwork, high collar with a keyhole neckline, sheer long lace cape sleeves draping to the floor, pearl stud earrings, and dark brown hair in a low braided chignon with loose face-framing tendrils," blurred in the foreground, several steps away.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: at the pool-end side of zone C, positioned just left of Rita and looking diagonally back toward zone A along the pool edge; standing eye level, oblique medium shot, 55mm, on the pool side of the action axis.
+FOREGROUND / VISIBLE BACKGROUND: Rita occupies the near frame; Mae Wit is softly defocused ahead across the cream deck. Behind Mae Wit are the ivory display tables, gold-framed glass cases, and the light canopy in zone A. The pool is not visible because it is behind the camera.
+OFF-FRAME: Airin is beside Mae Wit outside the crop; the black-clad man remains behind Mae Wit outside frame; the turquoise pool is behind the camera.
+LIGHTING / COLOR: high soft daylight, open-sky fill and pool reflections, 5600K; refined daylight luxury palette with champagne, ivory, pool-aqua and burgundy accents; clean jewel highlights, medium natural contrast, restrained saturation, and warm natural skin tones.
+PROP STATE: all stated wardrobe and hand states remain continuous; no prop teleports.
+START STATE: Rita ends her sneer with her right shoulder drawn back, her left hand gripping the glass, and Mae Wit is out of focus ahead; no contact has occurred.
+PERFORMANCE CONTEXT: immediate poolside emergency.
+ACTION: Rita starts lifting her right arm toward Mae Wit but stops short. Her right stiletto toe catches the stone deck and the glass trembles in her left hand; she does not touch Mae Wit.
+END STATE: Rita's right arm is raised but still separated from Mae Wit; her balance has begun to fail and the glass remains in her left hand.
+CAMERA: static continuous framing; no cut.
+VISUAL CONTINUITY: Preserve the supplied frame's faces, hair, wardrobe, wetness state, set geometry, lighting character and grade. Allow only specified movement. No identity swaps, added people or spontaneous props.
+AUDIO MODE: no dialogue.
+No intelligible speech or speech-like lip-sync.
+AMBIENCE/SFX: water and tense movement only.
+

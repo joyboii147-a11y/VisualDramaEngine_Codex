@@ -1,0 +1,29 @@
+SHOT EP25-26-S095 / CLIP A071. One continuous cinematic live-action shot, vertical 9:16.
+TARGET DURATION: 8 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+SCENE GEOGRAPHY: an outdoor daytime jewelry exhibition beside a rectangular turquoise pool: cream stone deck, pale-gray stone pool coping, ivory-draped display tables and clear glass cases with gold frames under a light canopy on the zone-A side; an open zone-D walkway runs behind the display tables. Open sky and reflected pool light fill the space. at the zone-A pool edge, Airin stands on the dry cream stone coping with turquoise water directly ahead. Mae Wit struggles farther out in the pool; the display canopy is behind Airin.
+VISIBLE CAST: exactly one person: Airin, a young pregnant Thai woman wearing a white strapless floor-length maternity gown in floral lace, fitted over a visible baby bump with a soft draped lace panel and a slight train, a delicate pearl necklace, pearl stud earrings, white pointed-toe low heels, and long dark brown wavy hair worn loose.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: from water level near the zone-A edge looking up across the pool at Airin; medium shot, 55mm. The established action axis runs along the pool edge.
+FOREGROUND / VISIBLE BACKGROUND: no foreground person; visible cream deck, pale-gray coping, turquoise water, and the view-specific event elements described in the scene geography.
+OFF-FRAME: Mae Wit is in the water ahead; Rita floats farther away; guests and staff remain on the deck outside crop.
+LIGHTING / COLOR: high soft daylight, open-sky fill, pool reflections, 5600K; refined daylight luxury palette with champagne, ivory, pool-aqua and burgundy accents; clean jewel highlights, medium natural contrast, restrained saturation, and warm natural skin tones.
+PROP STATE: Airin begins wearing both white low heels; she removes them and leaves them safely on the dry deck.
+START STATE: Airin is dry, looking from the water with shocked concern that resolves into determination; both white shoes are on her feet.
+PERFORMANCE CONTEXT: determined and breath-controlled, proud of her preparedness.
+ACTION: Airin speaks her full assigned line while swiftly removing both white pointed-toe low heels, placing them safely back from the coping, and taking a committed step toward the pool.
+END STATE: Airin is barefoot at the coping, dry gown and hair intact, body leaned forward ready to jump.
+CAMERA: static composition throughout; no zoom, pan, or cut.
+VISUAL CONTINUITY: Preserve the starting image's faces, hair, wardrobe, set geometry, lighting character and color treatment. Allow only the specified actions and camera movement. No unplanned cuts, added people, identity swaps or prop teleportation.
+AUDIO MODE: generated dialogue.
+SPEECH EVENT 1:
+SPEAKER: Airin, visible on screen (ON), the only speaker.
+EXACT THAI DIALOGUE: "โชคดีที่ฝึกว่ายน้ำเพื่อรักษารูปทรงมาโดยตลอด"
+VOICE IDENTITY: young Thai female voice, soft clear mid-high register, warm timbre, standard Thai accent
+DELIVERY: determined and breath-controlled, proud of her preparedness.
+Lip-sync only Airin to the assigned line.
+NON-SPEAKERS: none visible; no speech-like lip movements.
+Speak only the assigned dialogue exactly once, without paraphrasing or added words.
+Do not stretch speech to fill the clip. No unassigned voices.
+AFTER SPEECH: a brief silent hold in the planned end state.
+AMBIENCE/SFX: soft pool water and restrained event ambience; no background chatter.
+

@@ -1,0 +1,19 @@
+Create one standalone starting-frame image for SHOT EP25-26-S082.
+Vertical 9:16. Cinematic live-action still, photorealistic.
+REFERENCE IMAGES:
+Image 1: Rita — use for face, skin tone, hairstyle, body shape and this exact outfit. Do not copy the background, lighting, pose or camera angle from this image.
+CHARACTERS: exactly one person: Rita, a young Thai woman wearing a deep burgundy satin halter mini dress with a large sculpted rose at the high neck, draped blouson bodice, fitted mini skirt, open bare back, gold floral stud earrings, and glossy burgundy pointed-toe stiletto pumps with rose ornaments; long dark brown wavy hair half-up.
+CAST COUNT: exactly one person visible.
+SCENE GEOGRAPHY: an outdoor daytime jewelry exhibition beside a rectangular turquoise pool: cream stone deck, pale-gray stone pool coping, ivory-draped display tables and clear glass cases with gold frames under a light canopy on the zone-A side; an open zone-D walkway runs behind the display tables. Open sky and reflected pool light fill the space. at the far end of poolside zone C, Rita walks on the cream stone deck toward Mae Wit, who is beyond the frame at the zone-A side of the pool edge. The turquoise pool is directly behind the camera.
+CAMERA POSITION: at the pool-end side of zone C, tracking backward ahead of Rita and looking toward zone A; standing eye level, medium shot including her legs and both stilettos, 50mm.
+VIEW DIRECTION: toward the named subject and the poolside landmarks beyond.
+VISIBLE BACKGROUND: the cream stone deck leads toward zone A, with the ivory jewelry display tables, clear glass cases with gold frames, and light canopy in the distant background. Rita is the only visible person; no other person appears in the background. No pool water appears behind Rita.
+OFF-FRAME: Mae Wit and Airin are ahead beyond the camera-facing end of Rita's path; the turquoise pool is directly behind the camera; the unknown man remains outside the frame behind Mae Wit.
+START STATE: Rita advances with lips pressed, unblinking eyes fixed past camera toward Mae Wit, gripping a clear drinking glass half full of water in her left hand; her right arm hangs tense.
+CAMERA: at the pool-end side of zone C, tracking backward ahead of Rita and looking toward zone A; standing eye level, medium shot including her legs and both stilettos, 50mm.
+FOCUS: sharp subject, naturally softened distant poolside background.
+LIGHTING: daylight exterior with high soft sun, open-sky fill and turquoise water reflections from below, approximately 5600K, controlled highlights.
+GRADE: refined daylight luxury palette with champagne, ivory, pool-aqua and burgundy accents; clean jewel highlights, medium natural contrast, restrained saturation, and warm natural skin tones.
+Show only the starting moment, before any planned movement begins.
+No captions, subtitles, labels, watermarks, panels or collage.
+

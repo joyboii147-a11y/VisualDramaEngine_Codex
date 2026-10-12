@@ -1,0 +1,20 @@
+Create one standalone starting-frame image for SHOT EP25-26-S083.
+Vertical 9:16. Cinematic live-action still, photorealistic.
+REFERENCE IMAGES:
+Image 1: input/characters/แม่วิทย์/แม่วิทย์ (W01).png — use for Mae Wit's exact face, body, champagne-nude beadwork cape gown, pearl stud earrings, and low braided chignon; this is the controlling wardrobe and hair reference. Do not copy its background, lighting, pose or camera angle.
+Image 2: input/characters/แม่วิทย์/Face.webp — face identity support only; do not copy outfit, background, lighting, pose or camera angle.
+CHARACTERS: exactly one person: Mae Wit, wearing a champagne-nude floor-length fitted gown densely embroidered with tonal floral beadwork, high collar with a keyhole neckline, sheer long lace cape sleeves draping to the floor, pearl stud earrings, and dark brown hair in a low braided chignon with loose face-framing tendrils.
+CAST COUNT: exactly one person visible.
+SCENE GEOGRAPHY: an outdoor daytime jewelry exhibition beside a rectangular turquoise pool: cream stone deck, pale-gray stone pool coping, ivory-draped display tables and clear glass cases with gold frames under a light canopy on the zone-A side; an open zone-D walkway runs behind the display tables. Open sky and reflected pool light fill the space. at zone A beside the turquoise pool on the cream stone deck; Airin stands just outside the close crop beside her.
+CAMERA POSITION: near the pool edge on the zone-A side, looking at Mae Wit with turquoise water and far pale-gray coping behind her; eye level close-up, 85mm.
+VIEW DIRECTION: toward the named subject and the poolside landmarks beyond.
+VISIBLE BACKGROUND: cream stone deck, turquoise pool water, pale-gray coping, and only the fixed event elements appropriate to this view.
+OFF-FRAME: Airin is beside Mae Wit outside the crop; Rita approaches from the pool-end direction outside the frame.
+START STATE: Mae Wit retains the soft smile from her conversation with Airin, one hand raised near Airin outside the crop.
+CAMERA: near the pool edge on the zone-A side, looking at Mae Wit with turquoise water and far pale-gray coping behind her; eye level close-up, 85mm.
+FOCUS: sharp subject, naturally softened distant poolside background.
+LIGHTING: daylight exterior with high soft sun, open-sky fill and turquoise water reflections from below, approximately 5600K, controlled highlights.
+GRADE: refined daylight luxury palette with champagne, ivory, pool-aqua and burgundy accents; clean jewel highlights, medium natural contrast, restrained saturation, and warm natural skin tones.
+Show only the starting moment, before any planned movement begins.
+No captions, subtitles, labels, watermarks, panels or collage.
+

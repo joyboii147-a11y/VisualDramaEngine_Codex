@@ -1,0 +1,21 @@
+SHOT EP25-26-S083 / CLIP B041. One continuous cinematic live-action shot, vertical 9:16.
+TARGET DURATION: 5 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+SCENE GEOGRAPHY: an outdoor daytime jewelry exhibition beside a rectangular turquoise pool: cream stone deck, pale-gray stone pool coping, ivory-draped display tables and clear glass cases with gold frames under a light canopy on the zone-A side; an open zone-D walkway runs behind the display tables. Open sky and reflected pool light fill the space. at zone A beside the turquoise pool on the cream stone deck; Airin stands just outside the close crop beside her.
+VISIBLE CAST: exactly one person: Mae Wit, wearing a champagne-nude floor-length fitted gown densely embroidered with tonal floral beadwork, high collar with a keyhole neckline, sheer long lace cape sleeves draping to the floor, pearl stud earrings, and dark brown hair in a low braided chignon with loose face-framing tendrils.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: near the pool edge on the zone-A side, looking at Mae Wit with turquoise water and far pale-gray coping behind her; eye level close-up, 85mm. The established action axis runs along the pool edge.
+FOREGROUND / VISIBLE BACKGROUND: no foreground person; visible cream deck, pale-gray coping, turquoise water, and the view-specific event elements described in the scene geography.
+OFF-FRAME: Airin is beside Mae Wit outside the crop; Rita approaches from the pool-end direction outside the frame.
+LIGHTING / COLOR: high soft daylight, open-sky fill, pool reflections, 5600K; refined daylight luxury palette with champagne, ivory, pool-aqua and burgundy accents; clean jewel highlights, medium natural contrast, restrained saturation, and warm natural skin tones.
+PROP STATE: No visible handheld prop changes unless explicitly stated.
+START STATE: Mae Wit retains the soft smile from her conversation with Airin, one hand raised near Airin outside the crop.
+PERFORMANCE CONTEXT: a silent reaction or action timed for separately edited dialogue.
+ACTION: Mae Wit hears Rita's off-screen taunt, turns toward its source, and lets her smile disappear as her eyes widen slightly; her raised hand remains still.
+END STATE: Mae Wit faces the off-screen Rita with small alarm in her eyes, hand still held near Airin.
+CAMERA: static composition throughout; no zoom, pan, or cut.
+VISUAL CONTINUITY: Preserve the starting image's faces, hair, wardrobe, set geometry, lighting character and color treatment. Allow only the specified actions and camera movement. No unplanned cuts, added people, identity swaps or prop teleportation.
+AUDIO MODE: picture for separately edited dialogue.
+Do not generate intelligible speech or background chatter.
+PERFORMANCE: Mae Wit reacts silently to an off-screen taunt; her lips stay closed.
+AMBIENCE/SFX: soft pool water, distant emergency movement, no music.
+

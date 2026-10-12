@@ -1,0 +1,29 @@
+SHOT EP25-26-S081 / CLIP A061. One continuous cinematic live-action shot, vertical 9:16.
+TARGET DURATION: 7 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+SCENE GEOGRAPHY: an outdoor daytime jewelry exhibition beside a rectangular turquoise pool: cream stone deck, pale-gray stone pool coping, ivory-draped display tables and clear glass cases with gold frames under a light canopy on the zone-A side; an open zone-D walkway runs behind the display tables. Open sky and reflected pool light fill the space. at poolside zone A, both stand close together on the cream stone deck, Mae Wit three-quarter facing Airin and Airin facing Mae Wit; the turquoise pool runs beyond them.
+VISIBLE CAST: exactly two people: Mae Wit, an elegant middle-aged Thai woman wearing a champagne-nude floor-length fitted gown densely embroidered with tonal floral beadwork, high collar with a keyhole neckline, sheer long lace cape sleeves draping to the floor, pearl stud earrings, and dark brown hair in a low braided chignon with loose face-framing tendrils; and Airin, a young pregnant Thai woman wearing a white strapless floor-length maternity gown in floral lace, fitted over a visible baby bump with a soft draped lace panel and a slight train, a delicate pearl necklace, pearl stud earrings, white pointed-toe low heels, and long dark brown wavy hair worn loose.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: from zone A on the deck, looking along the pool edge toward the two women and the far pool coping; eye level, medium close two-shot, 50mm. The established action axis runs along the pool edge.
+FOREGROUND / VISIBLE BACKGROUND: no foreground person; visible cream deck, pale-gray coping, turquoise water, and the view-specific event elements described in the scene geography.
+OFF-FRAME: Rita, the jewelry display canopy, and the unknown man are behind the camera or outside the crop.
+LIGHTING / COLOR: high soft daylight, open-sky fill, pool reflections, 5600K; refined daylight luxury palette with champagne, ivory, pool-aqua and burgundy accents; clean jewel highlights, medium natural contrast, restrained saturation, and warm natural skin tones.
+PROP STATE: No visible handheld prop changes unless explicitly stated.
+START STATE: Mae Wit smiles gently, leans toward Airin, and holds one hand close to Airin's upper arm without touching; Airin smiles back.
+PERFORMANCE CONTEXT: gentle, caring, quiet conversational Thai.
+ACTION: Mae Wit takes a soft breath and asks her assigned line while looking at Airin. Airin listens, then begins to shift her eyes toward Rita outside the frame.
+END STATE: Mae Wit holds her gentle smile and gaze on Airin; Airin's eyes have just turned toward the pool-end approach.
+CAMERA: static composition throughout; no zoom, pan, or cut.
+VISUAL CONTINUITY: Preserve the starting image's faces, hair, wardrobe, set geometry, lighting character and color treatment. Allow only the specified actions and camera movement. No unplanned cuts, added people, identity swaps or prop teleportation.
+AUDIO MODE: generated dialogue.
+SPEECH EVENT 1:
+SPEAKER: Mae Wit, visible on screen (ON), the only speaker.
+EXACT THAI DIALOGUE: "เป็นไงบ้างจ๊ะ?"
+VOICE IDENTITY: mature Thai female voice, poised mid-low register, clear warm timbre, standard Thai accent
+DELIVERY: gentle, caring, quiet conversational Thai.
+Lip-sync only Mae Wit to the assigned line.
+NON-SPEAKERS: none visible; no speech-like lip movements.
+Speak only the assigned dialogue exactly once, without paraphrasing or added words.
+Do not stretch speech to fill the clip. No unassigned voices.
+AFTER SPEECH: a brief silent hold in the planned end state.
+AMBIENCE/SFX: soft pool water and restrained event ambience; no background chatter.
+

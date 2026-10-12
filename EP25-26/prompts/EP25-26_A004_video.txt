@@ -1,0 +1,12 @@
+SHOT EP25-26-S005 / CLIP A004. One continuous cinematic live-action shot, vertical 9:16.
+TARGET DURATION: 6 seconds including handles. Animate the supplied starting image. Use only this request's image and instructions.
+WARDROBE LOCKED TEXT: Guest Woman 2 wears "a powder-blue tailored midi dress with short sleeves, silver low heels, and small silver drop earrings".
+SCENE GEOGRAPHY: Zone A of a daylight luxury poolside jewelry exhibition, pale cream stone paving under a light canopy, opening to Zone B. VISIBLE CAST: exactly Guest Woman 2 in a powder-blue tailored midi dress, silver low heels and small silver drop earrings; she looks toward Iarin off-screen left. CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: Zone A walkway side, eye-level medium close-up, 65mm. FOREGROUND / VISIBLE BACKGROUND: no foreground; canopy posts, cream paving, ivory tables and greenery. OFF-FRAME: Iarin left; other guests nearby; pool behind camera. LIGHTING / COLOR: soft 5600K canopy daylight from upper camera-right; refined daylight luxury palette with champagne, ivory, pool-aqua and burgundy accents; clean jewel highlights, medium natural contrast, restrained saturation, warm natural skin tones. PROP STATE: hands empty.
+START STATE: agreeing smile, lips closed, gaze screen-left. PERFORMANCE CONTEXT: offering a sincere supporting compliment. ACTION: she says the assigned line, then gives one small nod. END STATE: closed-lip smile, gaze on Iarin. CAMERA: static. VISUAL CONTINUITY: preserve all identities, set geometry and light; no cuts or added people.
+AUDIO MODE: generated dialogue.
+SPEECH EVENT 1:
+SPEAKER: Guest Woman 2, visible on screen (ON), the only speaker.
+EXACT THAI DIALOGUE: "บุคลิกก็สง่างาม"
+VOICE IDENTITY: "adult Thai female voice, clear mid register, standard Thai accent"
+DELIVERY: polite, approving, lightly emphatic.
+Lip-sync only Guest Woman 2. NON-SPEAKERS: none visible. Speak only the assigned dialogue exactly once, without paraphrasing or added words. AFTER SPEECH: quiet smile hold. AMBIENCE/SFX: faint event ambience and pool water.

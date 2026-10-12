@@ -1,0 +1,29 @@
+SHOT EP25-26-S092 / CLIP A068. One continuous cinematic live-action shot, vertical 9:16.
+TARGET DURATION: 7 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+SCENE GEOGRAPHY: an outdoor daytime jewelry exhibition beside a rectangular turquoise pool: cream stone deck, pale-gray stone pool coping, ivory-draped display tables and clear glass cases with gold frames under a light canopy on the zone-A side; an open zone-D walkway runs behind the display tables. Open sky and reflected pool light fill the space. on the cream stone deck beside the pool at zone C, Guest Woman 1 stands above the turquoise water; the ivory jewelry table and canopy are farther back.
+VISIBLE CAST: exactly one person: Guest Woman 1, a well-dressed Thai female jewelry-event guest in her forties, wearing a sage-green knee-length formal dress with a light cream shawl, nude low heels, and a small pearl clutch.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: near the pool edge looking toward Guest Woman 1 with water in the near lower frame; eye-level medium close-up, 65mm. The established action axis runs along the pool edge.
+FOREGROUND / VISIBLE BACKGROUND: no foreground person; visible cream deck, pale-gray coping, turquoise water, and the view-specific event elements described in the scene geography.
+OFF-FRAME: Mae Wit and Rita are in the water below the crop; the staff member is outside the frame on the deck.
+LIGHTING / COLOR: high soft daylight, open-sky fill, pool reflections, 5600K; refined daylight luxury palette with champagne, ivory, pool-aqua and burgundy accents; clean jewel highlights, medium natural contrast, restrained saturation, and warm natural skin tones.
+PROP STATE: No visible handheld prop changes unless explicitly stated.
+START STATE: Guest Woman 1 turns from the pool toward staff outside frame, panic on her face.
+PERFORMANCE CONTEXT: loud, panicked, urgently summoning help.
+ACTION: She points urgently toward the pool edge, calls the assigned line, then turns her attention back toward Mae Wit.
+END STATE: Guest Woman 1 faces the pool again, arm still indicating the emergency.
+CAMERA: static composition throughout; no zoom, pan, or cut.
+VISUAL CONTINUITY: Preserve the starting image's faces, hair, wardrobe, set geometry, lighting character and color treatment. Allow only the specified actions and camera movement. No unplanned cuts, added people, identity swaps or prop teleportation.
+AUDIO MODE: generated dialogue.
+SPEECH EVENT 1:
+SPEAKER: Guest Woman 1, visible on screen (ON), the only speaker.
+EXACT THAI DIALOGUE: "นี่ๆ รีบมาช่วยเร็วเข้าสิ!"
+VOICE IDENTITY: adult Thai female voice, polite clear register, standard Thai accent
+DELIVERY: loud, panicked, urgently summoning help.
+Lip-sync only Guest Woman 1 to the assigned line.
+NON-SPEAKERS: none visible; no speech-like lip movements.
+Speak only the assigned dialogue exactly once, without paraphrasing or added words.
+Do not stretch speech to fill the clip. No unassigned voices.
+AFTER SPEECH: a brief silent hold in the planned end state.
+AMBIENCE/SFX: soft pool water and restrained event ambience; no background chatter.
+

@@ -1,0 +1,20 @@
+Create one standalone starting-frame image for SHOT EP25-26-S091.
+Vertical 9:16. Cinematic live-action still, photorealistic.
+REFERENCE IMAGES:
+Image 1: input/characters/แม่วิทย์/แม่วิทย์ (W01).png — use for Mae Wit's exact face, body, champagne-nude beadwork cape gown, pearl stud earrings, and low braided chignon; this is the controlling wardrobe and hair reference. Render that exact outfit soaked and darkened by pool water. Do not copy its background, lighting, pose or camera angle.
+Image 2: input/characters/แม่วิทย์/Face.webp — face identity support only; do not copy outfit, background, lighting, pose or camera angle.
+CHARACTERS: exactly one person: Mae Wit, wearing "a champagne-nude floor-length fitted gown densely embroidered with tonal floral beadwork, high collar with a keyhole neckline, sheer long lace cape sleeves draping to the floor, pearl stud earrings, and dark brown hair in a low braided chignon with loose face-framing tendrils," now soaked and darkened by water, with wet clinging chignon and tendrils.
+CAST COUNT: exactly one person visible.
+SCENE GEOGRAPHY: an outdoor daytime jewelry exhibition beside a rectangular turquoise pool: cream stone deck, pale-gray stone pool coping, ivory-draped display tables and clear glass cases with gold frames under a light canopy on the zone-A side; an open zone-D walkway runs behind the display tables. Open sky and reflected pool light fill the space. in the turquoise pool near the zone-C edge, Mae Wit floats below the cream stone coping. The far pool edge and open event deck appear behind her.
+CAMERA POSITION: at water level from the poolside zone-A direction, facing Mae Wit and the far coping; medium close-up, 65mm.
+VIEW DIRECTION: toward the named subject and the poolside landmarks beyond.
+VISIBLE BACKGROUND: cream stone deck, turquoise pool water, pale-gray coping, and only the fixed event elements appropriate to this view.
+OFF-FRAME: Airin is on the deck preparing to help; Rita floats farther away; the black-clad man is no longer in frame.
+START STATE: Mae Wit has her head and shoulders above water, arms treading, soaked gown floating beneath the surface, fear in her eyes.
+CAMERA: at water level from the poolside zone-A direction, facing Mae Wit and the far coping; medium close-up, 65mm.
+FOCUS: sharp subject, naturally softened distant poolside background.
+LIGHTING: daylight exterior with high soft sun, open-sky fill and turquoise water reflections from below, approximately 5600K, controlled highlights.
+GRADE: refined daylight luxury palette with champagne, ivory, pool-aqua and burgundy accents; clean jewel highlights, medium natural contrast, restrained saturation, and warm natural skin tones.
+Show only the starting moment, before any planned movement begins.
+No captions, subtitles, labels, watermarks, panels or collage.
+

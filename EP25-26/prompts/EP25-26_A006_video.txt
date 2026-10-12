@@ -1,0 +1,12 @@
+SHOT EP25-26-S007 / CLIP A006. One continuous cinematic live-action shot, vertical 9:16.
+TARGET DURATION: 9 seconds including handles. Animate the supplied starting image. Use only this request's image and instructions.
+WARDROBE LOCKED TEXT: Mother Wit wears "a champagne-nude floor-length fitted gown densely embroidered with tonal floral beadwork, high collar with a keyhole neckline, sheer long lace cape sleeves draping to the floor, pearl stud earrings, and dark brown hair in a low braided chignon with loose face-framing tendrils".
+SCENE GEOGRAPHY: Zone A reception circle on pale cream stone beneath a canopy, beside Zone C poolside. VISIBLE CAST: exactly Mother Wit in her champagne-nude beadwork gown, sheer lace cape sleeves, pearl studs and low braided chignon; she confronts Rita off-screen right. CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: Zone C side, looking toward Mother Wit and Zone A walkway, eye-level close-up, 85mm. FOREGROUND / VISIBLE BACKGROUND: no foreground; canopy posts, cream paving and ivory cocktail table. OFF-FRAME: Rita right, Iarin and Wit left, pool behind camera. LIGHTING / COLOR: soft canopy daylight and poolside fill, 5600K; refined daylight luxury palette with champagne, ivory, pool-aqua and burgundy accents; clean jewel highlights, medium natural contrast, restrained saturation, warm natural skin tones. PROP STATE: hands empty.
+START STATE: no smile, head turning toward Rita, eyes newly on her. PERFORMANCE CONTEXT: calmly but sharply protecting Iarin. ACTION: Mother Wit completes the turn, delivers the line, raises her chin and extends one open hand as a boundary toward Rita. END STATE: hand held out, steady sharp gaze right, lips closed. CAMERA: static. VISUAL CONTINUITY: preserve identity, gown, light and set; no cuts or added people.
+AUDIO MODE: generated dialogue.
+SPEECH EVENT 1:
+SPEAKER: Mother Wit, visible on screen (ON), the only speaker.
+EXACT THAI DIALOGUE: "ยังจะซื้ออัญมณีให้เธออีก เธอจะไปรู้เรื่องอะไร"
+VOICE IDENTITY: "mature Thai female voice, poised mid-low register, clear warm timbre, standard Thai accent"
+DELIVERY: calm, sharp and dismissive.
+Lip-sync only Mother Wit. NON-SPEAKERS: none visible. Speak only the assigned dialogue exactly once, without paraphrasing or added words. AFTER SPEECH: boundary gesture held. AMBIENCE/SFX: light event ambience and pool water.

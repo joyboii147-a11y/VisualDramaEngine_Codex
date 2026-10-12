@@ -1,0 +1,12 @@
+SHOT EP25-26-S008 / CLIP A007. One continuous cinematic live-action shot, vertical 9:16.
+TARGET DURATION: 12 seconds including handles. Animate the supplied starting image. Use only this request's image and instructions.
+WARDROBE LOCKED TEXT: Wit wears "a matte black zip-front jacket with zippered side pockets over a plain white crew-neck T-shirt, high-waisted white straight-leg trousers with a black leather belt, and black leather derby shoes; tousled short black hair".
+SCENE GEOGRAPHY: Zone A conflict circle on pale cream stone under a canopy; Zone C pool is behind camera and Zone B lies beyond the group. VISIBLE CAST: exactly Wit in a black zip-front jacket, white crew-neck T-shirt, white straight-leg trousers, black belt and black derby shoes; Iarin is off-frame immediately behind his right shoulder, Rita off-frame left. CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: Zone C side of the conflict axis, looking at Wit toward Zone A walkway, eye-level medium close-up, 75mm. FOREGROUND / VISIBLE BACKGROUND: no foreground; canopy posts, paving and distant cocktail tables. OFF-FRAME: Rita left, Iarin behind Wit, Mother Wit right. LIGHTING / COLOR: poolside fill at camera side and soft 5600K canopy daylight; refined daylight luxury palette with champagne, ivory, pool-aqua and burgundy accents; clean jewel highlights, medium natural contrast, restrained saturation, warm natural skin tones. PROP STATE: hands empty, one fist low at his side.
+START STATE: tense jaw, body left, lips closed, staring at Rita. PERFORMANCE CONTEXT: forcefully protecting his wife. ACTION: Wit says the two assigned lines, takes one firm step forward to block the line toward Iarin, and holds an unblinking stare. END STATE: one step forward, shoulders tense, lips closed, eyes fixed left. CAMERA: static. VISUAL CONTINUITY: preserve identity, wardrobe, geometry, lighting and grade; no cuts or extra people.
+AUDIO MODE: generated dialogue.
+SPEECH EVENT 1:
+SPEAKER: Wit, visible on screen (ON), the only speaker.
+EXACT THAI DIALOGUE: "หุบปาก" "ถ้าฉันได้ยินเธอพูดไม่ดีเกี่ยวกับเมียฉันอีก ฉันไม่ปล่อยเธอไว้แน่"
+VOICE IDENTITY: "young Thai male voice, firm low-mid register, clean resonant timbre, standard Thai accent"
+DELIVERY: short, heavy, controlled and threatening.
+Lip-sync only Wit. NON-SPEAKERS: none visible. Speak only the assigned dialogue exactly once, without paraphrasing or added words. AFTER SPEECH: silent stare. AMBIENCE/SFX: quiet event ambience and pool water.

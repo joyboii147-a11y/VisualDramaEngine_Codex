@@ -1,0 +1,35 @@
+SHOT EP25-26-S085 / CLIP A063. One continuous cinematic live-action shot, vertical 9:16.
+TARGET DURATION: 9 seconds including handles.
+Animate the supplied final frame from the immediately preceding specified clip. Use only this request's image and instructions.
+SCENE GEOGRAPHY: an outdoor daytime jewelry exhibition beside a rectangular turquoise pool: cream stone deck, pale-gray stone pool coping, ivory-draped display tables and clear glass cases with gold frames under a light canopy on the zone-A side; an open zone-D walkway runs behind the display tables. Open sky and reflected pool light fill the space. at zone C beside the turquoise pool, the two women stand on the cream stone deck with visible pool coping and a clear gap between them.
+VISIBLE CAST: exactly two people: Rita wearing "a deep burgundy satin halter mini dress with a large sculpted rose at the high neck, draped blouson bodice, fitted mini skirt, open bare back, gold floral stud earrings, and glossy burgundy pointed-toe stiletto pumps with rose ornaments; long dark brown wavy hair half-up," holding a clear glass; Mae Wit wearing "a champagne-nude floor-length fitted gown densely embroidered with tonal floral beadwork, high collar with a keyhole neckline, sheer long lace cape sleeves draping to the floor, pearl stud earrings, and dark brown hair in a low braided chignon with loose face-framing tendrils."
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: match B042 exactly: at the pool-end side of zone C, positioned just left of Rita and looking diagonally back toward zone A along the pool edge; standing eye level, oblique wide medium shot including both women's feet and their clear separation, 40mm, on the pool side of the action axis.
+FOREGROUND / VISIBLE BACKGROUND: Rita and Mae Wit stand on the cream deck; beyond them are the ivory display tables, gold-framed glass cases, and light canopy in zone A. The turquoise pool is behind the camera and is not visible in this composition.
+OFF-FRAME: Airin stands near zone A outside the crop; the black-clad man remains outside frame behind Mae Wit; Wit is still on the zone-D side; the pool lies behind the camera.
+LIGHTING / COLOR: high soft daylight, open-sky fill and pool reflections, 5600K; refined daylight luxury palette with champagne, ivory, pool-aqua and burgundy accents; clean jewel highlights, medium natural contrast, restrained saturation, and warm natural skin tones.
+PROP STATE: all stated wardrobe and hand states remain continuous; no prop teleports.
+START STATE: Rita's right arm is raised without contact, her toe catches the deck, and the glass is still in her left hand; Mae Wit faces her with eyes widening and arms starting to lift.
+PERFORMANCE CONTEXT: immediate poolside emergency.
+ACTION: Rita's heel twists, the glass leaves her hand, and she stumbles backward without anyone touching her. Mae Wit recoils, raises both hands defensively, cries her assigned line; Rita screams as she falls backward out of frame toward the water.
+END STATE: Rita has fallen out of frame toward the pool; Mae Wit stands with arms open, staring toward the splash; the glass is no longer in either hand.
+CAMERA: static continuous framing; no cut.
+VISUAL CONTINUITY: Preserve the supplied frame's faces, hair, wardrobe, wetness state, set geometry, lighting character and grade. Allow only specified movement. No identity swaps, added people or spontaneous props.
+AUDIO MODE: generated dialogue.
+SPEECH EVENT 1:
+SPEAKER: Mae Wit, visible on screen (ON).
+EXACT THAI DIALOGUE: "ว้าย!"
+VOICE IDENTITY: mature Thai female voice, poised mid-low register, clear warm timbre, standard Thai accent
+DELIVERY: sharp shocked cry.
+Lip-sync only Mae Wit to the assigned line.
+NON-SPEAKERS: Rita is visible and does not form speech-like lip movements before her assigned scream.
+SPEECH EVENT 2:
+SPEAKER: Rita, visible on screen (ON).
+EXACT THAI DIALOGUE: "อ๊ะ... กรี๊ด!"
+VOICE IDENTITY: young Thai female voice, crisp mid register, cool bright timbre, standard Thai accent
+DELIVERY: surprised scream breaking into panic.
+Lip-sync only Rita to the assigned line.
+NON-SPEAKERS: Mae Wit remains visible during Rita's scream and does not form speech-like lip movements.
+Speak only the assigned dialogue exactly once, without paraphrasing or added words. No unassigned voices.
+AFTER SPEECH: hold the planned end state.
+AMBIENCE/SFX: pool water and emergency movement; no music.
+

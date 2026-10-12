@@ -1,0 +1,29 @@
+SHOT EP25-26-S094 / CLIP A070. One continuous cinematic live-action shot, vertical 9:16.
+TARGET DURATION: 6 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+SCENE GEOGRAPHY: an outdoor daytime jewelry exhibition beside a rectangular turquoise pool: cream stone deck, pale-gray stone pool coping, ivory-draped display tables and clear glass cases with gold frames under a light canopy on the zone-A side; an open zone-D walkway runs behind the display tables. Open sky and reflected pool light fill the space. at the zone-C pool edge, Guest Woman 1 kneels on the cream coping over turquoise water. The far deck and ivory event canopy sit behind her.
+VISIBLE CAST: exactly one person: Guest Woman 1, a well-dressed Thai female jewelry-event guest in her forties, wearing a sage-green knee-length formal dress with a light cream shawl, nude low heels, and a small pearl clutch.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: at low deck height beside the pool, looking across the coping at Guest Woman 1; medium shot, 55mm. The established action axis runs along the pool edge.
+FOREGROUND / VISIBLE BACKGROUND: no foreground person; visible cream deck, pale-gray coping, turquoise water, and the view-specific event elements described in the scene geography.
+OFF-FRAME: Mae Wit floats just beyond the reach of her hand below the crop; Airin is near the water’s edge outside frame.
+LIGHTING / COLOR: high soft daylight, open-sky fill, pool reflections, 5600K; refined daylight luxury palette with champagne, ivory, pool-aqua and burgundy accents; clean jewel highlights, medium natural contrast, restrained saturation, and warm natural skin tones.
+PROP STATE: No visible handheld prop changes unless explicitly stated.
+START STATE: Guest Woman 1 has just turned back to the pool, brow furrowed, hands poised above the water.
+PERFORMANCE CONTEXT: urgent reassurance, loud but compassionate.
+ACTION: She leans farther toward Mae Wit, speaks the assigned line, and extends one hand down without entering the water.
+END STATE: Guest Woman 1 stays kneeling, arm outstretched but unable to reach Mae Wit.
+CAMERA: static composition throughout; no zoom, pan, or cut.
+VISUAL CONTINUITY: Preserve the starting image's faces, hair, wardrobe, set geometry, lighting character and color treatment. Allow only the specified actions and camera movement. No unplanned cuts, added people, identity swaps or prop teleportation.
+AUDIO MODE: generated dialogue.
+SPEECH EVENT 1:
+SPEAKER: Guest Woman 1, visible on screen (ON), the only speaker.
+EXACT THAI DIALOGUE: "คุณป้ารอแป๊บนึงนะคะ!"
+VOICE IDENTITY: adult Thai female voice, polite clear register, standard Thai accent
+DELIVERY: urgent reassurance, loud but compassionate.
+Lip-sync only Guest Woman 1 to the assigned line.
+NON-SPEAKERS: none visible; no speech-like lip movements.
+Speak only the assigned dialogue exactly once, without paraphrasing or added words.
+Do not stretch speech to fill the clip. No unassigned voices.
+AFTER SPEECH: a brief silent hold in the planned end state.
+AMBIENCE/SFX: soft pool water and restrained event ambience; no background chatter.
+

@@ -1,0 +1,11 @@
+SHOT EP25-26-S004 / CLIP A003. One continuous cinematic live-action shot, vertical 9:16.
+TARGET DURATION: 9 seconds including handles. Animate the supplied starting image. Use only this request's image and instructions.
+SCENE GEOGRAPHY: Zone A reception walkway of a daylight luxury poolside jewelry exhibition, pale cream paving under a light canopy, open toward Zone B. VISIBLE CAST: exactly Guest Woman 1 in "a sage-green knee-length formal dress with a light cream shawl, nude low heels, and a small pearl clutch" in her left hand; she begins facing Mother Wit off-screen left and then addresses Iarin off-screen right. CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: Zone A guest side, looking at her, eye-level medium close-up, 65mm. FOREGROUND / VISIBLE BACKGROUND: no foreground; canopy posts, cream paving, ivory cocktail tables and greenery. OFF-FRAME: Iarin and Wit right; Mother Wit left; pool and display table behind camera. LIGHTING / COLOR: soft 5600K canopy daylight from upper camera-left; refined daylight luxury palette with champagne, ivory, pool-aqua and burgundy accents; clean jewel highlights, medium natural contrast, restrained saturation, warm natural skin tones. PROP STATE: clutch stays in left hand.
+START STATE: smiling with lips closed, looking screen-left toward Mother Wit. PERFORMANCE CONTEXT: sincerely admiring Iarin. ACTION: she turns her head from Mother Wit to Iarin off-screen right, speaks both assigned lines and gives a gentle approving nod. END STATE: broad closed-lip smile toward Iarin. CAMERA: static. VISUAL CONTINUITY: preserve set, wardrobe and identity; no cuts or added people.
+AUDIO MODE: generated dialogue.
+SPEECH EVENT 1:
+SPEAKER: Guest Woman 1, visible on screen (ON), the only speaker.
+EXACT THAI DIALOGUE: "ดูท่าคนนี้จะเป็นลูกสะใภ้ของคุณสินะ" "เธอสวยมากเลยล่ะค่ะ"
+VOICE IDENTITY: "adult Thai female voice, polite clear register, standard Thai accent"
+DELIVERY: sincere, complimentary, warm.
+Lip-sync only Guest Woman 1. NON-SPEAKERS: none visible. Speak only the assigned dialogue exactly once, without paraphrasing or added words. AFTER SPEECH: hold the smile. AMBIENCE/SFX: quiet outdoor event ambience and pool water.

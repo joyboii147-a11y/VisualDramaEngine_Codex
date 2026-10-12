@@ -1,0 +1,21 @@
+SHOT EP25-26-S100 / CLIP B048. One continuous cinematic live-action shot, vertical 9:16.
+TARGET DURATION: 5 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+SCENE GEOGRAPHY: an outdoor daytime jewelry exhibition beside a rectangular turquoise pool: cream stone deck, pale-gray stone pool coping, ivory-draped display tables and clear glass cases with gold frames under a light canopy on the zone-A side; an open zone-D walkway runs behind the display tables. Open sky and reflected pool light fill the space. in the turquoise pool at the zone-A rescue edge, Airin supports Mae Wit immediately below the crop and faces across the water toward Rita. The cream coping rises behind her.
+VISIBLE CAST: exactly one person: Airin, wearing "a white strapless floor-length maternity gown in floral lace, fitted over a visible baby bump with a soft draped lace panel and a slight train, a delicate pearl necklace, pearl stud earrings, white pointed-toe low heels, and long dark brown wavy hair worn loose," now soaked with wet hair clinging around her shoulders and barefoot.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: at water level beside the rescue edge, looking at Airin with cream coping behind her; close-up, 85mm. The established action axis runs along the pool edge.
+FOREGROUND / VISIBLE BACKGROUND: no foreground person; visible cream deck, pale-gray coping, turquoise water, and the view-specific event elements described in the scene geography.
+OFF-FRAME: Mae Wit is held directly below and beside Airin outside this close crop; Rita is across the pool outside frame; Airin's pair of white pointed-toe low heels is placed together on the dry zone-A deck beside the coping, not visible and not in the water.
+LIGHTING / COLOR: high soft daylight, open-sky fill, pool reflections, 5600K; refined daylight luxury palette with champagne, ivory, pool-aqua and burgundy accents; clean jewel highlights, medium natural contrast, restrained saturation, and warm natural skin tones.
+PROP STATE: Airin is barefoot in the water. Her pair of white pointed-toe low heels remains placed together on the dry zone-A deck beside the coping, outside the frame and never in the water.
+START STATE: Airin is wet and focused, keeping one arm under Mae Wit outside the crop while looking across the pool.
+PERFORMANCE CONTEXT: a silent reaction or action timed for separately edited dialogue.
+ACTION: Airin hears Rita's off-screen complaint, turns her gaze toward Rita, gives a brief controlled corner smile, then returns her attention to supporting Mae Wit.
+END STATE: Airin resumes a focused rescue expression while still bracing Mae Wit below the crop.
+CAMERA: static composition throughout; no zoom, pan, or cut.
+VISUAL CONTINUITY: Preserve the starting image's faces, hair, wardrobe, set geometry, lighting character and color treatment. Allow only the specified actions and camera movement. No unplanned cuts, added people, identity swaps or prop teleportation.
+AUDIO MODE: picture for separately edited dialogue.
+Do not generate intelligible speech or background chatter.
+PERFORMANCE: Airin performs a silent reaction timed to Rita's off-screen complaint; her lips do not form speech.
+AMBIENCE/SFX: soft pool water, distant emergency movement, no music.
+

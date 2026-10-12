@@ -1,0 +1,21 @@
+Create one standalone starting-frame image for SHOT EP25-26-S102.
+Vertical 9:16. Cinematic live-action still, photorealistic.
+REFERENCE IMAGES:
+Image 1: Airin — use for face, skin tone, hairstyle, body shape and this exact outfit. Do not copy the background, lighting, pose or camera angle from this image.
+Image 2: input/characters/แม่วิทย์/แม่วิทย์ (W01).png — use for Mae Wit's exact face, body, champagne-nude beadwork cape gown, pearl stud earrings, and low braided chignon; this is the controlling wardrobe and hair reference. Render that exact outfit soaked with wet hair. Do not copy its background, lighting, pose or camera angle.
+Image 3: input/characters/แม่วิทย์/Face.webp — face identity support only; do not copy outfit, background, lighting, pose or camera angle.
+CHARACTERS: exactly four people: Airin wearing "a white strapless floor-length maternity gown in floral lace, fitted over a visible baby bump with a soft draped lace panel and a slight train, a delicate pearl necklace, pearl stud earrings, white pointed-toe low heels, and long dark brown wavy hair worn loose," now soaked with wet hair and barefoot, supporting Mae Wit; Mae Wit wearing "a champagne-nude floor-length fitted gown densely embroidered with tonal floral beadwork, high collar with a keyhole neckline, sheer long lace cape sleeves draping to the floor, pearl stud earrings, and dark brown hair in a low braided chignon with loose face-framing tendrils," now soaked with wet hair; Rita farther away at neck depth wearing "a deep burgundy satin halter mini dress with a large sculpted rose at the high neck, draped blouson bodice, fitted mini skirt, open bare back, gold floral stud earrings, and glossy burgundy pointed-toe stiletto pumps with rose ornaments; long dark brown wavy hair half-up," now soaked; and Guest Woman 1 kneeling at the coping in a sage-green knee-length formal dress with a light cream shawl, nude low heels, and a small pearl clutch.
+CAST COUNT: exactly four people visible.
+SCENE GEOGRAPHY: an outdoor daytime jewelry exhibition beside a rectangular turquoise pool: cream stone deck, pale-gray stone pool coping, ivory-draped display tables and clear glass cases with gold frames under a light canopy on the zone-A side; an open zone-D walkway runs behind the display tables. Open sky and reflected pool light fill the space. at the zone-A rescue edge of the turquoise pool, Airin is in the water under Mae Wit's arm as Mae Wit grips the cream coping. Rita floats several meters behind them; Guest Woman 1 leans from the deck.
+CAMERA POSITION: at water level facing the rescue edge across the pool; wide medium shot, 40mm.
+VIEW DIRECTION: toward the named subject and the poolside landmarks beyond.
+VISIBLE BACKGROUND: cream stone deck, turquoise pool water, pale-gray coping, and only the fixed event elements appropriate to this view.
+OFF-FRAME: Wit and the zone-D walkway are behind the camera; the black-clad man has left the visible area; Airin's pair of white pointed-toe low heels is placed together on the dry zone-A deck beside the coping, not visible and not in the water.
+START STATE: Mae Wit grips the coping while Airin braces her under one arm. Rita floats farther back, watching; Guest Woman 1 is at the frame edge above the coping.
+CAMERA: at water level facing the rescue edge across the pool; wide medium shot, 40mm.
+FOCUS: sharp subject, naturally softened distant poolside background.
+LIGHTING: daylight exterior with high soft sun, open-sky fill and turquoise water reflections from below, approximately 5600K, controlled highlights.
+GRADE: refined daylight luxury palette with champagne, ivory, pool-aqua and burgundy accents; clean jewel highlights, medium natural contrast, restrained saturation, and warm natural skin tones.
+Show only the starting moment, before any planned movement begins.
+No captions, subtitles, labels, watermarks, panels or collage.
+

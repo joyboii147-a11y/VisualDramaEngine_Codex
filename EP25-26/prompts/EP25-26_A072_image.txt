@@ -1,0 +1,19 @@
+Create one standalone starting-frame image for SHOT EP25-26-S099.
+Vertical 9:16. Cinematic live-action still, photorealistic.
+REFERENCE IMAGES:
+Image 1: Rita — use only for face, skin tone and hairstyle. The outfit comes from the text below. Do not copy the outfit, background, lighting, pose or camera angle from this image.
+CHARACTERS: exactly one person: Rita, wearing "a deep burgundy satin halter mini dress with a large sculpted rose at the high neck, draped blouson bodice, fitted mini skirt, open bare back, gold floral stud earrings, and glossy burgundy pointed-toe stiletto pumps with rose ornaments; long dark brown wavy hair half-up," now soaked, with no drinking glass.
+CAST COUNT: exactly one person visible.
+SCENE GEOGRAPHY: an outdoor daytime jewelry exhibition beside a rectangular turquoise pool: cream stone deck, pale-gray stone pool coping, ivory-draped display tables and clear glass cases with gold frames under a light canopy on the zone-A side; an open zone-D walkway runs behind the display tables. Open sky and reflected pool light fill the space. in the turquoise pool away from the rescue edge, Rita floats at neck depth facing the direction where Airin supports Mae Wit. Cream coping and the event deck are distant behind her.
+CAMERA POSITION: at water level facing Rita across the pool; medium close-up, 65mm.
+VIEW DIRECTION: toward the named subject and the poolside landmarks beyond.
+VISIBLE BACKGROUND: cream stone deck, turquoise pool water, pale-gray coping, and only the fixed event elements appropriate to this view.
+OFF-FRAME: Airin and Mae Wit are at the nearer rescue edge outside the frame; the drinking glass is absent and its location is unknown.
+START STATE: Rita treads water with wet hair and soaked burgundy dress, turning her hostile gaze toward Airin outside frame; both hands are empty under or at the water.
+CAMERA: at water level facing Rita across the pool; medium close-up, 65mm.
+FOCUS: sharp subject, naturally softened distant poolside background.
+LIGHTING: daylight exterior with high soft sun, open-sky fill and turquoise water reflections from below, approximately 5600K, controlled highlights.
+GRADE: refined daylight luxury palette with champagne, ivory, pool-aqua and burgundy accents; clean jewel highlights, medium natural contrast, restrained saturation, and warm natural skin tones.
+Show only the starting moment, before any planned movement begins.
+No captions, subtitles, labels, watermarks, panels or collage.
+

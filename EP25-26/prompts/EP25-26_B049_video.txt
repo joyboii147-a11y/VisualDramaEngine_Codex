@@ -1,0 +1,21 @@
+SHOT EP25-26-S102 / CLIP B049. One continuous cinematic live-action shot, vertical 9:16.
+TARGET DURATION: 7 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+SCENE GEOGRAPHY: an outdoor daytime jewelry exhibition beside a rectangular turquoise pool: cream stone deck, pale-gray stone pool coping, ivory-draped display tables and clear glass cases with gold frames under a light canopy on the zone-A side; an open zone-D walkway runs behind the display tables. Open sky and reflected pool light fill the space. at the zone-A rescue edge of the turquoise pool, Airin is in the water under Mae Wit's arm as Mae Wit grips the cream coping. Rita floats several meters behind them; Guest Woman 1 leans from the deck.
+VISIBLE CAST: exactly four people: Airin wearing "a white strapless floor-length maternity gown in floral lace, fitted over a visible baby bump with a soft draped lace panel and a slight train, a delicate pearl necklace, pearl stud earrings, white pointed-toe low heels, and long dark brown wavy hair worn loose," now soaked with wet hair and barefoot, supporting Mae Wit; Mae Wit wearing "a champagne-nude floor-length fitted gown densely embroidered with tonal floral beadwork, high collar with a keyhole neckline, sheer long lace cape sleeves draping to the floor, pearl stud earrings, and dark brown hair in a low braided chignon with loose face-framing tendrils," now soaked with wet hair; Rita farther away at neck depth wearing "a deep burgundy satin halter mini dress with a large sculpted rose at the high neck, draped blouson bodice, fitted mini skirt, open bare back, gold floral stud earrings, and glossy burgundy pointed-toe stiletto pumps with rose ornaments; long dark brown wavy hair half-up," now soaked; and Guest Woman 1 kneeling at the coping in a sage-green knee-length formal dress with a light cream shawl, nude low heels, and a small pearl clutch.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: at water level facing the rescue edge across the pool; wide medium shot, 40mm. The established action axis runs along the pool edge.
+FOREGROUND / VISIBLE BACKGROUND: no foreground person; visible cream deck, pale-gray coping, turquoise water, and the view-specific event elements described in the scene geography.
+OFF-FRAME: Wit and the zone-D walkway are behind the camera; the black-clad man has left the visible area; Airin's pair of white pointed-toe low heels is placed together on the dry zone-A deck beside the coping, not visible and not in the water.
+LIGHTING / COLOR: high soft daylight, open-sky fill, pool reflections, 5600K; refined daylight luxury palette with champagne, ivory, pool-aqua and burgundy accents; clean jewel highlights, medium natural contrast, restrained saturation, and warm natural skin tones.
+PROP STATE: Airin is barefoot in the water. Her pair of white pointed-toe low heels remains placed together on the dry zone-A deck beside the coping, outside the frame and never in the water.
+START STATE: Mae Wit grips the coping while Airin braces her under one arm. Rita floats farther back, watching; Guest Woman 1 is at the frame edge above the coping.
+PERFORMANCE CONTEXT: a silent reaction or action timed for separately edited dialogue.
+ACTION: Airin keeps Mae Wit stable at the coping. Rita stares back without advancing. Guest Woman 1 remains visibly calling off-screen while the rescue hold stays unchanged.
+END STATE: Airin still supports Mae Wit, Mae Wit stays at the coping, and Rita remains afloat at a distance.
+CAMERA: static composition throughout; no zoom, pan, or cut.
+VISUAL CONTINUITY: Preserve the starting image's faces, hair, wardrobe, set geometry, lighting character and color treatment. Allow only the specified actions and camera movement. No unplanned cuts, added people, identity swaps or prop teleportation.
+AUDIO MODE: picture for separately edited dialogue.
+Do not generate intelligible speech or background chatter.
+PERFORMANCE: Guest Woman 1 is heard only in separately edited audio; all visible people perform silent urgent rescue reactions without intelligible speech.
+AMBIENCE/SFX: soft pool water, distant emergency movement, no music.
+

@@ -1,0 +1,29 @@
+SHOT EP25-26-S090 / CLIP A066. One continuous cinematic live-action shot, vertical 9:16.
+TARGET DURATION: 6 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+SCENE GEOGRAPHY: an outdoor daytime jewelry exhibition beside a rectangular turquoise pool: cream stone deck, pale-gray stone pool coping, ivory-draped display tables and clear glass cases with gold frames under a light canopy on the zone-A side; an open zone-D walkway runs behind the display tables. Open sky and reflected pool light fill the space. at the cream-stone pool edge in zone C, Guest Woman 2 faces the turquoise water; the ivory jewelry display and zone-D walkway are behind her.
+VISIBLE CAST: exactly one person: Guest Woman 2, a well-dressed Thai female jewelry-event guest in her thirties, wearing a powder-blue tailored midi dress with short sleeves, silver low heels, and small silver drop earrings.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: beside the pool edge facing Guest Woman 2, with the water at the lower foreground edge; eye-level medium close-up, 65mm. The established action axis runs along the pool edge.
+FOREGROUND / VISIBLE BACKGROUND: no foreground person; visible cream deck, pale-gray coping, turquoise water, and the view-specific event elements described in the scene geography.
+OFF-FRAME: Wit is to her side outside the crop; Mae Wit and Rita are in the water beyond the camera-facing pool edge.
+LIGHTING / COLOR: high soft daylight, open-sky fill, pool reflections, 5600K; refined daylight luxury palette with champagne, ivory, pool-aqua and burgundy accents; clean jewel highlights, medium natural contrast, restrained saturation, and warm natural skin tones.
+PROP STATE: No visible handheld prop changes unless explicitly stated.
+START STATE: Guest Woman 2 turns from Wit outside frame toward the pool, shocked, shoulders raised.
+PERFORMANCE CONTEXT: sharp, loud, urgent warning.
+ACTION: She thrusts one hand down toward the water and delivers her assigned shout, holding the pointing gesture.
+END STATE: Guest Woman 2 remains pointing down toward the pool, mouth closed after her shout, eyes fixed on the water.
+CAMERA: static composition throughout; no zoom, pan, or cut.
+VISUAL CONTINUITY: Preserve the starting image's faces, hair, wardrobe, set geometry, lighting character and color treatment. Allow only the specified actions and camera movement. No unplanned cuts, added people, identity swaps or prop teleportation.
+AUDIO MODE: generated dialogue.
+SPEECH EVENT 1:
+SPEAKER: Guest Woman 2, visible on screen (ON), the only speaker.
+EXACT THAI DIALOGUE: "มีคนตกน้ำ!"
+VOICE IDENTITY: adult Thai female voice, clear mid register, standard Thai accent
+DELIVERY: sharp, loud, urgent warning.
+Lip-sync only Guest Woman 2 to the assigned line.
+NON-SPEAKERS: none visible; no speech-like lip movements.
+Speak only the assigned dialogue exactly once, without paraphrasing or added words.
+Do not stretch speech to fill the clip. No unassigned voices.
+AFTER SPEECH: a brief silent hold in the planned end state.
+AMBIENCE/SFX: soft pool water and restrained event ambience; no background chatter.
+

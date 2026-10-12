@@ -1,0 +1,29 @@
+SHOT EP25-26-S091 / CLIP A067. One continuous cinematic live-action shot, vertical 9:16.
+TARGET DURATION: 7 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+SCENE GEOGRAPHY: an outdoor daytime jewelry exhibition beside a rectangular turquoise pool: cream stone deck, pale-gray stone pool coping, ivory-draped display tables and clear glass cases with gold frames under a light canopy on the zone-A side; an open zone-D walkway runs behind the display tables. Open sky and reflected pool light fill the space. in the turquoise pool near the zone-C edge, Mae Wit floats below the cream stone coping. The far pool edge and open event deck appear behind her.
+VISIBLE CAST: exactly one person: Mae Wit, wearing "a champagne-nude floor-length fitted gown densely embroidered with tonal floral beadwork, high collar with a keyhole neckline, sheer long lace cape sleeves draping to the floor, pearl stud earrings, and dark brown hair in a low braided chignon with loose face-framing tendrils," now soaked and darkened by water, with wet clinging chignon and tendrils.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: at water level from the poolside zone-A direction, facing Mae Wit and the far coping; medium close-up, 65mm. The established action axis runs along the pool edge.
+FOREGROUND / VISIBLE BACKGROUND: no foreground person; visible cream deck, pale-gray coping, turquoise water, and the view-specific event elements described in the scene geography.
+OFF-FRAME: Airin is on the deck preparing to help; Rita floats farther away; the black-clad man is no longer in frame.
+LIGHTING / COLOR: high soft daylight, open-sky fill, pool reflections, 5600K; refined daylight luxury palette with champagne, ivory, pool-aqua and burgundy accents; clean jewel highlights, medium natural contrast, restrained saturation, and warm natural skin tones.
+PROP STATE: No visible handheld prop changes unless explicitly stated.
+START STATE: Mae Wit has her head and shoulders above water, arms treading, soaked gown floating beneath the surface, fear in her eyes.
+PERFORMANCE CONTEXT: frightened, breathy, urgent.
+ACTION: Mae Wit treads water, waves one arm toward the coping, and calls for help; after speaking she turns her gaze toward the nearest pool edge.
+END STATE: Mae Wit continues floating and reaches toward the coping, looking for rescue.
+CAMERA: static composition throughout; no zoom, pan, or cut.
+VISUAL CONTINUITY: Preserve the starting image's faces, hair, wardrobe, set geometry, lighting character and color treatment. Allow only the specified actions and camera movement. No unplanned cuts, added people, identity swaps or prop teleportation.
+AUDIO MODE: generated dialogue.
+SPEECH EVENT 1:
+SPEAKER: Mae Wit, visible on screen (ON), the only speaker.
+EXACT THAI DIALOGUE: "ช่วยด้วย!"
+VOICE IDENTITY: mature Thai female voice, poised mid-low register, clear warm timbre, standard Thai accent
+DELIVERY: frightened, breathy, urgent.
+Lip-sync only Mae Wit to the assigned line.
+NON-SPEAKERS: none visible; no speech-like lip movements.
+Speak only the assigned dialogue exactly once, without paraphrasing or added words.
+Do not stretch speech to fill the clip. No unassigned voices.
+AFTER SPEECH: a brief silent hold in the planned end state.
+AMBIENCE/SFX: soft pool water and restrained event ambience; no background chatter.
+

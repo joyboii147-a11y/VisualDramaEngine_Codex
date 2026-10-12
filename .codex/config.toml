@@ -1,0 +1,6 @@
+# Visual Drama Engine v67 — Codex Edition
+# จำนวน sub-agent ที่ทำงานพร้อมกันได้ (ไม่รวม agent หลัก)
+# ลดลงได้ถ้าต้องการประหยัดโควตา หรือเพิ่มได้ถ้าตอนมีหลาย Scene
+
+[agents]
+max_concurrent_threads_per_session = 6

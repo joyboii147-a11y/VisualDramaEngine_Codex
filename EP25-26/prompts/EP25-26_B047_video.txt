@@ -1,0 +1,20 @@
+SHOT EP25-26-S098 / CLIP B047. One continuous cinematic live-action shot, vertical 9:16.
+TARGET DURATION: 6 seconds including handles.
+Animate the supplied final frame from the immediately preceding specified clip. Use only this request's image and instructions.
+SCENE GEOGRAPHY: an outdoor daytime jewelry exhibition beside a rectangular turquoise pool: cream stone deck, pale-gray stone pool coping, ivory-draped display tables and clear glass cases with gold frames under a light canopy on the zone-A side; an open zone-D walkway runs behind the display tables. Open sky and reflected pool light fill the space. at the zone-A rescue edge, Airin and Mae Wit are in turquoise water below the cream coping; Guest Woman 1 kneels above them.
+VISIBLE CAST: exactly three people: Airin wearing "a white strapless floor-length maternity gown in floral lace, fitted over a visible baby bump with a soft draped lace panel and a slight train, a delicate pearl necklace, pearl stud earrings, white pointed-toe low heels, and long dark brown wavy hair worn loose," now soaked with wet loose hair and barefoot, supporting Mae Wit; Mae Wit wearing "a champagne-nude floor-length fitted gown densely embroidered with tonal floral beadwork, high collar with a keyhole neckline, sheer long lace cape sleeves draping to the floor, pearl stud earrings, and dark brown hair in a low braided chignon with loose face-framing tendrils," now soaked with wet hair; Guest Woman 1 above them at the coping in a sage-green knee-length formal dress with a light cream shawl, nude low heels, and a small pearl clutch.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: at water level a few meters out from the zone-A rescue edge, looking directly toward the cream coping; wide rescue shot, 40mm, on the water side of the rescue axis.
+FOREGROUND / VISIBLE BACKGROUND: turquoise water fills the foreground; Airin and Mae Wit are below the pale-gray coping while Guest Woman 1 kneels above them. Ivory display tables, gold-framed glass cases, and the light canopy are behind Guest Woman 1 on the deck.
+OFF-FRAME: Rita floats farther out beyond the camera-side water; Wit, staff, and the black-clad man are outside the crop.
+LIGHTING / COLOR: high soft daylight, open-sky fill and pool reflections, 5600K; refined daylight luxury palette with champagne, ivory, pool-aqua and burgundy accents; clean jewel highlights, medium natural contrast, restrained saturation, and warm natural skin tones.
+PROP STATE: Airin is barefoot in the water. Her pair of white pointed-toe low heels remains placed together on the dry zone-A deck beside the coping, outside the frame and never in the water. No prop teleports.
+START STATE: Airin brings Mae Wit within reach of the coping, holding her securely under the arm; Guest Woman 1 leans down from the deck.
+PERFORMANCE CONTEXT: immediate poolside emergency.
+ACTION: Mae Wit grips the coping while Airin continues the under-arm support. Guest Woman 1 reaches downward but stays on deck; no one enters the water.
+END STATE: Mae Wit is holding the coping, Airin supports her, Guest Woman 1 remains leaning above.
+CAMERA: static continuous framing; no cut.
+VISUAL CONTINUITY: Preserve the supplied frame's faces, hair, wardrobe, wetness state, set geometry, lighting character and grade. Allow only specified movement. No identity swaps, added people or spontaneous props.
+AUDIO MODE: no dialogue.
+No intelligible speech or speech-like lip-sync.
+AMBIENCE/SFX: water and tense movement only.
+

@@ -1,0 +1,19 @@
+Create one standalone starting-frame image for SHOT EP25-26-S089.
+Vertical 9:16. Cinematic live-action still, photorealistic.
+REFERENCE IMAGES:
+Image 1: Wit — use only for face, skin tone and hairstyle. The outfit comes from the text below. Do not copy the outfit, background, lighting, pose or camera angle from this image.
+CHARACTERS: exactly one person: Wit, a tall young Thai man wearing a matte black zip-front jacket with zippered side pockets over a plain white crew-neck T-shirt, high-waisted white straight-leg trousers with a black leather belt, and black leather derby shoes; tousled short black hair.
+CAST COUNT: exactly one person visible.
+SCENE GEOGRAPHY: an outdoor daytime jewelry exhibition beside a rectangular turquoise pool: cream stone deck, pale-gray stone pool coping, ivory-draped display tables and clear glass cases with gold frames under a light canopy on the zone-A side; an open zone-D walkway runs behind the display tables. Open sky and reflected pool light fill the space. at zone D, the walkway behind the ivory-covered jewelry display leads toward the poolside zone C. The pool lies diagonally ahead of Wit beyond the display area.
+CAMERA POSITION: on the poolside end of the zone-D walkway, facing Wit as he enters from the distant exit; standing eye level, medium close-up, 65mm.
+VIEW DIRECTION: toward the named subject and the poolside landmarks beyond.
+VISIBLE BACKGROUND: the open zone-D walkway behind Wit, the edge of the ivory-draped jewelry display table, clear glass cases with gold frames, and the light canopy; no pool water is visible in this reverse angle.
+OFF-FRAME: Mae Wit, Rita, Airin, and the water emergency are beyond the poolside end of the walkway, behind the camera outside the crop.
+START STATE: Wit walks in from the zone-D direction with a calm expression, looking toward the pool outside the frame.
+CAMERA: on the poolside end of the zone-D walkway, facing Wit as he enters from the distant exit; standing eye level, medium close-up, 65mm.
+FOCUS: sharp subject, naturally softened distant poolside background.
+LIGHTING: daylight exterior with high soft sun, open-sky fill and turquoise water reflections from below, approximately 5600K, controlled highlights.
+GRADE: refined daylight luxury palette with champagne, ivory, pool-aqua and burgundy accents; clean jewel highlights, medium natural contrast, restrained saturation, and warm natural skin tones.
+Show only the starting moment, before any planned movement begins.
+No captions, subtitles, labels, watermarks, panels or collage.
+
