@@ -1,0 +1,55 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP27-S004 | Clip: A004 (A-roll) | SC01 ลานริมสระ กลางวัน
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 3 วิ | เสียงโหมด A
+#
+# ตัวละครในเฟรม (รวม 2 คน):
+# - แขกหญิง 3 C09-W01 ไม่มีภาพอ้างอิง | กลาง · ระนาบกลาง · ถึงอก ศีรษะเอียงขวา · มองขวาเฟรม อ้าปากร้อง มือขวากุมคอเสื้อ
+# - แขกชาย C10-W01 ไม่มีภาพอ้างอิง | เห็นแค่ไหล่แจ็กเก็ตน้ำตาลแดง เบลอ ขอบซ้ายบน
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - แม่วิทย์ C01-W01 | ในน้ำชิดขอบฝั่งลาน นอกขนาดภาพ
+# - ไอริน C04-W01 | ในน้ำชิดขอบฝั่งลาน นอกขนาดภาพ
+# - วิทย์ C05-W07 | ในอาคารหรือทางกลับ นอกขนาดภาพ
+# - ริต้า C06-W01 | ในสระลึกห่างกลุ่มช่วย 3–4 เมตร นอกขนาดภาพ
+# - แขกหญิง 1 C02-W02 | บนลานฝั่งอาคารกับกลุ่มแขก นอกขนาดภาพ
+# - แขกหญิง 2 C03-W02 | บนลานฝั่งอาคารกับกลุ่มแขก นอกขนาดภาพ
+# - ชายร่างท้วม C11-W01 | บนลานฝั่งอาคารกับกลุ่มแขก นอกขนาดภาพ
+# - พนักงานหญิง C07-W01 | นอก crop ริมขอบสระตามใบสถานะ นอกขนาดภาพ
+# แนบใน Grok: ภาพที่เลือกจาก EP27_A004_image
+
+# ผู้พูด: Female Guest 3 ON | คนในเฟรมที่ไม่พูด: Male Guest
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+SHOT EP27-S004 / CLIP A004. One continuous cinematic live-action shot, vertical 9:16.
+TARGET DURATION: 3 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+CHARACTERS / VISIBLE CAST:
+Female Guest 3: young adult; a young Thai woman with an oval face, medium skin and long black hair; WARDROBE LOCKED: "a light gray fluffy coat over a black inner top, with long black hair".
+Male Guest: young adult; a young Thai man with medium skin and short black hair; WARDROBE LOCKED: "a reddish-brown bomber jacket embroidered with a white letter R on the chest".
+CAST COUNT: exactly 2 people visible, including all partial and blurred figures.
+SCENE GEOGRAPHY: A long rectangular swimming pool with white stone coping adjoins a white-paved event terrace. On the building side are a tall glass building with a large doorway into a ceiling-lit hall, then the guest terrace, three fixed black pyramid heaters and tall round standing tables, then the coping. Across the pool stands a white-framed glass wall with city high-rises beyond. A glass canopy spans overhead. Irin and Mother of Wit begin at the terrace-side coping; Rita remains in deeper water 3 to 4 meters from them. Heaters and tables stay fixed, without added flames.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: MCU, 45mm, shoulder height, 15-degree Dutch angle; camera inside hall beside glass doorway facing Female Guest 3 with blurred hall ceiling lights behind. Stay on this landmark side of the guest or rescue axis; do not mirror the layout.
+FOREGROUND / VISIBLE BACKGROUND: MCU, 45mm, shoulder height, 15-degree Dutch angle; camera inside hall beside glass doorway facing Female Guest 3 with blurred hall ceiling lights behind. Only the listed figures and objects enter this crop.
+OFF-FRAME: Mother of Wit is in water at terrace-side coping; Irin is in pool at terrace-side coping; Wit is inside building or on its return path; Rita is in deeper water 3 to 4 meters from rescue edge; Female Guest 1 is on building-side terrace in established guest group; Female Guest 2 is on building-side terrace in established guest group; Stocky Man is on terrace with guest group; Female Staff is beyond selected crop along terrace pool edge; no new action. The doorway, glazing, heaters and tables appear only where the stated view and crop permit. No extra reflected figures.
+PROP STATE: Three fixed black pyramid heaters and tall round standing tables line the terrace. No credit card is present. Rita has no glass; her lost glass has no established location and is not restored to her hands. No new handheld prop enters this crop.
+START STATE: Female Guest 3 is chest-up center, head tilted screen-right, watching the pool screen-right in shock, right hand gripping her coat collar. Male Guest stays close, only his blurred reddish-brown jacket shoulder visible upper-left.
+LIGHTING: soft overcast daylight through the glass canopy, cool blue ambient fill across the pool, coherent diffuse reflections on glass and water, approximately 6500K, natural medium-low contrast. Soft key remains overhead through canopy. Warm hall ceiling lights are visible practicals only in doorway views.
+GRADE: cool overcast pool blues, restrained saturation, wet fabric darkening, natural skin tones and controlled glass highlights.
+PERFORMANCE CONTEXT: Express only the specified visible rescue, alarm, concern, fatigue or hurt; follow the assigned emotional intention and exact dialogue.
+ACTION: Hold start for 0.5 seconds. Female Guest 3 opens her mouth wider in shock, right hand gripping her collar. Male Guest remains beside her. Perform this single action within the remaining time, then hold final pose for at least 0.5 seconds. Each background figure continues the stated watching, supporting or floating behavior.
+END STATE: Female Guest 3 opens her mouth wider in shock, right hand gripping her collar. Male Guest remains beside her.
+CAMERA: gentle handheld tremor.
+VISUAL CONTINUITY: Preserve supplied faces, hair, wardrobe, set geometry, fixed landmarks and lighting. Only the specified movement occurs. No cuts, added people, identity swaps, cloned guests or prop teleportation. Do not repeat takeoff when already airborne.
+AUDIO MODE: generated dialogue.
+SPEECH EVENT 1:
+SPEAKER: Female Guest 3, visible on screen (ON).
+EXACT THAI DIALOGUE: "คุณนาย"
+VOICE IDENTITY: young Thai female voice, clear mid-high register, light bright timbre, standard Thai accent
+DELIVERY: rising shock, a short urgent name call.
+Lip-sync only Female Guest 3 to this assigned speech event. 
+NON-SPEAKERS: Male Guest; no speech-like lip movements. Speakers remain silent during another speaker’s speech event.
+Speak only the assigned dialogue exactly once, without paraphrasing or added words.
+Do not stretch speech to fill the clip. No unassigned voices.
+AFTER SPEECH: complete the stated physical action, then hold the planned end state for the cut.
+AMBIENCE/SFX: quiet pool water, splashes only when physically specified, no background chatter or music.
+No captions, subtitles, labels or watermarks.
+

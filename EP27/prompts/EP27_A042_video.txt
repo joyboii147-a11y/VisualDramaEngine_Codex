@@ -1,0 +1,47 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP27-S042 | Clip: A042 (A-roll) | SC02 ห้องนอนโรงแรม กลางวัน
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 4.6 วิ | เสียงโหมด A
+#
+# ตัวละครในเฟรม (รวม 1 คน):
+# - วิทย์ C05-W08 ชุดแจ็กเก็ตครีมปกดำ | หน้า (CU) กลาง มองลงเฟรม
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - ไอริน C04-W17 ชุดคลุมท้อง | นอกกรอบตามตำแหน่งโลกฉากใน prompt
+# - แม่วิทย์ C01-W07 ชุดขาวลูกไม้ | นอกกรอบตามตำแหน่งโลกฉากใน prompt
+#
+# แนบใน Grok: ภาพที่เลือกจาก EP27_A042_image
+# ผู้พูด: วิทย์ ON | คนในเฟรมที่ไม่พูด: ไม่มี
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+SHOT EP27-S042 / CLIP A042. One continuous cinematic live-action shot, vertical 9:16.
+TARGET DURATION: 4.6 seconds including handles.
+Animate the supplied starting image. Use only this request’s image and instructions.
+CHARACTERS: Wit, adult, identified by their appearance and established position in the supplied starting image, wearing a cream button-front jacket with a dark collar over a white crew-neck T-shirt, black trousers, chunky black loafers, and tousled short black hair.
+CAST COUNT: exactly 1 visible people including partial figures.
+SCENE GEOGRAPHY: A daytime hotel bedroom, pale neutral wood floor. Wall A holds a beige upholstered double bed, pillows, yellow-gold bed runner and cream bedside lamp. A yellow-flower pot stands near the bed-foot area. Wall B has the sheer-curtained side window to Irins right when seated. Opposite the bed, wall C has pale wood paneling, one black-screen television and an angled wing. Wall D is cream-beige. Entrance position is unestablished and outside view; no invented doorway. Wit occupies the left bed-foot position and Irin the right; mother remains on Irins window side. Camera stays on the open bed-foot side of the interaction axis.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: beside mother toward Wit and cream wall; open bed-foot side of interaction axis.
+CAMERA / FOCUS: medium close-up,65mm,standing eye level; partial foreground figures softly defocused, main subject sharp.
+FOREGROUND / VISIBLE BACKGROUND: cream wall only; Irin below crop.
+OFF-FRAME: Irin remains outside crop at the right bed-foot position; Wits mother remains outside crop on Irins window side. Entrance outside composition; window and television stay fixed on walls B and C. Cropped faces and hands stay outside view.
+LIGHTING: soft daylight entering through the side sheer-curtained window, mixed with warm practical bedside-lamp light, a warm neutral room palette, approximately 4000K mixed light, soft natural contrast. Window stays side B and lamp stays beside wall A.
+GRADE: warm beige and pale wood, restrained gold accents, natural skin tones, soft contrast; a subtle cool lavender background in the final close-up without changing the established window light.
+PROP STATE: Single standard-size matte-black bank ATM Black Card with rounded corners, a small gold EMV chip and subtle silver detailing retained in Irins left palm beneath right hand at bump, below crop unless framing includes hands. Gold ring on left ring finger. Towel on bed edge outside crop.
+START STATE: Wit small smile looking down at attentive Irin below crop; mother broad smile outside crop on window side.
+PERFORMANCE CONTEXT: Wit gives a casual approximate amount rather than verified bank information.
+ACTION: Hold starting state 0.5 seconds. Wit lets smile fade, takes small silent breath and becomes serious. Irin remains attentive outside frame. Wit delivers the assigned line naturally during these actions, then closes the lips. Hold end state 0.5 seconds.
+END STATE: Wit serious, downward gaze; having stated only an approximate amount.
+CAMERA MOVEMENT: static; no pan, zoom or cut.
+VISUAL CONTINUITY: Preserve supplied image faces, hair, outfits, set geometry, light direction and grade. Only specified actions. No unplanned cuts, added people, extra hands, identity swaps or prop teleportation. Keep single card and specified holder.
+AUDIO MODE: generated dialogue.
+SPEECH EVENT 1:
+SPEAKER: Wit, visible on screen (ON), identified by the supplied starting image and the wardrobe described above.
+EXACT THAI DIALOGUE: "ประมาณ 10 ล้านมั้ง"
+VOICE IDENTITY: young Thai male voice, firm low-mid register, clean resonant timbre, standard Thai accent
+DELIVERY: Matter-of-fact and serious, naturally approximate and uncertain, no threat and no added currency.
+Lip-sync only Wit to the assigned line.
+NON-SPEAKERS: none visible; no speech-like lip movements.
+Speak only the assigned dialogue exactly once, without paraphrasing or added words.
+Do not stretch speech to fill the clip. No unassigned voices.
+AFTER SPEECH: finish the specified physical action and hold the planned end state silently for 0.5 seconds.
+AMBIENCE/SFX: faint steady hotel room tone and soft fabric movement; no music, chatter, or extra vocalizations.
+
+

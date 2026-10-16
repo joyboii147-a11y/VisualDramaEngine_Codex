@@ -1,0 +1,40 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP27-S014 | Clip: B014 (B-roll) | SC01 ลานริมสระ กลางวัน
+# ไฟล์นี้: Image Prompt → OpenArt GPT Image 2 (9:16)
+#
+# ตัวละครในเฟรม (รวม 3 คน):
+# - วิทย์ C05-W07 วิทย์ W05 ชุดลำลอง | ซ้าย · ระนาบกลาง · ถึงอกเหนือน้ำ · หันขวาเฟรม มองไอริน แขนโอบเอวไอริน
+# - ไอริน C04-W01 ไอริน W07 ชุดเดรสคลุมท้องลูกไม้สีไอวอรี่แบบเกาะอก | ขวา · ระนาบกลาง · ถึงเอว ตัวพิงขอบสระ มือขวาเกาะขอบ · หันซ้ายมองวิทย์
+# - ริต้า C06-W01 ริต้า W04 เดรสแดง | ซ้ายบน · ระนาบหลัง · หัวโผล่น้ำ เล็ก
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - แม่วิทย์ C01-W01 | ในน้ำชิดขอบฝั่งลาน นอกขนาดภาพ
+# - แขกหญิง 1 C02-W02 | บนลานฝั่งอาคารกับกลุ่มแขก นอกขนาดภาพ
+# - แขกหญิง 2 C03-W02 | บนลานฝั่งอาคารกับกลุ่มแขก นอกขนาดภาพ
+# - แขกหญิง 3 C09-W01 | บนลานฝั่งอาคารกับกลุ่มแขก นอกขนาดภาพ
+# - แขกชาย C10-W01 | บนลานฝั่งอาคารกับกลุ่มแขก นอกขนาดภาพ
+# - ชายร่างท้วม C11-W01 | บนลานฝั่งอาคารกับกลุ่มแขก นอกขนาดภาพ
+# - พนักงานหญิง C07-W01 | นอก crop ริมขอบสระตามใบสถานะ นอกขนาดภาพ
+# แนบใน OpenArt: 1) input/characters/วิทย์/วิทย์ W05 ชุดลำลอง.png; 2) input/characters/ไอริน/ไอริน W07 ชุดเดรสคลุมท้องลูกไม้สีไอวอรี่แบบเกาะอก.png; 3) input/characters/ริต้า/ริต้า W04 เดรสแดง.jpeg
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+Create one standalone starting-frame image for SHOT EP27-S014.
+Vertical 9:16. Cinematic live-action still, photorealistic.
+REFERENCE IMAGES:
+Image 1: Wit — use for face, skin tone, hairstyle, body shape and this exact outfit. Do not copy the background, lighting, pose or camera angle from this image.
+Image 2: Irin — use for face, skin tone, hairstyle, body shape and this exact outfit. Do not copy the background, lighting, pose or camera angle from this image.
+Image 3: Rita — use for face, skin tone, hairstyle, body shape and this exact outfit. Do not copy the background, lighting, pose or camera angle from this image.
+CHARACTERS / VISIBLE CAST:
+Wit: young adult; WARDROBE LOCKED: "a charcoal gray two-piece suit with a white collared shirt, a black necktie, a white pocket square, black leather lace-up shoes, and tousled short black hair". Hair and garments are soaked; water darkens the fabric.
+Irin: young adult; WARDROBE LOCKED: "a white strapless floor-length maternity gown in floral lace, fitted over a visible baby bump with a soft draped lace panel and a slight train, a delicate pearl necklace, pearl stud earrings, white pointed-toe low heels, and long dark brown wavy hair worn loose". Hair and garments are soaked; water darkens the fabric. STORY OVERRIDE TO FOOTWEAR ONLY: Irin is barefoot throughout this pool sequence. The white heels listed in the wardrobe reference are not worn and remain on the dry terrace outside this crop. Preserve an opaque maternity dress and baby-bump silhouette.
+Rita: young adult; WARDROBE LOCKED: "a deep burgundy satin halter mini dress with a large sculpted rose at the high neck, draped blouson bodice, fitted mini skirt, open bare back, gold floral stud earrings, and glossy burgundy pointed-toe stiletto pumps with rose ornaments; long dark brown wavy hair half-up". Hair and garments are soaked; water darkens the fabric.
+CAST COUNT: exactly 3 people visible, including all partial and blurred figures.
+SCENE GEOGRAPHY: A long rectangular swimming pool with white stone coping adjoins a white-paved event terrace. On the building side are a tall glass building with a large doorway into a ceiling-lit hall, then the guest terrace, three fixed black pyramid heaters and tall round standing tables, then the coping. Across the pool stands a white-framed glass wall with city high-rises beyond. A glass canopy spans overhead. Irin and Mother of Wit begin at the terrace-side coping; Rita remains in deeper water 3 to 4 meters from them. Heaters and tables stay fixed, without added flames.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: two-person medium shot with third background figure, 40mm, water-level chest height; camera near END of pool looking diagonally across rescue pair toward water and opposite white-framed glass; white coping lower-right; pair sharp, Rita blurred. Stay on this landmark side of the guest or rescue axis; do not mirror the layout.
+FOREGROUND / VISIBLE BACKGROUND: two-person medium shot with third background figure, 40mm, water-level chest height; camera near END of pool looking diagonally across rescue pair toward water and opposite white-framed glass; white coping lower-right; pair sharp, Rita blurred. Only the listed figures and objects enter this crop.
+OFF-FRAME: Mother of Wit is in water at terrace-side coping; Female Guest 1 is on building-side terrace in established guest group; Female Guest 2 is on building-side terrace in established guest group; Female Guest 3 is on building-side terrace in established guest group; Male Guest is on building-side terrace in established guest group; Stocky Man is on terrace with guest group; Female Staff is beyond selected crop along terrace pool edge; no new action. The doorway, glazing, heaters and tables appear only where the stated view and crop permit. No extra reflected figures.
+PROP STATE: Three fixed black pyramid heaters and tall round standing tables line the terrace. No credit card is present. Rita has no glass; her lost glass has no established location and is not restored to her hands. No new handheld prop enters this crop.
+START STATE: Wet Wit is chest-up left, turned screen-right toward Irin, concerned and supporting her waist. Wet Irin is waist-up right, beginning to relax, right hand on the coping and turning screen-left toward him. Rita's small wet head is blurred upper-left, 3 to 4 meters away in deeper water, hurt and watching. White coping enters lower-right.
+LIGHTING: soft overcast daylight through the glass canopy, cool blue ambient fill across the pool, coherent diffuse reflections on glass and water, approximately 6500K, natural medium-low contrast. Soft key remains overhead through canopy. Warm hall ceiling lights are visible practicals only in doorway views.
+GRADE: cool overcast pool blues, restrained saturation, wet fabric darkening, natural skin tones and controlled glass highlights.
+Show only the starting moment before any planned movement begins. Natural wet materials and realistic water support.
+No captions, subtitles, labels, watermarks, panels or collage.

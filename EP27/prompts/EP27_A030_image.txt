@@ -1,0 +1,34 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP27-S030 | Clip: A030 (A-roll) | SC02 ห้องนอนโรงแรม กลางวัน
+# ไฟล์นี้: Image Prompt → OpenArt GPT Image 2 (9:16)
+#
+# ตัวละครในเฟรม (รวม 1 คน):
+# - แม่วิทย์ C01-W07 ชุดขาวลูกไม้ | เห็นแค่มือขวาและแขนยื่นจากขอบขวาเข้าหากลางเฟรม ถือบัตร ATM Black Card
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - แม่วิทย์ C01-W07 ชุดขาวลูกไม้ | ผู้พูด OS ใบหน้าและปากอยู่นอกกรอบ
+# - วิทย์ C05-W08 ชุดแจ็กเก็ตครีมปกดำ | นอกกรอบตามตำแหน่งโลกฉากใน prompt
+# - ไอริน C04-W17 ชุดคลุมท้อง | นอกกรอบตามตำแหน่งโลกฉากใน prompt
+#
+# แนบใน OpenArt: 1) input/characters/แม่วิทย์/แม่วิทย์ W02 ชุดขาวลูกไม้.png
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+Create one standalone starting-frame image for SHOT EP27-S030.
+Vertical 9:16. Cinematic live-action still, photorealistic, natural skin and material texture.
+REFERENCE IMAGES:
+Image 1: Wits mother — use for face, skin tone, hairstyle, body shape and this exact outfit. Do not copy the background, lighting, pose or camera angle from this image.
+CHARACTERS: Wits mother, adult, bound to Image 1, wearing an ivory floral-lace midi dress with a sheer ivory chiffon cape overlay, floral front appliques, a delicate gemstone necklace, small gemstone earrings, ivory pointed heels with jeweled buckles, and dark brown hair in a low braided chignon.
+CAST COUNT: exactly 1 visible people including partial figures.
+SCENE GEOGRAPHY: A daytime hotel bedroom, pale neutral wood floor. Wall A holds a beige upholstered double bed, pillows, yellow-gold bed runner and cream bedside lamp. A yellow-flower pot stands near the bed-foot area. Wall B has the sheer-curtained side window to Irins right when seated. Opposite the bed, wall C has pale wood paneling, one black-screen television and an angled wing. Wall D is cream-beige. Entrance position is unestablished and outside view; no invented doorway. Wit occupies the left bed-foot position and Irin the right; mother remains on Irins window side. Camera stays on the open bed-foot side of the interaction axis.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: hand-level insert from the open bed-foot side of the interaction axis. Mothers forearm enters from the RIGHT edge of the image and reaches LEFT toward the center; keep this screen direction.
+CAMERA / FOCUS: hand insert,85mm,hand height,shallow focus; partial foreground figures softly defocused, main subject sharp.
+FOREGROUND / VISIBLE BACKGROUND: defocused lavender-gray fabric; no additional person.
+OFF-FRAME: Wit remains outside crop at the left bed-foot position; Irin remains outside crop at the right bed-foot position. Entrance outside composition; window and television stay fixed on walls B and C. Cropped faces and hands stay outside view.
+LIGHTING: soft daylight entering through the side sheer-curtained window, mixed with warm practical bedside-lamp light, a warm neutral room palette, approximately 4000K mixed light, soft natural contrast. Window stays side B and lamp stays beside wall A.
+GRADE: warm beige and pale wood, restrained gold accents, natural skin tones, soft contrast; a subtle cool lavender background in the final close-up without changing the established window light.
+PROP STATE: One standard-size matte-black bank ATM Black Card with rounded corners, a small gold EMV chip and subtle silver detailing in mothers right hand. No readable text, numbers or logo. Irin and her hands are completely outside this insert; no receiving hand enters and no transfer occurs. Towel on Wits lap before standing, then on bed edge outside crop.
+START STATE: Only mothers right hand and ivory chiffon-covered forearm are visible, entering from the RIGHT frame edge. The forearm remains connected to the right edge, fingers holding the single ATM Black Card in the right third of frame at waist height, its face angled toward the camera. Her body, face and upper arm are outside the right edge. The couple remains outside the crop.
+Show only the starting moment, before planned movement begins.
+No captions, subtitles, labels, watermarks, panels or collage.
+SPEAKING FACE CROP: Wits mother has no visible mouth or face in this composition.
+
+

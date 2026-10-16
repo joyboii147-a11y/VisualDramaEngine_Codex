@@ -4,9 +4,9 @@
 
 ## 1. หลักการ
 
-- เส้นทางหลักคือ **image-to-video**: ผู้ใช้แนบภาพที่เลือกจาก OpenArt (หรือเฟรมสุดท้ายของคลิปก่อน) พร้อมข้อความจากไฟล์ video ในคำขอเดียวกัน ชื่อไฟล์ที่พิมพ์ใน prompt ไม่ได้ทำให้ Grok ได้รับภาพ
+- เส้นทางหลักคือ **image-to-video**: ผู้ใช้แนบภาพที่เลือกจาก OpenArt **ของคลิปเดียวกัน** พร้อมข้อความจากไฟล์ video ในคำขอเดียวกัน ทุกคลิปเป็นอิสระต่อกัน ไม่ต้องรอคลิปอื่นเสร็จ ชื่อไฟล์ที่พิมพ์ใน prompt ไม่ได้ทำให้ Grok ได้รับภาพ
 - ภาพตั้งต้นไม่ยกเว้นการเขียนรายละเอียด ต้องขยายผัง ตัวละคร ชุด ตำแหน่ง กล้อง พื้นหลัง สิ่งนอกเฟรม แสง พร็อพ ครบ และ**ต้องตรงกับภาพ** ห้ามเขียนขัดกับภาพ เพราะภาพมีน้ำหนักเหนือข้อความ ถ้าขัดกัน ผลจะเพี้ยน
-- Codex ไม่เห็นภาพจริง Start State ใน video prompt จึงต้องตรงกับ START STATE ใน image prompt ของคลิปเดียวกัน หรือ End State ที่วางแผนไว้ของคลิปก่อนเมื่อต่อจากเฟรมสุดท้าย
+- Codex ไม่เห็นภาพจริง Start State ใน video prompt จึงต้องตรงกับ START STATE ใน image prompt ของคลิปเดียวกันเสมอ
 - ไม่ต้องใส่ negative prompt ยาว เขียนสิ่งที่ต้องการให้เกิด
 - ไม่ส่งบทก่อนหน้าหรือบทถัดไปเข้า prompt ใส่เฉพาะเจตนาที่จำเป็น ไม่งั้น Grok อาจพูดซ้ำ
 - ไม่ใช้ "same as previous shot", "continue the scene", "use the earlier voice" หรือรหัสเสียงเปล่า
@@ -43,6 +43,8 @@ movement. No unplanned cuts, added people, identity swaps or prop teleportation.
 ```
 
 - ACTION และ expression ต้องเป็นสิ่งที่มองเห็นได้ ใช้ข้อมูลจากช่อง Expression/Action ใน Emotion Map
+- **การเดิน** ใน ACTION ต้องระบุจุดเริ่ม ทิศ ปลายทาง และคนที่เดินเข้าหา เช่น "Irin and Wit walk side by side from the back of the room toward Wit's mother at the left end of the drinks table and stop beside her, facing the two guests" และระบุปฏิกิริยาของคนที่ถูกเข้าหา ห้ามเขียนแค่ "walk in" หรือ "walk forward"
+- คนที่อยู่ในเฟรมแต่ไม่ใช่จุดสนใจ (เช่น ริต้าที่แท่นข้างๆ) ต้องมี ACTION ของตัวเองสั้นๆ เช่น "Rita, at the adjacent display, keeps examining a ring with her black-gloved hand" ไม่ปล่อยให้ยืนนิ่งหรือหายไป
 - คนที่จะเข้าเฟรมภายหลังต้องบรรยายเต็มจาก Bible ถ้าต้องเห็นหน้าชัดและไม่มีในภาพตั้งต้น ผลจะไม่นิ่ง ให้รายงานกลับและเสนอ coverage แบบอื่น
 - มอนทาจ: prompt สั้นได้ในส่วน ACTION แต่ส่วนฉาก ตัวละคร กล้อง แสง ยังต้องครบ
 

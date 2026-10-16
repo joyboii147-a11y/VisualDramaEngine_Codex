@@ -1,0 +1,60 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP27-S022 | Clip: A022 (A-roll) | SC01 ลานริมสระ กลางวัน
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 3 วิ | เสียงโหมด A
+#
+# ตัวละครในเฟรม (รวม 5 คน):
+# - ชายร่างท้วม C11-W01 ไม่มีภาพอ้างอิง | กลาง-ล่าง · ระนาบหน้า · ตกน้ำ ศีรษะและแขน
+# - ไอริน C04-W01 ไอริน W07 ชุดเดรสคลุมท้องลูกไม้สีไอวอรี่แบบเกาะอก | ซ้าย · ระนาบกลาง · กระโปรงลูกไม้ขาวขณะถูกดันขึ้นลาน
+# - วิทย์ C05-W07 วิทย์ W05 ชุดลำลอง | กลาง · ระนาบกลาง · ดันไอรินขึ้น
+# - แม่วิทย์ C01-W01 แม่วิทย์ W01 ชุดออกงาน | กลางบน · ระนาบหลัง · บนลาน
+# - แขกหญิง 1 C02-W02 ไม่มีภาพอ้างอิง | ซ้ายบน · ระนาบหลัง · ยืนบนลาน
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - ริต้า C06-W01 | ในสระลึกห่างกลุ่มช่วย 3–4 เมตร นอกขนาดภาพ
+# - แขกหญิง 2 C03-W02 | บนลานฝั่งอาคารกับกลุ่มแขก นอกขนาดภาพ
+# - แขกหญิง 3 C09-W01 | บนลานฝั่งอาคารกับกลุ่มแขก นอกขนาดภาพ
+# - แขกชาย C10-W01 | บนลานฝั่งอาคารกับกลุ่มแขก นอกขนาดภาพ
+# - พนักงานหญิง C07-W01 | นอก crop ริมขอบสระตามใบสถานะ นอกขนาดภาพ
+# แนบใน Grok: ภาพที่เลือกจาก EP27_A022_image
+
+# ผู้พูด: Stocky Man ON | คนในเฟรมที่ไม่พูด: Female Guest 1, Wit, Mother of Wit, Irin
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+SHOT EP27-S022 / CLIP A022. One continuous cinematic live-action shot, vertical 9:16.
+TARGET DURATION: 3 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+STARTING IMAGE: Use the single supplied starting frame for every visible identity, hairstyle, wardrobe, pose and spatial relationship.
+CHARACTERS / VISIBLE CAST:
+Stocky Man: adult; a stocky adult Thai man with medium skin and short dark hair; WARDROBE LOCKED: "a dark jacket and short dark hair on a stocky adult man". Hair and garments are soaked; water darkens the fabric. Dark trousers cover his legs.
+Irin: young adult; WARDROBE LOCKED: "a white strapless floor-length maternity gown in floral lace, fitted over a visible baby bump with a soft draped lace panel and a slight train, a delicate pearl necklace, pearl stud earrings, white pointed-toe low heels, and long dark brown wavy hair worn loose". Hair and garments are soaked; water darkens the fabric. STORY OVERRIDE TO FOOTWEAR ONLY: Irin is barefoot throughout this pool sequence. The white heels listed in the wardrobe reference are not worn and remain on the dry terrace outside this crop. Preserve an opaque maternity dress and baby-bump silhouette.
+Wit: young adult; WARDROBE LOCKED: "a charcoal gray two-piece suit with a white collared shirt, a black necktie, a white pocket square, black leather lace-up shoes, and tousled short black hair". Hair and garments are soaked; water darkens the fabric.
+Mother of Wit: middle-aged adult; WARDROBE LOCKED: "a champagne-nude floor-length fitted gown densely embroidered with tonal floral beadwork, high collar with a keyhole neckline, sheer long lace cape sleeves draping to the floor, pearl stud earrings, and dark brown hair in a low braided chignon with loose face-framing tendrils". Hair and garments are soaked; water darkens the fabric.
+Female Guest 1: adult in her forties; a well-dressed Thai female jewelry-event guest in her forties; WARDROBE LOCKED: "a beige tailored suit over a white ruffled-collar shirt, with hair gathered in a bun".
+CAST COUNT: exactly 5 people visible, including all partial and blurred figures.
+SCENE GEOGRAPHY: A long rectangular swimming pool with white stone coping adjoins a white-paved event terrace. On the building side are a tall glass building with a large doorway into a ceiling-lit hall, then the guest terrace, three fixed black pyramid heaters and tall round standing tables, then the coping. Across the pool stands a white-framed glass wall with city high-rises beyond. A glass canopy spans overhead. Irin and Mother of Wit begin at the terrace-side coping; Rita remains in deeper water 3 to 4 meters from them. Heaters and tables stay fixed, without added flames.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: medium shot, 32mm, water-level low angle; pool camera near terrace coping looking upward toward fixed black heater and terrace behind rescue group; moderate focus, splash foreground. Stay on this landmark side of the guest or rescue axis; do not mirror the layout.
+FOREGROUND / VISIBLE BACKGROUND: medium shot, 32mm, water-level low angle; pool camera near terrace coping looking upward toward fixed black heater and terrace behind rescue group; moderate focus, splash foreground. Only the listed figures and objects enter this crop.
+OFF-FRAME: Rita is in deeper water 3 to 4 meters from rescue edge; Female Guest 2 is on building-side terrace in established guest group; Female Guest 3 is on building-side terrace in established guest group; Male Guest is on building-side terrace in established guest group; Female Staff is beyond selected crop along terrace pool edge; no new action. The doorway, glazing, heaters and tables appear only where the stated view and crop permit. No extra reflected figures.
+PROP STATE: Three fixed black pyramid heaters and tall round standing tables line the terrace. No credit card is present. Rita has no glass; her lost glass has no established location and is not restored to her hands. Female Guest 1 holds a silver tray with exactly two clear glasses level in both hands on terrace behind Mother of Wit; the tray remains in her hands.
+START STATE: Stocky Man is foreground center-lower, head and arms visible falling toward water after takeoff, intent on helping. Irin's wet lace skirt and rising body are left middle plane as concerned wet Wit supports her upward at center. Wet frightened Mother of Wit kneels on terrace upper-center; dry Female Guest 1 stands upper-left holding the tray and two clear glasses in both hands.
+LIGHTING: soft overcast daylight through the glass canopy, cool blue ambient fill across the pool, coherent diffuse reflections on glass and water, approximately 6500K, natural medium-low contrast. Soft key remains overhead through canopy. Warm hall ceiling lights are visible practicals only in doorway views.
+GRADE: cool overcast pool blues, restrained saturation, wet fabric darkening, natural skin tones and controlled glass highlights.
+PERFORMANCE CONTEXT: Express only the specified visible rescue, alarm, concern, fatigue or hurt; follow the assigned emotional intention and exact dialogue.
+ACTION: Hold start for 0.5 seconds. Stocky Man hits the water, creating a splash, then his head emerges fully above the surface; while his mouth is clear of the water he gives the assigned startled exclamation exactly once. Wit keeps pushing Irin toward upper coping; tired Irin reaches the top edge. Mother watches anxiously; Female Guest 1 holds tray level. Perform this single action within the remaining time, then hold final pose for at least 0.5 seconds. Each background figure continues the stated watching, supporting or floating behavior.
+END STATE: Stocky Man hits the water, creating a splash, then his head emerges fully above the surface; while his mouth is clear of the water he gives the assigned startled exclamation exactly once. Wit keeps pushing Irin toward upper coping; tired Irin reaches the top edge. Mother watches anxiously; Female Guest 1 holds tray level.
+CAMERA: locked-off.
+VISUAL CONTINUITY: Preserve supplied faces, hair, wardrobe, set geometry, fixed landmarks and lighting. Only the specified movement occurs. No cuts, added people, identity swaps, cloned guests or prop teleportation. Do not repeat takeoff when already airborne.
+AUDIO MODE: generated dialogue.
+SPEECH EVENT 1:
+SPEAKER: Stocky Man, visible on screen (ON), foreground center-lower in the dark jacket.
+EXACT THAI DIALOGUE: "โอ๊ยตายแล้ว!"
+VOICE IDENTITY: adult Thai male voice, rounded low-mid register, slightly husky timbre, standard Thai accent
+DELIVERY: a sudden startled male exclamation just after his head emerges above the surface; do not speak underwater.
+Lip-sync only Stocky Man while his face remains above water; nobody else articulates this line.
+NON-SPEAKERS: Female Guest 1, Wit, Mother of Wit, Irin; no speech-like lip movements. Speakers remain silent during another speaker’s speech event.
+Speak only the assigned dialogue exactly once, without paraphrasing or added words.
+Do not stretch speech to fill the clip. No unassigned voices.
+AFTER SPEECH: complete the stated physical action, then hold the planned end state for the cut.
+AMBIENCE/SFX: quiet pool water, splashes only when physically specified, no background chatter or music.
+No captions, subtitles, labels or watermarks.
+
+

@@ -1,0 +1,54 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP27-S001 | Clip: A001 (A-roll) | SC01 ลานริมสระ กลางวัน
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 4 วิ | เสียงโหมด A
+#
+# ตัวละครในเฟรม (รวม 1 คน):
+# - แขกหญิง 1 C02-W02 ไม่มีภาพอ้างอิง | กลาง-ซ้าย · ระนาบกลาง · ศีรษะอยู่สามส่วนบน ร่างกินความสูงเกือบทั้งเฟรม · ถึงอก มือซ้ายยกขึ้นกลางเฟรมล่าง · หันหน้าไปทางขวาเฟรม มองลงสระ
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - แม่วิทย์ C01-W01 | ในน้ำชิดขอบฝั่งลาน นอกขนาดภาพ
+# - ไอริน C04-W01 | ในน้ำชิดขอบฝั่งลาน นอกขนาดภาพ
+# - วิทย์ C05-W07 | ในอาคารหรือทางกลับ นอกขนาดภาพ
+# - ริต้า C06-W01 | ในสระลึกห่างกลุ่มช่วย 3–4 เมตร นอกขนาดภาพ
+# - แขกหญิง 2 C03-W02 | บนลานฝั่งอาคารกับกลุ่มแขก นอกขนาดภาพ
+# - แขกหญิง 3 C09-W01 | บนลานฝั่งอาคารกับกลุ่มแขก นอกขนาดภาพ
+# - แขกชาย C10-W01 | บนลานฝั่งอาคารกับกลุ่มแขก นอกขนาดภาพ
+# - ชายร่างท้วม C11-W01 | บนลานฝั่งอาคารกับกลุ่มแขก นอกขนาดภาพ
+# - พนักงานหญิง C07-W01 | นอก crop ริมขอบสระตามใบสถานะ นอกขนาดภาพ
+# แนบใน Grok: ภาพที่เลือกจาก EP27_A001_image
+
+# ผู้พูด: Female Guest 1 ON | คนในเฟรมที่ไม่พูด: ไม่มี
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+SHOT EP27-S001 / CLIP A001. One continuous cinematic live-action shot, vertical 9:16.
+TARGET DURATION: 4 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+CHARACTERS / VISIBLE CAST:
+Female Guest 1: adult in her forties; a well-dressed Thai female jewelry-event guest in her forties; WARDROBE LOCKED: "a beige tailored suit over a white ruffled-collar shirt, with hair gathered in a bun".
+CAST COUNT: exactly 1 people visible, including all partial and blurred figures.
+SCENE GEOGRAPHY: A long rectangular swimming pool with white stone coping adjoins a white-paved event terrace. On the building side are a tall glass building with a large doorway into a ceiling-lit hall, then the guest terrace, three fixed black pyramid heaters and tall round standing tables, then the coping. Across the pool stands a white-framed glass wall with city high-rises beyond. A glass canopy spans overhead. Irin and Mother of Wit begin at the terrace-side coping; Rita remains in deeper water 3 to 4 meters from them. Heaters and tables stay fixed, without added flames.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: MCU, 45mm, shoulder height, slight cant; terrace camera on pool side facing Female Guest 1 and silver-framed building glass; face sharp, glass frames blurred. Stay on this landmark side of the guest or rescue axis; do not mirror the layout.
+FOREGROUND / VISIBLE BACKGROUND: MCU, 45mm, shoulder height, slight cant; terrace camera on pool side facing Female Guest 1 and silver-framed building glass; face sharp, glass frames blurred. Only the listed figures and objects enter this crop.
+OFF-FRAME: Mother of Wit is in water at terrace-side coping; Irin is in pool at terrace-side coping; Wit is inside building or on its return path; Rita is in deeper water 3 to 4 meters from rescue edge; Female Guest 2 is on building-side terrace in established guest group; Female Guest 3 is on building-side terrace in established guest group; Male Guest is on building-side terrace in established guest group; Stocky Man is on terrace with guest group; Female Staff is beyond selected crop along terrace pool edge; no new action. The doorway, glazing, heaters and tables appear only where the stated view and crop permit. No extra reflected figures.
+PROP STATE: Three fixed black pyramid heaters and tall round standing tables line the terrace. No credit card is present. Rita has no glass; her lost glass has no established location and is not restored to her hands. No new handheld prop enters this crop.
+START STATE: Female Guest 1 is chest-up center-left, facing screen-right, looking down toward the pool, mouth open in alarm, left hand raised lower-center.
+LIGHTING: soft overcast daylight through the glass canopy, cool blue ambient fill across the pool, coherent diffuse reflections on glass and water, approximately 6500K, natural medium-low contrast. Soft key remains overhead through canopy. Warm hall ceiling lights are visible practicals only in doorway views.
+GRADE: cool overcast pool blues, restrained saturation, wet fabric darkening, natural skin tones and controlled glass highlights.
+PERFORMANCE CONTEXT: Express only the specified visible rescue, alarm, concern, fatigue or hurt; follow the assigned emotional intention and exact dialogue.
+ACTION: Hold start for 0.5 seconds. Female Guest 1 points more forcefully toward the pool with her left hand, maintaining alarm. Perform this single action within the remaining time, then hold final pose for at least 0.5 seconds. Each background figure continues the stated watching, supporting or floating behavior.
+END STATE: Female Guest 1 points more forcefully toward the pool with her left hand, maintaining alarm.
+CAMERA: subtle handheld tremor.
+VISUAL CONTINUITY: Preserve supplied faces, hair, wardrobe, set geometry, fixed landmarks and lighting. Only the specified movement occurs. No cuts, added people, identity swaps, cloned guests or prop teleportation. Do not repeat takeoff when already airborne.
+AUDIO MODE: generated dialogue.
+SPEECH EVENT 1:
+SPEAKER: Female Guest 1, visible on screen (ON).
+EXACT THAI DIALOGUE: "ตรงนั้น มีคนตกน้ำอยู่ค่ะ!"
+VOICE IDENTITY: adult Thai female voice, polite clear register, standard Thai accent
+DELIVERY: urgent alarm, clear raised call for help.
+Lip-sync only Female Guest 1 to this assigned speech event. 
+NON-SPEAKERS: none visible; no speech-like lip movements. Speakers remain silent during another speaker’s speech event.
+Speak only the assigned dialogue exactly once, without paraphrasing or added words.
+Do not stretch speech to fill the clip. No unassigned voices.
+AFTER SPEECH: complete the stated physical action, then hold the planned end state for the cut.
+AMBIENCE/SFX: quiet pool water, splashes only when physically specified, no background chatter or music.
+No captions, subtitles, labels or watermarks.
+

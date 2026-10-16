@@ -1,0 +1,46 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP27-S031 | Clip: A031 (A-roll) | SC02 ห้องนอนโรงแรม กลางวัน
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 4.3 วิ | เสียงโหมด A
+#
+# ตัวละครในเฟรม (รวม 1 คน):
+# - แม่วิทย์ C01-W07 ชุดขาวลูกไม้ | ครึ่งตัว กลาง มองซ้ายล่างเฟรม
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - วิทย์ C05-W08 ชุดแจ็กเก็ตครีมปกดำ | นอกกรอบตามตำแหน่งโลกฉากใน prompt
+# - ไอริน C04-W17 ชุดคลุมท้อง | นอกกรอบตามตำแหน่งโลกฉากใน prompt
+#
+# แนบใน Grok: ภาพที่เลือกจาก EP27_A031_image
+# ผู้พูด: แม่วิทย์ ON | คนในเฟรมที่ไม่พูด: ไม่มี
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+SHOT EP27-S031 / CLIP A031. One continuous cinematic live-action shot, vertical 9:16.
+TARGET DURATION: 4.3 seconds including handles.
+Animate the supplied starting image. Use only this request’s image and instructions.
+CHARACTERS: Wits mother, adult, identified by their appearance and established position in the supplied starting image, wearing an ivory floral-lace midi dress with a sheer ivory chiffon cape overlay, floral front appliques, a delicate gemstone necklace, small gemstone earrings, ivory pointed heels with jeweled buckles, and dark brown hair in a low braided chignon.
+CAST COUNT: exactly 1 visible people including partial figures.
+SCENE GEOGRAPHY: A daytime hotel bedroom, pale neutral wood floor. Wall A holds a beige upholstered double bed, pillows, yellow-gold bed runner and cream bedside lamp. A yellow-flower pot stands near the bed-foot area. Wall B has the sheer-curtained side window to Irins right when seated. Opposite the bed, wall C has pale wood paneling, one black-screen television and an angled wing. Wall D is cream-beige. Entrance position is unestablished and outside view; no invented doorway. Wit occupies the left bed-foot position and Irin the right; mother remains on Irins window side. Camera stays on the open bed-foot side of the interaction axis.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: beside seated couple on bed side toward mother and window B; open bed-foot side of interaction axis.
+CAMERA / FOCUS: medium,50mm,seated eye level slightly upward; partial foreground figures softly defocused, main subject sharp.
+FOREGROUND / VISIBLE BACKGROUND: sheer curtain behind right, lamp left; couple behind camera.
+OFF-FRAME: Wit remains outside crop at the left bed-foot position; Irin remains outside crop at the right bed-foot position. Entrance outside composition; window and television stay fixed on walls B and C. Cropped faces and hands stay outside view.
+LIGHTING: soft daylight entering through the side sheer-curtained window, mixed with warm practical bedside-lamp light, a warm neutral room palette, approximately 4000K mixed light, soft natural contrast. Window stays side B and lamp stays beside wall A.
+GRADE: warm beige and pale wood, restrained gold accents, natural skin tones, soft contrast; a subtle cool lavender background in the final close-up without changing the established window light.
+PROP STATE: One standard-size matte-black bank ATM Black Card with rounded corners, a small gold EMV chip and subtle silver detailing in mothers right hand. No readable text, numbers or logo. Irin supports underside with left hand only during the specified supporting action, not a completed transfer. Towel on Wits lap before standing, then on bed edge outside crop.
+START STATE: Mother gently smiles down-left at Irin, right hand holding card raised clear of torso.
+PERFORMANCE CONTEXT: Mother thanks Irin for helping save her life.
+ACTION: Hold starting state 0.5 seconds. Mother extends card-holding right hand toward Irin and gives a gentle responsive nod. Wits mother delivers the assigned line naturally during these actions, then closes the lips. Hold end state 0.5 seconds.
+END STATE: Hand extended, card retained, gentle smile.
+CAMERA MOVEMENT: static; no pan, zoom or cut.
+VISUAL CONTINUITY: Preserve supplied image faces, hair, outfits, set geometry, light direction and grade. Only specified actions. No unplanned cuts, added people, extra hands, identity swaps or prop teleportation. Keep single card and specified holder.
+AUDIO MODE: generated dialogue.
+SPEECH EVENT 1:
+SPEAKER: Wits mother, visible on screen (ON), identified by the supplied starting image and the wardrobe described above.
+EXACT THAI DIALOGUE: "ขอบคุณที่เธอช่วยฉันเมื่อกี้นะ"
+VOICE IDENTITY: mature Thai female voice, poised mid-low register, clear warm timbre, standard Thai accent
+DELIVERY: Sincere warm gratitude, gentle conversational pace.
+Lip-sync only Wits mother to the assigned line.
+NON-SPEAKERS: none visible; no speech-like lip movements.
+Speak only the assigned dialogue exactly once, without paraphrasing or added words.
+Do not stretch speech to fill the clip. No unassigned voices.
+AFTER SPEECH: finish the specified physical action and hold the planned end state silently for 0.5 seconds.
+AMBIENCE/SFX: faint steady hotel room tone and soft fabric movement; no music, chatter, or extra vocalizations.
+

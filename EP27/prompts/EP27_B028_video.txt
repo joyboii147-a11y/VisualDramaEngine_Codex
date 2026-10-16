@@ -1,0 +1,38 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP27-S028 | Clip: B028 (B-roll) | SC02 ห้องนอนโรงแรม กลางวัน
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 2.5 วิ | เสียงโหมด C
+#
+# ตัวละครในเฟรม (รวม 2 คน):
+# - วิทย์ C05-W08 ชุดแจ็กเก็ตครีมปกดำ | เต็มตัว ซ้าย หันขวาเฟรม
+# - ไอริน C04-W17 ชุดคลุมท้อง | เต็มตัว ขวา มองต่ำเฟรม
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - แม่วิทย์ C01-W07 ชุดขาวลูกไม้ | นอกกรอบตามตำแหน่งโลกฉากใน prompt
+#
+# แนบใน Grok: ภาพที่เลือกจาก EP27_B028_image
+# ผู้พูด: ไม่มี | คนในเฟรมที่ไม่พูด: วิทย์ / ไอริน
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+SHOT EP27-S028 / CLIP B028. One continuous cinematic live-action shot, vertical 9:16.
+TARGET DURATION: 2.5 seconds including handles.
+Animate the supplied starting image. Use only this request’s image and instructions.
+CHARACTERS: Wit, adult, identified by their appearance and established position in the supplied starting image, wearing a cream button-front jacket with a dark collar over a white crew-neck T-shirt, black trousers, chunky black loafers, and tousled short black hair. Irin, adult, identified by their appearance and established position in the supplied starting image, wearing a cream knit maternity midi dress with a thin gray under-bust tie, a loose light gray cardigan, a delicate pendant necklace, cream ballet flats, and long dark brown hair worn loose.
+CAST COUNT: exactly 2 visible people including partial figures.
+SCENE GEOGRAPHY: A daytime hotel bedroom, pale neutral wood floor. Wall A holds a beige upholstered double bed, pillows, yellow-gold bed runner and cream bedside lamp. A yellow-flower pot stands near the bed-foot area. Wall B has the sheer-curtained side window to Irins right when seated. Opposite the bed, wall C has pale wood paneling, one black-screen television and an angled wing. Wall D is cream-beige. Entrance position is unestablished and outside view; no invented doorway. Wit occupies the left bed-foot position and Irin the right; mother remains on Irins window side. Camera stays on the open bed-foot side of the interaction axis.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: center room near television side toward couple and bed wall A; open bed-foot side of interaction axis.
+CAMERA / FOCUS: wide,35mm,chest height,deep focus; partial foreground figures softly defocused, main subject sharp.
+FOREGROUND / VISIBLE BACKGROUND: beige headboard, pillows, left lamp, yellow flowers lower left; angled TV wall narrow right edge.
+OFF-FRAME: Wits mother remains outside crop in the established room position Entrance outside composition; window and television stay fixed on walls B and C. Cropped faces and hands stay outside view.
+LIGHTING: soft daylight entering through the side sheer-curtained window, mixed with warm practical bedside-lamp light, a warm neutral room palette, approximately 4000K mixed light, soft natural contrast. Window stays side B and lamp stays beside wall A.
+GRADE: warm beige and pale wood, restrained gold accents, natural skin tones, soft contrast; a subtle cool lavender background in the final close-up without changing the established window light.
+PROP STATE: White cotton towel in Wits two hands. No card displayed.
+HAIR CONTINUITY: Irin's loose dark brown hair remains slightly damp from towel-drying; no sudden drying or hairstyle change.
+START STATE: Wit sits left caring, facing Irin right, holding white towel in both hands beside her damp hair. Irin sits right, legs crossed, hands on bump, calm downward gaze.
+PERFORMANCE CONTEXT: Show specified visible emotions without implying unconfirmed dialogue or motives.
+ACTION: Hold starting state 0.5 seconds. Wit gently dabs her hair once. Irin stays calm looking down. Hold end state 0.5 seconds.
+END STATE: Wit holds towel after one dab beside her hair; Irin calm.
+CAMERA MOVEMENT: static; no pan, zoom or cut.
+VISUAL CONTINUITY: Preserve supplied image faces, hair, outfits, set geometry, light direction and grade. Only specified actions. No unplanned cuts, added people, extra hands, identity swaps or prop teleportation. Keep single card and specified holder.
+AUDIO MODE: no dialogue.
+NON-SPEAKERS: Wit, Irin. No one speaks or articulates words.
+No intelligible speech or speech-like lip-sync. Responsive facial gestures never articulate words.
+AMBIENCE/SFX: faint steady hotel room tone and one soft towel dab; no voices, laughter, inner voice, music or chatter.
