@@ -1,0 +1,22 @@
+{
+  "image_model": "gpt-image-2",
+  "image_quality": "medium",
+  "image_resolution": "2k",
+  "openart_image_credits": 42,
+  "max_image_takes": 3,
+
+  "video_model": "grok-imagine-video-1.5",
+  "video_resolution": "720p",
+  "grok_usd_per_sec": 0.08,
+  "max_video_takes": 3,
+  "grok_usd_cap_per_episode": 25,
+  "video_parallel": 4,
+
+  "expected_retake_rate": 0.5,
+
+  "clip_head_sec": 0.5,
+  "silence_db": -35,
+  "loudness_lufs": -14,
+  "music_db": -22,
+  "subtitle_font": "Tahoma"
+}

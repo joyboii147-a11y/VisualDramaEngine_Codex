@@ -1,0 +1,34 @@
+# ผลผลิตภาพ วิดีโอ และงานตัดต่อ ไม่เก็บใน git
+Image/
+Video/
+Edit/
+
+# รูป
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.bmp
+*.tif
+*.tiff
+*.heic
+
+# วิดีโอ
+*.mp4
+*.mov
+*.m4v
+*.webm
+*.avi
+*.mkv
+
+# เพลงและเสียง
+*.wav
+*.mp3
+*.m4a
+*.aac
+*.flac
+*.ogg
+
+# ไฟล์บีบอัด (เช่น EP11.zip)
+*.zip

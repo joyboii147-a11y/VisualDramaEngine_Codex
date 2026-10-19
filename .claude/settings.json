@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__OpenArt__openart_model_list",
+      "mcp__OpenArt__openart_model_cost",
+      "mcp__OpenArt__openart_model_form_get",
+      "mcp__OpenArt__openart_account_get",
+      "mcp__OpenArt__openart_generate_image",
+      "mcp__OpenArt__openart_creation_get",
+      "mcp__OpenArt__openart_upload_sign",
+      "mcp__OpenArt__openart_upload_metadata_get",
+      "mcp__grok__grok_list_models",
+      "mcp__grok__grok_imagine_video",
+      "mcp__grok__grok_imagine_video_status",
+      "mcp__grok__grok_estimate_cost",
+      "Bash(python .claude/skills/vde-episode/scripts/collect.py:*)",
+      "Bash(python .claude/skills/vde-episode/scripts/state.py:*)",
+      "Bash(python .claude/skills/vde-episode/scripts/media.py:*)",
+      "Bash(python .claude/skills/vde-edit/scripts/edit.py:*)",
+      "Bash(ffmpeg:*)",
+      "Bash(ffprobe:*)"
+    ]
+  }
+}

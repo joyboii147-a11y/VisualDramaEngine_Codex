@@ -1,0 +1,20 @@
+{
+  "clip": "A001",
+  "image": {
+    "status": "done",
+    "takes": [],
+    "selected": "EP27/Image/EP27_A001.png",
+    "prompt_sha": "10ffb8d3d886",
+    "flag": null
+  },
+  "video": {
+    "status": "done",
+    "takes": [],
+    "selected": "EP27/Video/EP27_A001_T01.mp4",
+    "prompt_sha": "ed7581bff182",
+    "flag": null
+  },
+  "notes": [
+    "เปลี่ยนภาพตั้งต้น — วิดีโอต้องสร้างใหม่"
+  ]
+}
