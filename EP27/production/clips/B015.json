@@ -1,16 +1,48 @@
 {
   "clip": "B015",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "d96562aff679"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Image/EP27_B015_T01.png",
+        "job": "oH87HBqaGNAxnxt5nmta",
+        "result": "ok",
+        "qc": "ผ่าน: 2 คน วิทย์ชัดกลางขวา แขนไอรินพาดไหล่ หน้าไอรินอยู่นอกเฟรม",
+        "cost": 42.0
+      },
+      {
+        "take": 2,
+        "file": "EP27/Image/EP27_B015_T02.png",
+        "job": "SbJPtPpTOBwfYJTPWmwa",
+        "result": "ok",
+        "qc": "ผ่าน: 7 คน แม่จับขอบสระ วิทย์ดันหลัง ไอรินจับแขน แขก 2 คนย่อตัวรับ 2 คนยืนหลัง",
+        "cost": 42.0
+      }
+    ],
+    "selected": "EP27/Image/EP27_B015_T02.png",
+    "prompt_sha": "485bb9e3d36c",
+    "flag": null,
+    "reset_at": 1
   },
   "video": {
     "status": "todo",
-    "takes": [],
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Video/EP27_B015_T01.mp4",
+        "job": "7482f0d8-ee0c-95fd-a535-a7b470b511bd",
+        "result": "ok",
+        "qc": "2.04s; หน้า/ชุดคงที่ วิทหันไปทางสระตามแอ็กชัน มือไอรินบนไหล่",
+        "cost": 0.04
+      }
+    ],
     "selected": null,
-    "prompt_sha": "fa1677a047bf"
+    "prompt_sha": "4ed39a3d263b",
+    "flag": null,
+    "reset_at": 1
   },
-  "notes": []
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
 }

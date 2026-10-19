@@ -1,16 +1,48 @@
 {
   "clip": "A029",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "f8cdf602027c"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Image/EP27_A029_T01.png",
+        "job": "PsWDbWMXLc90akLlsQ3g",
+        "result": "ok",
+        "qc": "ผ่าน: 3 คน ตำแหน่งตรง; OpenArt inputImages แสดงแค่ 2 ref (ไม่มีแม่วิทย์) แต่หน้า/ชุดแม่ใกล้เคียง",
+        "cost": 42.0
+      },
+      {
+        "take": 2,
+        "file": "EP27/Image/EP27_A029_T02.png",
+        "job": "FAoAY0r48wBUg3JYK79P",
+        "result": "ok",
+        "qc": "ผ่าน: 2 คน วิทย์ซ้ายถือผ้าบนตัก ไอรินขวามือบนท้อง ทั้งคู่มองขวาบนไปที่แม่นอกเฟรม ไม่มีส่วนแม่ในเฟรม",
+        "cost": 42.0
+      }
+    ],
+    "selected": "EP27/Image/EP27_A029_T02.png",
+    "prompt_sha": "6f5583d8b122",
+    "flag": null,
+    "reset_at": 1
   },
   "video": {
     "status": "todo",
-    "takes": [],
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Video/EP27_A029_T01.mp4",
+        "job": "857a5b05-2c5e-9f61-984c-39156204da99",
+        "result": "ok",
+        "qc": "4.04s มีเสียง 3 คนครบ หน้า/ชุดคงที่ คู่เงยมองแม่ วิทวางผ้าบนตัก แม่ก้าวน้อย(ยืนข้างอยู่แล้ว)",
+        "cost": 0.08
+      }
+    ],
     "selected": null,
-    "prompt_sha": "46c65b7c541d"
+    "prompt_sha": "28ead7459f81",
+    "flag": "ต้องฟังลิปซิงก์",
+    "reset_at": 1
   },
-  "notes": []
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
 }

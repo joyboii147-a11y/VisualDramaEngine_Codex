@@ -1,16 +1,56 @@
 {
   "clip": "A033",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "7e43a44d1b98"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Image/EP27_A033_T01.png",
+        "job": "dgSYGaRzInmv3Je1EsLp",
+        "result": "fail",
+        "qc": "ข้อ5/8: แม่นั่งบนเตียงแทนยืนฝั่งหน้าต่าง ขัดตำแหน่งในฉาก",
+        "cost": 42.0
+      },
+      {
+        "take": 2,
+        "file": "EP27/Image/EP27_A033_T02.png",
+        "job": "jmTjbRxFWQirPcUwBdsS",
+        "result": "ok",
+        "qc": "ผ่าน: แม่ยืนฝั่งหน้าต่างยื่นบัตรมือขวา มองซ้ายล่าง ไหล่เทา/ผมไอรินซ้ายล่าง",
+        "cost": 42.0
+      },
+      {
+        "take": 3,
+        "file": "EP27/Image/EP27_A033_T03.png",
+        "job": "rnjwdnzooZbz6CRfxQqp",
+        "result": "ok",
+        "qc": "ผ่าน: ไอรินนั่งซ้ายถือบัตรสองมือบนตัก มองขึ้นขวาไปที่แม่ แม่ยืนขวามือว่าง ข้างเตียงว่าง",
+        "cost": 42.0
+      }
+    ],
+    "selected": "EP27/Image/EP27_A033_T03.png",
+    "prompt_sha": "4f6f955b281d",
+    "flag": null,
+    "reset_at": 2
   },
   "video": {
     "status": "todo",
-    "takes": [],
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Video/EP27_A033_T01.mp4",
+        "job": "63858246-54f7-94d9-b622-3ba795256bfc",
+        "result": "ok",
+        "qc": "7.04s มีเสียง หน้า/ชุดแม่คงที่ ถือการ์ดตลอด พยักหน้า ไหล่อิรินซ้ายล่าง ท้ายคลิปกล้องขยับเล็กน้อยเห็นหัวเตียงเพิ่ม/รองเท้าขวาล่าง",
+        "cost": 0.14
+      }
+    ],
     "selected": null,
-    "prompt_sha": "38362389253f"
+    "prompt_sha": "996c28a63084",
+    "flag": "ต้องฟังลิปซิงก์",
+    "reset_at": 1
   },
-  "notes": []
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
 }

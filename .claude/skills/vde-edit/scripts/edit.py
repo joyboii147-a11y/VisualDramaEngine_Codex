@@ -10,7 +10,7 @@ Per shot:
   - B-roll marked "ปิดเสียง" is muted
   - missing take: black placeholder of the planned length, listed in the report
 Outputs to EPxx/Edit/: EPxx_ตัดต่อ.mp4, EPxx.srt (from the shot dialogue, verbatim), EPxx_edl.csv,
-optionally EPxx_ตัดต่อ_ซับ.mp4 (burned subtitles).
+EPxx_timeline.xml (via vde-xml, for Premiere/Resolve), optionally EPxx_ตัดต่อ_ซับ.mp4 (burned subtitles).
 """
 import argparse, csv, json, os, re, shutil, subprocess, sys
 
@@ -126,6 +126,12 @@ def main():
                     end = min(dur - 0.02, max(end, sp[-1][1] + 0.3))
                 elif s['dialogue'] and not sp:
                     warnings.append(f'{s["id"]}: มีบทพูดแต่ตรวจไม่พบเสียงพูดใน {sel}')
+                usable = (st.get('video') or {}).get('usable_until')
+                if usable and end > usable:
+                    # the take reframes/dissolves after this point (media.py drift); keep only the clean part
+                    if s['dialogue'] and sp and sp[-1][1] > usable:
+                        warnings.append(f'{s["id"]}: ใช้ได้ถึง {usable} วิ แต่เสียงพูดจบที่ {sp[-1][1]:.1f} วิ — บทจะขาด')
+                    end = max(start + 0.4, usable)
                 kind = 'NEW'
             consumed[s['clip']] = end
             audio = ['-af', 'volume=0'] if s['mute'] else []
@@ -186,7 +192,17 @@ def main():
              '-c:a', 'copy', f'{ep}_ตัดต่อ_ซับ.mp4'], cwd=out_dir)
 
     shutil.rmtree(seg_dir, ignore_errors=True)
-    print(json.dumps({'final': final, 'seconds': round(t_line, 1), 'shots': len(rows), 'subtitles': len(cues),
+
+    xml_script = os.path.join(os.path.dirname(__file__), '..', '..', 'vde-xml', 'scripts', 'xml_export.py')
+    r = subprocess.run([sys.executable, xml_script, ep], capture_output=True, text=True, encoding='utf-8',
+                       errors='replace', env={**os.environ, 'PYTHONIOENCODING': 'utf-8'})
+    if r.returncode:
+        warnings.append(f'ทำไฟล์ XML ไม่สำเร็จ: {(r.stderr or r.stdout).strip()[-300:]}')
+    else:
+        warnings += json.loads(r.stdout).get('warnings', [])
+
+    print(json.dumps({'final': final, 'xml': os.path.join(out_dir, f'{ep}_timeline.xml') if not r.returncode else None,
+                      'seconds': round(t_line, 1), 'shots': len(rows), 'subtitles': len(cues),
                       'missing': sum(1 for r in rows if r[3] == 'MISSING'), 'warnings': warnings},
                      ensure_ascii=False, indent=1))
 

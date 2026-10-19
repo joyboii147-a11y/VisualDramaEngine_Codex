@@ -1,16 +1,64 @@
 {
   "clip": "A021",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "c9b1eb44a7c9"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Image/EP27_A021_T01.png",
+        "job": "I43UiBWHqXWgE0RRQ0Is",
+        "result": "fail",
+        "qc": "ไม่ผ่านข้อ 1+5: คนเกิน 13 (~15 คน มีชายเสื้อม่วงเพิ่ม) และวิทย์คุกเข่าบนเทอเรซแทนอยู่ในน้ำ",
+        "cost": 42.0
+      },
+      {
+        "take": 2,
+        "file": "EP27/Image/EP27_A021_T02.png",
+        "job": "MdXmp5SRHO9RtMEEzwbb",
+        "result": "fail",
+        "qc": "ไม่ผ่านข้อ 1+5: นับได้ ~14 คน (เกิน 1) และวิทย์คุกเข่าบนเทอเรซแทนอยู่ในน้ำประคองไอริน",
+        "cost": 42.0
+      },
+      {
+        "take": 3,
+        "file": "EP27/Image/EP27_A021_T03.png",
+        "job": "1w5d6KS7mlbLQJ9ITvXS",
+        "result": "ok",
+        "qc": "ผ่าน: นับได้ 13 คนพอดี ชายร่างท้วมวิ่งกลาง แม่วิทย์คุกเข่า ไอรินจับขอบในน้ำ ริต้าขวาล่าง Guest1 ถือถาด; หมายเหตุ: วิทย์คุกเข่าบนเทอเรซ (prompt ไม่ระบุชัดว่าอยู่ในน้ำ แต่ B020 วิทย์อยู่ในน้ำ ควรให้คนตรวจความต่อเนื่อง)",
+        "cost": 42.0
+      },
+      {
+        "take": 4,
+        "file": "EP27/Image/EP27_A021_T04.png",
+        "job": "URkwc3WklSSAIQBLSFBX",
+        "result": "ok",
+        "qc": "ผ่าน: 3 คน ชายร่างท้วมแจ็กเก็ตเขียวดำวิ่งบนเทอเรซ ไม่ใช่วิทย์ Guest3+Male Guest ตกใจด้านหลัง (ฮีตเตอร์มากกว่า 3 ต้น)",
+        "cost": 42.0
+      }
+    ],
+    "selected": "EP27/Image/EP27_A021_T04.png",
+    "prompt_sha": "775ca1939f99",
+    "flag": null,
+    "reset_at": 3
   },
   "video": {
     "status": "todo",
-    "takes": [],
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Video/EP27_A021_T01.mp4",
+        "job": "de9e5417-bca4-9bb9-baed-6051283b7a70",
+        "result": "ok",
+        "qc": "4.04s มีเสียง; คนครบ แขกคงที่ ชายร่างท้วมวิ่งกระโดดจบกลางอากาศถูก; แต่วิทขึ้นมายืนบนระเบียงดึงไอรินขึ้นเร็วกว่าที่สั่ง",
+        "cost": 0.08
+      }
+    ],
     "selected": null,
-    "prompt_sha": "f97b9fd92e15"
+    "prompt_sha": "b5d10c58c70f",
+    "flag": "ต้องฟังลิปซิงก์ (เสียง OS ริต้า); ภาพ: วิทขึ้นไปยืนบนระเบียงกลางคลิป เร็วกว่าแผน",
+    "reset_at": 1
   },
-  "notes": []
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
 }

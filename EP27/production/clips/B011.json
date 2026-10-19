@@ -1,16 +1,64 @@
 {
   "clip": "B011",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "db8780f7f8c3"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Image/EP27_B011_T01.png",
+        "job": "AD41GsWF78tENtkQlqHx",
+        "result": "ok",
+        "qc": "ผ่าน: นับได้ 13 คน กลุ่มช่วยซ้ายบน ริต้าขวากลาง แขกขวาบน 6 คน; หน้าเล็กมากตรวจหน้าไม่ได้ (OpenArt บันทึก inputImages 2 รูป)",
+        "cost": 42.0
+      },
+      {
+        "take": 2,
+        "file": "EP27/Image/EP27_B011_T02.png",
+        "job": "ZI867XtNfUS3tOfIRgJy",
+        "result": "ok",
+        "qc": "ผ่าน: 6 คน วิทย์ว่ายจากขอบสระไปหาไอรินกับแม่ที่กลางสระ (ถ่ายจากด้านหลังสองคน) แขก 3 คนบนขอบ ไม่มีริต้า",
+        "cost": 42.0
+      }
+    ],
+    "selected": "EP27/Image/EP27_B011_T02.png",
+    "prompt_sha": "cfd36cbdb737",
+    "flag": null,
+    "reset_at": 1
   },
   "video": {
     "status": "todo",
-    "takes": [],
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Video/EP27_B011_T01.mp4",
+        "job": "797abef6-fce0-9235-8406-ce53d9b3cfbc",
+        "result": "fail",
+        "qc": "3.04s; จำนวนคนบนระเบียงคงที่ แต่วิทกับไอรินลุกยืนในน้ำตื้นแค่เข่า (ผิดจากหัวพ้นน้ำในน้ำลึก) ฟิสิกส์ผิดเรื่อง",
+        "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP27/Video/EP27_B011_T02.mp4",
+        "job": "81d53c48-4146-9fac-bd1d-2dbc7719f859",
+        "result": "fail",
+        "qc": "3.04s; คนบนระเบียงครบคงที่ แต่วิท/ไอริน/แม่ลุกยืนในน้ำตื้นช่วงท้ายเหมือน T01",
+        "cost": 0.06
+      },
+      {
+        "take": 3,
+        "file": "EP27/Video/EP27_B011_T03.mp4",
+        "job": "e02f6aa3-4d42-9def-bc01-e888be266eed",
+        "result": "fail",
+        "qc": "3.04s; วิทว่ายออกจากไอรินไปหาริต้า (ผิดทิศทางเรื่อง)",
+        "cost": 0.06
+      }
+    ],
     "selected": null,
-    "prompt_sha": "3fc132984300"
+    "prompt_sha": "a9a430ee404f",
+    "flag": "ภาพ: ครบ 3 take เลือก T01 — ช่วงต้นใช้ได้ แต่ช่วงท้ายวิท/ไอริน/แม่ลุกยืนในน้ำตื้นแค่เข่า ควรตัดใช้ ~1.5 วิแรก",
+    "reset_at": 3
   },
-  "notes": []
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
 }

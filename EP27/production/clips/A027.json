@@ -1,16 +1,36 @@
 {
   "clip": "A027",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "c83a2cc6360c"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Image/EP27_A027_T01.png",
+        "job": "wbxvAzK1sA6vF3RP46EB",
+        "result": "ok",
+        "qc": "ผ่าน: 1 คน ริต้าเปียกขมวดคิ้ว ฉากกระจกกรอบขาว (มองกล้องมากกว่ามองไปทางอาคาร)",
+        "cost": 42.0
+      }
+    ],
+    "selected": "EP27/Image/EP27_A027_T01.png",
+    "prompt_sha": "c83a2cc6360c",
+    "flag": null
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "ec7b07de743d"
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Video/EP27_A027_T01.mp4",
+        "job": "8b59019f-fbea-972b-8e70-d43b122b20f9",
+        "result": "ok",
+        "qc": "7.04s มีเสียง; หน้า/ชุดคงที่ หน้าบึ้งแล้วกรีดร้องหลับตาตามแอ็กชัน กล้องนิ่ง",
+        "cost": 0.14
+      }
+    ],
+    "selected": "EP27/Video/EP27_A027_T01.mp4",
+    "prompt_sha": "ec7b07de743d",
+    "flag": "ต้องฟังลิปซิงก์"
   },
   "notes": []
 }

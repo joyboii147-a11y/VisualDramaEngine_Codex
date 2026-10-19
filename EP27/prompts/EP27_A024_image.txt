@@ -3,35 +3,34 @@
 # ไฟล์นี้: Image Prompt → OpenArt GPT Image 2 (9:16)
 #
 # ตัวละครในเฟรม (รวม 2 คน):
-# - ริต้า C06-W01 ริต้า W04 เดรสแดง | ครึ่งตัว ซ้ายกลาง มองขวา เจ็บใจก่อนหน้าบึ้ง
-# - ชายร่างท้วม C11-W01 ไม่มีภาพอ้างอิง | ครึ่งตัว ขวาบน ใกล้ริต้า มือในน้ำ ก่อนยกมืออ้าปาก
+# - ริต้า C06-W01 ริต้า W04 เดรสแดง | ขวา ระนาบหน้า ถึงอกพ้นน้ำ หน้าบึ้ง ผลักชายร่างท้วม
+# - ชายร่างท้วม C11-W01 ไม่มีภาพอ้างอิง | ซ้าย ระนาบกลาง ถึงอกพ้นน้ำ ยื่นมือหาริต้า
 #
 # เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
-# - แม่วิทย์ C01-W01 | บนลานขอบสระ นอกขนาดภาพ
-# - ไอริน C04-W01 | ขึ้นจากน้ำแล้ว อยู่บนลานชิดขอบสระ เปียกและเหนื่อย นอกขนาดภาพ
-# - วิทย์ C05-W07 | กำลังขึ้นลานข้างไอริน ถึงลานก่อนเริ่มเดินใน A025 นอกขนาดภาพ
-# - แขกหญิง 1 C02-W02 | บนลานฝั่งอาคารกับกลุ่มแขก นอกขนาดภาพ
-# - แขกหญิง 2 C03-W02 | บนลานฝั่งอาคารกับกลุ่มแขก นอกขนาดภาพ
-# - แขกหญิง 3 C09-W01 | บนลานฝั่งอาคารกับกลุ่มแขก นอกขนาดภาพ
-# - แขกชาย C10-W01 | บนลานฝั่งอาคารกับกลุ่มแขก นอกขนาดภาพ
-# - พนักงานหญิง C07-W01 | นอก crop ริมขอบสระตามใบสถานะ นอกขนาดภาพ
+# - วิทย์ / ไอริน / แม่วิทย์ | บนลานริมสระ หลังกล้อง
+# - แขกหญิง 1–3, แขกชาย, แขกอื่น | บนลานฝั่งอาคาร แห้ง หลังกล้อง
+# - พนักงานหญิง C07-W01 | นอก crop ริมขอบสระตามใบสถานะ
+# เสี่ยง: ชายร่างท้วมไม่มีภาพอ้างอิง ตรวจตำแหน่งริต้าขวา/ชายซ้าย
 # แนบใน OpenArt: 1) input/characters/ริต้า/ริต้า W04 เดรสแดง.jpeg
 # ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
 Create one standalone starting-frame image for SHOT EP27-S024.
 Vertical 9:16. Cinematic live-action still, photorealistic.
 REFERENCE IMAGES:
 Image 1: Rita — use for face, skin tone, hairstyle, body shape and this exact outfit. Do not copy the background, lighting, pose or camera angle from this image.
-CHARACTERS / VISIBLE CAST:
-Rita: young adult; WARDROBE LOCKED: "a deep burgundy satin halter mini dress with a large sculpted rose at the high neck, draped blouson bodice, fitted mini skirt, open bare back, gold floral stud earrings, and glossy burgundy pointed-toe stiletto pumps with rose ornaments; long dark brown wavy hair half-up". Hair and garments are soaked; water darkens the fabric.
-Stocky Man: adult; a stocky adult Thai man with medium skin and short dark hair; WARDROBE LOCKED: "a dark jacket and short dark hair on a stocky adult man". Hair and garments are soaked; water darkens the fabric. Dark trousers cover his legs.
-CAST COUNT: exactly 2 people visible, including all partial and blurred figures.
-SCENE GEOGRAPHY: A long rectangular swimming pool with white stone coping adjoins a white-paved event terrace. On the building side are a tall glass building with a large doorway into a ceiling-lit hall, then the guest terrace, three fixed black pyramid heaters and tall round standing tables, then the coping. Across the pool stands a white-framed glass wall with city high-rises beyond. A glass canopy spans overhead. Irin and Mother of Wit begin at the terrace-side coping; Rita remains in deeper water 3 to 4 meters from them. Heaters and tables stay fixed, without added flames.
-CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: two-person medium shot, 40mm, water level; camera in front of Rita and Stocky Man facing opposite white-framed glass wall; water foreground, both people sharp. Stay on this landmark side of the guest or rescue axis; do not mirror the layout.
-FOREGROUND / VISIBLE BACKGROUND: two-person medium shot, 40mm, water level; camera in front of Rita and Stocky Man facing opposite white-framed glass wall; water foreground, both people sharp. Only the listed figures and objects enter this crop.
-OFF-FRAME: Mother of Wit is kneeling on terrace at rescue edge; Irin is already out of the pool on the terrace at the rescue coping, wet and tired; Wit is climbing out beside her, still wet, reaching the terrace before the pair begins walking toward the building; Female Guest 1 is on building-side terrace in established guest group; Female Guest 2 is on building-side terrace in established guest group; Female Guest 3 is on building-side terrace in established guest group; Male Guest is on building-side terrace in established guest group; Female Staff is beyond selected crop along terrace pool edge; no new action. The doorway, glazing, heaters and tables appear only where the stated view and crop permit. No extra reflected figures.
-PROP STATE: Three fixed black pyramid heaters and tall round standing tables line the terrace. No credit card is present. Rita has no glass; her lost glass has no established location and is not restored to her hands. No new handheld prop enters this crop.
-START STATE: Wet Rita is chest-up left-center in foreground water, hurt, looking screen-right toward Stocky Man. Wet Stocky Man is chest-up upper-right middle plane, almost beside her within arm's reach, intent on helping, hands initially underwater.
-LIGHTING: soft overcast daylight through the glass canopy, cool blue ambient fill across the pool, coherent diffuse reflections on glass and water, approximately 6500K, natural medium-low contrast. Soft key remains overhead through canopy. Warm hall ceiling lights are visible practicals only in doorway views.
-GRADE: cool overcast pool blues, restrained saturation, wet fabric darkening, natural skin tones and controlled glass highlights.
-Show only the starting moment before any planned movement begins. Natural wet materials and realistic water support.
+CHARACTERS:
+Rita: young woman (Image 1); WARDROBE LOCKED: "a deep burgundy satin halter mini dress with a large sculpted rose at the high neck, draped blouson bodice, fitted mini skirt, open bare back, gold floral stud earrings, and glossy burgundy pointed-toe stiletto pumps with rose ornaments; long dark brown wavy hair half-up". No diamond necklace or chandelier earrings. Hair and clothing are soaked and cling to the body; water darkens the fabric.
+Stocky Man: adult man; a stocky adult Thai man with medium skin and short dark hair, clearly heavier and rounder-built than every other man present, with a full round face; WARDROBE LOCKED: "a dark jacket and short dark hair on a stocky adult man". The jacket is a plain dark green-black zip jacket over a dark top, with plain dark trousers and black shoes; no suit, no necktie, no white shirt. Hair and clothing are soaked and cling to the body; water darkens the fabric.
+CAST COUNT: exactly 2 people visible: Rita on the right and Stocky Man on the left.
+SCENE GEOGRAPHY: A long rectangular deep swimming pool with white stone coping adjoins a white-paved event terrace. From the building side: a tall glass building with a large doorway into a ceiling-lit hall, then the guest terrace, three fixed black pyramid heaters and tall round standing tables, then the white coping and the pool. Across the pool stands a white-framed glass wall with city high-rises beyond. A glass canopy spans overhead. Heaters and tables stay fixed, without added flames. Rita and Stocky Man tread water close together in the deep part of the pool. Wit, Irin and Mother of Wit are out of the water on the terrace behind the camera. The pool is deep: anyone in the water is treading water at chest-to-shoulder depth; feet never touch the bottom and never show; no visible pool floor, steps or shallow area.
+CAMERA POSITION: at water level about 2 meters in front of the pair, with the terrace behind the camera.
+VIEW DIRECTION: across the pool toward the white-framed glass wall behind them.
+VISIBLE BACKGROUND: rippling pool water and the softly defocused white-framed glass wall with pale high-rises; no other people.
+OFF-FRAME: Wit, Irin, Mother of Wit and all guests are on the terrace behind the camera; Female Staff stays beyond the crop along the terrace pool edge. None of them enters the frame.
+PROP STATE: Three fixed black pyramid heaters and tall round standing tables line the terrace. No credit card is present. Rita has no glass. Nobody holds a phone or a new handheld prop.
+START STATE: Screen-right foreground: wet Rita, chest above the water, facing screen-left toward Stocky Man, scowling, both hands rising from the water. Screen-left: wet Stocky Man, chest above the water, an arm's length from her, right hand reaching toward her, mouth slightly open, eager to help.
+CAMERA: medium two-shot, 40mm full-frame equivalent, water level.
+FOCUS: both sharp.
+LIGHTING: soft overcast daylight through the glass canopy, cool blue ambient fill across the pool, coherent diffuse reflections on glass and water, approximately 6500K, natural medium-low contrast. Soft key from overhead through the canopy; no added lamps, flames or colored light.
+GRADE: cool overcast pool blues, restrained saturation, natural skin tones and controlled glass highlights; fabric is darker only on the people stated as wet.
+Show only the starting moment, before any planned movement begins.
 No captions, subtitles, labels, watermarks, panels or collage.

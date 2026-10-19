@@ -14,9 +14,10 @@ description: ส่งภาพตั้งต้นที่เลือกแ�
 
 ## 1. ส่งงานเป็นชุด
 `python $S/state.py EPxx todo video [--scene SCxx]` (จะมีเฉพาะคลิปที่เลือกภาพแล้ว) ส่งครั้งละไม่เกิน `video_parallel` คลิป:
-- `python $S/state.py EPxx prompt <clip> video` → prompt (ใช้ตรงตัว ห้ามแก้ ห้ามย่อ ห้ามแปลบทพูด)
+- `python $S/state.py EPxx prompt <clip> video` → prompt (ใช้ตรงตัว ห้ามแก้ ห้ามย่อ ห้ามแปลบทพูด) — สคริปต์ต่อท้ายบล็อก `IMAGE FACTS` ให้เองถ้าขั้นภาพบันทึกไว้
 - `grok_imagine_video` ด้วย:
-  `{prompt, image:"<start_image จาก todo (พาธเต็มในเครื่อง)>", duration:<seconds>, aspect_ratio:"9:16", resolution:"720p", model:"grok-imagine-video-1.5", wait:false}`
+  `{prompt, image:"<start_image จาก todo (พาธเต็มในเครื่อง)>", duration:<seconds>, aspect_ratio:"9:16", resolution:"<video_resolution จาก config>", model:"<model จาก todo>", wait:false}`
+  - v68: todo ให้ `model` ต่อคลิป (Lite สำหรับคลิปสั้นและภาพกว้าง, รุ่นปกติสำหรับคลิปเกิน `lite_max_sec` หรือช็อตใกล้ที่มีคนนอกเฟรม) ใช้ตามนั้นเสมอ และคิดเงินด้วย `usd_per_sec` ของคลิปนั้น
 - จด request_id ของแต่ละคลิป
 
 ## 2. รอผล
@@ -29,8 +30,9 @@ description: ส่งภาพตั้งต้นที่เลือกแ�
 ## 3. ตรวจเอง
 1. `fetch` คืนค่า duration / has_audio: ความยาวต้องใกล้ seconds ที่สั่ง (±1 วิ); คลิปที่หัวไฟล์ระบุ `เสียงโหมด A` ต้องมีเสียง
 2. `python $S/media.py frames <out_file>` → เปิด 3 เฟรม (start/mid/end) ด้วย Read เทียบกับภาพตั้งต้น
-   **ไม่ผ่าน ถ้า:** หน้าหรือชุดเปลี่ยนไปจากภาพตั้งต้นชัดเจน · มีคนเพิ่ม/หาย · ตัดภาพหรือเปลี่ยนมุมกล้องกลางคลิป · ร่างกายบิดเบี้ยว · มีตัวหนังสือ/ลายน้ำ · ภาพค้างนิ่งทั้งคลิปทั้งที่ ACTION สั่งให้เคลื่อน
-3. บันทึก: `python $S/state.py EPxx take <clip> video --file <out_file> --job <request_id> --result ok|fail --qc "<สรุป>" --cost <seconds × grok_usd_per_sec>`
+   **v68 ตรวจ transition:** `python $S/media.py drift <out_file>` ถ้า `suspect: true` ให้เปิด 3 เฟรม drift (start/turn/peak) ดูว่าเป็นการเคลื่อนไหวจริงตาม ACTION (ว่ายน้ำ กระโดด) หรือกล้องถอย/ตัด/dissolve/ฉากหลังเปลี่ยน ถ้าเป็นอย่างหลัง = ไม่ผ่าน และถ้าต้องเลือก take นี้ในที่สุด ให้บันทึก `python $S/state.py EPxx usable <clip> <stable_until>` เพื่อให้ตัดต่อใช้เฉพาะช่วงก่อนเปลี่ยน
+   **ไม่ผ่าน ถ้า:** หน้าหรือชุดเปลี่ยนไปจากภาพตั้งต้นชัดเจน · มีคนเพิ่ม/หาย · ตัดภาพ dissolve ถอยกล้อง หรือเปลี่ยนมุมกล้องกลางคลิป · ฉากหลังเปลี่ยน/บิด · คนในเฟรมสลับข้าง · ร่างกายบิดเบี้ยว · มีตัวหนังสือ/ลายน้ำ · ภาพค้างนิ่งทั้งคลิปทั้งที่ ACTION สั่งให้เคลื่อน
+3. บันทึก: `python $S/state.py EPxx take <clip> video --file <out_file> --job <request_id> --result ok|fail --qc "<สรุป>" --cost <seconds × usd_per_sec ของคลิป>`
    - ผ่าน → `select <clip> video --file <out_file>`; ถ้ามีบทพูด ใส่ `--flag "ต้องฟังลิปซิงก์"` เสมอ (Claude ตรวจเสียง/ลิปซิงก์ไม่ได้)
    - ไม่ผ่านและยังมี takes_left → ส่งใหม่ (prompt และภาพเดิม)
    - ครบจำนวนครั้ง → เลือก take ที่ดีที่สุด `--flag "<ปัญหา>"` หรือ `give-up` ถ้าไม่มี take ใช้ได้

@@ -1,16 +1,48 @@
 {
   "clip": "A026",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "7b89899b35ac"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Image/EP27_A026_T01.png",
+        "job": "0B3lYpCBaBo27g23YFZ9",
+        "result": "ok",
+        "qc": "ผ่าน: นับได้ 13 คน วิทย์ไอรินเดินเข้าอาคาร ริต้ากับชายร่างท้วมในสระ แม่วิทย์คุกเข่า Guest1 ถือถาด",
+        "cost": 42.0
+      },
+      {
+        "take": 2,
+        "file": "EP27/Image/EP27_A026_T02.png",
+        "job": "e1S5CkcCcPoWjMNMEvUA",
+        "result": "ok",
+        "qc": "ผ่าน: นับได้ 13 คน สามคนเดินเข้าอาคาร ริต้า+ชายร่างท้วมในสระ Guest1 ถือถาด Guest2 ข้าง กลุ่มแขก 6 คนซ้าย",
+        "cost": 42.0
+      }
+    ],
+    "selected": "EP27/Image/EP27_A026_T02.png",
+    "prompt_sha": "69db932a1ec3",
+    "flag": null,
+    "reset_at": 1
   },
   "video": {
     "status": "todo",
-    "takes": [],
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Video/EP27_A026_T01.mp4",
+        "job": "2e79a707-7a0c-9607-afd9-b6b5760500e1",
+        "result": "ok",
+        "qc": "4.04s มีเสียง; ฉากกว้างคนครบ แขก/ถาดคงที่ คู่เดินออกด้านหลัง ริต้ายืนสูงขึ้นเล็กน้อย กล้องนิ่ง",
+        "cost": 0.08
+      }
+    ],
     "selected": null,
-    "prompt_sha": "3aeaf20cc970"
+    "prompt_sha": "fcb0b11ccc95",
+    "flag": "ต้องฟังลิปซิงก์",
+    "reset_at": 1
   },
-  "notes": []
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
 }

@@ -10,8 +10,16 @@
 - ไม่ต้องใส่ negative prompt ยาว เขียนสิ่งที่ต้องการให้เกิด
 - ไม่ส่งบทก่อนหน้าหรือบทถัดไปเข้า prompt ใส่เฉพาะเจตนาที่จำเป็น ไม่งั้น Grok อาจพูดซ้ำ
 - ไม่ใช้ "same as previous shot", "continue the scene", "use the earlier voice" หรือรหัสเสียงเปล่า
-- ความยาวและอัตราส่วนให้ผู้ใช้ตั้งในหน้าเว็บ ข้อความใน prompt ไม่รับประกันว่าเปลี่ยน setting ได้
+- ความยาว อัตราส่วน และโมเดลถูกตั้งโดย skill `vde-videos` (Claude Code) หรือผู้ใช้ในหน้าเว็บ ข้อความใน prompt ไม่เปลี่ยน setting
 - End State เป็นเป้าหมาย ไม่ใช่การรับประกันว่า Grok จะจบตรงทุกครั้ง
+
+**สาเหตุหลักของ transition และฉากหลังหลอน (v68 จากผล EP27):** โมเดลวิดีโอพยายาม "เปิดให้เห็น" ทุกอย่างที่ prompt เอ่ยถึง ช็อตใกล้ที่บรรยายคนนอกเฟรม ห้องทั้งห้อง หรือพร็อพนอกกรอบ จะถูกถอยกล้อง ตัดภาพ หรือ dissolve ไปหาสิ่งนั้น ส่วนภาพกว้างที่ทุกคนอยู่ในเฟรมแล้วออกมาสะอาด กฎที่ตามมา:
+- SCENE GEOGRAPHY ใน video prompt บรรยายเฉพาะสิ่งที่อยู่ในเฟรมและฉากหลังที่เห็น ไม่บรรยายผังทั้งห้อง
+- OFF-FRAME มีได้แค่เป้าสายตาแบบไม่ระบุรายละเอียด และต้องจบด้วย "No one else enters the frame at any time."
+- CAMERA ค่าเริ่มต้นคือ "locked-off, the framing never changes" ใช้กล้องเคลื่อนเฉพาะเมื่อ Shot สั่ง และระบุจุดจบของการเคลื่อน
+- ทุกไฟล์ต้องมีบรรทัด "One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing."
+- คลิปเกิน `lite_max_sec` จะถูกส่งไปโมเดลปกติอัตโนมัติ ให้ shot_planner แบ่งคลิปตาม engine/02 หัวข้อ 6
+- หลังเลือกภาพตั้งต้นแล้ว Claude Code จะเติมบล็อก `IMAGE FACTS` (สิ่งที่ภาพจริงแสดง) ต่อท้าย prompt ตอนส่ง ไม่ต้องเขียนในไฟล์
 
 ## 2. แม่แบบ Video Prompt
 
@@ -19,23 +27,28 @@
 SHOT [Shot ID] / CLIP [Clip ID]. One continuous cinematic live-action shot, vertical 9:16.
 TARGET DURATION: [n] seconds including handles.
 Animate the supplied starting image. Use only this request's image and instructions.
-SCENE GEOGRAPHY: [room appearance, fixed door/window/furniture positions, spatial relationships].
+One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
+SCENE GEOGRAPHY: [only the part of the set inside the frame and the background seen behind
+the cast; positions of visible characters relative to landmarks].
 VISIBLE CAST: [each name, hair, complete wardrobe and accessories, world position, pose,
-facing and eyeline; exact count including partial foreground people].
+facing and eyeline; exact count including partial foreground people; FRAME ORDER from
+screen-left to screen-right copied from the Setup Map].
 CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: [position relative to fixed landmarks,
 viewing direction, axis side, camera height, framing and lens].
 FOREGROUND / VISIBLE BACKGROUND: [named foreground owner if any; wall and details behind
 the subject derived from the viewing direction].
-OFF-FRAME: [relevant people, walls, doors, furniture outside the composition].
+OFF-FRAME: [eyeline target only, e.g. "the person she answers is beyond the right frame
+edge"]. No one else enters the frame at any time.
 LIGHTING / COLOR: [source, direction in the room, softness, color and grade].
-PROP STATE: [objects, positions, holders and hands at clip start].
+PROP STATE: [visible objects only, positions, holders and hands at clip start].
 [For OTS: foreground owner, visible hair and outer garment, focused subject;
 preserve both identities throughout the clip.]
 START STATE: [pose, facing, eyeline, expression, hands and prop state matching the image].
 PERFORMANCE CONTEXT: [current intention and emotion, without quoting other dialogue].
 ACTION: [named actor or object + ordered physical actions; timing only where useful].
 END STATE: [intended final pose, gaze, expression, hands and prop position].
-CAMERA: [static, or one planned continuous movement with direction and endpoint].
+CAMERA: [default "locked-off, the framing never changes"; or one planned continuous
+movement with direction and endpoint].
 VISUAL CONTINUITY: Preserve the starting image's faces, hair, wardrobe, set geometry,
 lighting character and color treatment. Allow only the specified actions and camera
 movement. No unplanned cuts, added people, identity swaps or prop teleportation.

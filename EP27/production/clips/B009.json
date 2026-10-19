@@ -1,16 +1,36 @@
 {
   "clip": "B009",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "65309b7a4378"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Image/EP27_B009_T01.png",
+        "job": "jD1lC5h23J4MO48v7hIU",
+        "result": "ok",
+        "qc": "ผ่าน: 1 คน วิทย์สูทแห้งโน้มตัวพุ่งจากขอบสระ (ยังไม่ลอยกลางอากาศเต็มที่ เบลอน้อยกว่าที่สั่ง)",
+        "cost": 42.0
+      }
+    ],
+    "selected": "EP27/Image/EP27_B009_T01.png",
+    "prompt_sha": "65309b7a4378",
+    "flag": null
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "6f9c7bd8f7cd"
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Video/EP27_B009_T01.mp4",
+        "job": "ba1690d3-0be3-969e-b4ab-de43cb00229d",
+        "result": "ok",
+        "qc": "2.04s; หน้า/ชุดคงที่ คนเดียว แต่ลงน้ำเกินกว่าที่สั่ง (ครึ่งหลังว่ายในน้ำ ขาโผล่) ใช้ได้ถ้าตัดก่อนกระทบน้ำ",
+        "cost": 0.04
+      }
+    ],
+    "selected": "EP27/Video/EP27_B009_T01.mp4",
+    "prompt_sha": "6f9c7bd8f7cd",
+    "flag": "ภาพ: ลงน้ำเร็วกว่าที่สั่ง ครึ่งหลังเป็นท่าว่าย ควรตัดใช้ช่วงต้น"
   },
   "notes": []
 }

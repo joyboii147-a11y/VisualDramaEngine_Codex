@@ -1,16 +1,56 @@
 {
   "clip": "B013",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "3a10b6bb4103"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Image/EP27_B013_T01.png",
+        "job": "SEoLEbRDM7oIUOhavMxG",
+        "result": "ok",
+        "qc": "ผ่าน: 2 คน วิทย์ซ้าย ไอรินขวา เปียก หยดน้ำบนเลนส์ (หน้าชัดกว่าที่สั่งให้เบลอ)",
+        "cost": 42.0
+      },
+      {
+        "take": 2,
+        "file": "EP27/Image/EP27_B013_T02.png",
+        "job": "PTHdjGos5PXNC4hL6laj",
+        "result": "ok",
+        "qc": "ผ่าน: 3 คน วิทย์ซ้าย แม่กลาง ไอรินขวา เปียก ระดับน้ำ ภาพแคบ",
+        "cost": 42.0
+      }
+    ],
+    "selected": "EP27/Image/EP27_B013_T02.png",
+    "prompt_sha": "ab36cc12edcd",
+    "flag": null,
+    "reset_at": 1
   },
   "video": {
     "status": "todo",
-    "takes": [],
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Video/EP27_B013_T01.mp4",
+        "job": "e05e96f6-ab60-901d-88c6-4508e883e941",
+        "result": "fail",
+        "qc": "3.04s; หน้า/ชุดคงที่ โอบเอวถูก แต่ครึ่งหลังกล้องถอยกว้างและทั้งคู่ลุกยืนในน้ำตื้นระดับเข่า เห็นชุดยาวทั้งตัว (ผิดสถานะในน้ำลึก)",
+        "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP27/Video/EP27_B013_T02.mp4",
+        "job": "06ff0732-733c-99dd-960d-1b8fbe3b5944",
+        "result": "ok",
+        "qc": "3.04s; หน้า/ชุดคงที่ โอบเอวถูก ยังอยู่ในน้ำ แต่กล้องถอยออกแทนเข้าหา เห็นขอบสระ/ตะแกรงช่วงท้าย",
+        "cost": 0.06
+      }
+    ],
     "selected": null,
-    "prompt_sha": "914f86aca524"
+    "prompt_sha": "1c2b784d5e9a",
+    "flag": null,
+    "reset_at": 2
   },
-  "notes": []
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
 }

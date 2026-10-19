@@ -1,46 +1,37 @@
 # ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
 # Shot: EP27-S012 | Clip: B012 (B-roll) | SC01 ลานริมสระ กลางวัน
-# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 2 วิ | เสียงโหมด C
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 3 วิ | เสียงโหมด C
 #
 # ตัวละครในเฟรม (รวม 1 คน):
-# - ริต้า C06-W01 ริต้า W04 เดรสแดง | ครึ่งตัว น้ำถึงอก กลางเฟรม มองขวา ปากแยกเล็กน้อย ก่อนอ้าปาก
+# - ริต้า C06-W01 ริต้า Face | กลาง ระนาบกลาง หัวถึงอกพ้นน้ำ มองขวาเฟรมนิ่ง ริษยา ไม่หันหน้า
 #
 # เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
-# - แม่วิทย์ C01-W01 | ในน้ำชิดขอบฝั่งลาน นอกขนาดภาพ
-# - ไอริน C04-W01 | ในน้ำชิดขอบฝั่งลาน นอกขนาดภาพ
-# - วิทย์ C05-W07 | ในสระจุดช่วยไอริน นอกขนาดภาพ
-# - แขกหญิง 1 C02-W02 | บนลานฝั่งอาคารกับกลุ่มแขก นอกขนาดภาพ
-# - แขกหญิง 2 C03-W02 | บนลานฝั่งอาคารกับกลุ่มแขก นอกขนาดภาพ
-# - แขกหญิง 3 C09-W01 | บนลานฝั่งอาคารกับกลุ่มแขก นอกขนาดภาพ
-# - แขกชาย C10-W01 | บนลานฝั่งอาคารกับกลุ่มแขก นอกขนาดภาพ
-# - ชายร่างท้วม C11-W01 | บนลานฝั่งอาคารกับกลุ่มแขก นอกขนาดภาพ
-# - พนักงานหญิง C07-W01 | นอก crop ริมขอบสระตามใบสถานะ นอกขนาดภาพ
+# - วิทย์ / ไอริน / แม่วิทย์ | กลางสระห่าง 3–4 เมตรทางขวาเฟรม นอกขนาดภาพ
+# - แขกหญิง 1–3, แขกชาย, ชายร่างท้วม, แขกอื่น | บนลานฝั่งอาคาร แห้ง นอกขนาดภาพ
+# - พนักงานหญิง C07-W01 | นอก crop ริมขอบสระตามใบสถานะ
 # แนบใน Grok: ภาพที่เลือกจาก EP27_B012_image
 # ผู้พูด: ไม่มี | คนในเฟรมทั้งหมดไม่พูดตามรายชื่อด้านบน
 # ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
 SHOT EP27-S012 / CLIP B012. One continuous cinematic live-action shot, vertical 9:16.
-TARGET DURATION: 2 seconds including handles.
+TARGET DURATION: 3 seconds including handles.
 Animate the supplied starting image. Use only this request's image and instructions.
-STARTING IMAGE: Use the single supplied starting frame for every visible identity, hairstyle, wardrobe, pose and spatial relationship.
-CHARACTERS / VISIBLE CAST:
-Rita: young adult; WARDROBE LOCKED: "a deep burgundy satin halter mini dress with a large sculpted rose at the high neck, draped blouson bodice, fitted mini skirt, open bare back, gold floral stud earrings, and glossy burgundy pointed-toe stiletto pumps with rose ornaments; long dark brown wavy hair half-up". Hair and garments are soaked; water darkens the fabric.
-CAST COUNT: exactly 1 people visible, including all partial and blurred figures.
-SCENE GEOGRAPHY: A long rectangular swimming pool with white stone coping adjoins a white-paved event terrace. On the building side are a tall glass building with a large doorway into a ceiling-lit hall, then the guest terrace, three fixed black pyramid heaters and tall round standing tables, then the coping. Across the pool stands a white-framed glass wall with city high-rises beyond. A glass canopy spans overhead. Irin and Mother of Wit begin at the terrace-side coping; Rita remains in deeper water 3 to 4 meters from them. Heaters and tables stay fixed, without added flames.
-CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: MCU, 45mm, low water-level camera in front of Rita facing the opposite white-framed glass wall; softly blurred glass framing lies behind her head and upper shoulders, with blue pool water behind her lower torso and across the lower foreground; face sharp. Stay on this landmark side of the guest or rescue axis; do not mirror the layout.
-FOREGROUND / VISIBLE BACKGROUND: MCU, 45mm, low water-level camera in front of Rita facing the opposite white-framed glass wall; softly blurred glass framing lies behind her head and upper shoulders, with blue pool water behind her lower torso and across the lower foreground; face sharp. Only the listed figures and objects enter this crop.
-OFF-FRAME: Mother of Wit is in water at terrace-side coping; Irin is in pool at terrace-side coping; Wit is at terrace-side rescue edge in pool; Female Guest 1 is on building-side terrace in established guest group; Female Guest 2 is on building-side terrace in established guest group; Female Guest 3 is on building-side terrace in established guest group; Male Guest is on building-side terrace in established guest group; Stocky Man is on terrace with guest group; Female Staff is beyond selected crop along terrace pool edge; no new action. The doorway, glazing, heaters and tables appear only where the stated view and crop permit. No extra reflected figures.
-PROP STATE: Three fixed black pyramid heaters and tall round standing tables line the terrace. No credit card is present. Rita has no glass; her lost glass has no established location and is not restored to her hands. No new handheld prop enters this crop.
-START STATE: Wet Rita is centered chest-deep, head high in frame, nearly front-facing, looking screen-right at the rescue group with hurt frustration; mouth slightly parted and hands sculling underwater.
-LIGHTING: soft overcast daylight through the glass canopy, cool blue ambient fill across the pool, coherent diffuse reflections on glass and water, approximately 6500K, natural medium-low contrast. Soft key remains overhead through canopy. Warm hall ceiling lights are visible practicals only in doorway views.
-GRADE: cool overcast pool blues, restrained saturation, wet fabric darkening, natural skin tones and controlled glass highlights.
-PERFORMANCE CONTEXT: Express only the specified visible rescue, alarm, concern, fatigue or hurt; invent no conversational meaning.
-ACTION: Hold start for 0.5 seconds. Rita opens her mouth farther in a wordless hurt reaction, keeping her gaze screen-right and maintaining flotation. Perform this single action within the remaining time, then hold final pose for at least 0.5 seconds. Each background figure continues the stated watching, supporting or floating behavior.
-END STATE: Rita opens her mouth farther in a wordless hurt reaction, keeping her gaze screen-right and maintaining flotation.
-CAMERA: locked-off.
-VISUAL CONTINUITY: Preserve supplied faces, hair, wardrobe, set geometry, fixed landmarks and lighting. Only the specified movement occurs. No cuts, added people, identity swaps, cloned guests or prop teleportation. Do not repeat takeoff when already airborne.
+One continuous take: no cuts, no transitions, no dissolves, no fades, no flashbacks, no zoom-out and no reframing; the camera stays at the starting framing for the whole clip.
+SCENE GEOGRAPHY: A long rectangular deep swimming pool with white stone coping adjoins a white-paved event terrace. From the building side: a tall glass building with a large doorway into a ceiling-lit hall, then the guest terrace, three fixed black pyramid heaters and tall round standing tables, then the white coping and the pool. Across the pool stands a white-framed glass wall with city high-rises beyond. A glass canopy spans overhead. Heaters and tables stay fixed, without added flames. Rita treads water in the deeper part of the pool. Wit, Irin and Mother of Wit are together in the middle of the pool 3 to 4 meters away, off screen-right. The pool is deep: anyone in the water is treading water at chest-to-shoulder depth; feet never touch the bottom and never show; no visible pool floor, steps or shallow area.
+VISIBLE CAST:
+Rita: young woman; a young Thai woman with warm fair skin, a sharp oval face, and long dark brown wavy half-up hair; WARDROBE LOCKED: "a deep burgundy satin halter mini dress with a large sculpted rose at the high neck, draped blouson bodice, fitted mini skirt, open bare back, gold floral stud earrings, and glossy burgundy pointed-toe stiletto pumps with rose ornaments; long dark brown wavy hair half-up". No diamond necklace or chandelier earrings. Hair and clothing are soaked and cling to the body; water darkens the fabric.
+CAST COUNT: exactly one person visible: Rita.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: Camera at water level in the pool in front of Rita, about 1.5 meters away, slightly upward-looking. View toward Rita, with the white-framed glass wall across the pool softly defocused behind her head. Framing: medium close-up, 45mm full-frame equivalent, water-surface height, slight upward angle. Keep the established layout; do not mirror it.
+FOREGROUND / VISIBLE BACKGROUND: softly defocused white-framed glass wall and pale high-rises behind her head; rippling pool water in the lower foreground and behind her shoulders.
+OFF-FRAME: Wit, Irin and Mother of Wit are in the middle of the pool beyond the screen-right frame edge; Female Guest 1, Female Guest 2, Female Guest 3, Male Guest, Stocky Man and the other guests stand dry on the building-side terrace outside this crop. Female Staff stays beyond the crop along the terrace pool edge. Nobody enters the frame.
+LIGHTING / COLOR: soft overcast daylight through the glass canopy, cool blue ambient fill across the pool, coherent diffuse reflections on glass and water, approximately 6500K, natural medium-low contrast. Soft key from overhead through the canopy; no added lamps, flames or colored light. GRADE: cool overcast pool blues, restrained saturation, natural skin tones and controlled glass highlights; fabric is darker only on the people stated as wet.
+PROP STATE: Three fixed black pyramid heaters and tall round standing tables line the terrace. No credit card is present. Rita has no glass. Nobody holds a phone or a new handheld prop.
+START STATE: Wet Rita, head to upper chest above the water, wet hair clinging to her face and shoulders, head held still and turned three-quarter toward screen-right; eyes fixed on Wit and Irin off screen-right. Envious, resentful look: eyes narrowed, brows drawn low, jaw tight, lips pressed together.
+PERFORMANCE CONTEXT: Rita watches Wit choose to rescue Irin and burns with envy, keeping her stare fixed on them.
+ACTION: Hold the start for 0.5 seconds. Rita keeps her head still and her eyes locked on Wit and Irin off screen-right; her envy deepens: her eyes narrow further, her nostrils flare slightly, her jaw tightens and her lips press harder. Her hands scull under the water so her shoulders rise and fall gently. She does not turn her head toward the camera or away from them at any moment.
+END STATE: Rita stares off screen-right with narrowed, envious eyes and a tight jaw, head in the same three-quarter position as the start.
+CAMERA: locked-off at the starting framing for the whole clip. One continuous take: no cuts, no transitions, no dissolves, no fades, no flashbacks, no zoom-out and no reframing; the camera stays at the starting framing for the whole clip.
+VISUAL CONTINUITY: Preserve the starting image's faces, hair, wardrobe, set geometry, fixed landmarks, lighting and color. Only the people listed in VISIBLE CAST appear; nobody listed in OFF-FRAME enters the frame, no part of them appears, and no extra swimmers, guests or reflected figures are added. No identity swaps, cloned people or prop teleportation. Water stays deep: feet never touch the bottom and never show.
 AUDIO MODE: no dialogue.
-NON-SPEAKERS: Rita. No speech articulation or speech-like lip-sync from any visible person.
-No intelligible speech or speech-like lip-sync. Open-mouth reactions express only shock, exertion or crying, without articulating words.
-AMBIENCE/SFX: intentional silence; no speech, background chatter, music, gasps, crying sounds or screams.
+No intelligible speech or speech-like lip-sync from anyone. Open-mouth breathing, gasps or effort express only physical strain or emotion, without articulating words.
+AMBIENCE/SFX: quiet lapping pool water only; no speech, chatter or music.
 No captions, subtitles, labels or watermarks.
-

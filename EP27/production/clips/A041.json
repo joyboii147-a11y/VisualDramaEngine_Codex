@@ -1,16 +1,36 @@
 {
   "clip": "A041",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "430300667eb1"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Image/EP27_A041_T01.png",
+        "job": "e31iG9Q4ODBSoTCklkww",
+        "result": "ok",
+        "qc": "ผ่าน: two-shot วิทย์ซ้าย ไอรินขวาเงยมอง ทีวีขวา; ไม่เห็นบัตรในมือ",
+        "cost": 42.0
+      }
+    ],
+    "selected": "EP27/Image/EP27_A041_T01.png",
+    "prompt_sha": "430300667eb1",
+    "flag": null
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "aaca50cfd17e"
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Video/EP27_A041_T01.mp4",
+        "job": "390e0f1a-43bf-9463-baf3-bedc6ce60a6f",
+        "result": "ok",
+        "qc": "5.04s มีเสียง 2 คน หน้า/ชุดคงที่ กล้องนิ่ง อิรินเงยมองวิท การ์ดในมืออิรินที่ท้อง",
+        "cost": 0.1
+      }
+    ],
+    "selected": "EP27/Video/EP27_A041_T01.mp4",
+    "prompt_sha": "aaca50cfd17e",
+    "flag": "ต้องฟังลิปซิงก์"
   },
   "notes": []
 }

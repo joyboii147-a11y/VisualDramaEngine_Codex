@@ -2,31 +2,34 @@
 # Shot: EP27-S028 | Clip: B028 (B-roll) | SC02 ห้องนอนโรงแรม กลางวัน
 # ไฟล์นี้: Image Prompt → OpenArt GPT Image 2 (9:16)
 #
-# ตัวละครในเฟรม (รวม 2 คน):
-# - วิทย์ C05-W08 ชุดแจ็กเก็ตครีมปกดำ | เต็มตัว ซ้าย หันขวาเฟรม
-# - ไอริน C04-W17 ชุดคลุมท้อง | เต็มตัว ขวา มองต่ำเฟรม
+# ตัวละครในเฟรม (รวม 3 คน):
+# - แม่วิทย์ C01-W07 ชุดขาวลูกไม้ | เต็มตัว ขวาเฟรม เดินเข้าหาคู่แล้วหยุดฝั่งหน้าต่าง
+# - ไอริน C04-W17 ชุดคลุมท้อง | เต็มตัว นั่ง กลางค่อนขวา มองต่ำ → เงยมองแม่วิทย์
+# - วิทย์ C05-W08 ชุดแจ็กเก็ตครีมปกดำ (ไม่แนบภาพ ใช้คำบรรยาย) | เต็มตัว นั่ง ซ้ายเฟรม ซับผมไอริน → เงยมองแม่วิทย์
 #
 # เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
-# - แม่วิทย์ C01-W07 ชุดขาวลูกไม้ | นอกกรอบตามตำแหน่งโลกฉากใน prompt
+# - ไม่มี
 #
-# แนบใน OpenArt: 1) input/characters/วิทย์/วิทย์ W06 ชุดแจ็กเก็ตครีมปกดำ.png ; 2) input/characters/ไอริน/ไอริน W12 ชุดคลุมท้อง.png
+# เสี่ยง: 3 คนในเฟรม แนบได้ 2 รูป วิทย์ใช้คำบรรยายแทนภาพ ตรวจหน้าวิทย์ก่อนใช้
+# แนบใน OpenArt: 1) input/characters/แม่วิทย์/แม่วิทย์ W02 ชุดขาวลูกไม้.png ; 2) input/characters/ไอริน/ไอริน W12 ชุดคลุมท้อง.png
 # ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
 Create one standalone starting-frame image for SHOT EP27-S028.
 Vertical 9:16. Cinematic live-action still, photorealistic, natural skin and material texture.
 REFERENCE IMAGES:
-Image 1: Wit — use for face, skin tone, hairstyle, body shape and this exact outfit. Do not copy the background, lighting, pose or camera angle from this image.
+Image 1: Wit's mother — use for face, skin tone, hairstyle, body shape and this exact outfit. Do not copy the background, lighting, pose or camera angle from this image.
 Image 2: Irin — use for face, skin tone, hairstyle, body shape and this exact outfit. Do not copy the background, lighting, pose or camera angle from this image.
-CHARACTERS: Wit, adult, bound to Image 1, wearing a cream button-front jacket with a dark collar over a white crew-neck T-shirt, black trousers, chunky black loafers, and tousled short black hair. Irin, adult, bound to Image 2, wearing a cream knit maternity midi dress with a thin gray under-bust tie, a loose light gray cardigan, a delicate pendant necklace, cream ballet flats, and long dark brown hair worn loose.
-CAST COUNT: exactly 2 visible people including partial figures.
-SCENE GEOGRAPHY: A daytime hotel bedroom, pale neutral wood floor. Wall A holds a beige upholstered double bed, pillows, yellow-gold bed runner and cream bedside lamp. A yellow-flower pot stands near the bed-foot area. Wall B has the sheer-curtained side window to Irins right when seated. Opposite the bed, wall C has pale wood paneling, one black-screen television and an angled wing. Wall D is cream-beige. Entrance position is unestablished and outside view; no invented doorway. Wit occupies the left bed-foot position and Irin the right; mother remains on Irins window side. Camera stays on the open bed-foot side of the interaction axis.
-CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: center room near television side toward couple and bed wall A; open bed-foot side of interaction axis.
-CAMERA / FOCUS: wide,35mm,chest height,deep focus; partial foreground figures softly defocused, main subject sharp.
-FOREGROUND / VISIBLE BACKGROUND: beige headboard, pillows, left lamp, yellow flowers lower left; angled TV wall narrow right edge.
-OFF-FRAME: Wits mother remains outside crop in the established room position Entrance outside composition; window and television stay fixed on walls B and C. Cropped faces and hands stay outside view.
-LIGHTING: soft daylight entering through the side sheer-curtained window, mixed with warm practical bedside-lamp light, a warm neutral room palette, approximately 4000K mixed light, soft natural contrast. Window stays side B and lamp stays beside wall A.
-GRADE: warm beige and pale wood, restrained gold accents, natural skin tones, soft contrast; a subtle cool lavender background in the final close-up without changing the established window light.
-PROP STATE: White cotton towel in Wits two hands. No card displayed.
-HAIR CONTINUITY: Irin's loose dark brown hair remains slightly damp from towel-drying; no sudden drying or hairstyle change.
-START STATE: Wit sits left caring, facing Irin right, holding white towel in both hands beside her damp hair. Irin sits right, legs crossed, hands on bump, calm downward gaze.
-Show only the starting moment, before planned movement begins.
+CHARACTERS: Wit's mother, an elegant middle-aged Thai woman, bound to Image 1, wearing an ivory floral-lace midi dress with a sheer ivory chiffon cape overlay, floral front appliques, a delicate gemstone necklace, small gemstone earrings and ivory pointed heels with jeweled buckles, with dark brown hair in a low braided chignon. Irin, a young pregnant Thai woman with a small visible baby bump, bound to Image 2, wearing a cream knit maternity midi dress with a thin gray under-bust tie, a loose light gray cardigan, a delicate pendant necklace and cream ballet flats, a thin gold ring on her left ring finger, and long dark brown hair worn loose, still slightly damp from towel-drying. Wit (no reference image in this request), a tall young Thai man with warm fair skin, a lean build and tousled short black hair, wearing a cream button-front jacket with a dark collar over a white crew-neck T-shirt, black trousers and chunky black loafers.
+CAST COUNT: exactly 3 people visible: Wit, Irin and Wit's mother. No other person anywhere in the image.
+SCENE GEOGRAPHY: A daytime hotel bedroom with a pale neutral wood floor. Against the back wall stands a double bed with a beige upholstered headboard, white pillows and a yellow-gold runner across the foot of the bed; a cream bedside lamp stands beside the headboard on the cream-wall side. The side wall on the window side has a tall sheer-curtained window letting in soft daylight. The wall facing the bed is pale wood panelling with one black-screen television. The opposite side wall is plain cream-beige. A pot of yellow flowers stands on the floor near the foot of the bed on the cream-wall side. No doorway is shown. Wit and Irin sit side by side on the edge of the bed foot, facing into the room toward the television wall: Wit on the cream-wall side, Irin beside him on the window side. Wit's mother has just come in from the window side of the room and is walking across the open floor toward the seated couple.
+CAMERA POSITION: in the middle of the room near the television wall, on the open front side of the bed, at standing chest height.
+VIEW DIRECTION: toward the foot of the bed and the headboard wall beyond; the window side is on the right of the frame.
+VISIBLE BACKGROUND: beige upholstered headboard, white pillows, the cream lamp at the left side of the headboard, the yellow-gold runner at the bed foot, and the edge of the bright sheer-curtained window at the far right edge; yellow flowers in the lower left corner.
+OFF-FRAME: the television wall is behind the camera. No doorway is visible.
+PROP STATE: Wit holds a folded white cotton towel in both hands beside Irin's damp hair. Wit's mother's hands are empty. No other props visible.
+START STATE: Wit sits on the left of the frame, turned toward Irin, gently dabbing her damp hair with the towel, attentive and caring. Irin sits just right of center on Wit's window side, legs crossed, both hands resting on her bump, calm, eyes lowered. Wit's mother is in the right third of the frame, slightly closer to the camera than the couple, visible head to toe, mid-stride as she walks from the window side toward the couple, gentle smile, arms relaxed at her sides with empty hands.
+CAMERA: wide shot, 35mm full-frame equivalent, standing chest height, level.
+FOCUS: deep focus; all three people sharp.
+LIGHTING: soft daylight through the sheer-curtained window on the window side, mixed with warm light from the cream bedside lamp beside the headboard, approximately 4000K mixed light, soft natural contrast; the daylight always comes from the window side.
+GRADE: warm beige and pale wood, restrained gold accents, natural skin tones, soft contrast.
+Show only the starting moment, before any planned movement begins.
 No captions, subtitles, labels, watermarks, panels or collage.

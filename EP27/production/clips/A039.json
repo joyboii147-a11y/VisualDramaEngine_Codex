@@ -1,16 +1,36 @@
 {
   "clip": "A039",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "5ac3df3188bf"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Image/EP27_A039_T01.png",
+        "job": "SHkNVwkqkxpTetL2AZHM",
+        "result": "ok",
+        "qc": "ผ่าน: มือแม่ขวาบนถือบัตรเหนือฝ่ามือซ้ายไอริน มีแหวน ไม่มีหน้า",
+        "cost": 42.0
+      }
+    ],
+    "selected": "EP27/Image/EP27_A039_T01.png",
+    "prompt_sha": "5ac3df3188bf",
+    "flag": null
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "d51da0f9a22e"
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Video/EP27_A039_T01.mp4",
+        "job": "119aedc1-0199-92a1-a2be-a9e6ee9dcec8",
+        "result": "ok",
+        "qc": "4.04s มีเสียง มือ 2 ข้าง การ์ดใบเดียวส่งจากมือแม่ไปมืออิรินครบ แหวนมีอยู่ กลางคลิปเห็นปลายผมแม่ขอบขวาบน ไม่เห็นหน้า",
+        "cost": 0.08
+      }
+    ],
+    "selected": "EP27/Video/EP27_A039_T01.mp4",
+    "prompt_sha": "d51da0f9a22e",
+    "flag": "ต้องฟังเสียงพูด OS (แม่)"
   },
   "notes": []
 }

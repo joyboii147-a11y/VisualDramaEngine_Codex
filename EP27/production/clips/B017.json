@@ -1,16 +1,80 @@
 {
   "clip": "B017",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "43b6e457b4d5"
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Image/EP27_B017_T01.png",
+        "job": "1oYnvHug1g5FjXCzIxM4",
+        "result": "ok",
+        "qc": "ผ่าน: 2 คน วิทย์ประคองเอวไอริน มองขวา (เห็นหน้าไอรินด้านข้างมากกว่าที่สั่งเล็กน้อย)",
+        "cost": 42.0
+      },
+      {
+        "take": 2,
+        "file": "EP27/Image/EP27_B017_T02.png",
+        "job": "z1HwSn0W7IQwUPbVHPYA",
+        "result": "fail",
+        "qc": "ไม่ผ่านข้อ 5/8: วิทย์อยู่หลังขอบสระฝั่งเทอเรซ (โผล่จากพื้นเทอเรซ) ไม่ได้อยู่ในน้ำหน้าขอบ ตำแหน่งเป็นไปไม่ได้",
+        "cost": 42.0
+      },
+      {
+        "take": 3,
+        "file": "EP27/Image/EP27_B017_T03.png",
+        "job": "aMwruCbh8WbJqdQFLeOt",
+        "result": "fail",
+        "qc": "ไม่ผ่านข้อ 8 บางส่วน: วิทย์เปียกอยู่ในน้ำ มือวางบนขอบ แต่ขอบสระอยู่ระหว่างกล้องกับวิทย์ (หันหน้าเข้ากล้อง) ภูมิศาสตร์กลับด้าน ดีกว่า T02",
+        "cost": 42.0
+      },
+      {
+        "take": 4,
+        "file": "EP27/Image/EP27_B017_T04.png",
+        "job": "01a1533a-fd44-7af1-821e-959770104239",
+        "result": "fail",
+        "qc": "ทดสอบ fal.ai: ภาพคมเทียบเท่า OpenArt แต่ผังผิดแบบเดียวกับ T03 (สระหน้ากล้อง-ขอบ-วิทย์ในร่องน้ำอีกชั้น) ต้องแก้ prompt มุมกล้อง",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP27/Image/EP27_B017_T03.png",
+    "prompt_sha": "12c9a3f335b8",
+    "flag": "ผังกลับด้าน: ขอบสระขวางระหว่างกล้องกับวิทย์ (T02–T04 ทั้ง OpenArt และ fal) — ต้องแก้ prompt มุมกล้อง",
+    "reset_at": 1
   },
   "video": {
     "status": "todo",
-    "takes": [],
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Video/EP27_B017_T01.mp4",
+        "job": "ebd906e3-8072-9ebf-9e8c-b1ec106ade9c",
+        "result": "fail",
+        "qc": "3.04s; หน้า/ชุดคงที่ แต่ช่วงท้ายมีหัวคนเพิ่มในสระพื้นหลัง (CAST COUNT 2) และไอรินหันหลังเต็มตัวเห็นทั้งชุด",
+        "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP27/Video/EP27_B017_T02.mp4",
+        "job": "000fd8bb-9724-990b-a71a-74a16dfbe4af",
+        "result": "fail",
+        "qc": "3.04s; มีคนเพิ่มทั้งในสระและบนระเบียง (CAST COUNT 2) ไอรินหันหลังเต็มตัว",
+        "cost": 0.06
+      },
+      {
+        "take": 3,
+        "file": "EP27/Video/EP27_B017_T03.mp4",
+        "job": "b2b26c81-36b1-937d-8423-eaa0d06676d6",
+        "result": "fail",
+        "qc": "3.04s; ช่วงท้ายมีคนเพิ่มในสระ/ระเบียง (CAST COUNT 2) เหมือน T01/T02",
+        "cost": 0.06
+      }
+    ],
     "selected": null,
-    "prompt_sha": "65ae005b7042"
+    "prompt_sha": "a3d9bd23a07d",
+    "flag": "ภาพ: ครบ 3 take ทุก take มีคนเพิ่มในพื้นหลังช่วงท้าย ใช้ ~1.5 วิแรก",
+    "reset_at": 3
   },
-  "notes": []
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
 }

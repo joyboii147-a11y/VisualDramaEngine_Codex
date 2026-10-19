@@ -2,41 +2,41 @@
 # Shot: EP27-S022 | Clip: A022 (A-roll) | SC01 ลานริมสระ กลางวัน
 # ไฟล์นี้: Image Prompt → OpenArt GPT Image 2 (9:16)
 #
-# ตัวละครในเฟรม (รวม 5 คน):
-# - ชายร่างท้วม C11-W01 ไม่มีภาพอ้างอิง | กลาง-ล่าง · ระนาบหน้า · ตกน้ำ ศีรษะและแขน
-# - ไอริน C04-W01 ไอริน W07 ชุดเดรสคลุมท้องลูกไม้สีไอวอรี่แบบเกาะอก | ซ้าย · ระนาบกลาง · กระโปรงลูกไม้ขาวขณะถูกดันขึ้นลาน
-# - วิทย์ C05-W07 วิทย์ W05 ชุดลำลอง | กลาง · ระนาบกลาง · ดันไอรินขึ้น
-# - แม่วิทย์ C01-W01 แม่วิทย์ W01 ชุดออกงาน | กลางบน · ระนาบหลัง · บนลาน
-# - แขกหญิง 1 C02-W02 ไม่มีภาพอ้างอิง | ซ้ายบน · ระนาบหลัง · ยืนบนลาน
+# ตัวละครในเฟรม (รวม 4 คน):
+# - ชายร่างท้วม C11-W01 ไม่มีภาพอ้างอิง | กลางล่าง ระนาบหน้า ในน้ำลึก หัวไหล่เพิ่งโผล่พ้นน้ำ
+# - วิทย์ C05-W07 วิทย์ W05 ชุดลำลอง | กลางบน ระนาบหลัง ยืนบนขอบสระ มองลงด้วยความแปลกใจ
+# - ไอริน C04-W01 ไอริน W07 ชุดเดรสคลุมท้องลูกไม้สีไอวอรี่แบบเกาะอก | ซ้ายบน ระนาบหลัง ยืนบนขอบสระข้างวิทย์ มองลงแปลกใจ
+# - แม่วิทย์ C01-W01 ไม่แนบภาพ (เกิน 2 รูปแนบ ใช้คำบรรยาย — เสี่ยงหน้าเพี้ยน) | ขวาบน ระนาบหลัง ยืนบนขอบสระข้างวิทย์ มองลงแปลกใจ
 #
 # เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
-# - ริต้า C06-W01 | ในสระลึกห่างกลุ่มช่วย 3–4 เมตร นอกขนาดภาพ
-# - แขกหญิง 2 C03-W02 | บนลานฝั่งอาคารกับกลุ่มแขก นอกขนาดภาพ
-# - แขกหญิง 3 C09-W01 | บนลานฝั่งอาคารกับกลุ่มแขก นอกขนาดภาพ
-# - แขกชาย C10-W01 | บนลานฝั่งอาคารกับกลุ่มแขก นอกขนาดภาพ
-# - พนักงานหญิง C07-W01 | นอก crop ริมขอบสระตามใบสถานะ นอกขนาดภาพ
-# แนบใน OpenArt: 1) input/characters/ไอริน/ไอริน W07 ชุดเดรสคลุมท้องลูกไม้สีไอวอรี่แบบเกาะอก.png; 2) input/characters/วิทย์/วิทย์ W05 ชุดลำลอง.png; 3) input/characters/แม่วิทย์/แม่วิทย์ W01 ชุดออกงาน.png
+# - ริต้า C06-W01 | น้ำลึก นอก crop ขวา
+# - แขกหญิง 1 C02-W02 | บนลาน ถือถาดแก้ว นอก crop ซ้าย
+# - แขกหญิง 2–3, แขกชาย, แขกอื่น | บนลาน แห้ง นอก crop
+# - พนักงานหญิง C07-W01 | นอก crop ริมขอบสระตามใบสถานะ
+# เสี่ยง: ชายร่างท้วมไม่มีภาพอ้างอิง แม่วิทย์ใช้คำบรรยาย
+# แนบใน OpenArt: 1) input/characters/วิทย์/วิทย์ W05 ชุดลำลอง.png; 2) input/characters/ไอริน/ไอริน W07 ชุดเดรสคลุมท้องลูกไม้สีไอวอรี่แบบเกาะอก.png
 # ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
 Create one standalone starting-frame image for SHOT EP27-S022.
 Vertical 9:16. Cinematic live-action still, photorealistic.
 REFERENCE IMAGES:
-Image 1: Irin — use for face, skin tone, hairstyle, body shape and this exact outfit. Do not copy the background, lighting, pose or camera angle from this image.
-Image 2: Wit — use for face, skin tone, hairstyle, body shape and this exact outfit. Do not copy the background, lighting, pose or camera angle from this image.
-Image 3: Mother of Wit — use for face, skin tone, hairstyle, body shape and this exact outfit. Do not copy the background, lighting, pose or camera angle from this image.
-CHARACTERS / VISIBLE CAST:
-Stocky Man: adult; a stocky adult Thai man with medium skin and short dark hair; WARDROBE LOCKED: "a dark jacket and short dark hair on a stocky adult man". Hair and garments are soaked; water darkens the fabric. Dark trousers cover his legs.
-Irin: young adult; WARDROBE LOCKED: "a white strapless floor-length maternity gown in floral lace, fitted over a visible baby bump with a soft draped lace panel and a slight train, a delicate pearl necklace, pearl stud earrings, white pointed-toe low heels, and long dark brown wavy hair worn loose". Hair and garments are soaked; water darkens the fabric. STORY OVERRIDE TO FOOTWEAR ONLY: Irin is barefoot throughout this pool sequence. The white heels listed in the wardrobe reference are not worn and remain on the dry terrace outside this crop. Preserve an opaque maternity dress and baby-bump silhouette.
-Wit: young adult; WARDROBE LOCKED: "a charcoal gray two-piece suit with a white collared shirt, a black necktie, a white pocket square, black leather lace-up shoes, and tousled short black hair". Hair and garments are soaked; water darkens the fabric.
-Mother of Wit: middle-aged adult; WARDROBE LOCKED: "a champagne-nude floor-length fitted gown densely embroidered with tonal floral beadwork, high collar with a keyhole neckline, sheer long lace cape sleeves draping to the floor, pearl stud earrings, and dark brown hair in a low braided chignon with loose face-framing tendrils". Hair and garments are soaked; water darkens the fabric.
-Female Guest 1: adult in her forties; a well-dressed Thai female jewelry-event guest in her forties; WARDROBE LOCKED: "a beige tailored suit over a white ruffled-collar shirt, with hair gathered in a bun".
-CAST COUNT: exactly 5 people visible, including all partial and blurred figures.
-SCENE GEOGRAPHY: A long rectangular swimming pool with white stone coping adjoins a white-paved event terrace. On the building side are a tall glass building with a large doorway into a ceiling-lit hall, then the guest terrace, three fixed black pyramid heaters and tall round standing tables, then the coping. Across the pool stands a white-framed glass wall with city high-rises beyond. A glass canopy spans overhead. Irin and Mother of Wit begin at the terrace-side coping; Rita remains in deeper water 3 to 4 meters from them. Heaters and tables stay fixed, without added flames.
-CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: medium shot, 32mm, water-level low angle; pool camera near terrace coping looking upward toward fixed black heater and terrace behind rescue group; moderate focus, splash foreground. Stay on this landmark side of the guest or rescue axis; do not mirror the layout.
-FOREGROUND / VISIBLE BACKGROUND: medium shot, 32mm, water-level low angle; pool camera near terrace coping looking upward toward fixed black heater and terrace behind rescue group; moderate focus, splash foreground. Only the listed figures and objects enter this crop.
-OFF-FRAME: Rita is in deeper water 3 to 4 meters from rescue edge; Female Guest 2 is on building-side terrace in established guest group; Female Guest 3 is on building-side terrace in established guest group; Male Guest is on building-side terrace in established guest group; Female Staff is beyond selected crop along terrace pool edge; no new action. The doorway, glazing, heaters and tables appear only where the stated view and crop permit. No extra reflected figures.
-PROP STATE: Three fixed black pyramid heaters and tall round standing tables line the terrace. No credit card is present. Rita has no glass; her lost glass has no established location and is not restored to her hands. Female Guest 1 holds a silver tray with exactly two clear glasses level in both hands on terrace behind Mother of Wit; the tray remains in her hands.
-START STATE: Stocky Man is foreground center-lower, head and arms visible falling toward water after takeoff, intent on helping. Irin's wet lace skirt and rising body are left middle plane as concerned wet Wit supports her upward at center. Wet frightened Mother of Wit kneels on terrace upper-center; dry Female Guest 1 stands upper-left holding the tray and two clear glasses in both hands.
-LIGHTING: soft overcast daylight through the glass canopy, cool blue ambient fill across the pool, coherent diffuse reflections on glass and water, approximately 6500K, natural medium-low contrast. Soft key remains overhead through canopy. Warm hall ceiling lights are visible practicals only in doorway views.
-GRADE: cool overcast pool blues, restrained saturation, wet fabric darkening, natural skin tones and controlled glass highlights.
-Show only the starting moment before any planned movement begins. Natural wet materials and realistic water support.
+Image 1: Wit — use for face, skin tone, hairstyle, body shape and this exact outfit. Do not copy the background, lighting, pose or camera angle from this image.
+Image 2: Irin — use for face, skin tone, hairstyle, body shape and this exact outfit. Do not copy the background, lighting, pose or camera angle from this image.
+CHARACTERS:
+Stocky Man: adult man; a stocky adult Thai man with medium skin and short dark hair, clearly heavier and rounder-built than every other man present, with a full round face; WARDROBE LOCKED: "a dark jacket and short dark hair on a stocky adult man". The jacket is a plain dark green-black zip jacket over a dark top, with plain dark trousers and black shoes; no suit, no necktie, no white shirt. Hair and clothing are soaked and cling to the body; water darkens the fabric.
+Wit: young adult man (Image 1); WARDROBE LOCKED: "a charcoal gray two-piece suit with a white collared shirt, a black necktie, a white pocket square, black leather lace-up shoes, and tousled short black hair". Hair and clothing are soaked and cling to the body; water darkens the fabric.
+Irin: young pregnant woman (Image 2); WARDROBE LOCKED: "a white strapless floor-length maternity gown in floral lace, fitted over a visible baby bump with a soft draped lace panel and a slight train, a delicate pearl necklace, pearl stud earrings, white pointed-toe low heels, and long dark brown wavy hair worn loose". STORY OVERRIDE TO FOOTWEAR ONLY: Irin is barefoot throughout this pool sequence; the white heels are not worn. Preserve an opaque maternity gown and a visible baby-bump silhouette. Hair and clothing are soaked and cling to the body; water darkens the fabric.
+Mother of Wit: middle-aged woman; an elegant middle-aged Thai woman with warm medium skin, refined oval face, dark brown hair in a low braided chignon; WARDROBE LOCKED: "a champagne-nude floor-length fitted gown densely embroidered with tonal floral beadwork, high collar with a keyhole neckline, sheer long lace cape sleeves draping to the floor, pearl stud earrings, and dark brown hair in a low braided chignon with loose face-framing tendrils". The gown stays champagne-nude (only darker where wet), never green. Hair and clothing are soaked and cling to the body; water darkens the fabric.
+CAST COUNT: exactly 4 people visible: Stocky Man in the water, and Wit, Irin and Mother of Wit standing on the coping.
+SCENE GEOGRAPHY: A long rectangular deep swimming pool with white stone coping adjoins a white-paved event terrace. From the building side: a tall glass building with a large doorway into a ceiling-lit hall, then the guest terrace, three fixed black pyramid heaters and tall round standing tables, then the white coping and the pool. Across the pool stands a white-framed glass wall with city high-rises beyond. A glass canopy spans overhead. Heaters and tables stay fixed, without added flames. Stocky Man has just jumped into the deep water near the terrace-side coping. Wit, Irin and Mother of Wit, all soaked, stand together on the coping right above him. Rita is in deeper water beyond the screen-right frame edge. The pool is deep: anyone in the water is treading water at chest-to-shoulder depth; feet never touch the bottom and never show; no visible pool floor, steps or shallow area.
+CAMERA POSITION: in the pool at water level about 2 meters from the terrace-side coping.
+VIEW DIRECTION: upward toward the coping and the three people standing on it, with a black pyramid heater and the glass building behind them.
+VISIBLE BACKGROUND: settling splash water in the foreground, the white coping, the three wet people standing on it, a black pyramid heater, a tall standing table and the glass building facade behind.
+OFF-FRAME: Rita treads water in the deep part of the pool beyond the screen-right edge; Female Guest 1 stands on the terrace beyond the screen-left edge holding a tray; the other guests stand dry on the terrace outside the crop. Female Staff stays beyond the crop along the terrace pool edge. None of them enters the frame.
+PROP STATE: Three fixed black pyramid heaters and tall round standing tables line the terrace. No credit card is present. Rita has no glass. Nobody holds a phone or a new handheld prop. Female Guest 1 holds a silver tray with two clear glasses outside the crop.
+START STATE: Lower center foreground: Stocky Man's head and shoulders have just broken the surface of the deep water amid settling splash, face wet, eyes squeezed, mouth closed. Upper frame on the coping, all three soaked and standing: Irin on screen-left, barefoot, Wit at center with his left arm around Irin's waist, Mother of Wit on screen-right; all three look down at Stocky Man in surprise, brows raised, lips parted.
+CAMERA: medium-wide shot, 32mm full-frame equivalent, water level, upward angle.
+FOCUS: Stocky Man sharp; the three on the coping slightly softer but recognizable.
+LIGHTING: soft overcast daylight through the glass canopy, cool blue ambient fill across the pool, coherent diffuse reflections on glass and water, approximately 6500K, natural medium-low contrast. Soft key from overhead through the canopy; no added lamps, flames or colored light.
+GRADE: cool overcast pool blues, restrained saturation, natural skin tones and controlled glass highlights; fabric is darker only on the people stated as wet.
+Show only the starting moment, before any planned movement begins.
 No captions, subtitles, labels, watermarks, panels or collage.

@@ -9,7 +9,7 @@
 **ข้อมูลที่ต้องมีในทุก Image Prompt และเขียนซ้ำครบใน Video Prompt:**
 
 1. **สถานที่และผัง:** ประเภทห้อง ผนัง พื้น ตำแหน่งประตู หน้าต่าง เฟอร์นิเจอร์หลัก ระบุทิศในห้องแยกจากซ้าย/ขวาของภาพ ไม่ใช้แค่ชื่อสถานที่หรือรหัส
-2. **ตัวละครและตำแหน่ง:** ชื่อ จำนวนคนที่เห็นรวมคนติดขอบเฟรมหรือเห็นแค่ไหล่ ชุดและเครื่องประดับ ทรงผม ตำแหน่ง ท่า ทิศหน้า สายตา มองใคร ถ้ามีภาพตัวละคร ใช้ภาพเป็นหลักตามหัวข้อ 3
+2. **ตัวละครและตำแหน่ง:** ชื่อ จำนวนคนที่เห็นรวมคนติดขอบเฟรมหรือเห็นแค่ไหล่ ชุดและเครื่องประดับ ทรงผม ตำแหน่ง ท่า ทิศหน้า สายตา มองใคร ถ้ามีภาพตัวละคร ใช้ภาพเป็นหลักตามหัวข้อ 3 **ตำแหน่ง ลำดับซ้าย→ขวาในเฟรม ท่า สภาพ (เปียก/แห้ง ระดับน้ำ) และพร็อพในมือ คัดลอกจาก Blocking Table และคอลัมน์ "เห็นในเฟรม ซ้าย→ขวา" ของ Setup ใน `03_setup_map.md` (v68) ห้ามคำนวณเอง**
 3. **กล้อง:** ตำแหน่งกล้องเทียบกับจุดคงที่ในห้อง ทิศที่หัน ฝั่งของแกนสนทนา ระดับ ขนาดภาพ เลนส์ สำหรับภาพนิ่งระบุเฟรมเริ่ม ไม่สั่งให้ภาพนิ่งแสดงการเคลื่อนหลายช่วง
 4. **สิ่งที่เห็นและไม่เห็น:** Foreground, Subject, Visible Background, Off-frame ระบุว่าหลังตัวละครเป็นผนังใด มีอะไรจริง ห้ามใช้เพียง "ผนังเบลอ"
 5. **แสงและสี:** แหล่งแสง ทิศในห้อง ความนุ่ม สีแสง โทนภาพ แหล่งแสงไม่ย้ายฝั่งเพราะเปลี่ยนมุมกล้อง
@@ -49,7 +49,7 @@
 | ตัวละครไม่มีโฟลเดอร์ภาพ | ไม่แนบ | ใช้ Identity Block เต็มจาก Bible |
 
 - แนบเฉพาะตัวละครที่**เห็นในภาพนี้** ไม่แนบหลายภาพของคนเดียวกันพร้อมกัน
-- จำนวนภาพแนบรวมไม่เกินค่าที่ AGENTS.md กฎข้อ 10 กำหนด
+- จำนวนภาพแนบรวมไม่เกินค่าที่ AGENTS.md กฎข้อ 10 กำหนด (v68: ขึ้นกับช่องทางสร้างภาพ — fal แนบได้ 8, OpenArt ใช้จริงแค่ 2 รูปแรก) แนบให้ครบทุกคนที่เห็นหน้าก่อนพิจารณาตัดคน
 - ไม่แนบภาพสถานที่หรือพร็อพถ้าไม่จำเป็น
 
 **บล็อก REFERENCE IMAGES** อยู่ต้น prompt บอกหน้าที่ของแต่ละภาพตามลำดับการอัปโหลด ใช้ประโยคตามชนิดภาพ:
@@ -88,12 +88,18 @@ CAST COUNT: exactly [n] people visible, including partial figures.
 [For OTS only: FOREGROUND OWNER / VISIBLE FOREGROUND IDENTITY / CAMERA RELATION /
 FOCUS SUBJECT / OCCLUSION block from section 5.]
 SCENE GEOGRAPHY: [room type, walls, floor, fixed door/window/furniture positions;
-character positions relative to named walls or landmarks].
+positions of the VISIBLE characters only, relative to named walls or landmarks].
+FRAME ORDER: from screen-left to screen-right: [names, copied from the Setup Map column].
 CAMERA POSITION: [physical location in the room, side of the conversation axis].
 VIEW DIRECTION: [toward named subject, then the named wall or landmark beyond].
+BETWEEN CAMERA AND SUBJECT: [what the line of sight crosses: nothing / open floor /
+water surface; never an obstacle that hides or reverses the subject].
 VISIBLE BACKGROUND: [only architecture and objects inside this view and crop].
-OFF-FRAME: [relevant walls, objects or people outside the frame, with spatial reason].
-START STATE: [pose, body facing, eyeline, expression, relative depth, hands, prop state].
+OFF-FRAME: [only what the eyeline needs, e.g. "the person Irin looks at is outside the
+right frame edge"; no names-and-positions list; end with "No other person or any part
+of another person appears in the frame."].
+START STATE: [pose, body facing, eyeline, expression, relative depth, hands, prop state
+— visible props only; props outside the crop are not mentioned].
 CAMERA: [shot size], [full-frame-equivalent focal length], [height], [angle].
 FOCUS: [subject and depth of field].
 LIGHTING: [source, direction in the room, quality, color temperature for this setup].
@@ -102,6 +108,11 @@ Show only the starting moment, before any planned movement begins.
 No captions, subtitles, labels, watermarks, panels or collage.
 ```
 
+- **สิ่งที่อยู่นอกเฟรมคือสิ่งที่โมเดลจะพยายามวาดเข้ามา (v68):** ทั้ง GPT Image และ Grok วาดคน มือ และพร็อพที่ prompt เอ่ยถึงเข้ามาในเฟรม แม้เขียนว่า "below crop" หรือ "off-frame" (หลักฐาน EP27: A034/A035 มือและบัตรโผล่, A042 ผมคนเบลอที่ขอบ) จึงให้เอ่ยถึงคนนอกเฟรมเท่าที่จำเป็นต่อสายตาเท่านั้น ไม่บรรยายชื่อ ชุด ท่าของเขา และไม่ใส่พร็อพนอกเฟรมใน START STATE/PROP STATE
+- ห้ามสั่ง "partial foreground figures softly defocused" หรือคนหน้าเฟรมใดๆ นอกจาก OTS ที่ตั้งใจตามหัวข้อ 5
+- คำบรรยายสภาพต้องใช้กับคนที่มีสภาพนั้นเท่านั้น เช่น "wet fabric", "natural wet materials" ใส่เฉพาะเมื่อมีคนเปียกในเฟรม และระบุคนที่แห้งว่า "completely dry"
+- ฉากในน้ำลึกต้องบอกระดับน้ำบนตัว (chest/shoulder/neck depth) และ "feet never touch the bottom" ไม่ใช่แค่ "in the pool"
+- Grade ประจำฉากห้ามมีคำที่สร้างวัตถุใหม่ (เช่น "lavender background" ทำให้เกิดคนชุดม่วง) ให้เป็นโทนสีของสิ่งที่มีอยู่แล้วเท่านั้น
 - แทนที่ทุกช่องด้วยข้อมูลจริง ห้ามเหลือวงเล็บหรือ placeholder
 - ภาพ CU ที่ไม่เห็นพร็อพ ไม่ต้องบังคับให้พร็อพเข้าเฟรม แต่ระบุว่าอยู่นอกเฟรม
 - สีหน้าใน START STATE คือสีหน้าตอน**เริ่ม**คลิป (เช่น ยังยิ้มอยู่ ก่อนเปลี่ยนเป็นช็อก)
@@ -141,6 +152,9 @@ GPT Image 2 วาดตัวหนังสือได้ดี จึงต�
 ## 7. ตรวจผังก่อนบันทึกไฟล์
 
 - กล้องอยู่ตรงไหน มองไปทางไหน
+- **เส้นมองจากกล้องถึงตัวละครผ่านอะไร (v68)** ถ้าผ่านสิ่งที่ทำให้ตัวละครดูอยู่ผิดฝั่ง (เช่น กล้องในสระมองคนที่ขอบสระ ขอบจะขวางกลายเป็นคนอยู่ในร่อง) ให้ย้ายกล้อง ไม่ใช่เขียนบรรยายเพิ่ม
+- FRAME ORDER ตรงกับคอลัมน์ "เห็นในเฟรม ซ้าย→ขวา" ของ Setup และไม่สลับกับ Shot ก่อน/หลังที่กล้องอยู่ฝั่งเดียวกัน
+- ช่องใดเอ่ยถึงคน มือ หรือพร็อพที่อยู่นอกเฟรม ให้ลบออก เหลือไว้เฉพาะเป้าสายตาใน OFF-FRAME
 - มองผ่านตัวละครแล้ว พื้นที่ข้างหลังตรงกับ Scene Geography หรือไม่
 - พื้นหลังเป็นของมุมนี้จริง หรือเผลอคัดลอกจากภาพเปิดฉาก
 - สิ่งนอกกรอบมีเหตุผลจากผังหรือ crop และไม่ถูกสั่งให้โผล่ในส่วนอื่นของ prompt

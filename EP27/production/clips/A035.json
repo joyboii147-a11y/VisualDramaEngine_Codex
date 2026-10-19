@@ -1,16 +1,80 @@
 {
   "clip": "A035",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "2597d7b6365e"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Image/EP27_A035_T01.png",
+        "job": "WNOKwykjimHx8sUr9oD2",
+        "result": "fail",
+        "qc": "ข้อ5: บัตรอยู่ในมือที่ยื่นมาจากฝั่งวิทย์ (แขนเสื้อครีม) ไม่ใช่มือแม่ และมือ/บัตรต้องอยู่นอกเฟรม",
+        "cost": 42.0
+      },
+      {
+        "take": 2,
+        "file": "EP27/Image/EP27_A035_T02.png",
+        "job": "eqC3RA0nz7vol8dTEKaN",
+        "result": "fail",
+        "qc": "ข้อ5: ซ้ำ T01 มือที่ถือบัตรมาจากฝั่งวิทย์ ไม่ใช่มือแม่ และมือ/บัตรต้องอยู่นอกเฟรม",
+        "cost": 42.0
+      },
+      {
+        "take": 3,
+        "file": "EP27/Image/EP27_A035_T03.png",
+        "job": "6SQW2ZaXbyTG9SVgkn1q",
+        "result": "fail",
+        "qc": "ข้อ5: ซ้ำทุก take มือถือบัตรมาจากฝั่งวิทย์ (แขนครีม) ไม่ใช่มือแม่ และมือ/บัตรอยู่ในเฟรม",
+        "cost": 42.0
+      },
+      {
+        "take": 4,
+        "file": "EP27/Image/EP27_A035_T04.png",
+        "job": "0dC5uXiPWap2XAERQszw",
+        "result": "ok",
+        "qc": "ผ่าน: ไอรินซ้ายก้มมองตัก แม่ขวาเกือบโปรไฟล์ยิ้ม ไม่มีบัตรในเฟรม; มือแม่โผล่มุมล่างขวาเล็กน้อย",
+        "cost": 42.0
+      }
+    ],
+    "selected": "EP27/Image/EP27_A035_T04.png",
+    "prompt_sha": "7d68ec9885ad",
+    "flag": null,
+    "reset_at": 3
   },
   "video": {
     "status": "todo",
-    "takes": [],
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Video/EP27_A035_T01.mp4",
+        "job": "dab8fae6-e685-9555-919d-c6af8322ac91",
+        "result": "fail",
+        "qc": "8.04s มีเสียง ช่วงแรกตรงภาพตั้งต้น แต่ท้ายคลิปกล้องถอยเป็นมุมกว้างเห็นอิรินเต็มตัว/ทีวี (เปลี่ยนมุมกล้อง) หน้าอิรินเพี้ยนเล็กน้อย",
+        "cost": 0.16
+      },
+      {
+        "take": 2,
+        "file": "EP27/Video/EP27_A035_T02.mp4",
+        "job": "49c15b3c-1d0a-92db-97c2-87d0950f2481",
+        "result": "fail",
+        "qc": "ซ้ำแบบ T01: กลางคลิปเฟดซ้อน หน้าซ้อนสองชั้น แล้วเปลี่ยนเป็นมุมกว้าง",
+        "cost": 0.16
+      },
+      {
+        "take": 3,
+        "file": "EP27/Video/EP27_A035_T03.mp4",
+        "job": "aefc473c-4d0e-9f25-96ad-a11421baf17b",
+        "result": "fail",
+        "qc": "ซ้ำ: กลางคลิปเฟดซ้อนหน้าสองชั้น แล้วเปลี่ยนเป็นมุมกว้าง",
+        "cost": 0.16
+      }
+    ],
     "selected": null,
-    "prompt_sha": "4bf9f08fb8a9"
+    "prompt_sha": "f303f445d3f9",
+    "flag": "ครบ 3 take ไม่ผ่าน: ทุก take เปลี่ยนเป็นมุมกว้างช่วงท้าย T01 ช่วง ~0-4 วิแรกยังตรงภาพตั้งต้น บทพูด 8 วิอาจไม่ครบในช่วงที่ใช้ได้; ต้องฟังลิปซิงก์",
+    "reset_at": 3
   },
-  "notes": []
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
 }

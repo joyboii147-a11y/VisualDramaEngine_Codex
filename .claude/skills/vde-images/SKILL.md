@@ -1,12 +1,22 @@
 ---
 name: vde-images
-description: สร้างภาพตั้งต้นของทุกคลิปด้วย OpenArt GPT Image 2 จากไฟล์ EPxx/prompts/*_image.txt แนบภาพตัวละครตามหัวไฟล์ ตรวจภาพเองและเลือกภาพที่ผ่าน ใช้เมื่อสั่ง "สร้างรูป EPxx" หรือ "สร้างรูป EPxx SC01"
+description: สร้างภาพตั้งต้นของทุกคลิปด้วย GPT Image 2 (fal.ai หรือ OpenArt ตาม image_provider ใน config) จากไฟล์ EPxx/prompts/*_image.txt แนบภาพตัวละครตามหัวไฟล์ ตรวจภาพเองและเลือกภาพที่ผ่าน ใช้เมื่อสั่ง "สร้างรูป EPxx" หรือ "สร้างรูป EPxx SC01"
 ---
 
 # สร้างภาพตั้งต้น (OpenArt · GPT Image 2)
 
 อาร์กิวเมนต์: `EPxx` และถ้ามี `SCxx` (ทำเฉพาะ Scene นั้น) ทุกคำสั่งรันจากโฟลเดอร์โปรเจกต์
 `S=.claude/skills/vde-episode/scripts` · ค่าตั้งอยู่ใน `.claude/skills/vde-episode/config.json`
+
+## ช่องทางสร้างภาพ: ดู `image_provider` ใน config.json
+- `"openart"` (ค่าเริ่มต้น) → ทำข้อ 0–2 ตามปกติผ่าน OpenArt MCP (ใช้ภาพอ้างอิงได้จริงแค่ 2 รูปแรก)
+- `"fal"` → **ข้ามข้อ 0–2 ทั้งหมด** ไม่ต้องอัปโหลด ref ไม่ใช้ OpenArt MCP แล้วทำแทนด้วย:
+  1. `python $S/fal_image.py check` — ถ้าไม่พบ key ให้หยุดและรายงาน: "ตั้ง fal key ด้วย `! pwsh -File ~/.claude/secrets/set-fal-key.ps1`"
+  2. `python $S/fal_image.py EPxx submit [--scene SCxx]` — ส่งทุกคลิป todo พร้อมกัน (prompt ตรงตัว + ภาพอ้างอิงสูงสุด `fal_max_refs` รูปจากหัวไฟล์) ถ้าผลมี `error` เรื่อง 401/403/เครดิต → หยุดและรายงาน
+  3. `python $S/fal_image.py EPxx collect --wait 600` — รอและดาวน์โหลดลง out_file; บรรทัด `failed` → `state.py take ... --result fail --qc "<error>"`
+  4. ไปข้อ 3 (ตรวจภาพ) ตามปกติ บันทึก `--job <request_id> --cost <fal_usd_per_image>` (หน่วย USD ไม่ใช่เครดิต)
+  5. ถ่ายซ้ำ: `fal_image.py EPxx submit --clips <clip>` (ส่งซ้ำได้หลังบันทึก take ก่อนหน้าแล้วเท่านั้น สคริปต์กันส่งซ้ำซ้อนให้)
+  - ถูก safety checker ปฏิเสธ (error มีคำว่า safety/content) → บันทึก fail; ซ้ำ 2 ครั้ง → `give-up` พร้อมเหตุผล
 
 ## 0. เตรียม (ข้ามได้ถ้า agent หลักทำให้แล้ว)
 1. ถ้ายังไม่มี `EPxx/production/plan.json` ให้รัน `python $S/collect.py EPxx`
@@ -42,9 +52,13 @@ description: สร้างภาพตั้งต้นของทุกค�
 6. มีตัวหนังสือ ซับ ลายน้ำ โลโก้ ที่ prompt ไม่ได้สั่ง
 7. ร่างกายผิดรูป (มือ นิ้ว แขนขา หน้าบิด) ที่เห็นชัด
 8. ฉาก/แสงขัดกับ SCENE GEOGRAPHY / LIGHTING ชัดเจน
+9. (v68) ลำดับซ้าย→ขวาไม่ตรง FRAME ORDER / หัวไฟล์ "ตัวละครในเฟรม" หรือเฟรมเห็นที่ว่างตรงที่ควรมีคนตาม Blocking Table หรือภาพผังกลับด้าน (สิ่งที่ขวางระหว่างกล้องกับตัวละคร)
+
+ความต่อเนื่องข้าม Shot ตรวจอีกรอบทั้ง Scene ในขั้นตรวจความต่อเนื่องของ vde-episode
 
 บันทึกทุก take: `python $S/state.py EPxx take <clip> image --file <out_file> --job <historyId> --result ok|fail --qc "<สรุปสั้น ข้อที่ไม่ผ่าน>" --cost 42`
 - ผ่าน → `python $S/state.py EPxx select <clip> image --file <out_file>`
+  แล้วบันทึกสิ่งที่ภาพจริงแสดง (ภาษาอังกฤษ 1–3 ประโยค: ใครอยู่ซ้าย→ขวา ท่า ขนาดภาพ สิ่งที่เห็น/ไม่เห็น เช่น มือหรือพร็อพที่โผล่) ด้วย `python $S/state.py EPxx facts <clip> "<text>"` — ขั้นวิดีโอจะส่งข้อความนี้ต่อท้าย prompt เพื่อไม่ให้ Grok 'แก้' ภาพด้วยการ morph หรือตัดภาพ (v68)
 - ไม่ผ่านและยังมี takes_left → กลับไปข้อ 1 กับคลิปนั้น (prompt เดิม)
 - ไม่ผ่านครบจำนวนครั้ง → เลือก take ที่ดีที่สุด `select ... --flag "<ปัญหาที่เหลือ>"` (ยังไปสร้างวิดีโอได้ แต่ขึ้นในรายงานให้คนตรวจ)
 - ห้ามบอกว่า "หน้าเหมือนแน่นอน" — การตรวจของ Claude เป็นการคัดกรองเบื้องต้น

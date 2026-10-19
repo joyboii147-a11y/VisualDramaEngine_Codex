@@ -3,29 +3,30 @@
 # ไฟล์นี้: Image Prompt → OpenArt GPT Image 2 (9:16)
 #
 # ตัวละครในเฟรม (รวม 1 คน):
-# - แม่วิทย์ C01-W07 ชุดขาวลูกไม้ | ครึ่งตัว กลาง มองซ้ายล่างเฟรม
+# - แม่วิทย์ C01-W07 ชุดขาวลูกไม้ | ครึ่งตัว ยืน กลางค่อนขวา มองซ้ายล่าง มือว่าง
 #
 # เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
-# - วิทย์ C05-W08 ชุดแจ็กเก็ตครีมปกดำ | นอกกรอบตามตำแหน่งโลกฉากใน prompt
-# - ไอริน C04-W17 ชุดคลุมท้อง | นอกกรอบตามตำแหน่งโลกฉากใน prompt
+# - ไอริน C04-W17 ชุดคลุมท้อง | นั่งนอกเฟรมซ้ายล่าง ถือบัตรอยู่ เป็นคนที่แม่วิทย์มอง
+# - วิทย์ C05-W08 ชุดแจ็กเก็ตครีมปกดำ | นั่งนอกเฟรมซ้ายล่างถัดจากไอริน
 #
 # แนบใน OpenArt: 1) input/characters/แม่วิทย์/แม่วิทย์ W02 ชุดขาวลูกไม้.png
 # ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
 Create one standalone starting-frame image for SHOT EP27-S031.
 Vertical 9:16. Cinematic live-action still, photorealistic, natural skin and material texture.
 REFERENCE IMAGES:
-Image 1: Wits mother — use for face, skin tone, hairstyle, body shape and this exact outfit. Do not copy the background, lighting, pose or camera angle from this image.
-CHARACTERS: Wits mother, adult, bound to Image 1, wearing an ivory floral-lace midi dress with a sheer ivory chiffon cape overlay, floral front appliques, a delicate gemstone necklace, small gemstone earrings, ivory pointed heels with jeweled buckles, and dark brown hair in a low braided chignon.
-CAST COUNT: exactly 1 visible people including partial figures.
-SCENE GEOGRAPHY: A daytime hotel bedroom, pale neutral wood floor. Wall A holds a beige upholstered double bed, pillows, yellow-gold bed runner and cream bedside lamp. A yellow-flower pot stands near the bed-foot area. Wall B has the sheer-curtained side window to Irins right when seated. Opposite the bed, wall C has pale wood paneling, one black-screen television and an angled wing. Wall D is cream-beige. Entrance position is unestablished and outside view; no invented doorway. Wit occupies the left bed-foot position and Irin the right; mother remains on Irins window side. Camera stays on the open bed-foot side of the interaction axis.
-CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: beside seated couple on bed side toward mother and window B; open bed-foot side of interaction axis.
-CAMERA / FOCUS: medium,50mm,seated eye level slightly upward; partial foreground figures softly defocused, main subject sharp.
-FOREGROUND / VISIBLE BACKGROUND: sheer curtain behind right, lamp left; couple behind camera.
-OFF-FRAME: Wit remains outside crop at the left bed-foot position; Irin remains outside crop at the right bed-foot position. Entrance outside composition; window and television stay fixed on walls B and C. Cropped faces and hands stay outside view.
-LIGHTING: soft daylight entering through the side sheer-curtained window, mixed with warm practical bedside-lamp light, a warm neutral room palette, approximately 4000K mixed light, soft natural contrast. Window stays side B and lamp stays beside wall A.
-GRADE: warm beige and pale wood, restrained gold accents, natural skin tones, soft contrast; a subtle cool lavender background in the final close-up without changing the established window light.
-PROP STATE: One standard-size matte-black bank ATM Black Card with rounded corners, a small gold EMV chip and subtle silver detailing in mothers right hand. No readable text, numbers or logo. Irin supports underside with left hand only during the specified supporting action, not a completed transfer. Towel on Wits lap before standing, then on bed edge outside crop.
-START STATE: Mother gently smiles down-left at Irin, right hand holding card raised clear of torso.
-Show only the starting moment, before planned movement begins.
+Image 1: Wit's mother — use for face, skin tone, hairstyle, body shape and this exact outfit. Do not copy the background, lighting, pose or camera angle from this image.
+CHARACTERS: Wit's mother, an elegant middle-aged Thai woman, bound to Image 1, wearing an ivory floral-lace midi dress with a sheer ivory chiffon cape overlay, floral front appliques, a delicate gemstone necklace, small gemstone earrings and ivory pointed heels with jeweled buckles, with dark brown hair in a low braided chignon.
+CAST COUNT: exactly 1 person visible: Wit's mother, alone in the frame. No other person, head, shoulder, hand or hair anywhere in the image.
+SCENE GEOGRAPHY: A daytime hotel bedroom with a pale neutral wood floor. Against the back wall stands a double bed with a beige upholstered headboard, white pillows and a yellow-gold runner across the foot of the bed; a cream bedside lamp stands beside the headboard on the cream-wall side. The side wall on the window side has a tall sheer-curtained window letting in soft daylight. The wall facing the bed is pale wood panelling with one black-screen television. The opposite side wall is plain cream-beige. A pot of yellow flowers stands on the floor near the foot of the bed on the cream-wall side. No doorway is shown. Wit and Irin sit side by side on the edge of the bed foot, facing into the room toward the television wall: Wit on the cream-wall side, Irin beside him on the window side. Wit's mother stands in front of the bed foot on Irin's window side, facing the couple.
+CAMERA POSITION: low beside the seated couple at the foot of the bed, at seated eye level, angled slightly upward.
+VIEW DIRECTION: toward Wit's mother, with the sheer-curtained window wall beyond her.
+VISIBLE BACKGROUND: bright sheer white curtains of the window softly defocused behind her and a narrow strip of cream wall.
+OFF-FRAME: Wit and Irin sit just below and beyond the lower left edge of the frame; no part of them appears. The bed, the lamp and the television are outside the view.
+PROP STATE: no props visible; Wit's mother's hands are empty.
+START STATE: Wit's mother stands framed from waist to head, body turned toward the left of the frame, looking down toward the lower left at Irin outside the frame, with a gentle grateful smile and lips closed; both hands are empty and loosely clasped in front of her waist.
+CAMERA: medium shot from waist to head, 50mm full-frame equivalent, seated eye level, slight upward angle.
+FOCUS: Wit's mother sharp; curtains softly defocused.
+LIGHTING: soft daylight through the sheer-curtained window on the window side, mixed with warm light from the cream bedside lamp beside the headboard, approximately 4000K mixed light, soft natural contrast; the daylight always comes from the window side.
+GRADE: warm beige and pale wood, restrained gold accents, natural skin tones, soft contrast.
+Show only the starting moment, before any planned movement begins.
 No captions, subtitles, labels, watermarks, panels or collage.
-

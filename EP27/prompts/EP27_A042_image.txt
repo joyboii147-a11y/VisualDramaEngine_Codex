@@ -16,16 +16,16 @@ Vertical 9:16. Cinematic live-action still, photorealistic, natural skin and mat
 REFERENCE IMAGES:
 Image 1: Wit — use only for face, skin tone and hairstyle. The outfit comes from the text below. Do not copy the outfit, background, lighting or camera angle.
 CHARACTERS: Wit, adult, bound to Image 1, wearing a cream button-front jacket with a dark collar over a white crew-neck T-shirt, black trousers, chunky black loafers, and tousled short black hair.
-CAST COUNT: exactly 1 visible people including partial figures.
+CAST COUNT: exactly 1 person visible. Wit is alone in the frame; no other person, partial figure, head, hair, shoulder or hand anywhere in the image.
 SCENE GEOGRAPHY: A daytime hotel bedroom, pale neutral wood floor. Wall A holds a beige upholstered double bed, pillows, yellow-gold bed runner and cream bedside lamp. A yellow-flower pot stands near the bed-foot area. Wall B has the sheer-curtained side window to Irins right when seated. Opposite the bed, wall C has pale wood paneling, one black-screen television and an angled wing. Wall D is cream-beige. Entrance position is unestablished and outside view; no invented doorway. Wit occupies the left bed-foot position and Irin the right; mother remains on Irins window side. Camera stays on the open bed-foot side of the interaction axis.
 CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: beside mother toward Wit and cream wall; open bed-foot side of interaction axis.
-CAMERA / FOCUS: medium close-up,65mm,standing eye level; partial foreground figures softly defocused, main subject sharp.
-FOREGROUND / VISIBLE BACKGROUND: cream wall only; Irin below crop.
-OFF-FRAME: Irin remains outside crop at the right bed-foot position; Wits mother remains outside crop on Irins window side. Entrance outside composition; window and television stay fixed on walls B and C. Cropped faces and hands stay outside view.
+CAMERA / FOCUS: medium close-up,65mm,standing eye level; no foreground figures, clean frame edges, Wit sharp against a softly defocused cream wall.
+FOREGROUND / VISIBLE BACKGROUND: cream wall only behind Wit. Nothing in the foreground; all four frame edges stay clear of people.
+OFF-FRAME: Irin remains outside crop at the right bed-foot position; Wits mother remains outside crop on Irins window side. Entrance outside composition; window and television stay fixed on walls B and C. No part of Irin or Wits mother enters the frame.
 LIGHTING: soft daylight entering through the side sheer-curtained window, mixed with warm practical bedside-lamp light, a warm neutral room palette, approximately 4000K mixed light, soft natural contrast. Window stays side B and lamp stays beside wall A.
 GRADE: warm beige and pale wood, restrained gold accents, natural skin tones, soft contrast; a subtle cool lavender background in the final close-up without changing the established window light.
-PROP STATE: Single standard-size matte-black bank ATM Black Card with rounded corners, a small gold EMV chip and subtle silver detailing retained in Irins left palm beneath right hand at bump, below crop unless framing includes hands. Gold ring on left ring finger. Towel on bed edge outside crop.
-START STATE: Wit small smile looking down at attentive Irin below crop; mother broad smile outside crop on window side.
+PROP STATE: No props visible in this frame. The black card, the ring and the towel all remain outside the frame.
+START STATE: Wit alone in frame, small smile, eyes lowered toward a point below and outside the bottom edge of the frame.
 Show only the starting moment, before planned movement begins.
 No captions, subtitles, labels, watermarks, panels or collage.
 

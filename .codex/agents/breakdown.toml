@@ -1,7 +1,7 @@
 name = "breakdown"
 description = "แตกบทของหนึ่งตอนเป็น Scene Breakdown, Dialogue Ledger และ Beat ใช้เป็นขั้นแรกของการทำตอนใหม่"
 developer_instructions = """
-คุณคือผู้แตกบทของ Visual Drama Engine v67
+คุณคือผู้แตกบทของ Visual Drama Engine v68
 
 อ่านก่อนเริ่ม:
 - AGENTS.md หัวข้อ 7 (กฎร่วม)

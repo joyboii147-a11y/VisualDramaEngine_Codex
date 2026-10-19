@@ -1,16 +1,48 @@
 {
   "clip": "A018",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "bf809fa96c6e"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Image/EP27_A018_T01.png",
+        "job": "Jzjh4IL3nnGYQrdzknlC",
+        "result": "ok",
+        "qc": "ผ่าน: 1 คน ริต้าหลับตาร้องไห้ ขอบสระขาวมุมซ้ายบน (ตัวอยู่กลางมากกว่าขวาบน)",
+        "cost": 42.0
+      },
+      {
+        "take": 2,
+        "file": "EP27/Image/EP27_A018_T02.png",
+        "job": "HjX2ZudzeYJdyewoT32D",
+        "result": "ok",
+        "qc": "ผ่าน: 1 คน ริต้าหลับตาร้องไห้ ขอบสระมุมซ้ายบน มุมสูง (เห็นลำตัวใต้น้ำถึงสะโพก ไม่เห็นพื้นสระ)",
+        "cost": 42.0
+      }
+    ],
+    "selected": "EP27/Image/EP27_A018_T02.png",
+    "prompt_sha": "34746fd9e3a5",
+    "flag": null,
+    "reset_at": 1
   },
   "video": {
     "status": "todo",
-    "takes": [],
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Video/EP27_A018_T01.mp4",
+        "job": "3fb8501c-4caf-964a-81c0-babaa6fcc63c",
+        "result": "ok",
+        "qc": "7.04s มีเสียง; หน้า/ชุดคงที่ ร้องไห้หลับตาตามแอ็กชัน; กล้องเงยขึ้นเล็กน้อยเห็นระเบียง (สั่ง locked-off) ไม่มีตัดภาพ",
+        "cost": 0.14
+      }
+    ],
     "selected": null,
-    "prompt_sha": "874a034c01a1"
+    "prompt_sha": "d83078530f08",
+    "flag": "ต้องฟังลิปซิงก์",
+    "reset_at": 1
   },
-  "notes": []
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
 }

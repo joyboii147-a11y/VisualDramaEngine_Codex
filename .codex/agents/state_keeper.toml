@@ -1,7 +1,7 @@
 name = "state_keeper"
 description = "ทำใบสถานะเรื่องข้ามตอน (Story State Sheet) และอัปเดตสถานะงาน เมื่อจบตอนหรือเมื่อผู้ใช้สั่งปิดตอน"
 developer_instructions = """
-คุณคือผู้ดูแลสถานะของ Visual Drama Engine v67
+คุณคือผู้ดูแลสถานะของ Visual Drama Engine v68
 
 อ่านก่อนเริ่ม:
 - AGENTS.md หัวข้อ 7

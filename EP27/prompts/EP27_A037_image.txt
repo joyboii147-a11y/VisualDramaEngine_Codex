@@ -3,33 +3,33 @@
 # ไฟล์นี้: Image Prompt → OpenArt GPT Image 2 (9:16)
 #
 # ตัวละครในเฟรม (รวม 3 คน):
-# - วิทย์ C05-W08 ชุดแจ็กเก็ตครีมปกดำ | เต็มตัว ซ้ายเฟรม
-# - ไอริน C04-W17 ชุดคลุมท้อง | เต็มตัว กลางเฟรม
-# - แม่วิทย์ C01-W07 ชุดขาวลูกไม้ | เต็มตัว ขวาเฟรม
+# - ไอริน C04-W17 ชุดคลุมท้อง | เต็มตัว ยืน กลางเฟรม ถือบัตรที่ท้อง มองแม่วิทย์
+# - แม่วิทย์ C01-W07 ชุดขาวลูกไม้ | เต็มตัว ยืน ขวาเฟรม มือว่าง มองไอริน
+# - วิทย์ C05-W08 ชุดแจ็กเก็ตครีมปกดำ (ไม่แนบภาพ ใช้คำบรรยาย) | เต็มตัว ยืน ซ้ายเฟรม
 #
 # เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
 # - ไม่มี
 #
-# แนบใน OpenArt: 1) input/characters/วิทย์/วิทย์ W06 ชุดแจ็กเก็ตครีมปกดำ.png ; 2) input/characters/ไอริน/ไอริน W12 ชุดคลุมท้อง.png ; 3) input/characters/แม่วิทย์/แม่วิทย์ W02 ชุดขาวลูกไม้.png
+# เสี่ยง: 3 คนในเฟรม แนบได้ 2 รูป วิทย์ใช้คำบรรยายแทนภาพ ตรวจหน้าวิทย์ก่อนใช้
+# แนบใน OpenArt: 1) input/characters/ไอริน/ไอริน W12 ชุดคลุมท้อง.png ; 2) input/characters/แม่วิทย์/แม่วิทย์ W02 ชุดขาวลูกไม้.png
 # ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
 Create one standalone starting-frame image for SHOT EP27-S037.
 Vertical 9:16. Cinematic live-action still, photorealistic, natural skin and material texture.
 REFERENCE IMAGES:
-Image 1: Wit — use for face, skin tone, hairstyle, body shape and this exact outfit. Do not copy the background, lighting, pose or camera angle from this image.
-Image 2: Irin — use for face, skin tone, hairstyle, body shape and this exact outfit. Do not copy the background, lighting, pose or camera angle from this image.
-Image 3: Wits mother — use for face, skin tone, hairstyle, body shape and this exact outfit. Do not copy the background, lighting, pose or camera angle from this image.
-CHARACTERS: Wit, adult, bound to Image 1, wearing a cream button-front jacket with a dark collar over a white crew-neck T-shirt, black trousers, chunky black loafers, and tousled short black hair. Irin, adult, bound to Image 2, wearing a cream knit maternity midi dress with a thin gray under-bust tie, a loose light gray cardigan, a delicate pendant necklace, cream ballet flats, and long dark brown hair worn loose. Wits mother, adult, bound to Image 3, wearing an ivory floral-lace midi dress with a sheer ivory chiffon cape overlay, floral front appliques, a delicate gemstone necklace, small gemstone earrings, ivory pointed heels with jeweled buckles, and dark brown hair in a low braided chignon.
-CAST COUNT: exactly 3 visible people including partial figures.
-SCENE GEOGRAPHY: A daytime hotel bedroom, pale neutral wood floor. Wall A holds a beige upholstered double bed, pillows, yellow-gold bed runner and cream bedside lamp. A yellow-flower pot stands near the bed-foot area. Wall B has the sheer-curtained side window to Irins right when seated. Opposite the bed, wall C has pale wood paneling, one black-screen television and an angled wing. Wall D is cream-beige. Entrance position is unestablished and outside view; no invented doorway. Wit occupies the left bed-foot position and Irin the right; mother remains on Irins window side. Camera stays on the open bed-foot side of the interaction axis.
-CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: television side offset toward window diagonally across bed foot toward group and angled wall wing; open bed-foot side of interaction axis.
-CAMERA / FOCUS: full shot,35mm,chest height,deep focus; partial foreground figures softly defocused, main subject sharp.
-FOREGROUND / VISIBLE BACKGROUND: yellow-gold runner, pale wood angled wing and perspective glimpse of one television, flower pot lower left.
-OFF-FRAME: No additional person in the room. Entrance outside composition; window and television stay fixed on walls B and C. Cropped faces and hands stay outside view.
-LIGHTING: soft daylight entering through the side sheer-curtained window, mixed with warm practical bedside-lamp light, a warm neutral room palette, approximately 4000K mixed light, soft natural contrast. Window stays side B and lamp stays beside wall A.
-GRADE: warm beige and pale wood, restrained gold accents, natural skin tones, soft contrast; a subtle cool lavender background in the final close-up without changing the established window light.
-PROP STATE: One standard-size matte-black bank ATM Black Card with rounded corners, a small gold EMV chip and subtle silver detailing in mothers right hand. No readable text, numbers or logo. Irin supports underside with left hand only during the specified supporting action, not a completed transfer. Towel on Wits lap before standing, then on bed edge outside crop.
-HAIR CONTINUITY: Irin's loose dark brown hair remains slightly damp from towel-drying; no sudden drying or hairstyle change.
-START STATE: All already standing: Wit left small smile, Irin center surprised and hesitant hands clasped on bump, mother right window side gently smiling card in right hand at waist.
-Show only the starting moment, before planned movement begins.
+Image 1: Irin — use for face, skin tone, hairstyle, body shape and this exact outfit. Do not copy the background, lighting, pose or camera angle from this image.
+Image 2: Wit's mother — use for face, skin tone, hairstyle, body shape and this exact outfit. Do not copy the background, lighting, pose or camera angle from this image.
+CHARACTERS: Irin, a young pregnant Thai woman with a small visible baby bump, bound to Image 1, wearing a cream knit maternity midi dress with a thin gray under-bust tie, a loose light gray cardigan, a delicate pendant necklace and cream ballet flats, a thin gold ring on her left ring finger, and long dark brown hair worn loose, still slightly damp from towel-drying. Wit's mother, an elegant middle-aged Thai woman, bound to Image 2, wearing an ivory floral-lace midi dress with a sheer ivory chiffon cape overlay, floral front appliques, a delicate gemstone necklace, small gemstone earrings and ivory pointed heels with jeweled buckles, with dark brown hair in a low braided chignon. Wit (no reference image in this request), a tall young Thai man with warm fair skin, a lean build and tousled short black hair, wearing a cream button-front jacket with a dark collar over a white crew-neck T-shirt, black trousers and chunky black loafers.
+CAST COUNT: exactly 3 people visible: Wit, Irin and Wit's mother. No other person anywhere in the image.
+SCENE GEOGRAPHY: A daytime hotel bedroom with a pale neutral wood floor. Against the back wall stands a double bed with a beige upholstered headboard, white pillows and a yellow-gold runner across the foot of the bed; a cream bedside lamp stands beside the headboard on the cream-wall side. The side wall on the window side has a tall sheer-curtained window letting in soft daylight. The wall facing the bed is pale wood panelling with one black-screen television. The opposite side wall is plain cream-beige. A pot of yellow flowers stands on the floor near the foot of the bed on the cream-wall side. No doorway is shown. Wit, Irin and Wit's mother stand in a row in front of the bed foot, facing one another in a loose group: Wit on the cream-wall side, Irin in the middle, Wit's mother on the window side. Everyone is standing upright; no one is sitting.
+CAMERA POSITION: in the room near the television wall, offset toward the window side, at standing chest height.
+VIEW DIRECTION: obliquely across the front of the bed toward the three standing people, with the bed foot and headboard beyond them.
+VISIBLE BACKGROUND: the yellow-gold runner on the bed foot behind them, beige headboard, white pillows and the cream lamp at the left.
+OFF-FRAME: the television wall is behind the camera; the window is just beyond the right edge of the frame. No doorway.
+PROP STATE: Irin holds one plain matte-black ATM Black Card (standard size, rounded corners, small gold chip, subtle silver detailing, no readable text, numbers or logo) with both hands in front of her bump. Wit's mother's hands are empty. The folded white towel lies on the bed edge behind them.
+START STATE: All three stand in full figure in front of the bed foot. Wit on the left, small smile, looking toward Irin and his mother. Irin in the center, touched and slightly hesitant, looking at Wit's mother, holding the black card with both hands in front of her bump. Wit's mother on the right, gentle smile, looking at Irin, empty hands loosely clasped in front of her waist. Everyone's lips are closed.
+CAMERA: full shot of three standing people, 35mm full-frame equivalent, standing chest height, level.
+FOCUS: deep focus; all three sharp.
+LIGHTING: soft daylight through the sheer-curtained window on the window side, mixed with warm light from the cream bedside lamp beside the headboard, approximately 4000K mixed light, soft natural contrast; the daylight always comes from the window side.
+GRADE: warm beige and pale wood, restrained gold accents, natural skin tones, soft contrast.
+Show only the starting moment, before any planned movement begins.
 No captions, subtitles, labels, watermarks, panels or collage.
-

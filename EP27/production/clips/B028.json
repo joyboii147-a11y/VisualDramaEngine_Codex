@@ -1,16 +1,48 @@
 {
   "clip": "B028",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "458e162d6cb4"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Image/EP27_B028_T01.png",
+        "job": "h53TVTG64DBqsCyyddNk",
+        "result": "ok",
+        "qc": "ผ่าน: 2 คน ชุดตรง วิทย์ซ้ายถือผ้าขนหนู ไอรินขวามองต่ำ",
+        "cost": 42.0
+      },
+      {
+        "take": 2,
+        "file": "EP27/Image/EP27_B028_T02.png",
+        "job": "K06LF2w5b3Bhg2rnFLZI",
+        "result": "ok",
+        "qc": "ผ่าน: 3 คน วิทย์ซ้ายเช็ดผมไอรินด้วยผ้า ไอรินกลางขาไขว้ แม่ขวาเดินเข้ามามือว่าง ชุดตรง",
+        "cost": 42.0
+      }
+    ],
+    "selected": "EP27/Image/EP27_B028_T02.png",
+    "prompt_sha": "8cb7f07c5967",
+    "flag": null,
+    "reset_at": 1
   },
   "video": {
     "status": "todo",
-    "takes": [],
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Video/EP27_B028_T01.mp4",
+        "job": "739777c0-d15d-9b2a-974e-b6f6d4568628",
+        "result": "ok",
+        "qc": "3.04s มีเสียง หน้า/ชุดคงที่ วิทซับผมหนึ่งครั้ง ไม่มีตัด",
+        "cost": 0.06
+      }
+    ],
     "selected": null,
-    "prompt_sha": "cb50930db02e"
+    "prompt_sha": "dba7a4a2a7e7",
+    "flag": null,
+    "reset_at": 1
   },
-  "notes": []
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
 }

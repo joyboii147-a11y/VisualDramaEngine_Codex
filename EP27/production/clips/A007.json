@@ -1,16 +1,60 @@
 {
   "clip": "A007",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "ae8cba77c542"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Image/EP27_A007_T01.png",
+        "job": "gDQtRTI2ov2FQmFwnuOz",
+        "result": "fail",
+        "qc": "ไม่ผ่านข้อ 1: CAST COUNT 1 แต่มีไอรินในสระด้านขวาเพิ่มมา (2 คน)",
+        "cost": 42.0
+      },
+      {
+        "take": 2,
+        "file": "EP27/Image/EP27_A007_T02.png",
+        "job": "WPREU9VXFWo2lONkJaKj",
+        "result": "ok",
+        "qc": "ผ่าน: 1 คน วิทย์สูทแห้งเล็กกลางประตูอาคาร โซฟาเขียวมุมซ้ายล่าง ไม่มีคนในสระ (หันหน้าตรงกล้องมากกว่ามองขวา)",
+        "cost": 42.0
+      }
+    ],
+    "selected": "EP27/Image/EP27_A007_T02.png",
+    "prompt_sha": "ae8cba77c542",
+    "flag": null
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "4d51cea3b5b1"
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Video/EP27_A007_T01.mp4",
+        "job": "bab3d03b-0e49-992e-a953-9e76d8001ff8",
+        "result": "fail",
+        "qc": "4.04s มีเสียง; วิ่งเข้าหากล้องถูกต้อง หน้า/ชุดคงที่ แต่มีหัวคน 2-3 คนโผล่ในสระด้านขวากลาง-ท้ายคลิป (CAST COUNT 1)",
+        "cost": 0.08
+      },
+      {
+        "take": 2,
+        "file": "EP27/Video/EP27_A007_T02.mp4",
+        "job": "2fa06ffc-a5b7-9f55-9c31-86977a795096",
+        "result": "fail",
+        "qc": "4.04s มีเสียง; วิ่งเข้ากล้องจบเต็มตัวใกล้กล้อง หน้า/ชุดคงที่ แต่ยังมีหัวคน 2 คนในสระด้านขวา (CAST COUNT 1) เหมือน T01 เฟรมดีกว่า T01",
+        "cost": 0.08
+      },
+      {
+        "take": 3,
+        "file": "EP27/Video/EP27_A007_T03.mp4",
+        "job": "2ab28542-2c1a-9e98-8d8e-137f71cd5235",
+        "result": "ok",
+        "qc": "4.04s มีเสียง; วิ่งจากประตูเข้ากล้อง ไม่มีคนเพิ่มในสระ หน้า/ชุดคงที่ จบเต็มตัว (สั่งถึงสะโพก)",
+        "cost": 0.08
+      }
+    ],
+    "selected": "EP27/Video/EP27_A007_T03.mp4",
+    "prompt_sha": "4d51cea3b5b1",
+    "flag": "ต้องฟังลิปซิงก์"
   },
   "notes": []
 }

@@ -15,7 +15,7 @@
 
 ```text
 PROJECT STATE
-Rule Version: VisualDramaEngine v67 Codex
+Rule Version: VisualDramaEngine v68 Codex
 Series: [ชื่อเรื่อง]
 ตอนล่าสุดที่ทำ: EP[xx]
 ตอนที่เสร็จครบ: [รายการ]
@@ -39,7 +39,7 @@ Bible ล่าสุด: ตัวละคร [n] คน / Wardrobe State [n] 
 
 ```text
 STORY STATE — จบ EP[xx]
-Rule Version: VisualDramaEngine v67 Codex
+Rule Version: VisualDramaEngine v68 Codex
 Story: [ชื่อเรื่อง]
 Story Time ณ จบตอน: [วัน/ช่วงเวลาในเรื่อง เช่น "คืนวันที่ 3 หลังงานเลี้ยง"]
 ที่มาของข้อมูล: [บทจากผู้ใช้ / Shot List EP[xx] / ผลจริงที่ผู้ใช้แจ้ง]

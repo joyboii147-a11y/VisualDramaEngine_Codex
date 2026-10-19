@@ -1,16 +1,48 @@
 {
   "clip": "A024",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "bec1918a79f4"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Image/EP27_A024_T01.png",
+        "job": "9u94kh1NwgzF5acLCMLI",
+        "result": "ok",
+        "qc": "ผ่าน: 2 คน ริต้าซ้ายมองขวา ชายร่างท้วมขวาใกล้มือเอื้อม",
+        "cost": 42.0
+      },
+      {
+        "take": 2,
+        "file": "EP27/Image/EP27_A024_T02.png",
+        "job": "rAhAlN6dCCvX6cfqMP85",
+        "result": "ok",
+        "qc": "ผ่าน: 2 คน ริต้าขวา ชายร่างท้วมซ้ายยื่นมือ ริต้ายกมือขึ้น",
+        "cost": 42.0
+      }
+    ],
+    "selected": "EP27/Image/EP27_A024_T02.png",
+    "prompt_sha": "8034b53058bc",
+    "flag": null,
+    "reset_at": 1
   },
   "video": {
     "status": "todo",
-    "takes": [],
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Video/EP27_A024_T01.mp4",
+        "job": "9332e934-eef7-96e9-bc03-cf3023a9e63f",
+        "result": "ok",
+        "qc": "6.04s มีเสียง; 2 คนครบ หน้า/ชุดคงที่ ริต้าตะโกนแล้วหน้าบึ้ง ชายร่างท้วมยกมือ; ชายร่างท้วมขยับปากคล้ายพูด (สั่งห้าม)",
+        "cost": 0.12
+      }
+    ],
     "selected": null,
-    "prompt_sha": "667c78ae2e41"
+    "prompt_sha": "5ac88d8763eb",
+    "flag": "ต้องฟังลิปซิงก์ (เช็กว่าชายร่างท้วมไม่ได้พูดแทน)",
+    "reset_at": 1
   },
-  "notes": []
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
 }

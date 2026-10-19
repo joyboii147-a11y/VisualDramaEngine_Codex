@@ -1,16 +1,48 @@
 {
   "clip": "A023",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "1792350e5d7a"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Image/EP27_A023_T01.png",
+        "job": "aCE70yvHZFegwuW7UZw2",
+        "result": "ok",
+        "qc": "ผ่าน: 2 คน ริต้าซ้ายกลาง ชายร่างท้วมขวาหลัง กระจกฝั่งตรงข้ามและตึกสูง",
+        "cost": 42.0
+      },
+      {
+        "take": 2,
+        "file": "EP27/Image/EP27_A023_T02.png",
+        "job": "nENYU3kd1sm6WPcxtIAG",
+        "result": "ok",
+        "qc": "ผ่าน: 2 คน ชายร่างท้วมซ้ายว่ายเข้าหา ริต้าขวาหน้าบึ้ง กระจกฝั่งตรงข้าม",
+        "cost": 42.0
+      }
+    ],
+    "selected": "EP27/Image/EP27_A023_T02.png",
+    "prompt_sha": "10216d56d891",
+    "flag": null,
+    "reset_at": 1
   },
   "video": {
     "status": "todo",
-    "takes": [],
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Video/EP27_A023_T01.mp4",
+        "job": "72bc76c8-2f36-9ec0-8afd-d0e4a681271d",
+        "result": "ok",
+        "qc": "5.04s มีเสียง; 2 คนครบ หน้า/ชุดคงที่ ว่ายเข้าหาริต้าจนถึงระยะแขน กล้องนิ่ง",
+        "cost": 0.1
+      }
+    ],
     "selected": null,
-    "prompt_sha": "ff0e719fc6b7"
+    "prompt_sha": "cf72d15431e3",
+    "flag": "ต้องฟังลิปซิงก์",
+    "reset_at": 1
   },
-  "notes": []
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
 }

@@ -1,16 +1,56 @@
 {
   "clip": "A043",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "3d47f5b7e9a8"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Image/EP27_A043_T01.png",
+        "job": "Tzjqc8K44qrjoovc6xJ7",
+        "result": "fail",
+        "qc": "ข้อ5: ไอรินมองตรงเลนส์ ไม่ได้มองขวาบนไปที่วิทย์ และเห็นมือประสานในเฟรม",
+        "cost": 42.0
+      },
+      {
+        "take": 2,
+        "file": "EP27/Image/EP27_A043_T02.png",
+        "job": "RPw79YuCS15oGczva8uC",
+        "result": "ok",
+        "qc": "ผ่าน: ไอรินมองขวาบนไปที่วิทย์ คิ้วขมวดเล็กน้อย ไหล่วิทย์ขวา; เห็นมือประสาน/แหวนในเฟรม เล็กน้อย",
+        "cost": 42.0
+      },
+      {
+        "take": 3,
+        "file": "EP27/Image/EP27_A043_T03.png",
+        "job": "tIxmPKEMfCDQZTcqHvpy",
+        "result": "ok",
+        "qc": "ผ่าน: ไอรินยืนหน้าปลายเตียงถือบัตรสองมือ มองขึ้นคิ้วขมวดเล็กน้อย คนเดียว",
+        "cost": 42.0
+      }
+    ],
+    "selected": "EP27/Image/EP27_A043_T03.png",
+    "prompt_sha": "f55385512c92",
+    "flag": null,
+    "reset_at": 2
   },
   "video": {
     "status": "todo",
-    "takes": [],
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Video/EP27_A043_T01.mp4",
+        "job": "fe6046e6-2f36-9ee8-aa89-c65aeb3ea293",
+        "result": "ok",
+        "qc": "5.04s มีเสียง หน้า/ชุดอิรินคงที่ ดอลลี่เข้าตามสั่ง สีหน้าตกใจ ไหล่วิทหลุดเฟรมช่วงท้ายจากการดอลลี่",
+        "cost": 0.1
+      }
+    ],
     "selected": null,
-    "prompt_sha": "4169e7714d71"
+    "prompt_sha": "be58accef78c",
+    "flag": "ต้องฟังลิปซิงก์",
+    "reset_at": 1
   },
-  "notes": []
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
 }

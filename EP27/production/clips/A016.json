@@ -1,16 +1,64 @@
 {
   "clip": "A016",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "46e34b18c35d"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Image/EP27_A016_T01.png",
+        "job": "BPdmNu4XWosLAI9MMvhb",
+        "result": "ok",
+        "qc": "ผ่าน: 1 คน ริต้าเปียกกลางเฟรม น้ำสระรอบตัว",
+        "cost": 42.0
+      },
+      {
+        "take": 2,
+        "file": "EP27/Image/EP27_A016_T02.png",
+        "job": "d1W4AUspC5SzLa1yWKys",
+        "result": "ok",
+        "qc": "ผ่าน: 1 คน ริต้าเปียกตีน้ำแกล้งจม อ้าปาก น้ำกระเซ็น ไม่มีคนอื่น (สายตาเหลือบไปทางซ้ายจอแทนขวา)",
+        "cost": 42.0
+      }
+    ],
+    "selected": "EP27/Image/EP27_A016_T02.png",
+    "prompt_sha": "389916f1e1d6",
+    "flag": null,
+    "reset_at": 1
   },
   "video": {
     "status": "todo",
-    "takes": [],
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Video/EP27_A016_T01.mp4",
+        "job": "7e046153-1834-9b83-8717-9e481a0fffda",
+        "result": "fail",
+        "qc": "4.04s มีเสียง; กลางคลิปตัดภาพเปลี่ยนเป็นมุมกว้างเห็นหลังคา/ระเบียง และริต้ายืนในน้ำตื้นเห็นรองเท้า",
+        "cost": 0.08
+      },
+      {
+        "take": 2,
+        "file": "EP27/Video/EP27_A016_T02.mp4",
+        "job": "105ee3d0-2634-99ab-9ed8-e2affb1e89fb",
+        "result": "fail",
+        "qc": "4.04s มีเสียง; ซ้ำ T01: กลางคลิปเปลี่ยนเป็นมุมกว้าง ริต้ายืนน้ำตื้นเห็นรองเท้า",
+        "cost": 0.08
+      },
+      {
+        "take": 3,
+        "file": "EP27/Video/EP27_A016_T03.mp4",
+        "job": "a3d510ae-d8f5-9fd0-9218-73b27211c29c",
+        "result": "fail",
+        "qc": "4.04s มีเสียง; ซ้ำ T01/T02: ราว 0.7 วิ กระโดดเป็นมุมกว้าง ริต้ายืนในน้ำตื้นเห็นรองเท้า",
+        "cost": 0.08
+      }
+    ],
     "selected": null,
-    "prompt_sha": "8912e757375b"
+    "prompt_sha": "4e70a3c6eef6",
+    "flag": "ต้องฟังลิปซิงก์; ภาพ: ครบ 3 take ทุก take เปลี่ยนเป็นมุมกว้างที่ ~0.7 วิ (ริต้ายืนน้ำตื้นเห็นรองเท้า) ใช้ได้แค่ช่วงแรกหรือใช้เสียงอย่างเดียว ควรพิจารณาสร้างใหม่ด้วยโมเดลอื่น",
+    "reset_at": 3
   },
-  "notes": []
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
 }

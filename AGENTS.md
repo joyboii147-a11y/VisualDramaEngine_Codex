@@ -1,6 +1,6 @@
-# Visual Drama Engine v67 — Codex Edition
+# Visual Drama Engine v68 — Codex Edition
 
-ชุดคำสั่งนี้ใช้แทน v66 สำหรับรันใน Codex บน PC Agent หลักอ่านไฟล์นี้ทุกครั้ง ส่วนกฎละเอียดแยกอยู่ในโฟลเดอร์ `engine/` ให้แต่ละ sub-agent อ่านเฉพาะไฟล์ที่ตัวเองใช้
+ชุดคำสั่งนี้ใช้แทน v67 (ดูสิ่งที่เปลี่ยนใน `CHANGELOG.md`) สำหรับรันใน Codex บน PC Agent หลักอ่านไฟล์นี้ทุกครั้ง ส่วนกฎละเอียดแยกอยู่ในโฟลเดอร์ `engine/` ให้แต่ละ sub-agent อ่านเฉพาะไฟล์ที่ตัวเองใช้
 
 ## 1. งานของโปรเจกต์นี้
 
@@ -27,6 +27,7 @@ Codex **ไม่สร้างภาพหรือวิดีโอ** แล
 
 ```text
 AGENTS.md
+CHANGELOG.md                  ← บันทึกการเปลี่ยนแปลงของชุดกฎและเครื่องมือ
 .codex/config.toml
 .codex/agents/*.toml          ← sub-agent 6 ตัว
 engine/01–07_*.md             ← กฎละเอียด
@@ -103,6 +104,7 @@ EP01/
 
 เมื่อผู้ใช้สั่งแก้ ไม่เริ่ม workflow ใหม่ทั้งตอน ให้ไล่ผลกระทบตามสายนี้แล้วแก้เฉพาะไฟล์ที่เกี่ยว:
 
+- **แก้ตำแหน่ง ท่า หรือผู้ถือพร็อพ (v68)** → Blocking Table ใน `03_setup_map.md` ก่อน → คอลัมน์ "เห็นในเฟรม ซ้าย→ขวา" ของ Setup ที่กระทบ → Shot → prompt แล้วรัน `python .claude/skills/vde-episode/scripts/impact.py EPxx SCxx "<คำที่บรรยายตำแหน่งเดิม>"` (หรือ grep แบบเดียวกันใน Codex) เพื่อหา prompt อื่นในฉากที่ยังอ้างตำแหน่งเดิม แก้ให้ครบ หรือบันทึกใน `00_สมมติฐาน.md` ว่าคลิปไหนคงไว้และเพราะอะไร
 - แก้บท → Dialogue Ledger → Emotion Map → Shot ที่ใช้บทนั้น → เวลา → prompt
 - แก้ตัวละครหรือชุด → `bible/ตัวละคร.md` → prompt ทุกคลิปที่ตัวละครนั้นปรากฏในสถานะชุดนั้น
 - แก้สถานที่หรือแสง → `bible/สถานที่.md` + `03_setup_map.md` → ทุก Shot และ prompt ในฉากนั้น
@@ -118,13 +120,16 @@ EP01/
 |---|---|
 | `vde-episode` | ตัวสั่งงานหลัก: "ทำ EPxx" รันทุกขั้นต่อกันและเขียน `EPxx/06_ผลิต.md` |
 | `vde-collect` | อ่าน `shots/` + `prompts/` → `EPxx/production/plan.json` |
-| `vde-images` | สร้างภาพด้วย OpenArt GPT Image 2 แนบภาพตัวละคร ตรวจและเลือกภาพ |
-| `vde-videos` | ส่งภาพที่เลือกเข้า Grok Imagine ผ่าน grok MCP |
+| `vde-images` | สร้างภาพด้วย GPT Image 2 (fal.ai หรือ OpenArt ตาม `image_provider`) แนบภาพตัวละคร ตรวจและเลือกภาพ บันทึก IMAGE FACTS |
+| `vde-videos` | ส่งภาพที่เลือกเข้า Grok Imagine ผ่าน grok MCP เลือกรุ่น Lite/ปกติต่อคลิปอัตโนมัติ ตรวจ transition ด้วย `media.py drift` |
 | `vde-edit` | ตัดต่อตามไฟล์ Shot ซับไทยจากบทจริง → `EPxx/Edit/` |
+| `vde-xml` | ไฟล์ XML ไทม์ไลน์สำหรับ Premiere / Resolve → `EPxx/Edit/EPxx_timeline.xml` (vde-edit เรียกอัตโนมัติ) |
 
 ไฟล์เพิ่มจากหัวข้อ 3: `EPxx/production/` (แผนและสถานะรายคลิป), `EPxx/Image/`, `EPxx/Video/`, `EPxx/Edit/`, `EPxx/06_ผลิต.md`
 ชื่อไฟล์ take: `EPxx_A001_T01.png` / `EPxx_A001_T01.mp4` ค่าตั้ง (คุณภาพภาพ เพดานเงิน จำนวน retake) อยู่ที่ `.claude/skills/vde-episode/config.json`
+สร้างภาพได้ 2 ช่องทางตาม `image_provider` ใน config: `openart` (MCP, ใช้ภาพอ้างอิงจริงแค่ 2 รูป) หรือ `fal` (fal.ai `openai/gpt-image-2/edit` ผ่าน `scripts/fal_image.py` แนบได้ถึง `fal_max_refs` รูป key เก็บแบบ DPAPI ที่ `~/.claude/secrets/fal_key.dpapi`)
 ผลตรวจภาพ/วิดีโอของ Claude เป็นการคัดกรองเบื้องต้น ลิปซิงก์และเสียงพูดต้องให้คนตรวจเสมอ
+v68: หลังได้ภาพครบ vde-episode มีขั้นตรวจความต่อเนื่องข้าม Shot ด้วย contact sheet (`continuity_sheet.py`) ก่อนใช้เงินกับวิดีโอ ไฟล์อยู่ที่ `EPxx/production/continuity/`
 
 ## 7. กฎร่วมของทุก Agent
 
@@ -137,4 +142,4 @@ EP01/
 7. **รหัสมาตรฐาน:** Scene `SC01` · Beat `SC01-B01` · Dialogue `D001` · Shot `EP01-S001` · Clip `A001` (A-roll) / `B001` (B-roll) · Setup `SC01-A` · Character `C01` · Wardrobe `C01-W01` · Location `L01` · Prop `P01` · ไฟล์วิดีโอ `EP01_A001_T01.mp4` ใช้เลขสามหลักเติมศูนย์
 8. **Bible เป็นของซีรีส์:** อัปเดตต่อจากของเดิม ห้ามสร้างใหม่ทับ ห้ามเปลี่ยนข้อมูลที่ใช้ในตอนก่อนโดยไม่บันทึก
 9. **ภาพตัวละครเป็นของผู้ใช้:** ห้ามแก้ ย้าย หรือเปลี่ยนชื่อไฟล์ใน `input/` อ่านอย่างเดียว
-10. **รูปแนบสูงสุดต่อหนึ่งภาพใน OpenArt = 4** (แก้ตัวเลขนี้ได้ตามที่ OpenArt รองรับจริง) ถ้าภาพไหนมีตัวละครที่มีรูปมากกว่านี้ ให้แนบตามขนาดใบหน้าในภาพจากใหญ่ไปเล็ก ที่เหลือใช้คำบรรยาย และบันทึกในช่อง Clip ว่าเสี่ยง
+10. **รูปแนบสูงสุดต่อหนึ่งภาพ = 8 เมื่อสร้างภาพผ่าน fal.ai (ค่าเริ่มต้น v68) / 2 เมื่อใช้ OpenArt** (OpenArt รับได้ 4 แต่ใช้จริงแค่ 2 รูปแรก) แนบครบทุกคนที่เห็นหน้าก่อน ถ้าภาพไหนมีตัวละครที่มีรูปมากกว่านี้ ให้แนบตามขนาดใบหน้าในภาพจากใหญ่ไปเล็ก ที่เหลือใช้คำบรรยาย และบันทึกในช่อง Clip ว่าเสี่ยง

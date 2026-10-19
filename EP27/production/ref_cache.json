@@ -1,0 +1,62 @@
+{
+  "input/characters/ริต้า/Face.jpeg": {
+    "type": "image",
+    "id": "qRWyUqZs9uOAyDzpcy1U",
+    "url": "https://cdn.openart.ai/openart-uploads/production/2026-10/create-image/H9vh7bK2WbsVmGLbzHn9/rita_face_1792389732877_376fc3ff.jpeg",
+    "label": "ริต้า/Face.jpeg"
+  },
+  "input/characters/ริต้า/ริต้า W04 เดรสแดง.jpeg": {
+    "type": "image",
+    "id": "6r4GXBOZBxC5bDof6CVB",
+    "url": "https://cdn.openart.ai/openart-uploads/production/2026-10/create-image/H9vh7bK2WbsVmGLbzHn9/rita_W04_1792389734042_1648f42f.jpeg",
+    "label": "ริต้า W04 เดรสแดง.jpeg"
+  },
+  "input/characters/วิทย์/Face.webp": {
+    "type": "image",
+    "id": "SVqv1NPXxJ8RBKlutPYe",
+    "url": "https://cdn.openart.ai/openart-uploads/production/2026-10/create-image/H9vh7bK2WbsVmGLbzHn9/wit_face_1792389734881_c0880867.webp",
+    "label": "วิทย์/Face.webp"
+  },
+  "input/characters/วิทย์/วิทย์ W05 ชุดลำลอง.png": {
+    "type": "image",
+    "id": "N9waD4F2OLJ0zSo1mFXI",
+    "url": "https://cdn.openart.ai/openart-uploads/production/2026-10/create-image/H9vh7bK2WbsVmGLbzHn9/wit_W05_1792389735828_dc697d5d.png",
+    "label": "วิทย์ W05 ชุดลำลอง.png"
+  },
+  "input/characters/วิทย์/วิทย์ W06 ชุดแจ็กเก็ตครีมปกดำ.png": {
+    "type": "image",
+    "id": "AlkNVTlVodfQacYxsJRF",
+    "url": "https://cdn.openart.ai/openart-uploads/production/2026-10/create-image/H9vh7bK2WbsVmGLbzHn9/wit_W06_1792389736815_9c97a88b.png",
+    "label": "วิทย์ W06 ชุดแจ็กเก็ตครีมปกดำ.png"
+  },
+  "input/characters/แม่วิทย์/แม่วิทย์ W01 ชุดออกงาน.png": {
+    "type": "image",
+    "id": "CcxvTNHijAyaKF5gOUi2",
+    "url": "https://cdn.openart.ai/openart-uploads/production/2026-10/create-image/H9vh7bK2WbsVmGLbzHn9/mae_wit_W01_1792389738550_d3e40dbc.png",
+    "label": "แม่วิทย์ W01 ชุดออกงาน.png"
+  },
+  "input/characters/แม่วิทย์/แม่วิทย์ W02 ชุดขาวลูกไม้.png": {
+    "type": "image",
+    "id": "ViW4uiTbcKpTzQO1XPRv",
+    "url": "https://cdn.openart.ai/openart-uploads/production/2026-10/create-image/H9vh7bK2WbsVmGLbzHn9/mae_wit_W02_1792389739688_d3c08ad1.png",
+    "label": "แม่วิทย์ W02 ชุดขาวลูกไม้.png"
+  },
+  "input/characters/ไอริน/Face.png": {
+    "type": "image",
+    "id": "LLUFAAbi4IB4lnJmGsFs",
+    "url": "https://cdn.openart.ai/openart-uploads/production/2026-10/create-image/H9vh7bK2WbsVmGLbzHn9/irin_face_1792389741228_c4b37a9f.png",
+    "label": "ไอริน/Face.png"
+  },
+  "input/characters/ไอริน/ไอริน W07 ชุดเดรสคลุมท้องลูกไม้สีไอวอรี่แบบเกาะอก.png": {
+    "type": "image",
+    "id": "3dmY5DIIcm3hbiKwvqD0",
+    "url": "https://cdn.openart.ai/openart-uploads/production/2026-10/create-image/H9vh7bK2WbsVmGLbzHn9/irin_W07_1792389742271_d01ad9dc.png",
+    "label": "ไอริน W07 ชุดเดรสคลุมท้องลูกไม้สีไอวอรี่แบบเกาะอก.png"
+  },
+  "input/characters/ไอริน/ไอริน W12 ชุดคลุมท้อง.png": {
+    "type": "image",
+    "id": "JNaFtivlpNg46bNfxYCW",
+    "url": "https://cdn.openart.ai/openart-uploads/production/2026-10/create-image/H9vh7bK2WbsVmGLbzHn9/irin_W12_1792389743918_39712dd2.png",
+    "label": "ไอริน W12 ชุดคลุมท้อง.png"
+  }
+}

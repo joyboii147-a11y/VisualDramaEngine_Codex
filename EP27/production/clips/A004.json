@@ -1,16 +1,44 @@
 {
   "clip": "A004",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "4a0c3fd97be2"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Image/EP27_A004_T01.png",
+        "job": "35mUg0eozNhmLIJFzIUd",
+        "result": "fail",
+        "qc": "ไม่ผ่านข้อ 3: Guest3 ผมเปียกทั้งที่เป็นแขกแห้งบนเทอเรซ, Male Guest เห็นหน้าบางส่วนเกินกว่าไหล่",
+        "cost": 42.0
+      },
+      {
+        "take": 2,
+        "file": "EP27/Image/EP27_A004_T02.png",
+        "job": "mQrvqFvWchnlJcL3KbEj",
+        "result": "ok",
+        "qc": "ผ่าน: 2 คน Guest3 ผมแห้งกว่า T01 มือกำปกเสื้อ มองขวา; Male Guest เห็นหน้าบางส่วนซ้ายบน (มากกว่าไหล่ที่สั่ง)",
+        "cost": 42.0
+      }
+    ],
+    "selected": "EP27/Image/EP27_A004_T02.png",
+    "prompt_sha": "4a0c3fd97be2",
+    "flag": null
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "55fb33eee5a6"
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Video/EP27_A004_T01.mp4",
+        "job": "dc927f1f-e431-9260-8400-e42711b06326",
+        "result": "ok",
+        "qc": "3.04s มีเสียง; หน้า/ชุดคงที่ Male Guest ยังอยู่ขอบซ้าย กล้องสั่นเบาๆ",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP27/Video/EP27_A004_T01.mp4",
+    "prompt_sha": "55fb33eee5a6",
+    "flag": "ต้องฟังลิปซิงก์"
   },
   "notes": []
 }

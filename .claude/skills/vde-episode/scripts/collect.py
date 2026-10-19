@@ -130,11 +130,13 @@ def main():
             if st[kind]['prompt_sha'] and sha and st[kind]['prompt_sha'] != sha and st[kind]['status'] != 'todo':
                 st[kind]['status'] = 'todo'
                 st[kind]['selected'] = None
+                st[kind]['reset_at'] = len(st[kind]['takes'])
                 st['notes'].append(f'{kind} prompt เปลี่ยน — รีเซ็ตเป็น todo')
                 reset.append(f'{c} {kind}')
                 if kind == 'image':  # new start frame means the video must be redone too
                     st['video']['status'] = 'todo'
                     st['video']['selected'] = None
+                    st['video']['reset_at'] = len(st['video']['takes'])
             st[kind]['prompt_sha'] = sha
         save_json(sp, st)
 

@@ -1,16 +1,48 @@
 {
   "clip": "A037",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "74b2cc8ab178"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Image/EP27_A037_T01.png",
+        "job": "nvz6atkHLof2qkl94Dmd",
+        "result": "ok",
+        "qc": "ผ่าน: 3 คนยืน วิทย์ซ้าย ไอรินกลาง แม่ขวาถือบัตร; OpenArt inputImages แสดงแค่ 2 ref (ไม่มีแม่วิทย์)",
+        "cost": 42.0
+      },
+      {
+        "take": 2,
+        "file": "EP27/Image/EP27_A037_T02.png",
+        "job": "XNI2TWPHzdGJWAnxOeI5",
+        "result": "ok",
+        "qc": "ผ่าน: 3 คนยืน วิทย์ซ้าย ไอรินกลางถือบัตรหน้าท้อง แม่ขวามือว่างประสาน ผ้าขนหนูบนเตียง",
+        "cost": 42.0
+      }
+    ],
+    "selected": "EP27/Image/EP27_A037_T02.png",
+    "prompt_sha": "b62e93d28951",
+    "flag": null,
+    "reset_at": 1
   },
   "video": {
     "status": "todo",
-    "takes": [],
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Video/EP27_A037_T01.mp4",
+        "job": "8d3e9ce3-71f0-9260-af0e-17df9d23d8b3",
+        "result": "ok",
+        "qc": "5.04s มีเสียง 3 คนครบ ตำแหน่งซ้าย-กลาง-ขวาคงที่ หน้า/ชุดคงที่ การ์ดอยู่กับแม่ กล้องนิ่ง",
+        "cost": 0.1
+      }
+    ],
     "selected": null,
-    "prompt_sha": "20b46c3f6b36"
+    "prompt_sha": "2bc9f3eaa96a",
+    "flag": "ต้องฟังลิปซิงก์",
+    "reset_at": 1
   },
-  "notes": []
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
 }

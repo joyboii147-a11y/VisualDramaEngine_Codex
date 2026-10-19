@@ -1,16 +1,80 @@
 {
   "clip": "A034",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "4a6ebfb5043b"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Image/EP27_A034_T01.png",
+        "job": "o49yCpG9SlQQoX3oPxsq",
+        "result": "fail",
+        "qc": "ข้อ5: เห็นมือ/แขนไอรินถือบัตร ขัด START STATE (เห็นแค่ผม) และบัตรต้องอยู่ในมือแม่",
+        "cost": 42.0
+      },
+      {
+        "take": 2,
+        "file": "EP27/Image/EP27_A034_T02.png",
+        "job": "uVCUG8LJ7Zjf0V1hp0zH",
+        "result": "fail",
+        "qc": "ข้อ5: ซ้ำ T01 เห็นมือ/แขนไอรินถือบัตรในเฟรม ขัด START STATE และบัตรควรอยู่ในมือแม่",
+        "cost": 42.0
+      },
+      {
+        "take": 3,
+        "file": "EP27/Image/EP27_A034_T03.png",
+        "job": "IhakUyZMeBDn3RDsKVuW",
+        "result": "fail",
+        "qc": "ข้อ5: ซ้ำทุก take เห็นมือไอรินถือบัตรในเฟรม (ควรเห็นแค่ผม บัตรอยู่มือแม่นอกเฟรม)",
+        "cost": 42.0
+      },
+      {
+        "take": 4,
+        "file": "EP27/Image/EP27_A034_T04.png",
+        "job": "YR95eX3Iu0liNo77G4do",
+        "result": "ok",
+        "qc": "ผ่าน: ไอรินซ้ายถือบัตรบนตัก แม่นั่งขวามือว่างบนตัก หันหากัน; เฟรมกว้างเป็นเต็มตัวแทนเอวขึ้น",
+        "cost": 42.0
+      }
+    ],
+    "selected": "EP27/Image/EP27_A034_T04.png",
+    "prompt_sha": "69e3e6358415",
+    "flag": null,
+    "reset_at": 3
   },
   "video": {
     "status": "todo",
-    "takes": [],
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Video/EP27_A034_T01.mp4",
+        "job": "c8dbd81d-fc98-97c0-bcf1-d18e07133459",
+        "result": "fail",
+        "qc": "6.04s มีเสียง ครึ่งหลังเฟดซ้อน/ตัดไปมุมกว้าง วิทเปลี่ยนท่านั่ง อิรินแต่งตัวเพี้ยน (เปลี่ยนมุมกล้องกลางคลิป)",
+        "cost": 0.12
+      },
+      {
+        "take": 2,
+        "file": "EP27/Video/EP27_A034_T02.mp4",
+        "job": "6007a891-b758-944f-99cb-99ad4bde233a",
+        "result": "fail",
+        "qc": "ซ้ำแบบ T01: กลางคลิปเฟดซ้อนไปมุมกว้าง วิทเปลี่ยนท่า/ใส่สร้อย (เปลี่ยนมุมกล้อง)",
+        "cost": 0.12
+      },
+      {
+        "take": 3,
+        "file": "EP27/Video/EP27_A034_T03.mp4",
+        "job": "7960cdb9-574a-9d49-b104-41f735eed32e",
+        "result": "fail",
+        "qc": "ซ้ำ: ช่วงท้ายเปลี่ยนเป็นมุมกว้าง มีคนเพิ่ม (อิริน 2 ร่าง) ชุดเพี้ยน",
+        "cost": 0.12
+      }
+    ],
     "selected": null,
-    "prompt_sha": "9d8de618df0a"
+    "prompt_sha": "87e122339cfc",
+    "flag": "ครบ 3 take ไม่ผ่าน: ทุก take เฟดซ้อนไปมุมกว้างครึ่งหลัง ใช้ได้เฉพาะ ~0-2.5 วิแรก; ต้องฟังเสียงพูด OS (อิริน)",
+    "reset_at": 3
   },
-  "notes": []
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
 }

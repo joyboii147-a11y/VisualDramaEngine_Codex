@@ -1,16 +1,56 @@
 {
   "clip": "B020",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "4ea88e37a9bd"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Image/EP27_B020_T01.png",
+        "job": "Ry0qkOPDr566yYXMEXxN",
+        "result": "fail",
+        "qc": "ไม่ผ่านข้อ 5: ริต้าอยู่มุมขวาบน แทนที่จะเป็นซ้ายบน (ผังสลับ) และไม่เบลอ",
+        "cost": 42.0
+      },
+      {
+        "take": 2,
+        "file": "EP27/Image/EP27_B020_T02.png",
+        "job": "QxoYTXPRlEWH3X0Vja2y",
+        "result": "ok",
+        "qc": "ผ่าน: 3 คน วิทย์ซ้ายประคอง ไอรินก้มหน้าผมปิดหน้า มือจับขอบสระขวาล่าง ริต้าซ้ายบนไกล (ฉากหลังเป็นฝั่งอาคารมากกว่ากระจกฝั่งตรงข้าม)",
+        "cost": 42.0
+      },
+      {
+        "take": 3,
+        "file": "EP27/Image/EP27_B020_T03.png",
+        "job": "M3evRN6edJfwYJo4J1Sd",
+        "result": "ok",
+        "qc": "ผ่าน: 2 คน วิทย์คุกเข่าซ้ายจับแขน ไอรินขวาในน้ำก้มหน้า",
+        "cost": 42.0
+      }
+    ],
+    "selected": "EP27/Image/EP27_B020_T03.png",
+    "prompt_sha": "52737fa0d46a",
+    "flag": null,
+    "reset_at": 2
   },
   "video": {
     "status": "todo",
-    "takes": [],
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Video/EP27_B020_T01.mp4",
+        "job": "e21e9bec-b0e5-9de7-a416-b74d51eed702",
+        "result": "ok",
+        "qc": "3.04s; 3 คนครบ หน้า/ชุดคงที่ ไอรินเริ่มปีนขึ้นขอบ วิทประคอง ริต้าเบลอหลัง",
+        "cost": 0.06
+      }
+    ],
     "selected": null,
-    "prompt_sha": "9d580a749093"
+    "prompt_sha": "5bd2c3966256",
+    "flag": null,
+    "reset_at": 1
   },
-  "notes": []
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
 }

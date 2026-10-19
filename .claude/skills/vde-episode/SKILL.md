@@ -16,7 +16,7 @@ description: ผลิตตอนละครอัตโนมัติตั�
 
 ## ขั้น 2 — ตรวจงบและเครื่องมือ
 1. `python $S/state.py EPxx budget`
-2. `openart_model_list` → ดู `balance` ถ้า balance < `openart_credits_first_pass` → **หยุด** รายงานยอดที่ต้องใช้ ยอดที่มี และ upgradeUrl
+2. ภาพ: ถ้า `image_provider` = `fal` → `python $S/fal_image.py check` (ไม่พบ key → **หยุด** แนะนำ set-fal-key) ถ้า `openart` → `openart_model_list` ดู `balance` ถ้า balance < `openart_credits_first_pass` → **หยุด** รายงานยอดที่ต้องใช้ ยอดที่มี และ upgradeUrl
 3. `grok_list_models` → ถ้า error ให้จดว่า "ขั้นวิดีโอข้าม: grok ใช้ไม่ได้ (<ข้อความ>)" แล้วทำขั้น 3 ต่อ แต่ข้ามขั้น 4–5
 4. ถ้า `grok_usd_with_retakes` เกิน `grok_usd_cap` ให้จดไว้ (vde-videos จะหยุดที่เพดาน)
 5. บันทึก balance เริ่มต้นของ OpenArt ไว้คำนวณยอดใช้จริงตอนจบ
@@ -27,7 +27,17 @@ description: ผลิตตอนละครอัตโนมัติตั�
    "ใช้ skill vde-images กับ EPxx เฉพาะ SCyy ข้ามข้อ 0 (อัปโหลด ref ทำแล้ว) ทำจนทุกคลิปใน Scene เป็น done/flagged/gave_up แล้วรายงานสั้น: คลิปที่ผ่าน, flagged พร้อมเหตุผล, ล้มเหลว, จำนวน take"
    ถ้าตอนสั้น (≤ 12 คลิป) ทำเองใน agent หลักได้โดยไม่ต้อง spawn
 3. รวมผล แล้ว `python $S/state.py EPxx status`
-4. ถ้าผู้ใช้สั่ง "ถึงแค่ภาพ" → ข้ามไปขั้น 6
+4. ถ้าผู้ใช้สั่ง "ถึงแค่ภาพ" → ทำขั้น 3.5 แล้วข้ามไปขั้น 6
+
+## ขั้น 3.5 — ตรวจความต่อเนื่องข้าม Shot (v68, agent หลักทำเอง ก่อนใช้เงินกับวิดีโอ)
+1. `python $S/continuity_sheet.py EPxx` → เปิดทุก sheet ด้วย Read คู่กับไฟล์ `<scene>_image.txt` และ Blocking Table ใน `03_setup_map.md`
+2. ไล่ Shot ติดกันตามลำดับตัดต่อ ตรวจ: ลำดับคนซ้าย→ขวาไม่สลับ (เทียบมุมกล้อง), คนที่ควรอยู่ในส่วนที่เฟรมเห็นไม่หาย, ท่า (ยืน/นั่ง/ระดับน้ำ) สภาพ (เปียก/แห้ง) ชุด และผู้ถือพร็อพต่อกัน, ฉากหลังเป็นฝั่งที่ถูก
+3. Shot ที่ไม่ผ่าน:
+   - แก้ด้วยการกลับภาพซ้ายขวาได้ (ลำดับสลับทั้งเฟรม ไม่มีตัวหนังสือ) → `ffmpeg -i <ภาพ> -vf hflip <ไฟล์ take ถัดไป>` แล้ว `state.py take/select` พร้อม qc "hflip แก้ลำดับ"
+   - ต้นเหตุอยู่ใน prompt → แก้ prompt (โหมดแก้เฉพาะส่วน AGENTS.md ข้อ 6) แล้ว `collect.py` จะรีเซ็ตคลิปนั้น สร้างภาพใหม่
+   - แก้ไม่ได้ในงบ → `select --flag "<ปัญหาความต่อเนื่อง>"`
+4. บันทึกผลตรวจลงรายงานขั้น 6 หัวข้อ "ความต่อเนื่อง"
+5. หลังวิดีโอครบ (ก่อนตัดต่อ) รัน `continuity_sheet.py EPxx --kind video` ตรวจซ้ำแบบเดียวกัน
 
 ## ขั้น 4 — วิดีโอ
 ทำแบบเดียวกับขั้น 3 ด้วย skill `vde-videos` (sub-agent หนึ่งตัวต่อ Scene) แต่ละตัวส่งพร้อมกันไม่เกิน `video_parallel` คลิป
@@ -42,7 +52,10 @@ description: ผลิตตอนละครอัตโนมัติตั�
 วันที่: ...
 ผล: Clip ใหม่ n | ภาพ done n / flagged n / gave_up n | วิดีโอ done n / flagged n / gave_up n / ข้าม n
 ค่าใช้จ่าย: OpenArt ~n เครดิต (balance เริ่ม → จบ) | Grok ~$n (จาก take × วินาที)
-ไฟล์ตัดต่อ: EPxx/Edit/EPxx_ตัดต่อ_ซับ.mp4 (ยาว n วิ)
+ไฟล์ตัดต่อ: EPxx/Edit/EPxx_ตัดต่อ_ซับ.mp4 (ยาว n วิ) | XML: EPxx/Edit/EPxx_timeline.xml
+
+## ความต่อเนื่อง (ขั้น 3.5)
+- [Shot — ปัญหาที่พบ — วิธีแก้ (hflip / แก้ prompt / flag)]
 
 ## ต้องให้คนตรวจ (เรียงตามความสำคัญ)
 - gave_up: [clip — เหตุผล]

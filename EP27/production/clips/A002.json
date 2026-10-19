@@ -1,16 +1,36 @@
 {
   "clip": "A002",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "2700a62c8164"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Image/EP27_A002_T01.png",
+        "job": "SLdNRAXPrLwVamiyWru4",
+        "result": "ok",
+        "qc": "ผ่าน: 2 คน, Guest1 ชุดเบจ ผมมวย ชี้ไปสระ, Guest2 ขนดำด้านหน้าซ้าย (กินพื้นที่มากกว่า 1/5 เล็กน้อย)",
+        "cost": 42.0
+      }
+    ],
+    "selected": "EP27/Image/EP27_A002_T01.png",
+    "prompt_sha": "2700a62c8164",
+    "flag": null
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "23d963f76265"
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Video/EP27_A002_T01.mp4",
+        "job": "cd3efad4-cd9c-9a64-894e-23aba25c03eb",
+        "result": "ok",
+        "qc": "4.04s มีเสียง; หน้า/ชุด Guest1 คงที่; Guest2 ฉากหน้าหันมาเห็นหน้าช่วงท้าย (ชุดเดิม) กล้องขยับเล็กน้อย",
+        "cost": 0.08
+      }
+    ],
+    "selected": "EP27/Video/EP27_A002_T01.mp4",
+    "prompt_sha": "23d963f76265",
+    "flag": "ต้องฟังลิปซิงก์"
   },
   "notes": []
 }

@@ -1,16 +1,36 @@
 {
   "clip": "A005",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "dbae9680c84b"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Image/EP27_A005_T01.png",
+        "job": "6ieaPLXJnrSKQot40BdO",
+        "result": "ok",
+        "qc": "ผ่าน: 1 คน โค้ตเทาฟู เสื้อดำ ผมดำยาว ดัตช์ มือกำปกเสื้อ",
+        "cost": 42.0
+      }
+    ],
+    "selected": "EP27/Image/EP27_A005_T01.png",
+    "prompt_sha": "dbae9680c84b",
+    "flag": null
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "a78a10c598ad"
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Video/EP27_A005_T01.mp4",
+        "job": "f7abd6a4-c1c5-98a8-aa13-8f981f257525",
+        "result": "ok",
+        "qc": "3.04s มีเสียง; หน้า/ชุดคงที่ ตาเบิกกว้างตามแอ็กชัน มือที่ปกเสื้อ",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP27/Video/EP27_A005_T01.mp4",
+    "prompt_sha": "a78a10c598ad",
+    "flag": "ต้องฟังลิปซิงก์"
   },
   "notes": []
 }

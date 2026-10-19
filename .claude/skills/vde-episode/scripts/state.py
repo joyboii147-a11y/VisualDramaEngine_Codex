@@ -12,8 +12,10 @@ usage (from the project root):
   python .claude/skills/vde-episode/scripts/state.py EP28 select A001 image --file Image/EP28_A001_T01.png [--flag "<note for human>"]
   python .claude/skills/vde-episode/scripts/state.py EP28 give-up A001 video --reason "<why>"
   python .claude/skills/vde-episode/scripts/state.py EP28 reset A001 image|video
+  python .claude/skills/vde-episode/scripts/state.py EP28 facts A001 "<what the selected start image really shows>"
+  python .claude/skills/vde-episode/scripts/state.py EP28 usable A001 2.4      -> edit.py uses the take only up to 2.4 s
 """
-import argparse, json, mimetypes, os, sys
+import argparse, json, mimetypes, os, re, sys
 from vde_common import ROOT, ep_dir, prod_dir, load_json, save_json, read_prompt, clip_state_path, new_clip_state
 
 CFG = load_json(os.path.join(os.path.dirname(__file__), '..', 'config.json'), {})
@@ -46,13 +48,34 @@ def cmd_status(ep, a):
     print('รวม:', ', '.join(f'{k} {s}={n}' for (k, s), n in sorted(count.items())))
 
 
+CLOSE = re.compile(r'close-up|closeup|\bE?CU\b|\bMCU\b', re.I)
+
+
+def video_model(ep, clip, info):
+    """Lite reframes/dissolves on long clips and on close shots whose partner is off-frame (EP27); route those to
+    the standard model. Returns (model, usd_per_sec, reason)."""
+    lite = CFG.get('video_model', 'grok-imagine-video-1.5-lite')
+    std = CFG.get('video_model_standard', 'grok-imagine-video-1.5')
+    lite_usd, std_usd = CFG.get('grok_usd_per_sec', 0.02), CFG.get('grok_usd_per_sec_standard', 0.08)
+    if lite == std or not CFG.get('video_model_routing', True):
+        return lite, lite_usd, 'config'
+    sec = info.get('video_sec') or 0
+    if sec > CFG.get('lite_max_sec', 6):
+        return std, std_usd, f'ยาว {sec} วิ เกิน lite_max_sec'
+    header, body = read_prompt(os.path.join(ROOT, info['video_prompt']))
+    off = any(l.startswith('# - ') for l in header[next((i for i, l in enumerate(header) if 'ไม่อยู่ในเฟรม' in l), len(header)):])
+    if off and CLOSE.search(body):
+        return std, std_usd, 'ช็อตใกล้ที่มีคนเกี่ยวข้องอยู่นอกเฟรม'
+    return lite, lite_usd, 'lite'
+
+
 def cmd_budget(ep, a):
     p = plan(ep)
     img_unit = CFG.get('openart_image_credits', 42)
-    usd_sec = CFG.get('grok_usd_per_sec', 0.08)
     need_img = [c for c in p['clips'] if state(ep, c)['image']['status'] not in DONE]
     need_vid = [c for c in p['clips'] if state(ep, c)['video']['status'] not in DONE]
     sec = sum(p['clips'][c]['video_sec'] or 0 for c in need_vid)
+    usd = sum((p['clips'][c]['video_sec'] or 0) * video_model(ep, c, p['clips'][c])[1] for c in need_vid)
     r = CFG.get('expected_retake_rate', 0.5)
     spent = {'image': 0.0, 'video': 0.0}
     for c in p['clips']:
@@ -66,10 +89,15 @@ def cmd_budget(ep, a):
         'openart_credits_with_retakes': round(len(need_img) * img_unit * (1 + r)),
         'videos_todo': len(need_vid),
         'video_seconds': sec,
-        'grok_usd_first_pass': round(sec * usd_sec, 2),
-        'grok_usd_with_retakes': round(sec * usd_sec * (1 + r), 2),
+        'grok_usd_first_pass': round(usd, 2),
+        'grok_usd_with_retakes': round(usd * (1 + r), 2),
         'grok_usd_cap': CFG.get('grok_usd_cap_per_episode'),
     }, ensure_ascii=False, indent=2))
+
+
+def takes_used(sk):
+    # takes made since the last reset; earlier takes keep their numbers but no longer count against the limit
+    return len(sk['takes']) - sk.get('reset_at', 0)
 
 
 def cmd_todo(ep, a):
@@ -86,7 +114,7 @@ def cmd_todo(ep, a):
         if k == 'video' and not st['image']['selected']:
             continue
         item = {'clip': c, 'scene': info['scene'], 'status': st[k]['status'],
-                'next_take': len(st[k]['takes']) + 1, 'takes_left': MAX_TAKES[k] - len(st[k]['takes']),
+                'next_take': len(st[k]['takes']) + 1, 'takes_left': MAX_TAKES[k] - takes_used(st[k]),
                 'last_qc': st[k]['takes'][-1].get('qc') if st[k]['takes'] else None}
         if k == 'image':
             item['prompt_file'] = info['image_prompt']
@@ -95,6 +123,7 @@ def cmd_todo(ep, a):
         else:
             item['prompt_file'] = info['video_prompt']
             item['seconds'] = info['video_sec']
+            item['model'], item['usd_per_sec'], item['model_reason'] = video_model(ep, c, info)
             item['start_image'] = os.path.join(ROOT, st['image']['selected']).replace('/', os.sep)
             item['out_file'] = f"{ep}/Video/{ep}_{c}_T{item['next_take']:02d}.mp4"
         out.append(item)
@@ -104,7 +133,13 @@ def cmd_todo(ep, a):
 def cmd_prompt(ep, a):
     info = plan(ep)['clips'][a.clip]
     f = info['image_prompt' if a.kind == 'image' else 'video_prompt']
-    print(read_prompt(os.path.join(ROOT, f))[1])
+    body = read_prompt(os.path.join(ROOT, f))[1]
+    facts = state(ep, a.clip)['image'].get('facts')
+    if a.kind == 'video' and facts:
+        # the selected start image wins over the planned text; telling the model what it really shows stops it
+        # from 'correcting' the picture with a morph or a cut
+        body += '\nIMAGE FACTS (what the supplied starting image actually shows; keep it exactly): ' + facts
+    print(body)
 
 
 def cmd_refs_needed(ep, a):
@@ -139,7 +174,7 @@ def cmd_take(ep, a):
     st[a.kind]['takes'].append(t)
     st[a.kind]['status'] = 'retry' if a.result != 'ok' else 'review'
     save_json(sp, st)
-    print(f"{a.clip} {a.kind} take {t['take']} = {a.result}; เหลือ {MAX_TAKES[a.kind] - t['take']} ครั้ง")
+    print(f"{a.clip} {a.kind} take {t['take']} = {a.result}; เหลือ {MAX_TAKES[a.kind] - takes_used(st[a.kind])} ครั้ง")
 
 
 def cmd_select(ep, a):
@@ -149,7 +184,7 @@ def cmd_select(ep, a):
     st[a.kind]['status'] = 'flagged' if a.flag else 'done'
     st[a.kind]['flag'] = a.flag
     if a.kind == 'image' and st['video']['status'] in DONE:
-        st['video'] = {**st['video'], 'status': 'todo', 'selected': None}
+        st['video'] = {**st['video'], 'status': 'todo', 'selected': None, 'reset_at': len(st['video']['takes'])}
         st['notes'].append('เปลี่ยนภาพตั้งต้น — วิดีโอต้องสร้างใหม่')
     save_json(sp, st)
     print(f'{a.clip} {a.kind} -> {st[a.kind]["status"]}: {a.file}')
@@ -167,9 +202,25 @@ def cmd_give_up(ep, a):
 def cmd_reset(ep, a):
     sp = clip_state_path(ep, a.clip)
     st = state(ep, a.clip)
-    st[a.kind].update({'status': 'todo', 'selected': None, 'flag': None})
+    st[a.kind].update({'status': 'todo', 'selected': None, 'flag': None, 'reset_at': len(st[a.kind]['takes'])})
     save_json(sp, st)
     print(f'{a.clip} {a.kind} -> todo')
+
+
+def cmd_facts(ep, a):
+    sp = clip_state_path(ep, a.clip)
+    st = state(ep, a.clip)
+    st['image']['facts'] = a.text.strip()
+    save_json(sp, st)
+    print(f'{a.clip} image facts saved ({len(a.text)} chars)')
+
+
+def cmd_usable(ep, a):
+    sp = clip_state_path(ep, a.clip)
+    st = state(ep, a.clip)
+    st['video']['usable_until'] = a.seconds
+    save_json(sp, st)
+    print(f'{a.clip} video usable until {a.seconds} s')
 
 
 def main():
@@ -190,6 +241,8 @@ def main():
     s = sub.add_parser('give-up'); s.add_argument('clip'); s.add_argument('kind', choices=['image', 'video'])
     s.add_argument('--reason', required=True)
     s = sub.add_parser('reset'); s.add_argument('clip'); s.add_argument('kind', choices=['image', 'video'])
+    s = sub.add_parser('facts'); s.add_argument('clip'); s.add_argument('text')
+    s = sub.add_parser('usable'); s.add_argument('clip'); s.add_argument('seconds', type=float)
     a = ap.parse_args()
     ep_dir(a.ep)
     globals()['cmd_' + a.cmd.replace('-', '_')](a.ep, a)

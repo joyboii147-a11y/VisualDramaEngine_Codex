@@ -1,16 +1,56 @@
 {
   "clip": "A036",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "88c69d361d18"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Image/EP27_A036_T01.png",
+        "job": "08FNS2XnMLmEgiCvBrOZ",
+        "result": "ok",
+        "qc": "ผ่าน: แม่ยืนถือบัตรมือขวาระดับเอว ไหล่เทาไอรินซ้ายล่าง",
+        "cost": 42.0
+      },
+      {
+        "take": 2,
+        "file": "EP27/Image/EP27_A036_T02.png",
+        "job": "RH99kEiXjmaYCJO40HKO",
+        "result": "ok",
+        "qc": "ผ่าน: ไอรินคนเดียว มองขวายิ้มอ่อน ไม่มีบัตร; ชุดเป็นผ้าร่องเรียบ (ref หน้าอย่างเดียว) ต่างจากลายถักเล็กน้อย",
+        "cost": 42.0
+      }
+    ],
+    "selected": "EP27/Image/EP27_A036_T02.png",
+    "prompt_sha": "ad32e83f62d0",
+    "flag": null,
+    "reset_at": 1
   },
   "video": {
     "status": "todo",
-    "takes": [],
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Video/EP27_A036_T01.mp4",
+        "job": "658195ab-ed8c-92f2-b776-668ff0561178",
+        "result": "fail",
+        "qc": "6.04s มีเสียง แม่หน้า/ชุดคงที่ แต่ท้ายคลิปกล้องเลื่อนและอิรินหันหน้าเข้าเฟรมเห็นหน้า/ท้อง (อิรินเป็นผู้พูด OS ต้องไม่เห็นหน้า)",
+        "cost": 0.12
+      },
+      {
+        "take": 2,
+        "file": "EP27/Video/EP27_A036_T02.mp4",
+        "job": "c34f439e-83a4-9085-abab-2203ab6b1dda",
+        "result": "ok",
+        "qc": "6.04s มีเสียง หน้า/ชุดแม่คงที่ ถือการ์ดตลอด มืออิรินเอื้อมแตะแล้วถอนกลับ ไม่เห็นหน้าอิริน กล้องนิ่ง",
+        "cost": 0.12
+      }
+    ],
     "selected": null,
-    "prompt_sha": "7c79dc33cf5b"
+    "prompt_sha": "a1886ed7c03f",
+    "flag": "ต้องฟังเสียงพูด OS (อิริน)",
+    "reset_at": 2
   },
-  "notes": []
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
 }

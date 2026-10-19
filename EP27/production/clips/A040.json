@@ -1,16 +1,52 @@
 {
   "clip": "A040",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "2de3f053c86d"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Image/EP27_A040_T01.png",
+        "job": "5w3vmQGZjkq5oULrKnmV",
+        "result": "ok",
+        "qc": "ผ่าน: วิทย์ยิ้มมองลง ไอรินผมขวาล่าง; เฟรม medium มากกว่า MCU และมีทีวีหลังวิทย์ เล็กน้อย",
+        "cost": 42.0
+      }
+    ],
+    "selected": "EP27/Image/EP27_A040_T01.png",
+    "prompt_sha": "2de3f053c86d",
+    "flag": null
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "09463a0250f3"
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Video/EP27_A040_T01.mp4",
+        "job": "ee0b3e56-dde8-918c-bc73-b7ed99fde664",
+        "result": "fail",
+        "qc": "6.04s มีเสียง กลางคลิปกล้องถอย/เปลี่ยนมุม อิรินหันเข้าเฟรมเห็นหน้า ชุดอิรินเปลี่ยนเป็นเสื้อสายเดี่ยวเทา",
+        "cost": 0.12
+      },
+      {
+        "take": 2,
+        "file": "EP27/Video/EP27_A040_T02.mp4",
+        "job": "9b1f55b8-ef07-9660-81b4-4760322aa0ba",
+        "result": "fail",
+        "qc": "ซ้ำแบบ T01: อิรินหันเข้าเฟรมเห็นหน้า ชุดเปลี่ยนเป็นเสื้อในฟ้า/กระโปรงถัก",
+        "cost": 0.12
+      },
+      {
+        "take": 3,
+        "file": "EP27/Video/EP27_A040_T03.mp4",
+        "job": "c2fb8e0e-e75a-948c-b287-6238b5b88396",
+        "result": "fail",
+        "qc": "ซ้ำ: อิรินหันเข้าเฟรมเห็นหน้า ชุดเปลี่ยน (เสื้อในฟ้า)",
+        "cost": 0.12
+      }
+    ],
+    "selected": "EP27/Video/EP27_A040_T01.mp4",
+    "prompt_sha": "09463a0250f3",
+    "flag": "ครบ 3 take ไม่ผ่าน: ทุก take ครึ่งหลังอิรินหันหน้าเข้าเฟรมและชุดเปลี่ยน ใช้ได้เฉพาะ ~0-2.5 วิแรก; ต้องฟังลิปซิงก์"
   },
   "notes": []
 }

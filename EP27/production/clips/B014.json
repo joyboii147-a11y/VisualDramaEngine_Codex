@@ -1,16 +1,64 @@
 {
   "clip": "B014",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "37e11d479193"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Image/EP27_B014_T01.png",
+        "job": "y2oSBZziBrPjcjFS2Q7Z",
+        "result": "fail",
+        "qc": "ไม่ผ่านข้อ 1+8: มีคนเกิน 2 คนในโถงด้านหลัง และกล้องหันเข้าฝั่งอาคารแทนกระจกฝั่งตรงข้าม",
+        "cost": 42.0
+      },
+      {
+        "take": 2,
+        "file": "EP27/Image/EP27_B014_T02.png",
+        "job": "8EWlzEhygC0UejIaIzzv",
+        "result": "fail",
+        "qc": "ไม่ผ่านข้อ 1+5: มีคนเบลอในโถงด้านหลังเกิน 3 คน และริต้าอยู่ขวาบนแทนซ้ายบน; กล้องหันเข้าฝั่งอาคารอีก",
+        "cost": 42.0
+      },
+      {
+        "take": 3,
+        "file": "EP27/Image/EP27_B014_T03.png",
+        "job": "PjwdtikrZeVCYOTElWBE",
+        "result": "ok",
+        "qc": "ผ่าน: 3 คน วิทย์ซ้ายประคองเอว ไอรินขวามือบนขอบสระ ริต้าซ้ายบนไกล ไม่มีคนเกิน (ฉากหลังเป็นฝั่งอาคารแทนกระจกฝั่งตรงข้าม ฮีตเตอร์มีแสงเรืองเล็กน้อย)",
+        "cost": 42.0
+      },
+      {
+        "take": 4,
+        "file": "EP27/Image/EP27_B014_T04.png",
+        "job": "fXGfZTLvVFmQj5MvjWEq",
+        "result": "ok",
+        "qc": "ผ่าน: 10 คน วิทย์ แม่ ไอรินในน้ำพาแม่เข้าขอบ แขก 7 คนยืนขอบสระ มุมกว้าง (เสื้อ R สีแดงกว่าที่สั่ง)",
+        "cost": 42.0
+      }
+    ],
+    "selected": "EP27/Image/EP27_B014_T04.png",
+    "prompt_sha": "06ae5aebe0fa",
+    "flag": null,
+    "reset_at": 3
   },
   "video": {
     "status": "todo",
-    "takes": [],
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Video/EP27_B014_T01.mp4",
+        "job": "f0fb9bd9-e7f4-9540-8f74-d3ac2f909c44",
+        "result": "ok",
+        "qc": "2.04s; 3 คนครบ หน้า/ชุดคงที่ สบตากัน ริต้าเบลอหลัง กล้องนิ่ง",
+        "cost": 0.04
+      }
+    ],
     "selected": null,
-    "prompt_sha": "f093341e3f0b"
+    "prompt_sha": "2cd02a650dc4",
+    "flag": null,
+    "reset_at": 1
   },
-  "notes": []
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
 }

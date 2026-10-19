@@ -1,16 +1,48 @@
 {
   "clip": "B012",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "9bc0872884b1"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Image/EP27_B012_T01.png",
+        "job": "oCCyMqVEl4qdaUyBcmWd",
+        "result": "ok",
+        "qc": "ผ่าน: 1 คน ริต้าเปียก ชุดเดรสแดงเบอร์กันดีกุหลาบที่คอ ผมครึ่งรวบ ฉากกระจกกรอบขาว หน้าใกล้ ref",
+        "cost": 42.0
+      },
+      {
+        "take": 2,
+        "file": "EP27/Image/EP27_B012_T02.png",
+        "job": "YtKToFn7rLi0Lp0rDbt0",
+        "result": "ok",
+        "qc": "ผ่าน: 1 คน ริต้าเปียก สีหน้าริษยา หัวนิ่งไม่หัน (สายตาเหลือบไปทางซ้ายจอแทนขวาเล็กน้อย, ฉากหลังเห็นฮีตเตอร์ฝั่งซ้าย)",
+        "cost": 42.0
+      }
+    ],
+    "selected": "EP27/Image/EP27_B012_T02.png",
+    "prompt_sha": "dcce96e325b4",
+    "flag": null,
+    "reset_at": 1
   },
   "video": {
     "status": "todo",
-    "takes": [],
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Video/EP27_B012_T01.mp4",
+        "job": "a55f9cc3-2f6b-9ae8-98c1-62c765ca821b",
+        "result": "ok",
+        "qc": "2.04s; หน้า/ชุดคงที่ อ้าปากเจ็บใจไม่พูด ลอยตัวนิ่ง",
+        "cost": 0.04
+      }
+    ],
     "selected": null,
-    "prompt_sha": "0e3d7c2d9da9"
+    "prompt_sha": "017b7fb18dba",
+    "flag": null,
+    "reset_at": 1
   },
-  "notes": []
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
 }

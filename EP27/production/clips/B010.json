@@ -1,16 +1,36 @@
 {
   "clip": "B010",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "3a36e839377b"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Image/EP27_B010_T01.png",
+        "job": "CkoeHnfqa00ZYGVA04aE",
+        "result": "ok",
+        "qc": "ผ่าน: 1 คน วิทย์เปียกในน้ำระดับอก มองขวา ฮีตเตอร์ด้านหลัง",
+        "cost": 42.0
+      }
+    ],
+    "selected": "EP27/Image/EP27_B010_T01.png",
+    "prompt_sha": "3a36e839377b",
+    "flag": null
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "ce952fc04ce4"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Video/EP27_B010_T01.mp4",
+        "job": "58b0805a-5ffe-9d19-85f6-129fa6efb5b1",
+        "result": "ok",
+        "qc": "2.04s; หน้า/ชุดเปียกคงที่ พุ่งไปทางขวาตามแอ็กชัน กล้องนิ่ง",
+        "cost": 0.04
+      }
+    ],
+    "selected": "EP27/Video/EP27_B010_T01.mp4",
+    "prompt_sha": "ce952fc04ce4",
+    "flag": null
   },
   "notes": []
 }

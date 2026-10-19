@@ -1,16 +1,64 @@
 {
   "clip": "A022",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "fc57f62ec6f7"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Image/EP27_A022_T01.png",
+        "job": "HI0L9jsyiKSuDnOI3ops",
+        "result": "fail",
+        "qc": "ไม่ผ่านข้อ 5: ไอรินกับวิทย์ยืนบนเทอเรซแล้วแทนที่จะกำลังถูกดันขึ้นจากน้ำ แม่วิทย์อยู่ในน้ำแทนคุกเข่าบนเทอเรซ",
+        "cost": 42.0
+      },
+      {
+        "take": 2,
+        "file": "EP27/Image/EP27_A022_T02.png",
+        "job": "ecjpYEzSOnZaSgYA0DyO",
+        "result": "fail",
+        "qc": "ไม่ผ่านข้อ 5: ไอรินกับวิทย์ยืนบนเทอเรซแล้ว (ไม่ใช่กำลังถูกดันขึ้นจากน้ำ) ชุดไอรินดูแห้ง",
+        "cost": 42.0
+      },
+      {
+        "take": 3,
+        "file": "EP27/Image/EP27_A022_T03.png",
+        "job": "6dcXs5xe5aHnLPvtzSpJ",
+        "result": "fail",
+        "qc": "ไม่ผ่านข้อ 5: ไอรินกับวิทย์ยืนบนเทอเรซแล้วเหมือน T01-T02 (ไม่ใช่กำลังถูกดันขึ้นจากน้ำ)",
+        "cost": 42.0
+      },
+      {
+        "take": 4,
+        "file": "EP27/Image/EP27_A022_T04.png",
+        "job": "TLykggR01VSAm8yBoSzw",
+        "result": "ok",
+        "qc": "ผ่าน: 4 คน ชายร่างท้วมโผล่จากน้ำหลังกระโดด วิทย์ ไอริน แม่ ยืนบนขอบสระมองด้วยความแปลกใจ (ชุดไอรินค่อนข้างโปร่ง)",
+        "cost": 42.0
+      }
+    ],
+    "selected": "EP27/Image/EP27_A022_T04.png",
+    "prompt_sha": "441b028bce62",
+    "flag": null,
+    "reset_at": 3
   },
   "video": {
     "status": "todo",
-    "takes": [],
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Video/EP27_A022_T01.mp4",
+        "job": "01d145e7-6232-9972-aeda-c8eed624007e",
+        "result": "ok",
+        "qc": "3.04s มีเสียง; 5 คนครบ หน้า/ชุดคงที่ ชายร่างท้วมโผล่พ้นน้ำ ไอรินขึ้นถึงขอบ ถาดคงที่",
+        "cost": 0.06
+      }
+    ],
     "selected": null,
-    "prompt_sha": "d5c30024b3f8"
+    "prompt_sha": "f0f786c7ff1c",
+    "flag": "ต้องฟังลิปซิงก์",
+    "reset_at": 1
   },
-  "notes": []
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
 }

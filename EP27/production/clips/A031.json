@@ -1,16 +1,72 @@
 {
   "clip": "A031",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "b013f0fde301"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Image/EP27_A031_T01.png",
+        "job": "RAobmeD9sYDYoZxnJMWO",
+        "result": "fail",
+        "qc": "ข้อ1: CAST COUNT 1 แต่มีคนเบลอฉากหน้า 2 คน (ไหล่ครีมซ้าย + คนชุดม่วงขวา)",
+        "cost": 42.0
+      },
+      {
+        "take": 2,
+        "file": "EP27/Image/EP27_A031_T02.png",
+        "job": "1eouoHlYZAJOr09eStpA",
+        "result": "fail",
+        "qc": "ข้อ5: แม่ถือบัตรด้วยมือซ้าย (ต้องมือขวา) และมองตรงเลนส์ ไม่ได้มองซ้ายล่างไปที่ไอริน; ฉาก/ชุด/จำนวนคนถูก",
+        "cost": 42.0
+      },
+      {
+        "take": 3,
+        "file": "EP27/Image/EP27_A031_T03.png",
+        "job": "dvmswOVl4KNdEgfAV83X",
+        "result": "ok",
+        "qc": "ผ่าน: แม่คนเดียว ถือบัตรมือขวายกพ้นลำตัว ยิ้มมองต่ำ; ทิศสายตาเอียงไปขวาเฟรมเล็กน้อย",
+        "cost": 42.0
+      },
+      {
+        "take": 4,
+        "file": "EP27/Image/EP27_A031_T04.png",
+        "job": "atkP9gdeykXYBhENguY9",
+        "result": "ok",
+        "qc": "ผ่าน: แม่คนเดียว มือว่างประสานหน้าเอว ฉากผ้าม่านขาว ยิ้มมองต่ำ; เฟรมกว้างถึงสะโพกเล็กน้อย",
+        "cost": 42.0
+      }
+    ],
+    "selected": "EP27/Image/EP27_A031_T04.png",
+    "prompt_sha": "d721dbed6fad",
+    "flag": null,
+    "reset_at": 3
   },
   "video": {
     "status": "todo",
-    "takes": [],
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Video/EP27_A031_T01.mp4",
+        "job": "c64c6b46-eaf3-9ed5-8550-9b63d4895546",
+        "result": "fail",
+        "qc": "5.04s มีเสียง หน้าแม่คงที่ แต่ช่วงท้ายกล้องเลื่อน/รีเฟรม มือคนอื่นเข้าเฟรม 2 ข้าง (มือรับการ์ดขวา + มือถือผ้าซ้าย) เกิน cast 1 คน",
+        "cost": 0.1
+      },
+      {
+        "take": 2,
+        "file": "EP27/Video/EP27_A031_T02.mp4",
+        "job": "aa661f37-a77c-9735-b05e-faba67ef596c",
+        "result": "ok",
+        "qc": "5.04s มีเสียง หน้า/ชุดแม่คงที่ ยื่นการ์ด พยักหน้า ถือการ์ดตลอด ไม่มีมือเกิน; กล้องเลื่อนตามเล็กน้อย และมีเงาเบลอคนด้านซ้ายขอบเฟรมช่วงท้าย",
+        "cost": 0.1
+      }
+    ],
     "selected": null,
-    "prompt_sha": "bcc96587b010"
+    "prompt_sha": "fd56fd99dadf",
+    "flag": "ต้องฟังลิปซิงก์",
+    "reset_at": 2
   },
-  "notes": []
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
 }

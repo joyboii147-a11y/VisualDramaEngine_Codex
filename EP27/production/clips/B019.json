@@ -1,16 +1,48 @@
 {
   "clip": "B019",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "6d3d66eddd64"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Image/EP27_B019_T01.png",
+        "job": "Vvz7eCEvCkD3UzdUKqaU",
+        "result": "ok",
+        "qc": "ผ่าน: 5 คน แม่วิทย์คุกเข่าบนขอบ Guest1 ถือถาดแก้ว 2 ใบ ไอรินจับขอบ วิทย์ ริต้าหลังขวาล่าง",
+        "cost": 42.0
+      },
+      {
+        "take": 2,
+        "file": "EP27/Image/EP27_B019_T02.png",
+        "job": "oVPlSpw9p1n5htOdrQkm",
+        "result": "ok",
+        "qc": "ผ่าน: 4 คน วิทย์คุกเข่าบนขอบจับแขนไอรินในน้ำ แม่วิทย์คุกเข่าซ้าย Guest1 ถือถาดแก้ว 2 ใบ",
+        "cost": 42.0
+      }
+    ],
+    "selected": "EP27/Image/EP27_B019_T02.png",
+    "prompt_sha": "920bfd2dd9d4",
+    "flag": null,
+    "reset_at": 1
   },
   "video": {
     "status": "todo",
-    "takes": [],
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Video/EP27_B019_T01.mp4",
+        "job": "8f44ad48-4c72-9d83-810c-1e16d195467a",
+        "result": "ok",
+        "qc": "4.04s; 5 คนครบ หน้า/ชุดคงที่ ถาดแก้วคงที่ วิทดันไอรินขึ้น (ไอรินลุกสูงกว่าที่สั่งเล็กน้อย) ริต้าหันหลังคงที่",
+        "cost": 0.08
+      }
+    ],
     "selected": null,
-    "prompt_sha": "1e36dab820d5"
+    "prompt_sha": "3a7f47cd063d",
+    "flag": null,
+    "reset_at": 1
   },
-  "notes": []
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
 }

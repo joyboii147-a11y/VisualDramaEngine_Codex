@@ -1,16 +1,36 @@
 {
   "clip": "A003",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "2d1edc8343af"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Image/EP27_A003_T01.png",
+        "job": "UiUFx6YIArMoZ3RneQHi",
+        "result": "ok",
+        "qc": "ผ่าน: 1 คน โค้ตขนดำ เสื้อลาย สร้อยมุก ผมตรงยาว มองซ้ายตกใจ",
+        "cost": 42.0
+      }
+    ],
+    "selected": "EP27/Image/EP27_A003_T01.png",
+    "prompt_sha": "2d1edc8343af",
+    "flag": null
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "300deb30b198"
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Video/EP27_A003_T01.mp4",
+        "job": "137367a9-10c7-9f62-8e4c-186407d327d6",
+        "result": "ok",
+        "qc": "4.04s มีเสียง; หน้า/ชุดคงที่ ขยับมือและปากตามแอ็กชัน",
+        "cost": 0.08
+      }
+    ],
+    "selected": "EP27/Video/EP27_A003_T01.mp4",
+    "prompt_sha": "300deb30b198",
+    "flag": "ต้องฟังลิปซิงก์"
   },
   "notes": []
 }

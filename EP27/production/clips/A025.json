@@ -1,16 +1,56 @@
 {
   "clip": "A025",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "d24d7106352c"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Image/EP27_A025_T01.png",
+        "job": "nTGDHsh9qEkxkFYDeigE",
+        "result": "ok",
+        "qc": "ผ่าน: 2 คนจากด้านหลัง แขนซ้ายวิทย์โอบเอวไอริน (ครอปเต็มตัวแทนถึงต้นขา เห็นสระด้านขวาเล็กน้อย)",
+        "cost": 42.0
+      },
+      {
+        "take": 2,
+        "file": "EP27/Image/EP27_A025_T02.png",
+        "job": "q5IjpdOT17DmJL5BkLNa",
+        "result": "ok",
+        "qc": "ผ่าน: 3 คน (POV ริต้า) ไอริน วิทย์ แม่ เดินประคองกันบนริมสระจากด้านหลัง ไม่มีริต้า ไม่มีใครในน้ำ (ชุดแม่ดูโปร่งมาก)",
+        "cost": 42.0
+      }
+    ],
+    "selected": "EP27/Image/EP27_A025_T02.png",
+    "prompt_sha": "79bf38730e0f",
+    "flag": null,
+    "reset_at": 1
   },
   "video": {
     "status": "todo",
-    "takes": [],
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Video/EP27_A025_T01.mp4",
+        "job": "2ea194de-e976-94f2-ab30-aaf5b177add0",
+        "result": "fail",
+        "qc": "3.04s มีเสียง; เดินออกถูก หน้า/ชุดคงที่ แต่ท้ายคลิปมีหัวคนโผล่ในสระขวา (CAST COUNT 2)",
+        "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP27/Video/EP27_A025_T02.mp4",
+        "job": "5eaae6f1-62bb-9e97-9137-e9a601277856",
+        "result": "fail",
+        "qc": "3.04s มีเสียง; เดินออกถูก แต่ครึ่งหลังมีริต้าโผล่ในสระขวาเหมือน T01 (CAST COUNT 2)",
+        "cost": 0.06
+      }
+    ],
     "selected": null,
-    "prompt_sha": "f90172267eeb"
+    "prompt_sha": "dfdd69bd9c89",
+    "flag": "ต้องฟังลิปซิงก์ (เสียง OS กรี๊ด); ภาพ: 2 take มีริต้าโผล่ในสระขวาช่วงท้าย (ตรงเรื่องแต่เกิน CAST COUNT) ไม่ถ่ายครั้งที่ 3 เพราะซ้ำแบบเดิม",
+    "reset_at": 2
   },
-  "notes": []
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
 }

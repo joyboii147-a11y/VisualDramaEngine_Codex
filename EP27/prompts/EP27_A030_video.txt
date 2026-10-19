@@ -1,49 +1,44 @@
 # ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
 # Shot: EP27-S030 | Clip: A030 (A-roll) | SC02 ห้องนอนโรงแรม กลางวัน
-# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 3.7 วิ | เสียงโหมด A
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 5.3 วิ | เสียงโหมด A
 #
-# ตัวละครในเฟรม (รวม 1 คน):
-# - แม่วิทย์ C01-W07 ชุดขาวลูกไม้ | เห็นแค่มือขวาและแขนยื่นจากขอบขวาเข้าหากลางเฟรม ถือบัตร ATM Black Card
+# ตัวละครในเฟรม (รวม 3 คน):
+# - แม่วิทย์ C01-W07 ชุดขาวลูกไม้ | ครึ่งตัว (ถึงเข่า) ยืน ขวาเฟรม หันหาไอริน ยื่นบัตรแล้วมือว่าง
+# - ไอริน C04-W17 ชุดคลุมท้อง | ครึ่งตัว นั่ง กลางเฟรม รับบัตรด้วยสองมือ
+# - วิทย์ C05-W08 ชุดแจ็กเก็ตครีมปกดำ (ไม่แนบภาพ ใช้คำบรรยาย) | ครึ่งตัว นั่ง ซ้ายเฟรม ผ้าบนตัก
 #
 # เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
-# - แม่วิทย์ C01-W07 ชุดขาวลูกไม้ | ผู้พูด OS ใบหน้าและปากอยู่นอกกรอบ
-# - วิทย์ C05-W08 ชุดแจ็กเก็ตครีมปกดำ | นอกกรอบตามตำแหน่งโลกฉากใน prompt
-# - ไอริน C04-W17 ชุดคลุมท้อง | นอกกรอบตามตำแหน่งโลกฉากใน prompt
+# - ไม่มี
 #
 # แนบใน Grok: ภาพที่เลือกจาก EP27_A030_image
-# ผู้พูด: แม่วิทย์ OS | คนในเฟรมที่ไม่พูด: ไม่มี
+# ผู้พูด: แม่วิทย์ ON | คนในเฟรมที่ไม่พูด: ไอริน / วิทย์
 # ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
 SHOT EP27-S030 / CLIP A030. One continuous cinematic live-action shot, vertical 9:16.
-TARGET DURATION: 3.7 seconds including handles.
-Animate the supplied starting image. Use only this request’s image and instructions.
-CHARACTERS: Wits mother, adult, identified by their appearance and established position in the supplied starting image, wearing an ivory floral-lace midi dress with a sheer ivory chiffon cape overlay, floral front appliques, a delicate gemstone necklace, small gemstone earrings, ivory pointed heels with jeweled buckles, and dark brown hair in a low braided chignon.
-CAST COUNT: exactly 1 visible people including partial figures.
-SCENE GEOGRAPHY: A daytime hotel bedroom, pale neutral wood floor. Wall A holds a beige upholstered double bed, pillows, yellow-gold bed runner and cream bedside lamp. A yellow-flower pot stands near the bed-foot area. Wall B has the sheer-curtained side window to Irins right when seated. Opposite the bed, wall C has pale wood paneling, one black-screen television and an angled wing. Wall D is cream-beige. Entrance position is unestablished and outside view; no invented doorway. Wit occupies the left bed-foot position and Irin the right; mother remains on Irins window side. Camera stays on the open bed-foot side of the interaction axis.
-CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: hand-level insert from the open bed-foot side of the interaction axis. Mothers forearm enters from the RIGHT edge of the image and reaches LEFT toward the center; keep this screen direction.
-CAMERA / FOCUS: hand insert,85mm,hand height,shallow focus; partial foreground figures softly defocused, main subject sharp.
-FOREGROUND / VISIBLE BACKGROUND: defocused lavender-gray fabric; no additional person.
-OFF-FRAME: Wit remains outside crop at the left bed-foot position; Irin remains outside crop at the right bed-foot position. Entrance outside composition; window and television stay fixed on walls B and C. Cropped faces and hands stay outside view.
-LIGHTING: soft daylight entering through the side sheer-curtained window, mixed with warm practical bedside-lamp light, a warm neutral room palette, approximately 4000K mixed light, soft natural contrast. Window stays side B and lamp stays beside wall A.
-GRADE: warm beige and pale wood, restrained gold accents, natural skin tones, soft contrast; a subtle cool lavender background in the final close-up without changing the established window light.
-PROP STATE: One standard-size matte-black bank ATM Black Card with rounded corners, a small gold EMV chip and subtle silver detailing in mothers right hand. No readable text, numbers or logo. Irin and her hands are completely outside this insert; no receiving hand enters and no transfer occurs. Towel on Wits lap before standing, then on bed edge outside crop.
-START STATE: Only mothers right hand and ivory chiffon-covered forearm are visible, entering from the RIGHT frame edge. The forearm remains connected to the right edge, fingers holding the single ATM Black Card in the right third of frame at waist height, its face angled toward the camera. Her body, face and upper arm are outside the right edge. The couple remains outside the crop.
-PERFORMANCE CONTEXT: Mother offers one card to Irin with gentle generosity.
-ACTION: Hold starting state 0.5 seconds. Mothers right forearm extends from the RIGHT frame edge LEFTWARD toward the center, presenting the single ATM Black Card toward Irin outside the crop. The wrist and card finish near center-right, with the forearm still connected to the right edge. No receiving hand, face or extra arm enters, and the card stays in mothers fingers. Hold end state 0.5 seconds.
-END STATE: The single ATM Black Card is held near center-right by mothers right hand; her ivory forearm extends into frame from the RIGHT edge, pointing LEFT toward the unseen recipient. No transfer occurs.
-CAMERA MOVEMENT: static; no pan, zoom or cut.
-VISUAL CONTINUITY: Preserve supplied image faces, hair, outfits, set geometry, light direction and grade. Only specified actions. No unplanned cuts, added people, extra hands, identity swaps or prop teleportation. Keep single card and specified holder.
+TARGET DURATION: 5.3 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+SCENE GEOGRAPHY: A daytime hotel bedroom with a pale neutral wood floor. Against the back wall stands a double bed with a beige upholstered headboard, white pillows and a yellow-gold runner across the foot of the bed; a cream bedside lamp stands beside the headboard on the cream-wall side. The side wall on the window side has a tall sheer-curtained window letting in soft daylight. The wall facing the bed is pale wood panelling with one black-screen television. The opposite side wall is plain cream-beige. A pot of yellow flowers stands on the floor near the foot of the bed on the cream-wall side. No doorway is shown. Wit and Irin sit side by side on the edge of the bed foot, facing into the room toward the television wall: Wit on the cream-wall side, Irin beside him on the window side. Wit's mother stands in front of the bed foot on Irin's window side, facing the couple.
+VISIBLE CAST: exactly three people. Wit at the left, seated, wearing a cream button-front jacket with a dark collar over a white crew-neck T-shirt, black trousers and chunky black loafers, with tousled short black hair. Irin in the center, seated, wearing a cream knit maternity midi dress with a thin gray under-bust tie, a loose light gray cardigan, a delicate pendant necklace and cream ballet flats, a thin gold ring on her left ring finger, and long dark brown hair worn loose, still slightly damp from towel-drying. Wit's mother standing at the right, wearing an ivory floral-lace midi dress with a sheer ivory chiffon cape overlay, floral front appliques, a delicate gemstone necklace, small gemstone earrings and ivory pointed heels with jeweled buckles, with dark brown hair in a low braided chignon.
+CAST COUNT: exactly 3 people visible for the whole clip.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: in the open room in front of the bed, slightly toward the cream-wall side, looking diagonally at the seated couple and the standing mother; standing chest height; medium-wide three-shot, 40mm.
+FOREGROUND / VISIBLE BACKGROUND: no foreground objects; beige headboard, white pillows, cream lamp at the left, edge of the sheer-curtained window at the right.
+OFF-FRAME: the television wall is behind the camera; no doorway is visible.
+LIGHTING / COLOR: soft daylight through the sheer-curtained window on the window side, mixed with warm light from the cream bedside lamp beside the headboard, approximately 4000K mixed light, soft natural contrast; the daylight always comes from the window side. Grade: warm beige and pale wood, restrained gold accents, natural skin tones, soft contrast.
+PROP STATE: Wit's mother holds one plain matte-black ATM Black Card (standard size, rounded corners, small gold chip, subtle silver detailing, no readable text, numbers or logo) in her right hand at her side. The towel is on Wit's lap. Irin's hands are empty.
+START STATE: Wit sits at the left of the frame and Irin in the center, both on the bed edge looking up at Wit's mother; Wit has a friendly small smile, Irin is calm and attentive, both with lips closed; the folded towel rests on Wit's lap and Irin's empty hands rest on her bump. Wit's mother stands at the right of the frame, visible head to knees, body turned toward Irin, face in three-quarter view looking down at Irin with a gentle smile, lips closed; her right hand hangs at her side holding the black card low against her skirt.
+PERFORMANCE CONTEXT: Wit's mother gives Irin the black card as thanks. Irin is surprised and a little hesitant but takes it.
+ACTION: Hold the starting frame for 0.4 seconds. Wit's mother raises her right hand and holds the black card out toward Irin's hands while saying the assigned line. Irin, briefly surprised, lifts both hands and receives the card; the card passes from the mother's fingers into Irin's hands, and the mother lets go and lowers her now-empty right hand to her side. Irin holds the card with both hands in her lap and looks from the card up to Wit's mother, surprised and hesitant. Wit watches with a small smile. Hold the end state silently for 0.5 seconds.
+END STATE: Irin holds the single black card in both hands in her lap, looking up at Wit's mother, surprised; Wit's mother stands with empty hands and a gentle smile; Wit seated with a small smile, towel on his lap.
+CAMERA: static locked-off camera. One continuous take, no cuts, no transitions, no dissolves, no zoom-out or reframing; the camera stays at the starting framing for the entire clip.
+VISUAL CONTINUITY: Preserve the starting image's faces, hair, wardrobe, set geometry, lighting direction and color treatment. Allow only the specified actions. No added people, no identity swaps, no extra hands, no second card and no prop teleportation. No one outside the frame enters the frame at any point.
 AUDIO MODE: generated dialogue.
 SPEECH EVENT 1:
-SPEAKER: Wits mother, off-screen speaking face (OS); only the described partial body may be in frame, with mouth and face entirely outside the crop.
+SPEAKER: Wit's mother, visible on screen (ON), standing at the right in the ivory lace dress with a chiffon cape.
 EXACT THAI DIALOGUE: "ไอริน เธอรับไว้นะ"
 VOICE IDENTITY: mature Thai female voice, poised mid-low register, clear warm timbre, standard Thai accent
-DELIVERY: Gently inviting and warm, unhurried.
-Wits mother speaks from outside the visible face crop; no visible person lip-syncs to this voice. Do not reveal the speaking face.
-NON-SPEAKERS: none visible; no speech-like lip movements.
+DELIVERY: gentle, clear and warmly insistent, addressing Irin by name.
+Lip-sync only Wit's mother to the assigned line.
+NON-SPEAKERS: Wit and Irin keep their lips closed with no speech-like movement.
 Speak only the assigned dialogue exactly once, without paraphrasing or added words.
 Do not stretch speech to fill the clip. No unassigned voices.
-AFTER SPEECH: finish the specified physical action and hold the planned end state silently for 0.5 seconds.
-AMBIENCE/SFX: faint steady hotel room tone and soft fabric movement; no music, chatter, or extra vocalizations.
-SPEAKING FACE CROP: Wits mother has no visible mouth or face in this composition.
-
-
+AFTER SPEECH: Wit's mother closes her lips and keeps a gentle smile while the handover finishes; hold silently until the cut.
+AMBIENCE/SFX: faint steady hotel room tone and soft fabric movement; no music, no chatter, no laughter, no extra vocalizations.

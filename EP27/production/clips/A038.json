@@ -1,16 +1,48 @@
 {
   "clip": "A038",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "76e9b3e3154b"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Image/EP27_A038_T01.png",
+        "job": "9RKs8jmSD4hWD85SCw4V",
+        "result": "ok",
+        "qc": "ผ่าน: แม่คนเดียวถือบัตรระดับเอว; เฟรมกว้างเป็น full shot แทน medium เล็กน้อย",
+        "cost": 42.0
+      },
+      {
+        "take": 2,
+        "file": "EP27/Image/EP27_A038_T02.png",
+        "job": "fluFgwF24tkBJ7IKqyxe",
+        "result": "ok",
+        "qc": "ผ่าน: แม่คนเดียวยืน มือว่างประสาน ผ้าม่านขาวหลัง มองซ้ายต่ำเล็กน้อย",
+        "cost": 42.0
+      }
+    ],
+    "selected": "EP27/Image/EP27_A038_T02.png",
+    "prompt_sha": "e3e602f84a3a",
+    "flag": null,
+    "reset_at": 1
   },
   "video": {
     "status": "todo",
-    "takes": [],
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Video/EP27_A038_T01.mp4",
+        "job": "a74557f9-0c2c-9f01-a741-519c8889be3c",
+        "result": "ok",
+        "qc": "4.04s มีเสียง หน้า/ชุดแม่คงที่ ยื่นการ์ดลงซ้าย; ท้ายคลิปมือ (อิริน) เข้าเฟรมจากซ้ายรอรับ ยังไม่ส่งต่อ",
+        "cost": 0.08
+      }
+    ],
     "selected": null,
-    "prompt_sha": "5c5bb034eb0f"
+    "prompt_sha": "41d9b26bf49a",
+    "flag": "ต้องฟังลิปซิงก์; มือรับการ์ดเข้าเฟรมช่วงท้าย (สั่งให้อยู่นอกเฟรม)",
+    "reset_at": 1
   },
-  "notes": []
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
 }

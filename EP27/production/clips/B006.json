@@ -1,16 +1,52 @@
 {
   "clip": "B006",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "4f0ed3e6c30d"
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Image/EP27_B006_T01.png",
+        "job": "E7CbWchzfYihPlZ4kUKV",
+        "result": "fail",
+        "qc": "ไม่ผ่านข้อ 3: ทั้งสองคนผมและเสื้อเปียกเหมือนตากฝน ทั้งที่เป็นแขกแห้งบนเทอเรซ",
+        "cost": 42.0
+      },
+      {
+        "take": 2,
+        "file": "EP27/Image/EP27_B006_T02.png",
+        "job": "RbjWlTfAOjnFNQsnIwgV",
+        "result": "fail",
+        "qc": "ไม่ผ่านข้อ 3: Male Guest เสื้อแจ็กเก็ตมีหยดน้ำ ผมเปียก ทั้งสองยังดูเปียกทั้งที่เป็นแขกแห้ง",
+        "cost": 42.0
+      },
+      {
+        "take": 3,
+        "file": "EP27/Image/EP27_B006_T03.png",
+        "job": "HijsI2tFwEmJ8GkO0gSL",
+        "result": "fail",
+        "qc": "ไม่ผ่านข้อ 3: ผมและแจ็กเก็ต Male Guest เปียกเป็นหยดน้ำอีก ทั้งที่แขกยืนแห้งบนเทอเรซ",
+        "cost": 42.0
+      }
+    ],
+    "selected": "EP27/Image/EP27_B006_T02.png",
+    "prompt_sha": "4f0ed3e6c30d",
+    "flag": "ถ่าย 3 ครั้ง แขกแห้งบนเทอเรซดูเปียกทุก take (ผม/แจ็กเก็ตมีหยดน้ำ) เลือก T02 ที่ Guest3 ผมแห้งที่สุด; น่าจะเกิดจาก GRADE 'wet fabric darkening' + 'Natural wet materials' ใน prompt ที่ใส่กับแขกแห้งด้วย"
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "a6c3a9491f74"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Video/EP27_B006_T01.mp4",
+        "job": "33856248-bed0-9df4-ad24-d33c6a0a2bb0",
+        "result": "ok",
+        "qc": "3.04s; หน้า/ชุดคงที่ 2 คนครบ ปฏิกิริยาตกใจ ไม่มีบท; Guest3 หันหน้าเข้าหากล้องมากขึ้นช่วงท้าย",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP27/Video/EP27_B006_T01.mp4",
+    "prompt_sha": "a6c3a9491f74",
+    "flag": null
   },
   "notes": []
 }

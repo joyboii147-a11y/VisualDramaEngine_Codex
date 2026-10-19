@@ -1,0 +1,17 @@
+{
+  "clip": "B017",
+  "endpoint": "openai/gpt-image-2/edit",
+  "refs": [
+    "input/characters/วิทย์/วิทย์ W05 ชุดลำลอง.png"
+  ],
+  "out_file": "EP27/Image/EP27_B017_T04.png",
+  "prompt_chars": 3376,
+  "status": "done",
+  "request_id": "01a1533a-fd44-7af1-821e-959770104239",
+  "status_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a1533a-fd44-7af1-821e-959770104239/status",
+  "response_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a1533a-fd44-7af1-821e-959770104239",
+  "submitted": "2026-10-19 15:15:35",
+  "finished": "2026-10-19 15:16:48",
+  "width": null,
+  "height": null
+}

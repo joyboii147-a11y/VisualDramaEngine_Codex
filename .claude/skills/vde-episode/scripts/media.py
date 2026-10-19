@@ -5,6 +5,7 @@ usage (from the project root):
   python .claude/skills/vde-episode/scripts/media.py fetch "<url>" EP28/Video/EP28_A001_T01.mp4
   python .claude/skills/vde-episode/scripts/media.py frames EP28/Video/EP28_A001_T01.mp4   -> 3 QC frames (jpg)
   python .claude/skills/vde-episode/scripts/media.py probe EP28/Video/EP28_A001_T01.mp4
+  python .claude/skills/vde-episode/scripts/media.py drift EP28/Video/EP28_A001_T01.mp4   -> reframe/dissolve check + 3 frames
   python .claude/skills/vde-episode/scripts/media.py wait 30
 """
 import json, os, subprocess, sys, time, urllib.request
@@ -27,6 +28,41 @@ def probe(path):
             'has_audio': any(s['codec_type'] == 'audio' for s in j.get('streams', []))}
 
 
+DRIFT_SUSPECT = 0.15   # EP27: clips with a mid-clip reframe/dissolve scored 0.16–0.29, locked shots 0.03–0.09
+DRIFT_STABLE = 0.10
+
+
+def drift(src, suspect=DRIFT_SUSPECT):
+    """How far the picture wanders from its opening frame. Lite models often zoom out, dissolve or cut mid-clip;
+    those show up as a lasting jump in difference from the first frame. Real motion (swimming, splashing) can also
+    score high, so a suspect result means: look at the frames saved here, not an automatic fail."""
+    import numpy as np
+    w, h = 36, 64
+    raw = subprocess.run(['ffmpeg', '-v', 'error', '-i', src, '-map', '0:v:0', '-vf', f'scale={w}:{h},format=gray',
+                          '-f', 'rawvideo', '-'], capture_output=True).stdout
+    fr = np.frombuffer(raw, np.uint8).reshape(-1, h * w).astype(np.float32) / 255
+    if len(fr) < 8:
+        return {'file': src, 'error': 'คลิปสั้นเกินวัด'}
+    fps = 24.0
+    ref = fr[6]                                   # skip the first quarter second of encoder settle
+    d0 = np.abs(fr - ref).mean(axis=1)
+    over = np.nonzero(d0 > DRIFT_STABLE)[0]
+    stable_until = round(float(over[0]) / fps, 2) if len(over) else round(len(fr) / fps, 2)
+    peak = int(d0.argmax())
+    outdir = os.path.join(os.path.dirname(src), '_qc')
+    os.makedirs(outdir, exist_ok=True)
+    base = os.path.splitext(os.path.basename(src))[0]
+    shots = []
+    last = (len(fr) - 4) / fps
+    for name, t in (('drift_start', 0.3), ('drift_turn', stable_until), ('drift_peak', peak / fps)):
+        o = os.path.join(outdir, f'{base}_{name}.jpg')
+        subprocess.run(['ffmpeg', '-y', '-v', 'error', '-ss', f'{min(t, last):.2f}', '-i', src, '-map', '0:v:0',
+                        '-frames:v', '1', '-vf', 'scale=360:-2', o], check=True)
+        shots.append(o)
+    return {'file': src, 'max_drift': round(float(d0.max()), 3), 'peak_at': round(peak / fps, 2),
+            'stable_until': stable_until, 'suspect': bool(d0.max() > suspect), 'frames': shots}
+
+
 def main():
     cmd, args = sys.argv[1], sys.argv[2:]
     if cmd == 'upload':
@@ -42,7 +78,9 @@ def main():
         os.makedirs(os.path.dirname(dest), exist_ok=True)
         for attempt in range(3):
             try:
-                with urllib.request.urlopen(url, timeout=300) as r, open(dest, 'wb') as fh:
+                # cdn.openart.ai answers 403 to urllib's default User-Agent
+                req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+                with urllib.request.urlopen(req, timeout=300) as r, open(dest, 'wb') as fh:
                     fh.write(r.read())
                 break
             except Exception as e:  # transient CDN errors
@@ -66,6 +104,8 @@ def main():
                             '-vf', 'scale=360:-2', o], check=True)
             outs.append(o)
         print('\n'.join(outs))
+    elif cmd == 'drift':
+        print(json.dumps(drift(absp(args[0]), float(args[1]) if len(args) > 1 else DRIFT_SUSPECT), ensure_ascii=False))
     elif cmd == 'probe':
         print(json.dumps(probe(absp(args[0])), ensure_ascii=False))
     elif cmd == 'wait':

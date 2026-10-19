@@ -1,16 +1,79 @@
 {
   "clip": "A042",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "8d1c4a2db55c"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Image/EP27_A042_T01.png",
+        "job": "RsLi76WBnbyePvEGEI33",
+        "result": "fail",
+        "qc": "ข้อ1: CAST COUNT 1 แต่มีศีรษะคนผมดำเสื้อน้ำตาลเบลอขวาล่าง",
+        "cost": 42.0
+      },
+      {
+        "take": 2,
+        "file": "EP27/Image/EP27_A042_T02.png",
+        "job": "qSNjgFPFBA7UR6yfL8pE",
+        "result": "fail",
+        "qc": "ข้อ1: ยังมีผมดำคนเบลอขอบขวาล่าง (CAST COUNT 1)",
+        "cost": 42.0
+      },
+      {
+        "take": 3,
+        "file": "EP27/Image/EP27_A042_T03.png",
+        "job": "qeoBSApOLmgWyEF7TS3g",
+        "result": "fail",
+        "qc": "ข้อ1: ยังมีคนเบลอ (ผมดำ+เสื้อครีม) ขวาล่าง",
+        "cost": 42.0
+      },
+      {
+        "take": 4,
+        "file": "EP27/Image/EP27_A042_T04.png",
+        "job": "yYCyvB3x7hwUL9GiZgB3",
+        "result": "ok",
+        "qc": "แก้ prompt ตัดไอรินเบลอ/การ์ดออก: คนเดียวในเฟรม ขอบสะอาด ชุดครีมปกดำตรง หน้าใกล้ภาพอ้างอิง มองต่ำ ยิ้มเล็กน้อย",
+        "cost": 42.0
+      }
+    ],
+    "selected": "EP27/Image/EP27_A042_T04.png",
+    "prompt_sha": "c36ccdc568ae",
+    "flag": null
   },
   "video": {
     "status": "todo",
-    "takes": [],
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP27/Video/EP27_A042_T01.mp4",
+        "job": "d7b9e416-f594-9d49-aa05-4550ec79faa0",
+        "result": "fail",
+        "qc": "5.04s มีเสียง ครึ่งหลังตัด/ถอยเป็นมุมกว้างเต็มตัวในห้อง (เปลี่ยนมุมกล้องกลางคลิป)",
+        "cost": 0.1
+      },
+      {
+        "take": 2,
+        "file": "EP27/Video/EP27_A042_T02.mp4",
+        "job": "dc9c25c0-6153-93e4-bd2a-0b21aedd663d",
+        "result": "fail",
+        "qc": "ซ้ำแบบ T01: กลางคลิปตัดเป็นมุมกว้างเต็มตัวในห้อง",
+        "cost": 0.1
+      },
+      {
+        "take": 3,
+        "file": "EP27/Video/EP27_A042_T03.mp4",
+        "job": "f2378662-e80c-9a50-ae9f-7efd5f247d50",
+        "result": "fail",
+        "qc": "ซ้ำ: กลางคลิปตัดเป็นมุมกว้างเต็มตัว",
+        "cost": 0.1
+      }
+    ],
     "selected": null,
-    "prompt_sha": "a971a79aa6cc"
+    "prompt_sha": "d3c7d00caae2",
+    "flag": "ครบ 3 take ไม่ผ่าน: ทุก take ตัดเป็นมุมกว้างเต็มตัวราว 2.5 วิ ช่วง close-up ใช้ได้แค่ ~0-2.5 วิ บทพูดอาจอยู่ในช่วงมุมกว้าง; ต้องฟังลิปซิงก์",
+    "reset_at": 3
   },
-  "notes": []
+  "notes": [
+    "video prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
 }
