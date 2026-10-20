@@ -42,7 +42,7 @@
     "reset_at": 3
   },
   "video": {
-    "status": "todo",
+    "status": "flagged",
     "takes": [
       {
         "take": 1,
@@ -51,11 +51,19 @@
         "result": "ok",
         "qc": "4.04s มีเสียง; คนครบ แขกคงที่ ชายร่างท้วมวิ่งกระโดดจบกลางอากาศถูก; แต่วิทขึ้นมายืนบนระเบียงดึงไอรินขึ้นเร็วกว่าที่สั่ง",
         "cost": 0.08
+      },
+      {
+        "take": 2,
+        "file": "EP27/Video/EP27_A021_T02.mp4",
+        "job": "manual-extension",
+        "result": "ok",
+        "qc": "extension 6/10s (แผน 4 วิ) drift 0.129; ภาพนิ่ง ไม่มี transition",
+        "cost": 0.0
       }
     ],
-    "selected": null,
+    "selected": "EP27/Video/EP27_A021_T02.mp4",
     "prompt_sha": "b5d10c58c70f",
-    "flag": "ต้องฟังลิปซิงก์ (เสียง OS ริต้า); ภาพ: วิทขึ้นไปยืนบนระเบียงกลางคลิป เร็วกว่าแผน",
+    "flag": "ต้องฟังลิปซิงก์",
     "reset_at": 1
   },
   "notes": [

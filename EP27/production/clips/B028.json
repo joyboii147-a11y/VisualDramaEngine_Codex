@@ -26,7 +26,7 @@
     "reset_at": 1
   },
   "video": {
-    "status": "todo",
+    "status": "done",
     "takes": [
       {
         "take": 1,
@@ -35,9 +35,17 @@
         "result": "ok",
         "qc": "3.04s มีเสียง หน้า/ชุดคงที่ วิทซับผมหนึ่งครั้ง ไม่มีตัด",
         "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP27/Video/EP27_B028_T02.mp4",
+        "job": "manual-extension",
+        "result": "ok",
+        "qc": "extension 6/10s (แผน 4 วิ) drift 0.088; ภาพนิ่ง ไม่มี transition",
+        "cost": 0.0
       }
     ],
-    "selected": null,
+    "selected": "EP27/Video/EP27_B028_T02.mp4",
     "prompt_sha": "dba7a4a2a7e7",
     "flag": null,
     "reset_at": 1

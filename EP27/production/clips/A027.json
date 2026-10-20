@@ -17,7 +17,7 @@
     "flag": null
   },
   "video": {
-    "status": "flagged",
+    "status": "todo",
     "takes": [
       {
         "take": 1,
@@ -28,9 +28,12 @@
         "cost": 0.14
       }
     ],
-    "selected": "EP27/Video/EP27_A027_T01.mp4",
-    "prompt_sha": "ec7b07de743d",
-    "flag": "ต้องฟังลิปซิงก์"
+    "selected": null,
+    "prompt_sha": "337dd2526e9e",
+    "flag": "ต้องฟังลิปซิงก์",
+    "reset_at": 1
   },
-  "notes": []
+  "notes": [
+    "video prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
 }

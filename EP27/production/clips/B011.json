@@ -26,7 +26,7 @@
     "reset_at": 2
   },
   "video": {
-    "status": "todo",
+    "status": "flagged",
     "takes": [
       {
         "take": 1,
@@ -53,10 +53,11 @@
         "cost": 0.06
       }
     ],
-    "selected": null,
+    "selected": "EP27/Video/EP27_B011_T01.mp4",
     "prompt_sha": "3b5b6a4a5649",
-    "flag": "ภาพ: ครบ 3 take เลือก T01 — ช่วงต้นใช้ได้ แต่ช่วงท้ายวิท/ไอริน/แม่ลุกยืนในน้ำตื้นแค่เข่า ควรตัดใช้ ~1.5 วิแรก",
-    "reset_at": 3
+    "flag": "ชั่วคราว: วิดีโอฉบับก่อนแก้ตำแหน่ง (T01 ใช้ได้ ~1.5 วิแรก) รอภาพใหม่จาก fal แล้วทำวิดีโอใหม่",
+    "reset_at": 3,
+    "usable_until": 1.5
   },
   "notes": [
     "image prompt เปลี่ยน — รีเซ็ตเป็น todo",

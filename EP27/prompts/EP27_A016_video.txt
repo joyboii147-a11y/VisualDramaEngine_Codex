@@ -3,44 +3,32 @@
 # ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 5 วิ | เสียงโหมด A
 #
 # ตัวละครในเฟรม (รวม 1 คน):
-# - ริต้า C06-W01 ริต้า W04 เดรสแดง | กลาง ระนาบกลาง หัวไหล่พ้นน้ำ แกล้งทำเป็นจมน้ำ ตีน้ำ
+# - ริต้า C06-W01 ริต้า W04 เดรสแดง | กลาง ลอยคอในน้ำลึก เห็นจากอกขึ้นไป แกล้งทำเป็นจมน้ำ ตีน้ำ
 #
-# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
-# - วิทย์ / ไอริน / แม่วิทย์ | ที่ขอบสระฝั่งลาน แม่กำลังถูกแขกช่วยขึ้น นอกขนาดภาพ ขวา
-# - แขกหญิง 1–3, แขกชาย, ชายร่างท้วม, แขกอื่น | บนลานฝั่งอาคาร แห้ง นอกขนาดภาพ
-# - พนักงานหญิง C07-W01 | นอก crop ริมขอบสระตามใบสถานะ
+# แก้ตามคำสั่ง 2026-10-20: ทุก take กล้องถอยเป็นภาพกว้างและริต้ายืนน้ำตื้นเห็นรองเท้า (~1.6 วิ) — ต้นเหตุ: prompt บรรยายทั้งสระ/คนนอกเฟรม,
+#   บรรยายรองเท้าใน WARDROBE ทั้งที่ไม่เห็นเท้า, และสั่งให้เหลือบมองหาวิทย์ → ตัดออกทั้งหมด เหลือเฟรมแคบ น้ำลึกถึงคอ กล้องไม่ตามสายตา
 # แนบใน Grok: ภาพที่เลือกจาก EP27_A016_image
 # ผู้พูด: ริต้า ON | ไม่มีคนอื่นในเฟรม
 # ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
-SHOT EP27-S016 / CLIP A016. One continuous cinematic live-action shot, vertical 9:16.
+EP27_A016 SHOT EP27-S016. One continuous cinematic live-action shot, vertical 9:16.
 TARGET DURATION: 5 seconds including handles.
 Animate the supplied starting image. Use only this request's image and instructions.
-One continuous take: no cuts, no transitions, no dissolves, no fades, no flashbacks, no zoom-out and no reframing; the camera stays at the starting framing for the whole clip.
-SCENE GEOGRAPHY: A long rectangular deep swimming pool with white stone coping adjoins a white-paved event terrace. From the building side: a tall glass building with a large doorway into a ceiling-lit hall, then the guest terrace, three fixed black pyramid heaters and tall round standing tables, then the white coping and the pool. Across the pool stands a white-framed glass wall with city high-rises beyond. A glass canopy spans overhead. Heaters and tables stay fixed, without added flames. Rita is alone in the deep part of the pool, 3 to 4 meters from the terrace-side coping where Wit and Irin are helping Mother of Wit out of the water, off screen-right. The pool is deep: anyone in the water is treading water at chest-to-shoulder depth; feet never touch the bottom and never show; no visible pool floor, steps or shallow area.
-VISIBLE CAST:
-Rita: young woman; a young Thai woman with warm fair skin, a sharp oval face, and long dark brown wavy half-up hair; WARDROBE LOCKED: "a deep burgundy satin halter mini dress with a large sculpted rose at the high neck, draped blouson bodice, fitted mini skirt, open bare back, gold floral stud earrings, and glossy burgundy pointed-toe stiletto pumps with rose ornaments; long dark brown wavy hair half-up". No diamond necklace or chandelier earrings. Hair and clothing are soaked and cling to the body; water darkens the fabric.
-CAST COUNT: exactly one person visible: Rita.
-CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: Camera just above the water surface in front of Rita, about 2 meters away, slight downward angle. View toward Rita, with rippling deep pool water behind her and a thin strip of the distant white-framed glass wall along the top of the frame. Framing: medium shot, 50mm full-frame equivalent, slightly above the water, gentle downward angle. Keep the established layout; do not mirror it.
-FOREGROUND / VISIBLE BACKGROUND: rippling aqua pool water around and behind Rita; a thin softly defocused strip of the white-framed glass wall at the top edge. No people, no edges of other figures.
-OFF-FRAME: Wit, Irin and Mother of Wit are at the terrace-side coping beyond the screen-right frame edge; Female Guest 1, Female Guest 2, Female Guest 3, Male Guest, Stocky Man and the other guests stand dry on the building-side terrace outside this crop. Female Staff stays beyond the crop along the terrace pool edge. Nobody enters the frame.
-LIGHTING / COLOR: soft overcast daylight through the glass canopy, cool blue ambient fill across the pool, coherent diffuse reflections on glass and water, approximately 6500K, natural medium-low contrast. Soft key from overhead through the canopy; no added lamps, flames or colored light. GRADE: cool overcast pool blues, restrained saturation, natural skin tones and controlled glass highlights; fabric is darker only on the people stated as wet.
-PROP STATE: Three fixed black pyramid heaters and tall round standing tables line the terrace. No credit card is present. Rita has no glass. Nobody holds a phone or a new handheld prop.
-START STATE: Wet Rita, head and shoulders above the water at center, chin at the surface, both arms raised and slapping the water, mouth open in a theatrical gasp; her eyes slide sideways toward screen-right to check whether Wit is watching. The water around her is choppy from her splashing.
-PERFORMANCE CONTEXT: Rita fakes drowning to win Wit's attention: exaggerated, staged panic, while her glances toward Wit betray that it is an act.
-ACTION: Hold the start for 0.5 seconds. Rita flails both arms and slaps the water, lets her chin dip to the surface and bobs back up in staged panic; with her mouth clearly above the water she cries out the assigned line toward screen-right, then keeps splashing while glancing toward screen-right to see whether Wit reacts. She stays in the same spot, never going fully under.
-END STATE: Rita is still splashing theatrically at center, head above water, eyes on screen-right.
-CAMERA: locked-off at the starting framing for the whole clip. One continuous take: no cuts, no transitions, no dissolves, no fades, no flashbacks, no zoom-out and no reframing; the camera stays at the starting framing for the whole clip.
-VISUAL CONTINUITY: Preserve the starting image's faces, hair, wardrobe, set geometry, fixed landmarks, lighting and color. Only the people listed in VISIBLE CAST appear; nobody listed in OFF-FRAME enters the frame, no part of them appears, and no extra swimmers, guests or reflected figures are added. No identity swaps, cloned people or prop teleportation. Water stays deep: feet never touch the bottom and never show.
+One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing. Camera locked-off on a tripod: the framing never changes for the whole clip, even after the dialogue ends.
+SCENE GEOGRAPHY: only deep, choppy blue pool water around and behind Rita, and a thin softly defocused strip of a white-framed glass wall at the very top of the frame.
+VISIBLE CAST: exactly 1 person: Rita, a young Thai woman with long dark brown wavy half-up hair, soaked, in a deep burgundy satin halter dress with a large sculpted rose at the high neck, gold floral stud earrings. She is in very deep water at the center of the frame, visible only from the upper chest up.
+WATER DEPTH: the pool is far too deep to stand in. Rita treads water the whole clip; the waterline stays at her collarbones or higher; her waist, legs and feet are never visible; there is no pool floor, step or shallow area anywhere in the frame.
+CAMERA POSITION / VIEW DIRECTION: just above the water surface about 1.5 meters in front of Rita, facing her; MEDIUM CLOSE-UP from the upper chest to just above her head, 65mm.
+OFF-FRAME: nothing needed. No one else enters the frame at any time.
+LIGHTING / COLOR: soft overcast daylight from above, cool blue fill from the water, about 6500K, natural medium-low contrast. GRADE: cool overcast pool blues, restrained saturation, natural skin tones.
+START STATE: Rita treads water at center, chin near the surface, both arms raised and slapping the water, mouth open in a theatrical gasp; the water around her is choppy.
+PERFORMANCE CONTEXT: Rita fakes drowning to get attention; her panic is exaggerated and staged.
+ACTION: Hold the start for 0.5 seconds. Rita flails both arms and slaps the water in staged panic, bobs a little, and with her mouth clearly above the water cries out the assigned line looking past the camera toward screen-right. Then she keeps splashing in the same spot, still treading water, until the end of the clip. Only her eyes turn; the camera does not follow her gaze.
+END STATE: Rita still splashing theatrically at center, neck-deep, in the same framing as the first frame.
+CAMERA: locked-off; the framing never changes.
+VISUAL CONTINUITY: preserve the starting image's face, hair, dress and water. She never stands up, never rises above the waterline, and no other person appears.
 AUDIO MODE: generated dialogue.
-SPEECH EVENT 1:
-SPEAKER: Rita, visible on screen (ON), the only person in frame, in the wet burgundy halter dress.
-EXACT THAI DIALOGUE: "พี่คะ ช่วยฉันด้วย!"
-VOICE IDENTITY: young Thai female voice, crisp mid register, cool bright timbre, standard Thai accent
-DELIVERY: loud, theatrical pleading, slightly breathless from splashing; a fake cry for help, not real choking.
-Lip-sync only Rita, while her mouth is above the water.
-NON-SPEAKERS: none visible; no speech-like lip movements.
-Speak only the assigned dialogue exactly once, in the stated order, without paraphrasing or added words.
-Do not stretch speech to fill the clip. No unassigned voices.
-AFTER SPEECH: Rita keeps splashing and glancing toward screen-right, mouth closed between gasps, until the end of the clip.
-AMBIENCE/SFX: splashing water close to camera; no other voices, chatter or music.
+SPEECH EVENT 1: SPEAKER: Rita, visible on screen (ON), the only person in frame. EXACT THAI DIALOGUE: "พี่คะ ช่วยฉันด้วย!" VOICE IDENTITY: young Thai female voice, crisp mid register, cool bright timbre, standard Thai accent. DELIVERY: loud, theatrical pleading, slightly breathless from splashing; a fake cry for help, not real choking. Lip-sync only Rita, while her mouth is above the water.
+Speak the assigned dialogue exactly once, without paraphrasing or added words. Do not stretch speech to fill the clip. No unassigned voices.
+AFTER SPEECH: Rita keeps splashing with her mouth closed between gasps until the end of the clip; the framing stays the same.
+AMBIENCE/SFX: splashing water close to the camera; no other voices, chatter or music.
 No captions, subtitles, labels or watermarks.

@@ -3,8 +3,8 @@
 usage (from the project root):
   python .claude/skills/vde-episode/scripts/grok_import.py EP28 "<download folder>" [--move]
 
-Matches each .mp4 by the take id at the start of its name (001_EP28_A001-SHOT-EP28-S001-....mp4 -> A001; the id
-may come back with "-" instead of "_" or in lower case), copies it to the next free take name
+Matches each .mp4 by the take id at the start of its name (001_EP28A001-SHOT-EP28-S001-..._grok-video-<uuid>.mp4
+-> A001; the extension drops the "_", and the id may also come back with "-" or in lower case), copies it to the next free take name
 EPxx/Video/EPxx_A001_Tnn.mp4 and prints one row per file. It does NOT record takes: run the vde-videos QC step
 (frames, drift, take/select with --job manual-extension --cost 0) on every imported file. Files that match no clip of
 the episode are listed under "unmatched" and left untouched.
@@ -26,7 +26,8 @@ def main():
     if not os.path.isdir(a.src):
         sys.exit(f'ไม่พบโฟลเดอร์ {a.src}')
     ep_pat = re.escape(a.ep).replace('\\-', '[-_]')
-    pat = re.compile(rf'{ep_pat}[-_]([AB]\d{{3}}[A-Z]?)', re.I)
+    # the extension drops the underscore: 001_EP27A016-SHOT-EP27-S016-..._grok-video-<uuid>.mp4
+    pat = re.compile(rf'{ep_pat}[-_]?([AB]\d{{3}}[A-Z]?)(?![0-9])', re.I)
     vdir = os.path.join(ep_dir(a.ep), 'Video')
     os.makedirs(vdir, exist_ok=True)
     rows, unmatched = [], []

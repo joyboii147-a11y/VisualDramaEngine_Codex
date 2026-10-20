@@ -50,7 +50,7 @@
     "reset_at": 3
   },
   "video": {
-    "status": "todo",
+    "status": "flagged",
     "takes": [
       {
         "take": 1,
@@ -59,9 +59,17 @@
         "result": "ok",
         "qc": "3.04s มีเสียง; 5 คนครบ หน้า/ชุดคงที่ ชายร่างท้วมโผล่พ้นน้ำ ไอรินขึ้นถึงขอบ ถาดคงที่",
         "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP27/Video/EP27_A022_T02.mp4",
+        "job": "manual-extension",
+        "result": "ok",
+        "qc": "extension 6/10s (แผน 6 วิ) drift 0.084; ภาพนิ่ง ไม่มี transition",
+        "cost": 0.0
       }
     ],
-    "selected": null,
+    "selected": "EP27/Video/EP27_A022_T02.mp4",
     "prompt_sha": "f0f786c7ff1c",
     "flag": "ต้องฟังลิปซิงก์",
     "reset_at": 1

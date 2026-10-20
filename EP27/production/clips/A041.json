@@ -18,7 +18,7 @@
     "reset_at": 1
   },
   "video": {
-    "status": "todo",
+    "status": "flagged",
     "takes": [
       {
         "take": 1,
@@ -29,9 +29,9 @@
         "cost": 0.1
       }
     ],
-    "selected": null,
+    "selected": "EP27/Video/EP27_A041_T01.mp4",
     "prompt_sha": "44f2731922d4",
-    "flag": "ต้องฟังลิปซิงก์",
+    "flag": "ชั่วคราว: วิดีโอฉบับก่อนแก้ตำแหน่ง รอภาพใหม่จาก fal แล้วทำวิดีโอใหม่",
     "reset_at": 1
   },
   "notes": [

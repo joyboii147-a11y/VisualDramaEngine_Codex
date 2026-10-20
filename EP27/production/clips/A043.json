@@ -34,7 +34,7 @@
     "reset_at": 2
   },
   "video": {
-    "status": "todo",
+    "status": "flagged",
     "takes": [
       {
         "take": 1,
@@ -43,12 +43,21 @@
         "result": "ok",
         "qc": "5.04s มีเสียง หน้า/ชุดอิรินคงที่ ดอลลี่เข้าตามสั่ง สีหน้าตกใจ ไหล่วิทหลุดเฟรมช่วงท้ายจากการดอลลี่",
         "cost": 0.1
+      },
+      {
+        "take": 2,
+        "file": "EP27/Video/EP27_A043_T02.mp4",
+        "job": "manual-extension",
+        "result": "ok",
+        "qc": "extension 6/10s (แผน 5 วิ) drift 0.129; หลัง ~4.4 วิ ไหล่คนโผล่ขอบขวา",
+        "cost": 0.0
       }
     ],
-    "selected": null,
+    "selected": "EP27/Video/EP27_A043_T02.mp4",
     "prompt_sha": "be58accef78c",
     "flag": "ต้องฟังลิปซิงก์",
-    "reset_at": 1
+    "reset_at": 1,
+    "usable_until": 4.38
   },
   "notes": [
     "image prompt เปลี่ยน — รีเซ็ตเป็น todo"

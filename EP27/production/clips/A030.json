@@ -26,7 +26,7 @@
     "reset_at": 1
   },
   "video": {
-    "status": "todo",
+    "status": "flagged",
     "takes": [
       {
         "take": 1,
@@ -51,11 +51,19 @@
         "result": "fail",
         "qc": "ซ้ำแบบเดิม: ตัวแม่เดินเข้าเฟรมเห็นคาง/ปาก ชุดเปลี่ยนเป็นเดรสดอกไม้สายเดี่ยว",
         "cost": 0.08
+      },
+      {
+        "take": 4,
+        "file": "EP27/Video/EP27_A030_T04.mp4",
+        "job": "manual-extension",
+        "result": "ok",
+        "qc": "extension 6/10s (แผน 6 วิ) drift 0.037; ภาพนิ่ง ไม่มี transition",
+        "cost": 0.0
       }
     ],
-    "selected": null,
+    "selected": "EP27/Video/EP27_A030_T04.mp4",
     "prompt_sha": "ac6c7f722508",
-    "flag": "ครบ 3 take ไม่ผ่าน: ทุก take ตัวแม่เดินเข้าเฟรมช่วงหลังและชุดเพี้ยน T02 ไม่เห็นหน้า ใช้ได้เฉพาะ ~0-1.5 วิแรก (มือ+การ์ดเท่านั้น) ควรแก้ภาพ/prompt; ต้องฟังลิปซิงก์/เสียง OS",
+    "flag": "ต้องฟังลิปซิงก์",
     "reset_at": 3
   },
   "notes": [

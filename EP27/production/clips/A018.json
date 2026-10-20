@@ -26,7 +26,7 @@
     "reset_at": 1
   },
   "video": {
-    "status": "todo",
+    "status": "flagged",
     "takes": [
       {
         "take": 1,
@@ -35,12 +35,21 @@
         "result": "ok",
         "qc": "7.04s มีเสียง; หน้า/ชุดคงที่ ร้องไห้หลับตาตามแอ็กชัน; กล้องเงยขึ้นเล็กน้อยเห็นระเบียง (สั่ง locked-off) ไม่มีตัดภาพ",
         "cost": 0.14
+      },
+      {
+        "take": 2,
+        "file": "EP27/Video/EP27_A018_T02.mp4",
+        "job": "manual-extension",
+        "result": "ok",
+        "qc": "extension 6/10s (แผน 7 วิ) drift 0.126; หลัง ~7.8 วิ น้ำตื้นเห็นรองเท้า",
+        "cost": 0.0
       }
     ],
-    "selected": null,
+    "selected": "EP27/Video/EP27_A018_T02.mp4",
     "prompt_sha": "d83078530f08",
     "flag": "ต้องฟังลิปซิงก์",
-    "reset_at": 1
+    "reset_at": 1,
+    "usable_until": 7.83
   },
   "notes": [
     "image prompt เปลี่ยน — รีเซ็ตเป็น todo"

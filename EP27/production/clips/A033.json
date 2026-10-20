@@ -34,7 +34,7 @@
     "reset_at": 2
   },
   "video": {
-    "status": "todo",
+    "status": "flagged",
     "takes": [
       {
         "take": 1,
@@ -43,9 +43,17 @@
         "result": "ok",
         "qc": "7.04s มีเสียง หน้า/ชุดแม่คงที่ ถือการ์ดตลอด พยักหน้า ไหล่อิรินซ้ายล่าง ท้ายคลิปกล้องขยับเล็กน้อยเห็นหัวเตียงเพิ่ม/รองเท้าขวาล่าง",
         "cost": 0.14
+      },
+      {
+        "take": 2,
+        "file": "EP27/Video/EP27_A033_T02.mp4",
+        "job": "manual-extension",
+        "result": "ok",
+        "qc": "extension 6/10s (แผน 7 วิ) drift 0.095; ภาพนิ่ง ไม่มี transition",
+        "cost": 0.0
       }
     ],
-    "selected": null,
+    "selected": "EP27/Video/EP27_A033_T02.mp4",
     "prompt_sha": "996c28a63084",
     "flag": "ต้องฟังลิปซิงก์",
     "reset_at": 1

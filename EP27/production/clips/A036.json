@@ -26,7 +26,7 @@
     "reset_at": 1
   },
   "video": {
-    "status": "todo",
+    "status": "flagged",
     "takes": [
       {
         "take": 1,
@@ -43,11 +43,19 @@
         "result": "ok",
         "qc": "6.04s มีเสียง หน้า/ชุดแม่คงที่ ถือการ์ดตลอด มืออิรินเอื้อมแตะแล้วถอนกลับ ไม่เห็นหน้าอิริน กล้องนิ่ง",
         "cost": 0.12
+      },
+      {
+        "take": 3,
+        "file": "EP27/Video/EP27_A036_T03.mp4",
+        "job": "manual-extension",
+        "result": "ok",
+        "qc": "extension 6/10s (แผน 5 วิ) drift 0.08; ภาพนิ่ง ไม่มี transition",
+        "cost": 0.0
       }
     ],
-    "selected": null,
+    "selected": "EP27/Video/EP27_A036_T03.mp4",
     "prompt_sha": "a1886ed7c03f",
-    "flag": "ต้องฟังเสียงพูด OS (อิริน)",
+    "flag": "ต้องฟังลิปซิงก์",
     "reset_at": 2
   },
   "notes": [

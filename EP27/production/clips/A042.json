@@ -41,7 +41,7 @@
     "flag": null
   },
   "video": {
-    "status": "todo",
+    "status": "flagged",
     "takes": [
       {
         "take": 1,
@@ -66,12 +66,21 @@
         "result": "fail",
         "qc": "ซ้ำ: กลางคลิปตัดเป็นมุมกว้างเต็มตัว",
         "cost": 0.1
+      },
+      {
+        "take": 4,
+        "file": "EP27/Video/EP27_A042_T04.mp4",
+        "job": "manual-extension",
+        "result": "ok",
+        "qc": "extension 6/10s (แผน 5 วิ) drift 0.266; dissolve เป็นภาพเต็มตัวที่ ~3.1 วิ",
+        "cost": 0.0
       }
     ],
-    "selected": null,
+    "selected": "EP27/Video/EP27_A042_T04.mp4",
     "prompt_sha": "d3c7d00caae2",
-    "flag": "ครบ 3 take ไม่ผ่าน: ทุก take ตัดเป็นมุมกว้างเต็มตัวราว 2.5 วิ ช่วง close-up ใช้ได้แค่ ~0-2.5 วิ บทพูดอาจอยู่ในช่วงมุมกว้าง; ต้องฟังลิปซิงก์",
-    "reset_at": 3
+    "flag": "ต้องฟังลิปซิงก์",
+    "reset_at": 3,
+    "usable_until": 3.08
   },
   "notes": [
     "video prompt เปลี่ยน — รีเซ็ตเป็น todo"

@@ -188,6 +188,8 @@ def cmd_take(ep, a):
 def cmd_select(ep, a):
     sp = clip_state_path(ep, a.clip)
     st = state(ep, a.clip)
+    if a.kind == 'video' and st['video'].get('selected') != a.file:
+        st['video'].pop('usable_until', None)   # belonged to the previously selected take
     st[a.kind]['selected'] = a.file
     st[a.kind]['status'] = 'flagged' if a.flag else 'done'
     st[a.kind]['flag'] = a.flag

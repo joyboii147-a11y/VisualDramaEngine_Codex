@@ -26,7 +26,7 @@
     "reset_at": 1
   },
   "video": {
-    "status": "todo",
+    "status": "done",
     "takes": [
       {
         "take": 1,
@@ -43,9 +43,17 @@
         "result": "ok",
         "qc": "3.04s; หน้า/ชุดคงที่ โอบเอวถูก ยังอยู่ในน้ำ แต่กล้องถอยออกแทนเข้าหา เห็นขอบสระ/ตะแกรงช่วงท้าย",
         "cost": 0.06
+      },
+      {
+        "take": 3,
+        "file": "EP27/Video/EP27_B013_T03.mp4",
+        "job": "manual-extension",
+        "result": "ok",
+        "qc": "extension 6/10s (แผน 3 วิ) drift 0.09; ภาพนิ่ง ไม่มี transition",
+        "cost": 0.0
       }
     ],
-    "selected": null,
+    "selected": "EP27/Video/EP27_B013_T03.mp4",
     "prompt_sha": "1c2b784d5e9a",
     "flag": null,
     "reset_at": 2
