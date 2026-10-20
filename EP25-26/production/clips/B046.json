@@ -7,10 +7,20 @@
     "prompt_sha": null
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "58982315faa1"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP25-26/Video/EP25-26_B046_video.txt.mp4",
+        "job": "grok-web-sheet",
+        "result": "ok",
+        "qc": "ดาวน์โหลดจาก Google Sheet ชื่อคอลัมน์ A พิมพ์ต่างจากแถวอื่น",
+        "cost": 0.0
+      }
+    ],
+    "selected": "EP25-26/Video/EP25-26_B046_video.txt.mp4",
+    "prompt_sha": "58982315faa1",
+    "flag": null
   },
   "notes": []
 }
