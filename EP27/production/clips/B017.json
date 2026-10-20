@@ -1,7 +1,7 @@
 {
   "clip": "B017",
   "image": {
-    "status": "flagged",
+    "status": "todo",
     "takes": [
       {
         "take": 1,
@@ -36,10 +36,10 @@
         "cost": 0.06
       }
     ],
-    "selected": "EP27/Image/EP27_B017_T03.png",
-    "prompt_sha": "12c9a3f335b8",
+    "selected": null,
+    "prompt_sha": "bb4bf5ac44c3",
     "flag": "ผังกลับด้าน: ขอบสระขวางระหว่างกล้องกับวิทย์ (T02–T04 ทั้ง OpenArt และ fal) — ต้องแก้ prompt มุมกล้อง",
-    "reset_at": 1
+    "reset_at": 4
   },
   "video": {
     "status": "todo",
@@ -70,11 +70,12 @@
       }
     ],
     "selected": null,
-    "prompt_sha": "a3d9bd23a07d",
+    "prompt_sha": "709783f286e4",
     "flag": "ภาพ: ครบ 3 take ทุก take มีคนเพิ่มในพื้นหลังช่วงท้าย ใช้ ~1.5 วิแรก",
     "reset_at": 3
   },
   "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo",
     "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
   ]
 }

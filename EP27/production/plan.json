@@ -778,8 +778,8 @@
       "image_prompt": "EP27/prompts/EP27_B006_image.txt",
       "video_prompt": "EP27/prompts/EP27_B006_video.txt",
       "video_sec": 3,
-      "image_sha": "4f0ed3e6c30d",
-      "video_sha": "a6c3a9491f74"
+      "image_sha": "b2533fe1fd88",
+      "video_sha": "cde38d7b2603"
     },
     "A007": {
       "clip": "A007",
@@ -854,13 +854,14 @@
       ],
       "refs": [
         "input/characters/ไอริน/ไอริน W07 ชุดเดรสคลุมท้องลูกไม้สีไอวอรี่แบบเกาะอก.png",
-        "input/characters/แม่วิทย์/แม่วิทย์ W01 ชุดออกงาน.png"
+        "input/characters/แม่วิทย์/แม่วิทย์ W01 ชุดออกงาน.png",
+        "input/characters/วิทย์/วิทย์ W05 ชุดลำลอง.png"
       ],
       "image_prompt": "EP27/prompts/EP27_B011_image.txt",
       "video_prompt": "EP27/prompts/EP27_B011_video.txt",
       "video_sec": 3,
-      "image_sha": "cfd36cbdb737",
-      "video_sha": "a9a430ee404f"
+      "image_sha": "5f47795aaacf",
+      "video_sha": "3b5b6a4a5649"
     },
     "B012": {
       "clip": "B012",
@@ -974,8 +975,8 @@
       "image_prompt": "EP27/prompts/EP27_B017_image.txt",
       "video_prompt": "EP27/prompts/EP27_B017_video.txt",
       "video_sec": 4,
-      "image_sha": "12c9a3f335b8",
-      "video_sha": "a3d9bd23a07d"
+      "image_sha": "bb4bf5ac44c3",
+      "video_sha": "709783f286e4"
     },
     "B019": {
       "clip": "B019",
@@ -1317,13 +1318,14 @@
       ],
       "refs": [
         "input/characters/วิทย์/วิทย์ W06 ชุดแจ็กเก็ตครีมปกดำ.png",
-        "input/characters/ไอริน/ไอริน W12 ชุดคลุมท้อง.png"
+        "input/characters/ไอริน/ไอริน W12 ชุดคลุมท้อง.png",
+        "input/characters/แม่วิทย์/แม่วิทย์ W02 ชุดขาวลูกไม้.png"
       ],
       "image_prompt": "EP27/prompts/EP27_A041_image.txt",
       "video_prompt": "EP27/prompts/EP27_A041_video.txt",
       "video_sec": 5,
-      "image_sha": "430300667eb1",
-      "video_sha": "aaca50cfd17e"
+      "image_sha": "52c7307dfb08",
+      "video_sha": "44f2731922d4"
     },
     "A042": {
       "clip": "A042",

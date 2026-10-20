@@ -17,7 +17,7 @@ description: ผลิตตอนละครอัตโนมัติตั�
 ## ขั้น 2 — ตรวจงบและเครื่องมือ
 1. `python $S/state.py EPxx budget`
 2. ภาพ: ถ้า `image_provider` = `fal` → `python $S/fal_image.py check` (ไม่พบ key → **หยุด** แนะนำ set-fal-key) ถ้า `openart` → `openart_model_list` ดู `balance` ถ้า balance < `openart_credits_first_pass` → **หยุด** รายงานยอดที่ต้องใช้ ยอดที่มี และ upgradeUrl
-3. `grok_list_models` → ถ้า error ให้จดว่า "ขั้นวิดีโอข้าม: grok ใช้ไม่ได้ (<ข้อความ>)" แล้วทำขั้น 3 ต่อ แต่ข้ามขั้น 4–5
+3. `grok_list_models` → ถ้า error ให้จดว่า "ขั้นวิดีโอข้าม: grok ใช้ไม่ได้ (<ข้อความ>)" แล้วทำขั้น 3 ต่อ แต่ข้ามขั้น 4–5 และในรายงานเสนอช่องทางรอง: สร้างชุดทำมือด้วย `grok_pack.py` ให้ผู้ใช้รันผ่าน Grok Automation extension (ดู vde-videos หัวข้อ "ช่องทางรอง")
 4. ถ้า `grok_usd_with_retakes` เกิน `grok_usd_cap` ให้จดไว้ (vde-videos จะหยุดที่เพดาน)
 5. บันทึก balance เริ่มต้นของ OpenArt ไว้คำนวณยอดใช้จริงตอนจบ
 

@@ -113,6 +113,18 @@ No captions, subtitles, labels, watermarks, panels or collage.
 - คำบรรยายสภาพต้องใช้กับคนที่มีสภาพนั้นเท่านั้น เช่น "wet fabric", "natural wet materials" ใส่เฉพาะเมื่อมีคนเปียกในเฟรม และระบุคนที่แห้งว่า "completely dry"
 - ฉากในน้ำลึกต้องบอกระดับน้ำบนตัว (chest/shoulder/neck depth) และ "feet never touch the bottom" ไม่ใช่แค่ "in the pool"
 - Grade ประจำฉากห้ามมีคำที่สร้างวัตถุใหม่ (เช่น "lavender background" ทำให้เกิดคนชุดม่วง) ให้เป็นโทนสีของสิ่งที่มีอยู่แล้วเท่านั้น
+- **ขนาดภาพต้องเขียนเป็นสัดส่วนที่วัดได้ ไม่ใช่แค่ชื่อช็อต (v68):** ทดสอบ GPT Image 2 แล้ว คำว่า "close-up" ได้แค่ระดับอก และ "extreme long shot" ได้แค่ long shot ทุก quality ให้ใช้ประโยคตามตารางนี้ในช่อง CAMERA:
+
+| ขนาด | ประโยคที่ใช้ |
+|---|---|
+| CU | TIGHT CLOSE-UP. The face fills about 60% of the frame height; the frame top cuts through the top of the hair and the frame bottom cuts just below the chin at the collarbones. No chest, waist or hands visible. 85mm, about 1 meter away |
+| MCU | MEDIUM CLOSE-UP. Framed from mid-chest up; the face fills about 35% of the frame height. 65mm, about 1.5 meters away |
+| MS | MEDIUM SHOT. The frame bottom cuts at the waist; the head sits in the upper third. 50mm, about 2.5 meters away |
+| LS | LONG SHOT. Full bodies head to toe, each person about 55% of the frame height, floor visible below the feet. 35mm, about 6 meters away |
+| ELS | EXTREME LONG SHOT. The people are tiny: each full body is no taller than one eighth of the frame height, in the lower third; the location fills most of the image. 24mm, about 30 meters back, raised and looking slightly down |
+
+  CU ที่มี 3 คนขึ้นไปทำไม่ได้จริง โมเดลจะถอยเป็น medium เอง ให้แตกเป็นช็อตเดี่ยว/two-shot แทน (engine/02 หัวข้อ 4)
+- **ล็อกผังฉากด้วยตำแหน่งบนจอ (v68):** ภาพในฉากเดียวกันจะได้ฉากหลังเหมือนกันก็ต่อเมื่อบอกทั้งทิศกล้องและว่าจุดคงที่แต่ละจุดอยู่ฝั่งไหนของเฟรม เพิ่มบรรทัด `SET IN FRAME:` ต่อจาก VIEW DIRECTION เช่น "pool along the screen-left side from foreground to background; terrace floor in the center; glass building with a lit doorway on screen-right; skyline at the far end. Keep this layout; do not move or mirror it." คำนวณจาก Setup Map ครั้งเดียวต่อ Setup แล้วคัดลอกเหมือนกันทุกคลิปที่ใช้ Setup นั้น
 - แทนที่ทุกช่องด้วยข้อมูลจริง ห้ามเหลือวงเล็บหรือ placeholder
 - ภาพ CU ที่ไม่เห็นพร็อพ ไม่ต้องบังคับให้พร็อพเข้าเฟรม แต่ระบุว่าอยู่นอกเฟรม
 - สีหน้าใน START STATE คือสีหน้าตอน**เริ่ม**คลิป (เช่น ยังยิ้มอยู่ ก่อนเปลี่ยนเป็นช็อก)

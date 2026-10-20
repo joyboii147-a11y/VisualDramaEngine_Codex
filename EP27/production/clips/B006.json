@@ -1,7 +1,7 @@
 {
   "clip": "B006",
   "image": {
-    "status": "flagged",
+    "status": "todo",
     "takes": [
       {
         "take": 1,
@@ -28,12 +28,13 @@
         "cost": 42.0
       }
     ],
-    "selected": "EP27/Image/EP27_B006_T02.png",
-    "prompt_sha": "4f0ed3e6c30d",
-    "flag": "ถ่าย 3 ครั้ง แขกแห้งบนเทอเรซดูเปียกทุก take (ผม/แจ็กเก็ตมีหยดน้ำ) เลือก T02 ที่ Guest3 ผมแห้งที่สุด; น่าจะเกิดจาก GRADE 'wet fabric darkening' + 'Natural wet materials' ใน prompt ที่ใส่กับแขกแห้งด้วย"
+    "selected": null,
+    "prompt_sha": "b2533fe1fd88",
+    "flag": "ถ่าย 3 ครั้ง แขกแห้งบนเทอเรซดูเปียกทุก take (ผม/แจ็กเก็ตมีหยดน้ำ) เลือก T02 ที่ Guest3 ผมแห้งที่สุด; น่าจะเกิดจาก GRADE 'wet fabric darkening' + 'Natural wet materials' ใน prompt ที่ใส่กับแขกแห้งด้วย",
+    "reset_at": 3
   },
   "video": {
-    "status": "done",
+    "status": "todo",
     "takes": [
       {
         "take": 1,
@@ -44,9 +45,12 @@
         "cost": 0.06
       }
     ],
-    "selected": "EP27/Video/EP27_B006_T01.mp4",
-    "prompt_sha": "a6c3a9491f74",
-    "flag": null
+    "selected": null,
+    "prompt_sha": "cde38d7b2603",
+    "flag": null,
+    "reset_at": 1
   },
-  "notes": []
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
 }

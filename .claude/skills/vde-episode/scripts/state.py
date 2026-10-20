@@ -134,6 +134,14 @@ def cmd_prompt(ep, a):
     info = plan(ep)['clips'][a.clip]
     f = info['image_prompt' if a.kind == 'image' else 'video_prompt']
     body = read_prompt(os.path.join(ROOT, f))[1]
+    if a.kind == 'video':
+        # lead with the take-file id: the Grok Automation extension names downloads after the prompt's first words
+        # ("SHOT EP27-S001 / CLIP A001." -> "EP27_A001 SHOT EP27-S001."), so the import can map files back to clips
+        m = re.match(r'SHOT (\S+) / CLIP (\S+?)\.\s*', body)
+        if m:
+            body = f'{ep}_{m.group(2)} SHOT {m.group(1)}. ' + body[m.end():]
+        elif not body.startswith(f'{ep}_{a.clip}'):
+            body = f'{ep}_{a.clip}. ' + body
     facts = state(ep, a.clip)['image'].get('facts')
     if a.kind == 'video' and facts:
         # the selected start image wins over the planned text; telling the model what it really shows stops it

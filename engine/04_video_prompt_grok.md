@@ -23,8 +23,10 @@
 
 ## 2. แม่แบบ Video Prompt
 
+**บรรทัดแรกต้องขึ้นต้นด้วยรหัสไฟล์ take (v68):** `[EPxx]_[Clip ID] SHOT [Shot ID].` เช่น `EP28_A001 SHOT EP28-S001.` เพราะ extension Grok Automation ตั้งชื่อไฟล์ดาวน์โหลดจากคำแรกของ prompt (ได้ `001_EP28_A001-SHOT-EP28-S001-…`) ทำให้ระบบนำวิดีโอกลับเข้าคลิปและตัดต่อได้ถูก Shot (prompt เก่าที่ขึ้นต้น `SHOT … / CLIP ….` ถูกแปลงให้อัตโนมัติตอนดึงด้วย `state.py prompt`)
+
 ```text
-SHOT [Shot ID] / CLIP [Clip ID]. One continuous cinematic live-action shot, vertical 9:16.
+[EPxx]_[Clip ID] SHOT [Shot ID]. One continuous cinematic live-action shot, vertical 9:16.
 TARGET DURATION: [n] seconds including handles.
 Animate the supplied starting image. Use only this request's image and instructions.
 One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
@@ -117,7 +119,7 @@ AMBIENCE/SFX: [allowed sounds, including scripted nonverbal breathing or gasps].
 ## 5. ตัวอย่าง Video Prompt — มินพูด CU (โหมด A)
 
 ```text
-SHOT EP01-S005 / CLIP A005. One continuous cinematic live-action close-up, vertical 9:16.
+EP01_A005 SHOT EP01-S005. One continuous cinematic live-action close-up, vertical 9:16.
 TARGET DURATION: 7 seconds including handles.
 Animate the supplied starting image. Use only this request's image and instructions.
 SCENE GEOGRAPHY: a small office with an oak desk. Min sits at the west side of the desk;

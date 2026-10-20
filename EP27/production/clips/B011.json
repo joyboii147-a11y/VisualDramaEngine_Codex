@@ -1,7 +1,7 @@
 {
   "clip": "B011",
   "image": {
-    "status": "done",
+    "status": "todo",
     "takes": [
       {
         "take": 1,
@@ -20,10 +20,10 @@
         "cost": 42.0
       }
     ],
-    "selected": "EP27/Image/EP27_B011_T02.png",
-    "prompt_sha": "cfd36cbdb737",
+    "selected": null,
+    "prompt_sha": "5f47795aaacf",
     "flag": null,
-    "reset_at": 1
+    "reset_at": 2
   },
   "video": {
     "status": "todo",
@@ -54,11 +54,12 @@
       }
     ],
     "selected": null,
-    "prompt_sha": "a9a430ee404f",
+    "prompt_sha": "3b5b6a4a5649",
     "flag": "ภาพ: ครบ 3 take เลือก T01 — ช่วงต้นใช้ได้ แต่ช่วงท้ายวิท/ไอริน/แม่ลุกยืนในน้ำตื้นแค่เข่า ควรตัดใช้ ~1.5 วิแรก",
     "reset_at": 3
   },
   "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo",
     "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
   ]
 }

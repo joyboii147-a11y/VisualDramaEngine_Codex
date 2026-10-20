@@ -121,7 +121,7 @@ EP01/
 | `vde-episode` | ตัวสั่งงานหลัก: "ทำ EPxx" รันทุกขั้นต่อกันและเขียน `EPxx/06_ผลิต.md` |
 | `vde-collect` | อ่าน `shots/` + `prompts/` → `EPxx/production/plan.json` |
 | `vde-images` | สร้างภาพด้วย GPT Image 2 (fal.ai หรือ OpenArt ตาม `image_provider`) แนบภาพตัวละคร ตรวจและเลือกภาพ บันทึก IMAGE FACTS |
-| `vde-videos` | ส่งภาพที่เลือกเข้า Grok Imagine ผ่าน grok MCP เลือกรุ่น Lite/ปกติต่อคลิปอัตโนมัติ ตรวจ transition ด้วย `media.py drift` |
+| `vde-videos` | ส่งภาพที่เลือกเข้า Grok Imagine ผ่าน grok MCP เลือกรุ่น Lite/ปกติต่อคลิปอัตโนมัติ ตรวจ transition ด้วย `media.py drift` · ช่องทางรอง (ทำมือ): `grok_pack.py` → ผู้ใช้รัน Grok Automation extension บน grok.com → `grok_import.py` |
 | `vde-edit` | ตัดต่อตามไฟล์ Shot ซับไทยจากบทจริง → `EPxx/Edit/` |
 | `vde-xml` | ไฟล์ XML ไทม์ไลน์สำหรับ Premiere / Resolve → `EPxx/Edit/EPxx_timeline.xml` (vde-edit เรียกอัตโนมัติ) |
 

@@ -47,6 +47,22 @@
 - `vde-videos`: ชื่อโมเดลเขียนตายตัว → อ่านจาก config/todo
 - `vde-edit` เรียก `vde-xml` อัตโนมัติ (ไฟล์ XML สำหรับ Premiere/Resolve)
 
+### เพิ่มเติม 2026-10-20 — ผลทดสอบ quality ของ fal (96 ภาพ)
+- low/medium/high ให้ชุด ลำดับคน สายตา และตัวตนตัวละครตรงเท่ากัน ต่างกันที่เนื้อผิวเมื่อซูม 100% (high เหมือนภาพถ่ายที่สุด) และเวลา (high ช้าสุด ~4 นาที/ภาพ) → ค่าหลักคง `medium`, high เฉพาะช็อตสำคัญ, low สำหรับลองผัง
+- แนบภาพอ้างอิง 4 รูปผ่าน fal ได้ทุกคนครบและลำดับซ้าย→ขวาถูก
+- ปัญหาที่ไม่ขึ้นกับ quality: "close-up" ได้แค่ระดับอก, "extreme long shot" ได้แค่ long shot, ฉากหลังเปลี่ยนทุกภาพ → `engine/03` เพิ่มตารางประโยคขนาดภาพแบบวัดสัดส่วนได้ และบรรทัด `SET IN FRAME:` ล็อกจุดคงที่บนจอ, `engine/01` Setup Map ระบุจุดคงที่ซ้าย/กลาง/ขวา (ยังไม่ได้ทดสอบยืนยัน เพราะเครดิต fal หมดระหว่างรอบทดสอบ)
+
+### เพิ่มเติม 2026-10-20 — ชื่อไฟล์วิดีโอจาก Grok Automation extension
+- extension ตั้งชื่อไฟล์จากคำแรกของ prompt (`001_CLIP-T01-Close-two-shot-…`) → video prompt ขึ้นต้นด้วย `[EPxx]_[Clip ID] SHOT [Shot ID].` (engine/04) ได้ไฟล์ `001_EP27_A001-SHOT-EP27-S001-…` จับคู่กลับเข้าคลิปได้
+- `state.py prompt <clip> video` แปลง prompt เก่าที่ขึ้นต้น `SHOT … / CLIP ….` ให้อัตโนมัติ ไม่ต้องแก้ไฟล์ (การแก้ไฟล์จะรีเซ็ตสถานะคลิป)
+- ชุด batch สำหรับ extension: prompt หนึ่งบรรทัดต่อคลิป คั่นด้วยบรรทัดว่าง; ภาพตั้งต้นตั้งชื่อขึ้นต้นด้วยรหัสเดียวกัน
+
+### เพิ่มเติม 2026-10-20 — ช่องทางรองของขั้นวิดีโอ: ทำมือผ่าน Grok Automation extension
+- `scripts/grok_pack.py` **ใหม่**: ชุดงานแยกตามความยาว 6s/10s (prompts.txt คั่นบรรทัดว่าง + images/EPxx_A001.png + manifest.json) → `EPxx/production/grok_pack/`
+- `scripts/grok_import.py` **ใหม่**: จับคู่ไฟล์ดาวน์โหลด (`001_EP27_A001-SHOT-…`, รับทั้ง `_`/`-` และตัวพิมพ์เล็ก) → `EPxx/Video/EPxx_A001_Tnn.mp4` ไม่ทับ take เดิม แล้วตรวจตาม vde-videos ข้อ 3 (`--job manual-extension --cost 0`)
+- `vde-videos` หัวข้อ "ช่องทางรอง", `vde-episode` เสนอช่องทางนี้เมื่อ grok API ใช้ไม่ได้, `AGENTS.md` หัวข้อ 6.1
+- ทดสอบกับ EP27: pack 29 คลิป (6s 26 / 10s 3); import จับคู่ได้ทั้งสองรูปแบบชื่อ ไฟล์ไม่มีรหัสถูกปล่อยไว้
+
 ### ข้อควรรู้
 - ตอนที่ทำไปแล้ว (≤ EP27) ยังไม่มี Blocking Table ถ้าจะแก้ตำแหน่งในตอนเก่า ให้ bible agent เติมตาราง Blocking ของฉากนั้นก่อน
 - เกณฑ์ `drift` ตั้งจากคลิป EP27 ชุดเดียว ปรับได้ที่ `DRIFT_SUSPECT` / `DRIFT_STABLE` ใน `media.py`

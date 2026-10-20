@@ -1,35 +1,31 @@
 # ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
 # Shot: EP27-S017 | Clip: B017 (B-roll) | SC01 ลานริมสระ กลางวัน
-# ไฟล์นี้: Image Prompt → OpenArt GPT Image 2 (9:16)
+# ไฟล์นี้: Image Prompt → GPT Image 2 (9:16)
 #
 # ตัวละครในเฟรม (รวม 1 คน):
-# - วิทย์ C05-W07 วิทย์ W05 ชุดลำลอง | กลาง ระนาบกลาง สองมือกดขอบสระ ดันตัวขึ้นจากน้ำ
+# - วิทย์ C05-W07 วิทย์ W05 ชุดลำลอง | กลางเฟรม ในน้ำชิดขอบสระฝั่งลาน สองมือกดขอบ ดันตัวขึ้น หันหน้าเข้าหากล้อง
 #
 # เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
-# - ไอริน C04-W01 | ในน้ำเกาะขอบสระ นอก crop ซ้าย
-# - แม่วิทย์ C01-W01 | คุกเข่าบนลานที่ขอบสระ นอก crop ขวา
-# - ริต้า C06-W01 | น้ำลึกหลังกล้อง
-# - แขกหญิง 1–3, แขกชาย, ชายร่างท้วม, แขกอื่น | บนลาน แห้ง นอก crop
-# - พนักงานหญิง C07-W01 | นอก crop ริมขอบสระตามใบสถานะ
+# - ไอริน C04-W01 | ในน้ำเกาะขอบ นอกเฟรมซ้าย (ไม่บรรยายใน prompt)
+#
+# แก้ตามคำสั่ง 2026-10-20: ย้ายกล้องจากในสระขึ้นบนลาน ระดับต่ำที่ขอบ ขอบสระไม่ขวางระหว่างกล้องกับวิทย์
 # แนบใน OpenArt: 1) input/characters/วิทย์/วิทย์ W05 ชุดลำลอง.png
 # ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
 Create one standalone starting-frame image for SHOT EP27-S017.
-Vertical 9:16. Cinematic live-action still, photorealistic.
+Vertical 9:16. Cinematic live-action still, photorealistic, natural skin and wet-fabric texture.
 REFERENCE IMAGES:
-Image 1: Wit — use for face, skin tone, hairstyle, body shape and this exact outfit. Do not copy the background, lighting, pose or camera angle from this image.
-CHARACTERS:
-Wit: young adult man (Image 1); WARDROBE LOCKED: "a charcoal gray two-piece suit with a white collared shirt, a black necktie, a white pocket square, black leather lace-up shoes, and tousled short black hair". Hair and clothing are soaked and cling to the body; water darkens the fabric.
-CAST COUNT: exactly one person visible: Wit alone.
-SCENE GEOGRAPHY: A long rectangular deep swimming pool with white stone coping adjoins a white-paved event terrace. From the building side: a tall glass building with a large doorway into a ceiling-lit hall, then the guest terrace, three fixed black pyramid heaters and tall round standing tables, then the white coping and the pool. Across the pool stands a white-framed glass wall with city high-rises beyond. A glass canopy spans overhead. Heaters and tables stay fixed, without added flames. Wit is at the terrace-side coping. Irin holds the coping in the water just beyond the screen-left frame edge; Mother of Wit kneels on the terrace beyond the screen-right edge. Rita is in deeper water behind the camera. The pool is deep: anyone in the water is treading water at chest-to-shoulder depth; feet never touch the bottom and never show; no visible pool floor, steps or shallow area.
-CAMERA POSITION: in the pool at water level about 2 meters from the terrace-side coping.
-VIEW DIRECTION: toward the coping and the terrace, with a black pyramid heater and the glass building behind.
-VISIBLE BACKGROUND: the white stone coping across the lower-middle frame, the empty white terrace paving above it, the base of one black pyramid heater, a tall standing table leg and the glass building facade. No people on the visible terrace.
-OFF-FRAME: Irin is in the water holding the coping just beyond the screen-left edge; Mother of Wit kneels on the terrace beyond the screen-right edge; Rita is in deeper water behind the camera; the guests stand on the terrace outside the crop. Female Staff stays beyond the crop along the terrace pool edge. None of them enters the frame.
-PROP STATE: Three fixed black pyramid heaters and tall round standing tables line the terrace. No credit card is present. Rita has no glass. Nobody holds a phone or a new handheld prop.
-START STATE: Wet Wit in the water at center, chest at the coping, both palms flat on the white coping, elbows bent, starting to press up; wet hair and soaked charcoal suit, water streaming off; face set with effort.
-CAMERA: medium shot, 40mm full-frame equivalent, water level.
-FOCUS: Wit sharp.
-LIGHTING: soft overcast daylight through the glass canopy, cool blue ambient fill across the pool, coherent diffuse reflections on glass and water, approximately 6500K, natural medium-low contrast. Soft key from overhead through the canopy; no added lamps, flames or colored light.
-GRADE: cool overcast pool blues, restrained saturation, natural skin tones and controlled glass highlights; fabric is darker only on the people stated as wet.
+Image 1: Wit — use for face, skin tone, hairstyle, body shape and this exact outfit. Do not copy the background, lighting, pose or camera angle.
+CHARACTERS: Wit, a young Thai man (Image 1); WARDROBE LOCKED: "a charcoal gray two-piece suit with a white collared shirt, a black necktie, a white pocket square, black leather lace-up shoes, and tousled short black hair". He is soaked: wet hair, the suit dark and clinging, water streaming off.
+CAST COUNT: exactly 1 person visible: Wit alone. No other person, hand, head or swimmer anywhere in the image.
+SCENE GEOGRAPHY: a long deep rectangular swimming pool with white stone coping beside a white-paved rooftop event terrace under a glass canopy; across the pool stands a white-framed glass wall with city high-rises beyond.
+CAMERA POSITION: on the dry terrace paving, crouched low right at the terrace-side coping, about 1.5 meters from Wit, slightly to his side.
+VIEW DIRECTION: down and outward across the coping to Wit in the water, with the open pool and the far glass wall behind him.
+BETWEEN CAMERA AND SUBJECT: only the dry white stone coping at the bottom of the frame; nothing else. Wit is directly beyond the coping edge, in the water.
+SET IN FRAME: white stone coping across the bottom fifth of the frame; Wit at center just beyond it; open blue pool water behind him filling the middle; the white-framed glass wall and city skyline across the top. Keep this layout; do not move or mirror it.
+START STATE: Wit is in deep water at the coping, chest at the edge, both palms flat on the coping, elbows bent, starting to press himself up; face toward the camera, set with effort, eyes on the edge.
+CAMERA: MEDIUM SHOT. The frame bottom cuts at the coping; Wit is framed from the waist up out of the water, his head in the upper third. 35mm, low angle at coping height.
+FOCUS: Wit sharp, the far glass wall softly defocused.
+LIGHTING: soft overcast daylight through the glass canopy, cool blue ambient fill across the pool, coherent diffuse reflections on glass and water, approximately 6500K, natural medium-low contrast; no added lamps, flames or colored light.
+GRADE: cool overcast pool blues, restrained saturation, natural skin tones and controlled glass highlights.
 Show only the starting moment, before any planned movement begins.
 No captions, subtitles, labels, watermarks, panels or collage.

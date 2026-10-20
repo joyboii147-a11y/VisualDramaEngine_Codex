@@ -3,7 +3,7 @@ Image/
 Video/
 Edit/
 
-# รูป
+# รูป Shot และรูปผลผลิตทุกที่ (Image/, production/grok_pack/, production/continuity/, fal_test/ ...)
 *.png
 *.jpg
 *.jpeg
@@ -13,6 +13,9 @@ Edit/
 *.tif
 *.tiff
 *.heic
+
+# ยกเว้น: ภาพตัวละครของผู้ใช้ อัปโหลดขึ้น git ได้
+!input/characters/**
 
 # วิดีโอ
 *.mp4

@@ -37,6 +37,15 @@ description: ส่งภาพตั้งต้นที่เลือกแ�
    - ไม่ผ่านและยังมี takes_left → ส่งใหม่ (prompt และภาพเดิม)
    - ครบจำนวนครั้ง → เลือก take ที่ดีที่สุด `--flag "<ปัญหา>"` หรือ `give-up` ถ้าไม่มี take ใช้ได้
 
+## ช่องทางรอง: ทำมือผ่าน Grok Automation extension (v68)
+ใช้เมื่อผู้ใช้สั่ง "ทำวิดีโอแบบทำมือ" / "ใช้ extension" หรือเมื่อ grok API ใช้ไม่ได้ (เครดิต xAI หมด) และผู้ใช้เลือกทำเอง — ใช้ subscription SuperGrok บน grok.com/imagine ไม่เสียเครดิต API ช่องทางหลักยังเป็นข้อ 0–3 ข้างบน
+1. `python $S/grok_pack.py EPxx [--scene SCxx] [--clips A001,...]` → `EPxx/production/grok_pack/6s/` และ `10s/` แต่ละโฟลเดอร์มี `prompts.txt` (หนึ่ง prompt ต่อบรรทัด คั่นด้วยบรรทัดว่าง ขึ้นต้นด้วย `EPxx_A001 SHOT EPxx-S001.` และรวม IMAGE FACTS แล้ว) กับ `images/EPxx_A001.png`
+2. บอกผู้ใช้ให้รันทีละโฟลเดอร์ใน extension: Frame to Video · Duration ตามชื่อโฟลเดอร์ (6 หรือ 10 วิ) · 9:16 · Outputs per prompt 1 · Auto download 720p · Auto-add character images เปิด · Concurrent 1 + Random Delay · ตรวจจำนวนคิวก่อนเริ่ม (ต้องเท่าจำนวน prompt ไม่ใช่ภาพ×prompt)
+3. ผู้ใช้บอกโฟลเดอร์ที่ดาวน์โหลด → `python $S/grok_import.py EPxx "<โฟลเดอร์>"` คัดลอกเป็น `EPxx/Video/EPxx_A001_Tnn.mp4` ตามรหัสในชื่อไฟล์ (ไฟล์ที่จับคู่ไม่ได้อยู่ใน `unmatched` ให้ถามผู้ใช้)
+4. ทำข้อ 3 (ตรวจเอง: frames, drift, take/select) กับทุกไฟล์ที่ import โดยใช้ `--job manual-extension --cost 0`
+- วิดีโอจาก extension ยาว 6/10 วิ เสมอ ยาวกว่าที่วางแผน — ไม่ถือเป็นข้อผิด `edit.py` ตัดตามเวลาใช้จริง แต่ถ้าบทพูดถูกยืดหรือเฟรมเปลี่ยนช่วงท้าย ให้ใช้ `usable` บันทึกจุดที่ใช้ได้
+- เลือกรุ่น Lite/ปกติไม่ได้ (ขึ้นกับ grok.com) และอาจขัดข้อตกลงการใช้งานของ xAI เพราะเป็นการกดเว็บอัตโนมัติ — ความเสี่ยงบัญชีเป็นการตัดสินใจของผู้ใช้
+
 ## 4. รายงานกลับ
 คลิปที่ผ่าน / flagged / gave_up / เงินที่ใช้ (USD) ห้ามบอกว่าลิปซิงก์หรือเสียงพูด "ผ่าน"
 

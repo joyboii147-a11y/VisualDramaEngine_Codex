@@ -1,7 +1,7 @@
 {
   "clip": "A041",
   "image": {
-    "status": "done",
+    "status": "todo",
     "takes": [
       {
         "take": 1,
@@ -12,12 +12,13 @@
         "cost": 42.0
       }
     ],
-    "selected": "EP27/Image/EP27_A041_T01.png",
-    "prompt_sha": "430300667eb1",
-    "flag": null
+    "selected": null,
+    "prompt_sha": "52c7307dfb08",
+    "flag": null,
+    "reset_at": 1
   },
   "video": {
-    "status": "flagged",
+    "status": "todo",
     "takes": [
       {
         "take": 1,
@@ -28,9 +29,12 @@
         "cost": 0.1
       }
     ],
-    "selected": "EP27/Video/EP27_A041_T01.mp4",
-    "prompt_sha": "aaca50cfd17e",
-    "flag": "ต้องฟังลิปซิงก์"
+    "selected": null,
+    "prompt_sha": "44f2731922d4",
+    "flag": "ต้องฟังลิปซิงก์",
+    "reset_at": 1
   },
-  "notes": []
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
 }
