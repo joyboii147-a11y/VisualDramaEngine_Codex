@@ -26,7 +26,7 @@
     "reset_at": 1
   },
   "video": {
-    "status": "todo",
+    "status": "flagged",
     "takes": [
       {
         "take": 1,
@@ -35,9 +35,17 @@
         "result": "ok",
         "qc": "4.04s มีเสียง 3 คนครบ หน้า/ชุดคงที่ คู่เงยมองแม่ วิทวางผ้าบนตัก แม่ก้าวน้อย(ยืนข้างอยู่แล้ว)",
         "cost": 0.08
+      },
+      {
+        "take": 2,
+        "file": "EP27/Video/EP27_A029_T02.mp4",
+        "job": "manual-extension",
+        "result": "ok",
+        "qc": "extension 6/10s (แผน 4 วิ) drift 0.058; ภาพนิ่ง ไม่มี transition",
+        "cost": 0.0
       }
     ],
-    "selected": null,
+    "selected": "EP27/Video/EP27_A029_T02.mp4",
     "prompt_sha": "28ead7459f81",
     "flag": "ต้องฟังลิปซิงก์",
     "reset_at": 1

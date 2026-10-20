@@ -33,7 +33,13 @@ def main():
         sys.exit(f'ยังไม่มี plan.json — รัน collect.py {a.ep} ก่อน')
     want = set(a.clips.split(',')) if a.clips else None
     root = os.path.join(prod_dir(a.ep), 'grok_pack')
-    shutil.rmtree(root, ignore_errors=True)
+    # clear only what this script writes; the user keeps downloads (e.g. 6s/vdo/) inside these folders
+    for bucket in ('6s', '10s'):
+        d = os.path.join(root, bucket)
+        shutil.rmtree(os.path.join(d, 'images'), ignore_errors=True)
+        for f in ('prompts.txt', 'manifest.json'):
+            if os.path.exists(os.path.join(d, f)):
+                os.remove(os.path.join(d, f))
     batches, skipped = {}, []
     for c, info in p['clips'].items():
         if (a.scene and info['scene'] != a.scene) or (want and c not in want):
@@ -60,7 +66,7 @@ def main():
         for n, i in enumerate(items, 1):
             i['n'] = n
         d = os.path.join(root, bucket)
-        os.makedirs(os.path.join(d, 'images'))
+        os.makedirs(os.path.join(d, 'images'), exist_ok=True)
         with open(os.path.join(d, 'prompts.txt'), 'w', encoding='utf-8', newline='\n') as fh:
             fh.write('\n\n'.join(i['prompt'] for i in items) + '\n')
         for i in items:

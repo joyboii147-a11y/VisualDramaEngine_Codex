@@ -26,7 +26,7 @@
     "reset_at": 1
   },
   "video": {
-    "status": "todo",
+    "status": "flagged",
     "takes": [
       {
         "take": 1,
@@ -43,11 +43,19 @@
         "result": "fail",
         "qc": "3.04s มีเสียง; เดินออกถูก แต่ครึ่งหลังมีริต้าโผล่ในสระขวาเหมือน T01 (CAST COUNT 2)",
         "cost": 0.06
+      },
+      {
+        "take": 3,
+        "file": "EP27/Video/EP27_A025_T03.mp4",
+        "job": "manual-extension",
+        "result": "ok",
+        "qc": "extension 6/10s (แผน 3 วิ) drift 0.113; ภาพนิ่ง ไม่มี transition",
+        "cost": 0.0
       }
     ],
-    "selected": null,
+    "selected": "EP27/Video/EP27_A025_T03.mp4",
     "prompt_sha": "dfdd69bd9c89",
-    "flag": "ต้องฟังลิปซิงก์ (เสียง OS กรี๊ด); ภาพ: 2 take มีริต้าโผล่ในสระขวาช่วงท้าย (ตรงเรื่องแต่เกิน CAST COUNT) ไม่ถ่ายครั้งที่ 3 เพราะซ้ำแบบเดิม",
+    "flag": "ต้องฟังลิปซิงก์",
     "reset_at": 2
   },
   "notes": [

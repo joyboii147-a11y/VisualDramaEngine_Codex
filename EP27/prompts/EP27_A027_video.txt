@@ -3,59 +3,35 @@
 # ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 7 วิ | เสียงโหมด A
 #
 # ตัวละครในเฟรม (รวม 1 คน):
-# - ริต้า C06-W01 ริต้า W04 เดรสแดง | ครึ่งตัว กลางเฟรม ตาลืม หน้าบึ้งมองอาคาร ก่อนหลับตากรีดร้องเชิงภาพ
+# - ริต้า C06-W01 ริต้า W04 เดรสแดง | จากอกขึ้นไป กลางเฟรม หน้าบึ้งมองทางอาคาร แล้วหลับตากรีดร้อง
 #
 # เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
-# - แม่วิทย์ C01-W01 | บนลานขอบสระ นอกขนาดภาพ
-# - ไอริน C04-W01 | บนลานเดินสู่อาคาร นอกขนาดภาพ
-# - วิทย์ C05-W07 | บนลานเดินสู่อาคาร นอกขนาดภาพ
-# - แขกหญิง 1 C02-W02 | บนลานฝั่งอาคารกับกลุ่มแขก นอกขนาดภาพ
-# - แขกหญิง 2 C03-W02 | บนลานฝั่งอาคารกับกลุ่มแขก นอกขนาดภาพ
-# - แขกหญิง 3 C09-W01 | บนลานฝั่งอาคารกับกลุ่มแขก นอกขนาดภาพ
-# - แขกชาย C10-W01 | บนลานฝั่งอาคารกับกลุ่มแขก นอกขนาดภาพ
-# - ชายร่างท้วม C11-W01 | ในสระข้างริต้า นอกขนาดภาพ
-# - พนักงานหญิง C07-W01 | นอก crop ริมขอบสระตามใบสถานะ นอกขนาดภาพ
+# - ชายร่างท้วม C11-W01 | ในสระข้างริต้า เสียง OS (ไม่บรรยายใน prompt นอกจากเสียง)
+#
+# แก้ตามคำสั่ง 2026-10-20: ริต้าตะโกนคำว่า "กรี๊ด" แทนการกรีดร้อง — ต้นเหตุ: D015 อยู่ในช่อง EXACT THAI DIALOGUE จึงถูกอ่านเป็นคำ
+#   → เปลี่ยนเป็น SOUND EVENT เสียงกรีดร้องไม่มีคำ (ซับยังแสดง "กรี๊ดดด!" ตาม Ledger); ตัดรองเท้า/คนนอกเฟรม/คำผ้าเปียกตามกฎ v68
 # แนบใน Grok: ภาพที่เลือกจาก EP27_A027_image
-
-# ผู้พูด: Stocky Man OS, Rita ON | คนในเฟรมที่ไม่พูด: ไม่มี
+# ผู้พูด: ชายร่างท้วม OS (D014) แล้ว ริต้า ON กรีดร้องไม่มีคำ (D015)
 # ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
-SHOT EP27-S027 / CLIP A027. One continuous cinematic live-action shot, vertical 9:16.
+EP27_A027 SHOT EP27-S027. One continuous cinematic live-action shot, vertical 9:16.
 TARGET DURATION: 7 seconds including handles.
 Animate the supplied starting image. Use only this request's image and instructions.
-STARTING IMAGE: Use the single supplied starting frame for every visible identity, hairstyle, wardrobe, pose and spatial relationship.
-CHARACTERS / VISIBLE CAST:
-Rita: young adult; WARDROBE LOCKED: "a deep burgundy satin halter mini dress with a large sculpted rose at the high neck, draped blouson bodice, fitted mini skirt, open bare back, gold floral stud earrings, and glossy burgundy pointed-toe stiletto pumps with rose ornaments; long dark brown wavy hair half-up". Hair and garments are soaked; water darkens the fabric.
-CAST COUNT: exactly 1 people visible, including all partial and blurred figures.
-SCENE GEOGRAPHY: A long rectangular swimming pool with white stone coping adjoins a white-paved event terrace. On the building side are a tall glass building with a large doorway into a ceiling-lit hall, then the guest terrace, three fixed black pyramid heaters and tall round standing tables, then the coping. Across the pool stands a white-framed glass wall with city high-rises beyond. A glass canopy spans overhead. Irin and Mother of Wit begin at the terrace-side coping; Rita remains in deeper water 3 to 4 meters from them. Heaters and tables stay fixed, without added flames.
-CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: MCU, 50mm, water-level camera in front of Rita looking slightly upward toward the opposite white-framed glass wall; softly blurred glass framing lies behind her head, with blue pool water behind her lower torso and across the lower foreground; face sharp. Stay on this landmark side of the guest or rescue axis; do not mirror the layout.
-FOREGROUND / VISIBLE BACKGROUND: MCU, 50mm, water-level camera in front of Rita looking slightly upward toward the opposite white-framed glass wall; softly blurred glass framing lies behind her head, with blue pool water behind her lower torso and across the lower foreground; face sharp. Only the listed figures and objects enter this crop.
-OFF-FRAME: Mother of Wit is kneeling on terrace at rescue edge; Irin is on terrace with Wit moving toward building; Wit is on terrace with Irin moving toward building; Female Guest 1 is on building-side terrace in established guest group; Female Guest 2 is on building-side terrace in established guest group; Female Guest 3 is on building-side terrace in established guest group; Male Guest is on building-side terrace in established guest group; Stocky Man is beside Rita in pool; Female Staff is beyond selected crop along terrace pool edge; no new action. The doorway, glazing, heaters and tables appear only where the stated view and crop permit. No extra reflected figures.
-PROP STATE: Three fixed black pyramid heaters and tall round standing tables line the terrace. No credit card is present. Rita has no glass; her lost glass has no established location and is not restored to her hands. No new handheld prop enters this crop.
-START STATE: Wet Rita is chest-up center with hair clinging to head, eyes open, scowling toward the building where Wit departed, hands sculling underwater. Stocky Man is beside her outside the narrow crop.
-LIGHTING: soft overcast daylight through the glass canopy, cool blue ambient fill across the pool, coherent diffuse reflections on glass and water, approximately 6500K, natural medium-low contrast. Soft key remains overhead through canopy. Warm hall ceiling lights are visible practicals only in doorway views.
-GRADE: cool overcast pool blues, restrained saturation, wet fabric darkening, natural skin tones and controlled glass highlights.
-PERFORMANCE CONTEXT: Express only the specified visible rescue, alarm, concern, fatigue or hurt; follow the assigned emotional intention and exact dialogue.
-ACTION: Hold start for 0.5 seconds. Rita listens scowling during Stocky Man’s off-screen rebuke, without articulating his words. During her subsequent speech event, Rita closes her eyes, scrunches her face and opens her mouth very wide in the assigned audible scream, hands maintaining flotation. End eyes squeezed shut and mouth wide; assigned scream audible during the second speech event. Perform this single action within the remaining time, then hold final pose for at least 0.5 seconds. Each background figure continues the stated watching, supporting or floating behavior.
-END STATE: Rita closes her eyes, scrunches her face and opens her mouth very wide in the assigned audible scream, hands maintaining flotation. End eyes squeezed shut and mouth wide; assigned scream audible during the second speech event.
-CAMERA: locked-off.
-VISUAL CONTINUITY: Preserve supplied faces, hair, wardrobe, set geometry, fixed landmarks and lighting. Only the specified movement occurs. No cuts, added people, identity swaps, cloned guests or prop teleportation. Do not repeat takeoff when already airborne.
-AUDIO MODE: generated dialogue.
-SPEECH EVENT 1:
-SPEAKER: Stocky Man, off-screen voice (OS).
-EXACT THAI DIALOGUE: "เหมือนจะบ้าจริงๆ"
-VOICE IDENTITY: adult Thai male voice, rounded low-mid register, slightly husky timbre, standard Thai accent
-DELIVERY: Stocky Man alone delivers a stern irritated rebuke from outside the frame. Finish his entire line before Rita begins her scream; no overlapping speech.
-No visible person lip-syncs to this voice. The speaking mouth lies outside the crop.
-SPEECH EVENT 2:
-SPEAKER: Rita, visible on screen (ON).
-EXACT THAI DIALOGUE: "กรี๊ดดด!"
-VOICE IDENTITY: young Thai female voice, crisp mid register, cool bright timbre, standard Thai accent
-DELIVERY: Rita alone gives a sustained furious scream, beginning only after Stocky Man has finished his entire rebuke. Do not imitate his voice or articulate his words; no overlapping speech.
-Lip-sync only Rita to this assigned speech event. 
-NON-SPEAKERS: none visible; no speech-like lip movements. Speakers remain silent during another speaker’s speech event.
-Speak only the assigned dialogue exactly once, without paraphrasing or added words.
-Do not stretch speech to fill the clip. No unassigned voices.
-AFTER SPEECH: complete the stated physical action, then hold the planned end state for the cut.
-AMBIENCE/SFX: quiet pool water, splashes only when physically specified, no background chatter or music.
+One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing. Camera locked-off: the framing never changes for the whole clip, even after the scream ends.
+SCENE GEOGRAPHY: only deep blue pool water around Rita and the softly blurred white-framed glass wall with city high-rises behind her head.
+VISIBLE CAST: exactly 1 person: Rita, a young Thai woman with long dark brown wavy half-up hair clinging wet to her head, soaked, in a deep burgundy satin halter dress with a large sculpted rose at the high neck, gold floral stud earrings. She treads water at the center of the frame, visible from the chest up; the waterline stays at her chest.
+CAMERA POSITION / VIEW DIRECTION: at water level in front of Rita, looking slightly up; MEDIUM CLOSE-UP from the chest up, 50mm; her face sharp.
+OFF-FRAME: the man who speaks first is beside her, outside the frame. No one else enters the frame at any time.
+LIGHTING / COLOR: soft overcast daylight from above, cool blue fill from the water, about 6500K, natural medium-low contrast. GRADE: cool overcast pool blues, restrained saturation, natural skin tones.
+START STATE: Rita, eyes open, scowling toward screen-left where the building is, hands sculling underwater, lips pressed together.
+PERFORMANCE CONTEXT: humiliated and furious after being ignored and then called crazy, Rita loses control and screams in pure rage.
+ACTION: Hold the start for 0.5 seconds. Rita keeps scowling, lips closed, while the off-screen man speaks his line. When he has finished, she squeezes her eyes shut, scrunches her whole face, throws her head back slightly and opens her mouth very wide in a long, raw scream of rage, her shoulders shaking, hands still sculling. After the scream she stays with her eyes shut and face tense, breathing hard, in the same framing until the very end of the clip.
+END STATE: eyes squeezed shut, face tense, mouth half open breathing hard; same framing as the first frame.
+CAMERA: locked-off; the framing never changes.
+VISUAL CONTINUITY: preserve the starting image's face, hair, dress and water. She stays in deep water at chest level; no other person appears.
+AUDIO MODE: one off-screen spoken line, then a wordless scream.
+SPEECH EVENT 1: SPEAKER: a man off screen (OS), not visible. EXACT THAI DIALOGUE: "เหมือนจะบ้าจริงๆ" VOICE IDENTITY: adult Thai male voice, rounded low-mid register, slightly husky timbre, standard Thai accent. DELIVERY: stern, irritated rebuke. No visible person lip-syncs to this voice; Rita keeps her lips closed while he speaks.
+SOUND EVENT 2 (NOT SPEECH): Rita, visible on screen, screams. A long, piercing, high-pitched scream of rage lasting about two seconds: one continuous open "aaaaah" vowel sound that rises and cracks at the end. It contains NO words, NO syllables and NO consonants; she does not say "kreed", "kree" or any Thai or English word. Pure screaming only, starting after the man finishes.
+After the scream: only heavy breathing from Rita until the end; no more words from anyone.
+No unassigned voices.
+AMBIENCE/SFX: quiet pool water and small splashes from her sculling; no chatter or music.
 No captions, subtitles, labels or watermarks.
-

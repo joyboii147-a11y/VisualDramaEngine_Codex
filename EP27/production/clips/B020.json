@@ -34,7 +34,7 @@
     "reset_at": 2
   },
   "video": {
-    "status": "todo",
+    "status": "done",
     "takes": [
       {
         "take": 1,
@@ -43,12 +43,21 @@
         "result": "ok",
         "qc": "3.04s; 3 คนครบ หน้า/ชุดคงที่ ไอรินเริ่มปีนขึ้นขอบ วิทประคอง ริต้าเบลอหลัง",
         "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP27/Video/EP27_B020_T02.mp4",
+        "job": "manual-extension",
+        "result": "ok",
+        "qc": "extension 6/10s (แผน 3 วิ) drift 0.195; หลัง ~2.2 วิ น้ำตื้น",
+        "cost": 0.0
       }
     ],
-    "selected": null,
+    "selected": "EP27/Video/EP27_B020_T02.mp4",
     "prompt_sha": "5bd2c3966256",
     "flag": null,
-    "reset_at": 1
+    "reset_at": 1,
+    "usable_until": 2.17
   },
   "notes": [
     "image prompt เปลี่ยน — รีเซ็ตเป็น todo"

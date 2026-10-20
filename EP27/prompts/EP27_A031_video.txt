@@ -6,44 +6,32 @@
 # - แม่วิทย์ C01-W07 ชุดขาวลูกไม้ | ครึ่งตัว ยืน กลางค่อนขวา มองซ้ายล่าง มือว่าง
 #
 # เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
-# - ไอริน C04-W17 ชุดคลุมท้อง | นั่งนอกเฟรมซ้ายล่าง ถือบัตรอยู่ เป็นคนที่แม่วิทย์มอง
-# - วิทย์ C05-W08 ชุดแจ็กเก็ตครีมปกดำ | นั่งนอกเฟรมซ้ายล่างถัดจากไอริน
+# - ไอริน C04-W17 / วิทย์ C05-W08 | นั่งนอกเฟรมซ้ายล่าง (ไม่บรรยายใน prompt เหลือแค่เป้าสายตา)
 #
+# แก้ตามคำสั่ง 2026-10-20: ทุก take dissolve/ถอยเป็นภาพกว้างทั้งห้อง (~2.6 วิ) — ต้นเหตุ: SCENE GEOGRAPHY บรรยายทั้งห้อง เตียง และคู่ที่นั่ง,
+#   WARDROBE บรรยายรองเท้าส้นสูงทั้งที่เฟรมถึงเอว, และคลิปจาก extension ยาว 10 วิ เกินบท → ตัดฉากเหลือแค่ข้างหลังเธอ ตัดรองเท้า สั่งนิ่งหลังพูดจบ
 # แนบใน Grok: ภาพที่เลือกจาก EP27_A031_image
 # ผู้พูด: แม่วิทย์ ON (2 บรรทัด D018 → D019) | คนในเฟรมที่ไม่พูด: ไม่มี
 # ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
-SHOT EP27-S031 / CLIP A031. One continuous cinematic live-action shot, vertical 9:16.
+EP27_A031 SHOT EP27-S031. One continuous cinematic live-action shot, vertical 9:16.
 TARGET DURATION: 6.5 seconds including handles.
 Animate the supplied starting image. Use only this request's image and instructions.
-SCENE GEOGRAPHY: A daytime hotel bedroom with a pale neutral wood floor. Against the back wall stands a double bed with a beige upholstered headboard, white pillows and a yellow-gold runner across the foot of the bed; a cream bedside lamp stands beside the headboard on the cream-wall side. The side wall on the window side has a tall sheer-curtained window letting in soft daylight. The wall facing the bed is pale wood panelling with one black-screen television. The opposite side wall is plain cream-beige. A pot of yellow flowers stands on the floor near the foot of the bed on the cream-wall side. No doorway is shown. Wit and Irin sit side by side on the edge of the bed foot, facing into the room toward the television wall: Wit on the cream-wall side, Irin beside him on the window side. Wit's mother stands in front of the bed foot on Irin's window side, facing the couple.
-VISIBLE CAST: exactly one person: Wit's mother, standing, wearing an ivory floral-lace midi dress with a sheer ivory chiffon cape overlay, floral front appliques, a delicate gemstone necklace, small gemstone earrings and ivory pointed heels with jeweled buckles, with dark brown hair in a low braided chignon.
-CAST COUNT: exactly 1 person visible for the whole clip; she is alone in the frame.
-CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: low beside the seated couple at the bed foot, looking slightly up at Wit's mother; medium shot from waist to head, 50mm.
-FOREGROUND / VISIBLE BACKGROUND: no foreground objects; bright sheer curtains softly defocused behind her, narrow strip of cream wall.
-OFF-FRAME: Wit and Irin sit outside the lower left of the frame and never enter it; no hand, shoulder or hair of theirs appears.
-LIGHTING / COLOR: soft daylight through the sheer-curtained window on the window side, mixed with warm light from the cream bedside lamp beside the headboard, approximately 4000K mixed light, soft natural contrast; the daylight always comes from the window side. Grade: warm beige and pale wood, restrained gold accents, natural skin tones, soft contrast.
-PROP STATE: no props visible; her hands stay empty and clasped at her waist for the whole clip.
-START STATE: Wit's mother stands framed from waist to head, body turned toward the left of the frame, looking down toward the lower left at Irin outside the frame, with a gentle grateful smile and lips closed; both hands are empty and loosely clasped in front of her waist.
-PERFORMANCE CONTEXT: Wit's mother thanks Irin for saving her, then gently warns her not to take such a risk again.
-ACTION: Hold the starting frame for 0.4 seconds. Wit's mother says the first assigned line warmly with a small grateful nod. After a brief natural pause her expression turns gently earnest with concern, and she says the second assigned line, looking down toward the lower left. Her hands stay clasped at her waist. She closes her lips and holds a caring look for 0.5 seconds.
-END STATE: Wit's mother standing, lips closed, caring and earnest gaze toward the lower left, hands empty and clasped.
-CAMERA: static locked-off camera. One continuous take, no cuts, no transitions, no dissolves, no zoom-out or reframing; the camera stays at the starting framing for the entire clip.
-VISUAL CONTINUITY: Preserve the starting image's faces, hair, wardrobe, set geometry, lighting direction and color treatment. Allow only the specified actions. No added people, no identity swaps, no extra hands, no second card and no prop teleportation. No one outside the frame enters the frame at any point.
+One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing. Camera locked-off on a tripod: the framing never changes for the whole clip, even after the dialogue ends.
+SCENE GEOGRAPHY: only what is directly behind her: bright sheer white curtains, softly defocused, and a narrow strip of cream wall with a pot of yellow flowers at the lower edge.
+VISIBLE CAST: exactly 1 person: Wit's mother, an elegant middle-aged Thai woman with dark brown hair in a low braided chignon, wearing an ivory floral-lace dress with a sheer ivory chiffon cape overlay, floral front appliques, a delicate gemstone necklace and small gemstone earrings. She stands at center-right, framed from the waist to just above her head.
+CAMERA POSITION / VIEW DIRECTION: slightly below her eye level, facing her; MEDIUM SHOT from the waist up, 50mm. Only her upper body and the curtains behind her are ever in frame.
+OFF-FRAME: the person she talks to is below and to the left of the frame. No one else enters the frame at any time.
+LIGHTING / COLOR: soft daylight through the sheer curtains mixed with warm lamp light, about 4000K, soft natural contrast. GRADE: warm beige and ivory, restrained gold accents, natural skin tones.
+PROP STATE: no props; her hands stay empty and loosely clasped at her waist the whole clip.
+START STATE: she looks down toward the lower left with a gentle grateful smile, lips closed, hands clasped at her waist.
+PERFORMANCE CONTEXT: she thanks her daughter-in-law for saving her, then gently warns her not to take such a risk again.
+ACTION: Hold the start for 0.4 seconds. She says the first assigned line warmly with a small grateful nod. After a brief natural pause her expression turns gently earnest, and she says the second assigned line, still looking down toward the lower left. Then she closes her lips and stays still with a caring smile, breathing softly, until the very end of the clip. Nothing else happens; the framing does not change.
+END STATE: same framing as the first frame; lips closed, caring gaze toward the lower left, hands clasped.
+CAMERA: locked-off; the framing never changes, even during the silent hold at the end.
+VISUAL CONTINUITY: preserve the starting image's face, hair, dress, curtains and light. No added people, no hands entering, no change of room or angle.
 AUDIO MODE: generated dialogue.
-SPEECH EVENT 1:
-SPEAKER: Wit's mother, visible on screen (ON), the only person in the frame.
-EXACT THAI DIALOGUE: "ขอบคุณที่เธอช่วยฉันเมื่อกี้นะ"
-VOICE IDENTITY: mature Thai female voice, poised mid-low register, clear warm timbre, standard Thai accent
-DELIVERY: tender, sincere gratitude, unhurried.
-Lip-sync only Wit's mother to the assigned line.
-SPEECH EVENT 2:
-SPEAKER: Wit's mother, visible on screen (ON), the same speaker continuing after a brief pause.
-EXACT THAI DIALOGUE: "แต่จากนี้ไปอย่าทำแบบนี้อีกทึ่"
-VOICE IDENTITY: mature Thai female voice, poised mid-low register, clear warm timbre, standard Thai accent
-DELIVERY: a gentle warning born of worry, slightly firmer; pronounce the final word exactly as written.
-Lip-sync only Wit's mother to the assigned line.
-NON-SPEAKERS: none visible; no other voice.
-Speak each assigned line exactly once, in the order given, with a brief natural pause between them, without paraphrasing or added words.
-Do not stretch speech to fill the clip. No unassigned voices.
-AFTER SPEECH: she closes her lips and holds the caring look silently until the cut.
-AMBIENCE/SFX: faint steady hotel room tone and soft fabric movement; no music, no chatter, no laughter, no extra vocalizations.
+SPEECH EVENT 1: SPEAKER: Wit's mother, visible on screen (ON), the only person in the frame. EXACT THAI DIALOGUE: "ขอบคุณที่เธอช่วยฉันเมื่อกี้นะ" VOICE IDENTITY: mature Thai female voice, poised mid-low register, clear warm timbre, standard Thai accent. DELIVERY: tender, sincere gratitude, unhurried. Lip-sync only her.
+SPEECH EVENT 2: SPEAKER: Wit's mother, the same speaker continuing after a brief pause. EXACT THAI DIALOGUE: "แต่จากนี้ไปอย่าทำแบบนี้อีกทึ่" VOICE IDENTITY: mature Thai female voice, poised mid-low register, clear warm timbre, standard Thai accent. DELIVERY: a gentle warning born of worry, slightly firmer; pronounce the final word exactly as written. Lip-sync only her.
+Speak each assigned line exactly once, in the order given, without paraphrasing or added words. Do not stretch speech to fill the clip. No unassigned voices.
+AFTER SPEECH: she holds the caring look silently until the end of the clip; the framing stays the same.
+AMBIENCE/SFX: faint steady hotel room tone and soft fabric movement; no music, chatter, laughter or extra vocalizations.

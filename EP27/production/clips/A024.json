@@ -26,7 +26,7 @@
     "reset_at": 1
   },
   "video": {
-    "status": "todo",
+    "status": "flagged",
     "takes": [
       {
         "take": 1,
@@ -35,11 +35,19 @@
         "result": "ok",
         "qc": "6.04s มีเสียง; 2 คนครบ หน้า/ชุดคงที่ ริต้าตะโกนแล้วหน้าบึ้ง ชายร่างท้วมยกมือ; ชายร่างท้วมขยับปากคล้ายพูด (สั่งห้าม)",
         "cost": 0.12
+      },
+      {
+        "take": 2,
+        "file": "EP27/Video/EP27_A024_T02.mp4",
+        "job": "manual-extension",
+        "result": "ok",
+        "qc": "extension 6/10s (แผน 6 วิ) drift 0.158; ภาพนิ่ง ไม่มี transition",
+        "cost": 0.0
       }
     ],
-    "selected": null,
+    "selected": "EP27/Video/EP27_A024_T02.mp4",
     "prompt_sha": "5ac88d8763eb",
-    "flag": "ต้องฟังลิปซิงก์ (เช็กว่าชายร่างท้วมไม่ได้พูดแทน)",
+    "flag": "ต้องฟังลิปซิงก์",
     "reset_at": 1
   },
   "notes": [

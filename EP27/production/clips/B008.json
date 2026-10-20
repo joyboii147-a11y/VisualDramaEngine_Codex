@@ -26,7 +26,7 @@
     "reset_at": 1
   },
   "video": {
-    "status": "todo",
+    "status": "done",
     "takes": [
       {
         "take": 1,
@@ -51,11 +51,19 @@
         "result": "fail",
         "qc": "3.04s; ไอริน/แม่ลุกยืนในน้ำตื้น วิทลงกระทบน้ำ (สั่งจบก่อนกระทบ) แย่สุดใน 3 take",
         "cost": 0.06
+      },
+      {
+        "take": 4,
+        "file": "EP27/Video/EP27_B008_T04.mp4",
+        "job": "manual-extension",
+        "result": "ok",
+        "qc": "extension 6/10s (แผน 3 วิ) drift 0.147; ภาพนิ่ง ไม่มี transition",
+        "cost": 0.0
       }
     ],
-    "selected": null,
+    "selected": "EP27/Video/EP27_B008_T04.mp4",
     "prompt_sha": "24a072e23744",
-    "flag": "ภาพ: ครบ 3 take เลือก T02 (จบกลางอากาศก่อนกระทบน้ำถูก) แต่ไอริน/แม่ลุกขึ้นสูงพ้นน้ำถึงสะโพกเหมือนสระตื้น และริต้าหันหน้าเข้ากล้อง",
+    "flag": null,
     "reset_at": 3
   },
   "notes": [

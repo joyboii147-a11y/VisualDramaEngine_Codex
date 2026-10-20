@@ -42,7 +42,7 @@
     "reset_at": 4
   },
   "video": {
-    "status": "todo",
+    "status": "flagged",
     "takes": [
       {
         "take": 1,
@@ -69,9 +69,9 @@
         "cost": 0.06
       }
     ],
-    "selected": null,
+    "selected": "EP27/Video/EP27_B017_T03.mp4",
     "prompt_sha": "709783f286e4",
-    "flag": "ภาพ: ครบ 3 take ทุก take มีคนเพิ่มในพื้นหลังช่วงท้าย ใช้ ~1.5 วิแรก",
+    "flag": "ชั่วคราว: วิดีโอฉบับก่อนแก้ตำแหน่ง รอภาพใหม่จาก fal แล้วทำวิดีโอใหม่",
     "reset_at": 3
   },
   "notes": [

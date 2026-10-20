@@ -42,7 +42,7 @@
     "reset_at": 3
   },
   "video": {
-    "status": "todo",
+    "status": "done",
     "takes": [
       {
         "take": 1,
@@ -51,9 +51,17 @@
         "result": "ok",
         "qc": "2.04s; 3 คนครบ หน้า/ชุดคงที่ สบตากัน ริต้าเบลอหลัง กล้องนิ่ง",
         "cost": 0.04
+      },
+      {
+        "take": 2,
+        "file": "EP27/Video/EP27_B014_T02.mp4",
+        "job": "manual-extension",
+        "result": "ok",
+        "qc": "extension 6/10s (แผน 3 วิ) drift 0.112; ภาพนิ่ง ไม่มี transition",
+        "cost": 0.0
       }
     ],
-    "selected": null,
+    "selected": "EP27/Video/EP27_B014_T02.mp4",
     "prompt_sha": "2cd02a650dc4",
     "flag": null,
     "reset_at": 1

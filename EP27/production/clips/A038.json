@@ -26,7 +26,7 @@
     "reset_at": 1
   },
   "video": {
-    "status": "todo",
+    "status": "flagged",
     "takes": [
       {
         "take": 1,
@@ -35,12 +35,21 @@
         "result": "ok",
         "qc": "4.04s มีเสียง หน้า/ชุดแม่คงที่ ยื่นการ์ดลงซ้าย; ท้ายคลิปมือ (อิริน) เข้าเฟรมจากซ้ายรอรับ ยังไม่ส่งต่อ",
         "cost": 0.08
+      },
+      {
+        "take": 2,
+        "file": "EP27/Video/EP27_A038_T02.mp4",
+        "job": "manual-extension",
+        "result": "ok",
+        "qc": "extension 6/10s (แผน 5 วิ) drift 0.188; ตัดเป็นภาพกว้างทั้งห้องที่ ~3.9 วิ",
+        "cost": 0.0
       }
     ],
-    "selected": null,
+    "selected": "EP27/Video/EP27_A038_T02.mp4",
     "prompt_sha": "41d9b26bf49a",
-    "flag": "ต้องฟังลิปซิงก์; มือรับการ์ดเข้าเฟรมช่วงท้าย (สั่งให้อยู่นอกเฟรม)",
-    "reset_at": 1
+    "flag": "ต้องฟังลิปซิงก์",
+    "reset_at": 1,
+    "usable_until": 3.88
   },
   "notes": [
     "image prompt เปลี่ยน — รีเซ็ตเป็น todo"

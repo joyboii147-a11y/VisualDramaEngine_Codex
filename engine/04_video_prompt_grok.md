@@ -16,6 +16,9 @@
 **สาเหตุหลักของ transition และฉากหลังหลอน (v68 จากผล EP27):** โมเดลวิดีโอพยายาม "เปิดให้เห็น" ทุกอย่างที่ prompt เอ่ยถึง ช็อตใกล้ที่บรรยายคนนอกเฟรม ห้องทั้งห้อง หรือพร็อพนอกกรอบ จะถูกถอยกล้อง ตัดภาพ หรือ dissolve ไปหาสิ่งนั้น ส่วนภาพกว้างที่ทุกคนอยู่ในเฟรมแล้วออกมาสะอาด กฎที่ตามมา:
 - SCENE GEOGRAPHY ใน video prompt บรรยายเฉพาะสิ่งที่อยู่ในเฟรมและฉากหลังที่เห็น ไม่บรรยายผังทั้งห้อง
 - OFF-FRAME มีได้แค่เป้าสายตาแบบไม่ระบุรายละเอียด และต้องจบด้วย "No one else enters the frame at any time."
+- **ชุดใน VISIBLE CAST บรรยายเฉพาะส่วนที่อยู่ในเฟรม:** ช็อตที่ไม่เห็นเท้า ห้ามมีรองเท้า (EP27: "stiletto pumps"/"pointed heels" ทำให้ Grok ถอยกล้องให้เห็นเท้า และในฉากสระทำให้ตัวละครยืนน้ำตื้น) ช็อตที่ไม่เห็นมือ ห้ามมีแหวน/ของในมือ — คำ LOCKED ใน image prompt ยังใช้ครบได้ แต่ video prompt ตัดส่วนที่อยู่นอก crop
+- สายตาที่มองหาคนนอกเฟรม ให้เขียนว่า "only her eyes turn; the camera does not follow her gaze" ไม่บรรยายว่ามองหาใครที่อยู่ตรงไหน
+- คลิปที่ผลิตยาวกว่าบท (extension ให้แค่ 6/10 วิ) ต้องสั่งช่วงท้ายให้ชัด: "stays still … until the very end of the clip; the framing does not change" ช่วงว่างที่ไม่มีคำสั่งคือจุดที่โมเดลใส่ transition
 - CAMERA ค่าเริ่มต้นคือ "locked-off, the framing never changes" ใช้กล้องเคลื่อนเฉพาะเมื่อ Shot สั่ง และระบุจุดจบของการเคลื่อน
 - ทุกไฟล์ต้องมีบรรทัด "One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing."
 - คลิปเกิน `lite_max_sec` จะถูกส่งไปโมเดลปกติอัตโนมัติ ให้ shot_planner แบ่งคลิปตาม engine/02 หัวข้อ 6
@@ -85,6 +88,7 @@ AFTER SPEECH: [planned silent action or brief hold until the cut].
 AMBIENCE/SFX: [allowed sounds].
 ```
 
+- **เสียงที่ไม่ใช่คำพูด** (กรี๊ด หัวเราะ สะอื้น อุทาน "อ๊ะ" ที่บทเขียนเป็นคำเลียนเสียง) ห้ามใส่ใน `EXACT THAI DIALOGUE` เพราะ Grok จะพูดออกมาเป็นคำ (EP27 A027: ตะโกนคำว่า "กรี๊ด" แทนการกรีดร้อง) ให้เขียนเป็น `SOUND EVENT n (NOT SPEECH):` บรรยายเสียง ความยาว และย้ำ "no words, no syllables, no consonants" — Ledger และซับยังใช้ข้อความต้นฉบับตรงตัว
 - ลบตัวเลือก ON/OS/VO ที่ไม่ใช้ออก
 - ผู้พูดสองคนให้เพิ่ม SPEECH EVENT ตามลำดับ พร้อมข้อมูลเสียงครบทุกคน ไม่สั่งให้คนที่จะพูดทีหลังเงียบตลอดคลิป
 - **Voice Identity คัดลอกจาก Bible ตรงตัวทุกคลิป** ส่วน Delivery เปลี่ยนตามอารมณ์

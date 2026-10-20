@@ -42,7 +42,7 @@
     "reset_at": 3
   },
   "video": {
-    "status": "todo",
+    "status": "flagged",
     "takes": [
       {
         "take": 1,
@@ -59,14 +59,31 @@
         "result": "ok",
         "qc": "5.04s มีเสียง หน้า/ชุดแม่คงที่ ยื่นการ์ด พยักหน้า ถือการ์ดตลอด ไม่มีมือเกิน; กล้องเลื่อนตามเล็กน้อย และมีเงาเบลอคนด้านซ้ายขอบเฟรมช่วงท้าย",
         "cost": 0.1
+      },
+      {
+        "take": 3,
+        "file": "EP27/Video/EP27_A031_T03.mp4",
+        "job": "manual-extension",
+        "result": "fail",
+        "qc": "extension 6/10s (แผน 7 วิ) drift 0.214; dissolve เป็นภาพกว้างทั้งห้องที่ ~2.6 วิ — บทสองประโยคจะขาด",
+        "cost": 0.0
+      },
+      {
+        "take": 4,
+        "file": "EP27/Video/EP27_A031_T04.mp4",
+        "job": "manual-extension",
+        "result": "ok",
+        "qc": "prompt ใหม่: กล้องนิ่งตลอด 10 วิ drift 0.03 ไม่มี dissolve แม่อยู่เฟรมเดิม",
+        "cost": 0.0
       }
     ],
-    "selected": null,
-    "prompt_sha": "fd56fd99dadf",
+    "selected": "EP27/Video/EP27_A031_T04.mp4",
+    "prompt_sha": "408e4c09a538",
     "flag": "ต้องฟังลิปซิงก์",
-    "reset_at": 2
+    "reset_at": 3
   },
   "notes": [
-    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo",
+    "video prompt เปลี่ยน — รีเซ็ตเป็น todo"
   ]
 }
