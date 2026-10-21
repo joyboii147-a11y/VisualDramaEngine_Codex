@@ -1,0 +1,38 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP28-S030 | Clip: A016 (A-roll) | SC01 โถงงานเลี้ยง กลางคืน
+# ไฟล์นี้: Image Prompt → OpenArt GPT Image 2 (9:16)
+#
+# ตัวละครในเฟรม (รวม 1 คน):
+# - ริต้า C06-W02 ชุดเดรสสีดำ | ครึ่งตัว | ริต้า (W02): กลางเฟรม · ระนาบกลาง · ศีรษะถึงอก · โทรศัพท์แนบหูขวา (ซ้ายเฟรม) · มองลงขวาเฟรม
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - ไอริน C04-W12 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - วิทย์ C05-W06 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - แม่วิทย์ C01-W04 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - พ่อวิทย์ C12-W02 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - ผู้ติดตามชาย C13-W01 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# แนบใน OpenArt: 1) input/characters/ริต้า/Face.jpeg
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+Create one standalone starting-frame image for SHOT EP28-S030.
+Vertical 9:16. Cinematic live-action still, photorealistic, natural material and skin texture.
+REFERENCE IMAGES:
+Image 1: Rita — use only for face, skin tone and hairstyle. The outfit comes from the text below. Do not copy the outfit, background, lighting or camera angle.
+A multi-view turnaround reference depicts one person from several angles. Render each named character once only; do not copy the sheet layout or duplicate a person.
+CHARACTERS: Rita: young Thai woman; reference binding controls identity; wearing a sleeveless black halter-neck evening dress with a high black lace inset, a draped black front and asymmetric peplum waist, a subtly sparkling black lower skirt, small gold earrings, and long dark brown wavy half-up hair; completely dry. Visible position: center middle plane, right hand holds a black phone against her right ear at screen-left, gaze down toward screen-right.
+CAST COUNT: exactly 1 people visible, including every partial figure and blurred person.
+SCENE GEOGRAPHY: A high-ceilinged indoor reception hall at night. The visible fixed surfaces and furniture within this crop are: A pale gray hall wall and a soft round light point at screen-right, with a small suggestion of the ceiling; no other person is visible. Visible cast positions relative to these landmarks: Rita center middle plane, right hand holds a black phone against her right ear at screen-left, gaze down toward screen-right.
+FRAME ORDER: from screen-left to screen-right: Rita.
+CAMERA POSITION: Directly in front of Rita beside her standing table, about 0.7 to one meter away, slightly below eye level and maintaining her phone-call axis.
+VIEW DIRECTION: Toward the specified visible cast and then A pale gray hall wall and a soft round light point at screen-right, with a small suggestion of the ceiling; no other person is visible.
+SET IN FRAME: Rita centered, the phone at her anatomical right ear appears at screen-left; the round light stays screen-right; gray wall fills the rear plane. Keep this layout; do not move or mirror it.
+BETWEEN CAMERA AND SUBJECT: The visible open space or table-edge crop described here; no additional person blocks the view.
+FOREGROUND: No separate foreground figure; only the specified set or garment fragments appear.
+VISIBLE BACKGROUND: A pale gray hall wall and a soft round light point at screen-right, with a small suggestion of the ceiling; no other person is visible.
+OFF-FRAME: The phone listener is not shown. No other person or any part of another person appears in the frame.
+START STATE: Rita holds the black phone at her right ear with her right hand, eyes lowered screen-right, mouth at rest with a distressed pout and moisture at her eyes.
+PROP STATE: A single black smartphone is held to Rita's right ear by her right hand; the handset appears on screen-left. No readable screen content.
+CAMERA: TIGHT MEDIUM CLOSE-UP. Head to upper chest, face about 45% of frame height. 65mm full-frame equivalent, around one meter away, slightly low angle; keep the phone hand inside the crop.
+FOCUS: The primary visible face is sharp; foreground shoulders and distant cast remain softly defocused exactly as specified.
+LIGHTING: Soft warm illumination from fixed overhead track lights, with restrained cool teal fill reflected from the hall surfaces where already visible; natural medium contrast, warm skin tones, nighttime interior throughout. No extra light fixture is introduced within the crop.
+GRADE: warm luxury-event color treatment, natural skin, medium contrast, controlled highlights and restrained saturation.
+Show only the starting moment, before any planned movement begins.
+No captions, subtitles, labels, watermarks, panels or collage.

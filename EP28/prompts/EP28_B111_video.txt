@@ -1,0 +1,37 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP28-S050 | Clip: B111 (B-roll) | SC02 คฤหาสน์/ห้องรับแขก กลางคืน
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 4 วิ | เสียงโหมด C
+# ตัวละครในเฟรม (รวม 1 คน):
+# - แม่วิทย์ C01-W04 แม่วิทย์ W04.png | หน้า (CU) | ลำดับเฟรม 1 จากซ้าย; รายละเอียดตำแหน่งและทิศตามองค์ประกอบต้นเฟรมด้านล่าง
+# องค์ประกอบต้นเฟรม: แม่วิทย์ (W04): กลาง-ขวาเฟรม · ระนาบกลาง · ศีรษะถึงไหล่ · เงยมองขวาบนเฟรม (ศิลา) สายตาดูแคลน
+# ลำดับเฟรมซ้าย→ขวา: แม่วิทย์
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม: ไอริน, วิทย์, ศิลา, แม่บ้าน, ริต้า
+# แนบใน Grok: ภาพที่เลือกจาก EP28_B111_image ของคลิปนี้เท่านั้น
+# ผู้พูด: ไม่มี | คนในเฟรมที่ไม่พูด: แม่วิทย์
+# เสียง/การตัดต่อ: D010 ศิลา OS: " เรื่องลูกสาวคุณไม่ต้องห่วง" | ภาพโหมด C เงียบ; ปิดเสียง B111 ใช้เสียงจาก A108 ช่วงคำนี้ครั้งเดียว
+# ยังไม่มีผลภาพ/วิดีโอจริงให้ตรวจ ต้องเทียบภาพชุดและตรวจเสียงหลังผู้ใช้ผลิต
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+EP28_B111 SHOT EP28-S050. One continuous cinematic live-action shot, vertical 9:16.
+TARGET DURATION: 4 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
+SCENE GEOGRAPHY: cream molded wall on the sofa side, only the wall section within the stated crop visible. Visible positions: Wit's mother center-right, seated, chin raised, looking upper screen-right.
+VISIBLE CAST: Wit's mother (C01-W04): low braided dark brown updo, pearl earrings and short pearl necklace, white neckline only; center-right, seated, chin raised, looking upper screen-right; completely dry
+CAST COUNT: exactly 1 people visible, including partial and blurred figures.
+FRAME ORDER: from screen-left to screen-right: Wit's mother.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: low beside the seated woman. TIGHT CLOSE-UP. The main face fills about 60% of frame height; top cuts through the top of the hair and bottom just below the chin at the collarbones. No main-subject chest, waist or hands visible. 85mm, about 1 meter away.
+FOREGROUND / VISIBLE BACKGROUND: No foreground person or added partial figure. Background: cream molded wall on the sofa side, only the wall section within the stated crop visible.
+SET IN FRAME: cream molded wall on the sofa side, only the wall section within the stated crop visible.
+OFF-FRAME: The attention target beyond the indicated frame edge is not shown; only the eyes may turn, and the camera does not follow the gaze. No one else enters the frame at any time.
+LIGHTING / COLOR: warm crystal-chandelier and wall-sconce practicals, warm table-lamp light behind the sofa, soft neutral fill from the entrance-side window area, restrained cream highlights and natural skin tones, coherent soft medium-low contrast; no daylight sky or sunbeams. warm cream mansion interiors, silver-gray furniture, restrained peach floral accents, natural skin and soft medium-low contrast.
+PROP STATE: No hand-held prop visible in this crop. Describe no object beyond the crop.
+START STATE: Wit's mother sits with her chin tilted up, eyes toward upper screen-right, expression disdainful.
+PERFORMANCE CONTEXT: a tense confrontation, with reactions only after the heard or seen trigger.
+ACTION: She presses her lips slightly as she listens, with only her eyes moving.
+END STATE: She holds the same upward disdainful gaze. Hold this final state until the very end of the clip; the framing does not change after the specified movement ends.
+CAMERA: locked-off, the framing never changes.
+VISUAL CONTINUITY: Preserve the supplied starting image's faces, hair, visible wardrobe, set geometry, lighting and color. Allow only the specified actions and camera movement. No added people, identity swaps or prop teleportation. Do not reveal objects or clothing beyond the stated crop.
+AUDIO MODE: no dialogue.
+No intelligible speech or speech-like lip-sync.
+NON-SPEAKERS: all visible people; no assigned speaker.
+AMBIENCE/SFX: quiet location tone only; no voices, music or background chatter. The editor will mute this clip and use the identified A-roll source in the shot instructions.

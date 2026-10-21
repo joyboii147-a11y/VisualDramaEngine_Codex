@@ -1,0 +1,52 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP28-S021 | Clip: A010 (A-roll) | SC01 โถงงานเลี้ยง กลางคืน
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 5 วิ | เสียงโหมด A
+#
+# ตัวละครในเฟรม (รวม 2 คน):
+# - ไอริน C04-W12 ชุดคลุมท้องครีมคาร์ดิแกนเทา | ครึ่งตัว | ไอริน (W12): ซ้าย-กลางเฟรม · ระนาบหลัง · ศีรษะอยู่สามส่วนบน · ถึงอก · มองขวาเฟรม (แม่วิทย์) ยิ้ม
+# - แม่วิทย์ C01-W04 ชุดW04แขนพองขาวกระโปรงกรม | หันหลัง เห็นแค่ท้ายทอยและไหล่ | แม่วิทย์ (W04): ขวาเฟรม · ระนาบหน้า · ศีรษะด้านหลังและไหล่เสื้อขาวเบลอ กินขวา 1/3 เฟรม
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - วิทย์ C05-W06 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - พ่อวิทย์ C12-W02 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - ผู้ติดตามชาย C13-W01 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - ริต้า C06-W02 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# แนบใน Grok: ภาพที่เลือกจาก EP28_A010_image
+# ผู้พูด: แม่วิทย์ OS | คนในเฟรมที่ไม่พูด: ไอริน, แม่วิทย์
+# ช่วงคำพูดตามShotสร้างครั้งเดียว ไม่สร้างคำของคลิปอื่นซ้ำ; เวลาประมาณไม่ใช่ผลตรวจเสียงจริง
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+EP28_A010 SHOT EP28-S021. One continuous cinematic live-action shot, vertical 9:16.
+TARGET DURATION: 5 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
+SCENE GEOGRAPHY: Indoor nighttime reception hall, limited to this camera crop: Cream inner-hall wall, a fixed column and a softly defocused shelf surface in the hall; the foreground white shoulder belongs to the mother. Visible cast retain the landmark-relative positions listed below.
+VISIBLE CAST: exactly 2 people, including partial and blurred figures. Irin: a cream cable-knit maternity dress with a scoop neckline, an open light gray knit cardigan, a small silver pendant necklace, and long loose dark brown wavy hair; completely dry; left-center in the rear plane, looking screen-right. Wit's mother: only the back of dark brown hair in a low braided updo and the white puff-sleeve shoulder; her face is hidden; completely dry; back of low braided head and white shoulder occupying the right third in the foreground, face excluded.
+FRAME ORDER: from screen-left to screen-right: Irin, Wit's mother (rear head and white shoulder at screen-right).
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: Behind the mothers anatomical right shoulder on the parents side of the standing table, looking toward Irin across the table at standing eye level. Looking through the specified visible cast toward Cream inner-hall wall, a fixed column and a softly defocused shelf surface in the hall; the foreground white shoulder belongs to the mother.
+SET IN FRAME: Irin stays left-center in the middle plane; the mothers low braided head and white shoulder occupy the right foreground. The hall wall remains behind Irin. Do not mirror these sides. Keep this layout; do not move or mirror it.
+FOREGROUND OWNER: Wit's mother.
+VISIBLE FOREGROUND IDENTITY: Wit's mother: only the back of dark brown hair in a low braided updo and the white puff-sleeve shoulder; her face is hidden.
+CAMERA RELATION: Behind the mothers anatomical right shoulder on the parents side of the standing table, looking toward Irin across the table at standing eye level.
+FOCUS SUBJECT: Irin remains sharp in the specified middle plane.
+OCCLUSION: Keep Irin's face unobstructed; foreground owners keep their faces hidden. The foreground belongs to these named people, not additional stand-ins.
+FOREGROUND / VISIBLE BACKGROUND: The mothers rear braided head and white shoulder at the right third. Background: Cream inner-hall wall, a fixed column and a softly defocused shelf surface in the hall; the foreground white shoulder belongs to the mother.
+OFF-FRAME: The conversation continues within the visible group. No one else enters the frame at any time.
+LIGHTING / COLOR: Soft warm illumination from fixed overhead track lights, with restrained cool teal fill reflected from the hall surfaces where already visible; natural medium contrast, warm skin tones, nighttime interior throughout. No extra light fixture is introduced within the crop. warm luxury-event color treatment, natural skin, medium contrast, controlled highlights and restrained saturation.
+PROP STATE: No handheld prop is visible.
+START STATE: Irin smiles toward screen-right; the mothers braided head and white shoulder stay at right foreground.
+PERFORMANCE CONTEXT: The cast convey the current emotional turn through the assigned words and restrained gestures; do not invent additional dialogue or events.
+ACTION: Allow a brief 0.5-second quiet head handle, then Irin listens to the mothers voice and lowers her chin in a shy smile. The foreground mother remains turned away, her mouth not visible, without changing position. Hold the final pose quietly through the tail handle until the very end of the clip; the framing does not change.
+END STATE: Irin has lowered her head, quietly smiling; the foreground silhouette is unchanged.
+CAMERA: MEDIUM CLOSE-UP. Framed from mid-chest up; the face fills about 35% of the frame height. 65mm full-frame equivalent, about 1.5 meters away, standing eye level. Motion: locked-off, the framing never changes.
+VISUAL CONTINUITY: Preserve the starting image's faces, hair, wardrobe, set geometry, lighting character and color treatment. Allow only the specified actions and camera movement. No unplanned cuts, added people, identity swaps or prop teleportation. Every named character appears once only, never as duplicate turnaround views.
+AUDIO MODE: generated dialogue.
+SPEECH EVENT 1:
+SPEAKER: Wit's mother, OS.
+EXACT THAI DIALOGUE: "เป็นครอบครัวเดียวกันแล้วไม่ใช่เหรอ"
+VOICE IDENTITY: mature Thai female voice, poised mid-low register, clear warm timbre, standard Thai accent
+DELIVERY: warm maternal acceptance, steady clear phrasing, without exaggerated persuasion.
+The speaker is outside the visible crop; no visible person lip-syncs to this voice.
+NON-SPEAKERS: Irin, Wit's mother; no speech-like lip movements.
+Speak only the assigned dialogue exactly once, without paraphrasing or added words.
+Do not stretch speech to fill the clip. No unassigned voices.
+AFTER SPEECH: Irin has lowered her head, quietly smiling; the foreground silhouette is unchanged. Hold quietly until the very end of the clip; the framing does not change.
+AMBIENCE/SFX: quiet indoor room tone, no intelligible background chatter, no extra utterance or laugh, no added music.

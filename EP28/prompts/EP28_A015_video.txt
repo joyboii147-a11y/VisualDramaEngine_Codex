@@ -1,0 +1,49 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP28-S029A | Clip: A015 (A-roll) | SC01 โถงงานเลี้ยง กลางคืน
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 6.5 วิ | เสียงโหมด A
+#
+# ตัวละครในเฟรม (รวม 8 คน):
+# - วิทย์ C05-W06 ชุดแจ็กเก็ตครีมปกดำ | เบลอฉากหลัง หันหลัง | วิทย์ (หลังเบลอซ้าย)
+# - ริต้า C06-W02 ชุดเดรสสีดำ | ครึ่งตัว | ริต้า (กลางขวา)
+# - แขกชาย 6 คน ไม่มีรหัส/ภาพอ้างอิง | เบลอฉากหลัง กลางหลัง รักษาจำนวน6คน
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - ไอริน C04-W12 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - แม่วิทย์ C01-W04 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - พ่อวิทย์ C12-W02 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - ผู้ติดตามชาย C13-W01 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# แนบใน Grok: ภาพที่เลือกจาก EP28_A015_image
+# ผู้พูด: ริต้า ON | คนในเฟรมที่ไม่พูด: วิทย์, แขกชายทั้ง6คน
+# ช่วงคำพูดตามShotสร้างครั้งเดียว ไม่สร้างคำของคลิปอื่นซ้ำ; เวลาประมาณไม่ใช่ผลตรวจเสียงจริง
+# การตัดต่อ: ตัดกว้างขึ้นโดยตั้งใจจากปลาย B015 MCU เป็น MS เพื่อคั่นหลังหยุดเดิน; คนและโทรศัพท์คงตำแหน่งเดิม
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+EP28_A015 SHOT EP28-S029A. One continuous cinematic live-action shot, vertical 9:16.
+TARGET DURATION: 6.5 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
+SCENE GEOGRAPHY: Indoor nighttime reception hall, limited to this camera crop: Tall glass panels with dark metal frames and warm wall lights; Wit remains softly blurred at far screen-left behind six male guests. A white-draped standing table with orange flowers occupies the lower-left edge. Visible cast retain the landmark-relative positions listed below.
+VISIBLE CAST: exactly 8 people, including partial and blurred figures. Wit: the rear of a cream jacket with a dark collar and tousled short black hair, softly blurred; completely dry; distant, softly blurred rear figure at far screen-left, cream jacket recognizable. Rita: a sleeveless black halter-neck evening dress with a high black lace inset, a draped black front, small gold earrings, and long dark brown wavy half-up hair, asymmetric black peplum visible at the waist-level bottom crop; completely dry; center-right near the camera, stopped beside the standing table, three-quarter facing camera with the phone at her right ear. Six adult Thai male party guests in dark formal suits and white shirts, each an individual person, softly blurred in the middle-rear plane. They remain behind Rita and between her and the distant Wit; no additional crowd is visible.
+FRAME ORDER: from screen-left to screen-right: Wit (blurred rear screen-left), six male guests (blurred middle-rear cluster), Rita (center-right).
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: Stationary at the final inner-hall position in front of Rita beside the standing table, looking toward the guest cluster and distant Wit on the established axis. Looking through the specified visible cast toward Tall glass panels with dark metal frames and warm wall lights; Wit remains softly blurred at far screen-left behind six male guests. A white-draped standing table with orange flowers occupies the lower-left edge.
+SET IN FRAME: Wit stays distant left; exactly six male guests form the softly blurred middle-rear cluster; Rita starts center-right in the foreground. Glass mullions and the guest group retain their positions. Do not mirror the layout. Keep this layout; do not move or mirror it.
+FOREGROUND / VISIBLE BACKGROUND: The white-draped standing table and orange flowers at lower-left. Background: Tall glass panels with dark metal frames and warm wall lights; Wit remains softly blurred at far screen-left behind six male guests. A white-draped standing table with orange flowers occupies the lower-left edge.
+OFF-FRAME: Other family members are outside this crop. No one else enters the frame at any time.
+LIGHTING / COLOR: Soft warm illumination from fixed overhead track lights, with restrained cool teal fill reflected from the hall surfaces where already visible; natural medium contrast, warm skin tones, nighttime interior throughout. No extra light fixture is introduced within the crop. warm luxury-event color treatment, natural skin, medium contrast, controlled highlights and restrained saturation.
+PROP STATE: A single black smartphone is in Rita's right hand, initially at her right ear.
+START STATE: Rita has stopped beside the standing table, facing three-quarter toward camera with her right hand holding the phone at her right ear and her lips at rest in a distressed pout. Wit remains distant blurred screen-left behind exactly six male guests.
+PERFORMANCE CONTEXT: The cast convey the current emotional turn through the assigned words and restrained gestures; do not invent additional dialogue or events.
+ACTION: Allow a brief 0.5-second quiet head handle, then Without walking again, Rita speaks the assigned appeal to her father with a trembling voice and moisture gathering at her eyes. Wit stays at the distant table with no speech, and the six rear guests retain their positions with restrained breathing and small posture shifts. Hold the final pose quietly through the tail handle until the very end of the clip; the framing does not change.
+END STATE: Rita remains stopped beside the table, phone at her right ear, eyes wet and mouth settled after the assigned words; Wit and the six guests stay in place.
+CAMERA: MEDIUM SHOT at the fixed destination. The frame bottom cuts around the waist; Rita occupies the center-right with her head in the upper third. 50mm full-frame equivalent, about 2.5 meters away, chest height. No walking toward camera, zoom or reframing. Motion: locked-off, the framing never changes.
+VISUAL CONTINUITY: Preserve the starting image's faces, hair, wardrobe, set geometry, lighting character and color treatment. Allow only the specified actions and camera movement. No unplanned cuts, added people, identity swaps or prop teleportation. Every named character appears once only, never as duplicate turnaround views.
+AUDIO MODE: generated dialogue.
+SPEECH EVENT 1:
+SPEAKER: Rita, ON.
+EXACT THAI DIALOGUE: "พ่อคะ... วิทย์ทิ้งหนูแล้วค่ะ..."
+VOICE IDENTITY: young Thai female voice, crisp mid register, cool bright timbre, standard Thai accent
+DELIVERY: trembling hurt at first, gathering angry insistence without rushed syllables.
+Lip-sync only Rita to the assigned words.
+NON-SPEAKERS: Wit, all six blurred male guests; no speech-like lip movements.
+Speak only the assigned dialogue exactly once, without paraphrasing or added words.
+Do not stretch speech to fill the clip. No unassigned voices.
+AFTER SPEECH: Rita remains stopped beside the table, phone at her right ear, eyes wet and mouth settled after the assigned words; Wit and the six guests stay in place. Hold quietly until the very end of the clip; the framing does not change.
+AMBIENCE/SFX: quiet indoor room tone, no intelligible background chatter, no extra utterance or laugh, no added music.

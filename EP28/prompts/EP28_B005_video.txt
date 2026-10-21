@@ -1,0 +1,38 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP28-S012 | Clip: B005 (B-roll) | SC01 โถงงานเลี้ยง กลางคืน
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 3 วิ | เสียงโหมด C
+#
+# ตัวละครในเฟรม (รวม 2 คน):
+# - วิทย์ C05-W06 ชุดแจ็กเก็ตครีมปกดำ | ครึ่งตัว | วิทย์ (W06): ซ้ายของเฟรม · ระนาบกลาง · ถึงเอว · ก้มหน้ามองไอริน (ขวาเฟรม)
+# - ไอริน C04-W12 ชุดคลุมท้องครีมคาร์ดิแกนเทา | ครึ่งตัว | ไอริน (W12): กลาง-ขวา ต่ำกว่าวิทย์ · ระนาบกลางค่อนหลัง · ถึงอก ถูกแจกันบังลำตัว · ก้มมองลง
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - แม่วิทย์ C01-W04 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - พ่อวิทย์ C12-W02 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - ผู้ติดตามชาย C13-W01 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - ริต้า C06-W02 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# แนบใน Grok: ภาพที่เลือกจาก EP28_B005_image
+# ผู้พูด: ไม่มี | คนในเฟรมที่ไม่พูด: วิทย์, ไอริน
+# ช่วงคำพูดตามShotสร้างครั้งเดียว ไม่สร้างคำของคลิปอื่นซ้ำ; เวลาประมาณไม่ใช่ผลตรวจเสียงจริง
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+EP28_B005 SHOT EP28-S012. One continuous cinematic live-action shot, vertical 9:16.
+TARGET DURATION: 3 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
+SCENE GEOGRAPHY: Indoor nighttime reception hall, limited to this camera crop: Night-black glass behind both people, with the fixed flame heater behind Irin; the white-draped table and black vase fill the lower quarter. Visible cast retain the landmark-relative positions listed below.
+VISIBLE CAST: exactly 2 people, including partial and blurred figures. Wit: a cream button-front jacket with a black pointed collar over a plain white crew-neck T-shirt, and tousled short black hair; completely dry; screen-left middle plane, looking down screen-right toward Irin. Irin: a cream cable-knit maternity dress with a scoop neckline, an open light gray knit cardigan, a small silver pendant necklace, and long loose dark brown wavy hair; completely dry; center-right and a little farther back, looking down.
+FRAME ORDER: from screen-left to screen-right: Wit, Irin.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: On the mother side of the standing table, looking across its vase toward the couple and the glazed wall, standing chest height. Looking through the specified visible cast toward Night-black glass behind both people, with the fixed flame heater behind Irin; the white-draped table and black vase fill the lower quarter.
+SET IN FRAME: Wit screen-left, Irin center-right and slightly farther back; the black floral vase is low center and the heater behind Irin. Do not move the heater to the other side. Keep this layout; do not move or mirror it.
+FOREGROUND / VISIBLE BACKGROUND: White tablecloth lower quarter and black vase with white-pink flowers low center. Background: Night-black glass behind both people, with the fixed flame heater behind Irin; the white-draped table and black vase fill the lower quarter.
+OFF-FRAME: The person the couple has been addressing is beyond this crop. No one else enters the frame at any time.
+LIGHTING / COLOR: night interior with warm overhead track lights and a restrained heater-flame practical beside the dark glass wall, soft warm facial light against subdued cool teal hall accents, natural medium contrast; exterior beyond the glazing remains dark warm luxury-event color treatment, natural skin, medium contrast, controlled highlights and restrained saturation.
+PROP STATE: The white-draped table and the black vase with white-pink flowers stay fixed. Nobody picks up any table object.
+START STATE: Wit stands screen-left looking down toward Irin; she looks down, with the flower vase hiding part of her torso.
+PERFORMANCE CONTEXT: This is a silent physical action or reaction, expressing only the specified change; do not invent speech or new events.
+ACTION: Allow a brief 0.5-second quiet head handle, then Wit makes a small downward shift of his right elbow toward the bottom of the crop; Irin remains close and quiet. No hidden hands are revealed above the table. Hold the final pose quietly through the tail handle until the very end of the clip; the framing does not change.
+END STATE: Wit has begun the subtle arm-lowering gesture; Irin continues looking down.
+CAMERA: MEDIUM SHOT. The frame bottom cuts at the waist; the head sits in the upper third. 50mm full-frame equivalent, about 2.5 meters away, standing chest height. Motion: locked-off, the framing never changes.
+VISUAL CONTINUITY: Preserve the starting image's faces, hair, wardrobe, set geometry, lighting character and color treatment. Allow only the specified actions and camera movement. No unplanned cuts, added people, identity swaps or prop teleportation. Every named character appears once only, never as duplicate turnaround views.
+AUDIO MODE: no dialogue.
+No intelligible speech or speech-like lip-sync.
+AMBIENCE/SFX: quiet continuous indoor room tone, no intelligible guest chatter, no added music or voices.

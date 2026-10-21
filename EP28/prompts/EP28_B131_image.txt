@@ -1,0 +1,44 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP28-S084 | Clip: B131 (B-roll) | SC02 คฤหาสน์/ห้องรับแขก กลางคืน
+# ไฟล์นี้: Image Prompt → OpenArt GPT Image 2 (9:16)
+# ตัวละครในเฟรม (รวม 4 คน):
+# - ศิลา C14-W02 พ่อริต้า ชุดโปโลกรมท่าW02.png | เบลอฉากหลัง | ลำดับเฟรม 1 จากซ้าย; รายละเอียดตำแหน่งและทิศตามองค์ประกอบต้นเฟรมด้านล่าง
+# - ริต้า C06-W02 ริต้า W02 ชุดเดรสสีดำ.webp | ครึ่งตัว | ลำดับเฟรม 2 จากซ้าย; รายละเอียดตำแหน่งและทิศตามองค์ประกอบต้นเฟรมด้านล่าง
+# - การ์ด 2 C18-W01 ไม่มีภาพอ้างอิง | เบลอฉากหลัง | ลำดับเฟรม 3 จากซ้าย; รายละเอียดตำแหน่งและทิศตามองค์ประกอบต้นเฟรมด้านล่าง
+# - วิทย์ C05-W06 วิทย์ W06 ชุดแจ็กเก็ตครีมปกดำ.png | เห็นแค่แขนหรือไหล่ | ลำดับเฟรม 4 จากซ้าย; รายละเอียดตำแหน่งและทิศตามองค์ประกอบต้นเฟรมด้านล่าง
+# องค์ประกอบต้นเฟรม: ริต้า (W02): กลางเฟรม · ระนาบกลาง · ถึงอก · มองตรง หน้าเสียช็อก; ศิลา (W02): ซ้ายบน · ระนาบหลัง · เบลอ; [เสนอ] การ์ดเบลอระบุคนตามลำดับในคอลัมน์4 ไม่เพิ่มจำนวน
+# ลำดับเฟรมซ้าย→ขวา: ศิลา (ซ้ายหลัง) · ริต้า (กลาง) · การ์ด 2 (ขวาหลัง) · วิทย์ (ไหล่ครีมขวาล่างหน้า)
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม: ไอริน, แม่วิทย์, แม่บ้าน, หัวหน้าการ์ด, การ์ด 1, การ์ด 3, การ์ด 4
+# แนบใน OpenArt: 1) input/characters/ริต้า/Face.jpeg; 2) input/characters/พ่อของริต้า/พ่อริต้า ชุดโปโลกรมท่าW02.png
+# Face ใช้เฉพาะใบหน้า/ผม ชุดใช้LOCKEDล่าสุด; รูปturnaroundคือคนเดียว เลือก9:16ที่หน้าOpenArt
+# เสียง/การตัดต่อ: D016 วิทย์ OS: " ใครกล้าเข้าใกล้จีอา" | ภาพโหมด C เงียบ; ปิดเสียง B131 ใช้เสียงจาก A122 ช่วงคำนี้ครั้งเดียว
+# ความเสี่ยง/เหตุผล:  เสี่ยงอัตลักษณ์หลายคน/ไม่มีภาพ: การ์ด 2, วิทย์; คงทุกคนตามผังและบรรยายเต็ม ไม่เพิ่ม/ตัดคนเพื่อเพดานอ้างอิง2รูป
+# ยังไม่มีผลภาพ/วิดีโอจริงให้ตรวจ ต้องเทียบภาพชุดและตรวจเสียงหลังผู้ใช้ผลิต
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+Create one standalone starting-frame image for SHOT EP28-S084.
+Vertical 9:16. Cinematic live-action still, photorealistic, natural skin and material texture.
+REFERENCE IMAGES:
+Image 1: Rita — use only for face, skin tone and hairstyle. The outfit comes exclusively from the text below. Do not copy the reference outfit, background, lighting or pose. A multi-view reference represents one person only.
+Image 2: Sila — use for face, skin tone, hairstyle, body shape and this exact outfit. Do not copy the background, lighting, pose or camera angle. A multi-view reference represents one person only.
+CHARACTERS: Sila (C14-W02): an older Thai man, identity bound to reference Image 2; wearing a dark navy short-sleeve polo shirt tucked into light beige trousers, a brown leather belt with a silver buckle, a brown-strap wristwatch on the left wrist, and swept-back dark hair with gray at the temples, with no glasses; upper-left background behind Rita, blurred face and navy polo neckline; completely dry; Rita (C06-W02): a young adult Thai woman, identity bound to reference Image 1; wearing a sleeveless black halter-neck evening dress with a high black lace inset, a draped black front and asymmetric peplum waist, a subtly sparkling black lower skirt, small gold earrings, and long dark brown wavy half-up hair; center, standing, looking forward toward the family; completely dry; Guard 2 (C18-W01): an adult Thai male bodyguard with neat short black hair; wearing a black suit, a white shirt, a black tie and neat short black hair; right background behind Rita, blurred head and black suit; completely dry; Wit (C05-W06): a tall young Thai man with warm fair skin, a lean build, and tousled short black hair; wearing a cream waist-length button-front jacket with a black pointed collar over a plain white crew-neck T-shirt, black straight-leg trousers, black leather loafers, and tousled short black hair; only blurred cream jacket shoulder at the lower-right foreground edge; completely dry
+CAST COUNT: exactly 4 people visible, including partial and blurred figures.
+FOREGROUND OWNER: Wit.
+VISIBLE FOREGROUND IDENTITY: Wit: only blurred cream jacket shoulder at the lower-right foreground edge
+CAMERA RELATION: on the family-sofa side of the marble lane, looking toward the intruder/entrance-side wall, on the established family side of the conversation axis.
+FOCUS SUBJECT: Rita.
+OCCLUSION: keep the focused face unobstructed; do not add a generic foreground figure.
+SCENE GEOGRAPHY: A cream mansion living room with molded cream walls and a central marble-floor lane. A white-framed double glass entrance faces a long silver-framed glass coffee table and a gray-cream patterned Louis-style sofa. A matching corner sofa sits at the right of the family sofa from the entrance viewpoint. The entrance-side wall also has a window; the sofa-side wall has black-and-white abstract art and a warm table lamp. A crystal chandelier and wall sconces supply warm light. The peach-orange-white bouquet stays on the coffee table. Visible positions: Sila upper-left background behind Rita, blurred face and navy polo neckline; Rita center, standing, looking forward toward the family; Guard 2 right background behind Rita, blurred head and black suit; Wit only blurred cream jacket shoulder at the lower-right foreground edge.
+FRAME ORDER: from screen-left to screen-right: Sila -> Rita -> Guard 2 -> Wit.
+CAMERA POSITION: on the family-sofa side of the marble lane, looking toward the intruder/entrance-side wall, on the established family side of the conversation axis.
+VIEW DIRECTION: on the family-sofa side of the marble lane, looking toward the intruder/entrance-side wall, on the established family side of the conversation axis; the view terminates at the visible background described below.
+BETWEEN CAMERA AND SUBJECT: the explicitly named foreground edges only; do not hide the focused face.
+SET IN FRAME: gray-cream entrance-side wall behind the standing intruder group.
+VISIBLE BACKGROUND: gray-cream entrance-side wall behind the standing intruder group.
+OFF-FRAME: The attention target beyond the indicated frame edge is not shown; only the eyes may turn, and the camera does not follow the gaze. No other person or any part of another person appears in the frame.
+START STATE: Rita looks forward, visibly shocked; Sila is blurred upper-left, Guard 2 blurred rear-right and Wit’s cream shoulder at lower-right foreground. Position and visible parts: Sila upper-left background behind Rita, blurred face and navy polo neckline; Rita center, standing, looking forward toward the family; Guard 2 right background behind Rita, blurred head and black suit; Wit only blurred cream jacket shoulder at the lower-right foreground edge. No hand-held prop visible in this crop. Describe no object beyond the crop.
+CAMERA: MEDIUM CLOSE-UP. Framed from mid-chest upward; the main face fills about 35% of frame height. 65mm, about 1.5 meters away, eye-level.
+FOCUS: Rita is sharp; intended foreground edges and background supporting people are softly defocused, without changing their count.
+LIGHTING: warm crystal-chandelier and wall-sconce practicals, warm table-lamp light behind the sofa, soft neutral fill from the entrance-side window area, restrained cream highlights and natural skin tones, coherent soft medium-low contrast; no daylight sky or sunbeams.
+GRADE: warm cream mansion interiors, silver-gray furniture, restrained peach floral accents, natural skin and soft medium-low contrast.
+Show only the starting moment, before any planned movement begins. This is a single static starting frame, not an action sequence.
+No captions, subtitles, labels, watermarks, panels or collage.

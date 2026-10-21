@@ -1,0 +1,47 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP28-S001 | Clip: A001 (A-roll) | SC01 โถงงานเลี้ยง กลางคืน
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 5.5 วิ | เสียงโหมด A
+#
+# ตัวละครในเฟรม (รวม 1 คน):
+# - ไอริน C04-W12 ชุดคลุมท้องครีมคาร์ดิแกนเทา | ครึ่งตัว | ไอริน (W12): กลาง-ซ้ายของเฟรม · ระนาบกลาง · ศีรษะอยู่เส้นสามส่วนบน · ถึงอก ชุดตามBible · หันหน้าไปทางขวาเฟรม มองคนนอกเฟรมขวา
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - วิทย์ C05-W06 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - แม่วิทย์ C01-W04 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - พ่อวิทย์ C12-W02 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - ผู้ติดตามชาย C13-W01 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - ริต้า C06-W02 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# แนบใน Grok: ภาพที่เลือกจาก EP28_A001_image
+# ผู้พูด: ไอริน VO | คนในเฟรมที่ไม่พูด: ไอริน
+# ช่วงคำพูดตามShotสร้างครั้งเดียว ไม่สร้างคำของคลิปอื่นซ้ำ; เวลาประมาณไม่ใช่ผลตรวจเสียงจริง
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+EP28_A001 SHOT EP28-S001. One continuous cinematic live-action shot, vertical 9:16.
+TARGET DURATION: 5.5 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
+SCENE GEOGRAPHY: Indoor nighttime reception hall, limited to this camera crop: The cream inner-hall wall with muted teal illumination and a horizontal soft white light strip; no glass wall is inserted behind her in this view. Visible cast retain the landmark-relative positions listed below.
+VISIBLE CAST: exactly 1 people, including partial and blurred figures. Irin: a cream cable-knit maternity dress with a scoop neckline, an open light gray knit cardigan, a small silver pendant necklace, and long loose dark brown wavy hair; completely dry; center-left in the middle plane, three-quarter left profile, facing and looking screen-right.
+FRAME ORDER: from screen-left to screen-right: Irin.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: Beside the near shoulder of the man on the couple side of the standing table, looking obliquely toward Irin on the established conversation-axis side. Looking through the specified visible cast toward The cream inner-hall wall with muted teal illumination and a horizontal soft white light strip; no glass wall is inserted behind her in this view.
+SET IN FRAME: Teal-tinted cream wall occupies the rear plane; the horizontal light strip stays behind the upper torso; Irin has look room toward screen-right. Keep this layout; do not move or mirror it.
+FOREGROUND / VISIBLE BACKGROUND: No separate foreground figure; only the specified set or garment fragments appear. Background: The cream inner-hall wall with muted teal illumination and a horizontal soft white light strip; no glass wall is inserted behind her in this view.
+OFF-FRAME: Her conversation target is beyond the right frame edge. No one else enters the frame at any time.
+LIGHTING / COLOR: Soft warm illumination from fixed overhead track lights, with restrained cool teal fill reflected from the hall surfaces where already visible; natural medium contrast, warm skin tones, nighttime interior throughout. No extra light fixture is introduced within the crop. warm luxury-event color treatment, natural skin, medium contrast, controlled highlights and restrained saturation.
+PROP STATE: No handheld prop is visible.
+START STATE: Irin stands attentive with lips at rest, looking screen-right.
+PERFORMANCE CONTEXT: The cast convey the current emotional turn through the assigned words and restrained gestures; do not invent additional dialogue or events.
+ACTION: Allow a brief 0.5-second quiet head handle, then Her mouth corners lift into a small pleased smile while her lips remain free of speech movements. Hold the final pose quietly through the tail handle until the very end of the clip; the framing does not change.
+END STATE: She holds the small pleased smile and the screen-right gaze, lips at rest.
+CAMERA: MEDIUM CLOSE-UP. Framed from mid-chest up; the face fills about 35% of the frame height. 65mm full-frame equivalent, about 1.5 meters away, standing eye level. Motion: locked-off, the framing never changes.
+VISUAL CONTINUITY: Preserve the starting image's faces, hair, wardrobe, set geometry, lighting character and color treatment. Allow only the specified actions and camera movement. No unplanned cuts, added people, identity swaps or prop teleportation. Every named character appears once only, never as duplicate turnaround views.
+AUDIO MODE: generated dialogue.
+SPEECH EVENT 1:
+SPEAKER: Irin, VO.
+EXACT THAI DIALOGUE: "หมายความว่าจากนี้ไป ฉันไม่ต้องทำอะไร"
+VOICE IDENTITY: young Thai female voice, soft clear mid-high register, warm timbre, standard Thai accent
+DELIVERY: pleased internal thought, clear natural Thai phrasing, unhurried, lips at rest in the picture.
+This is internal voice-over, not visible speech. No visible person lip-syncs to this voice, including Irin.
+NON-SPEAKERS: Irin; no speech-like lip movements.
+Speak only the assigned dialogue exactly once, without paraphrasing or added words.
+Do not stretch speech to fill the clip. No unassigned voices.
+AFTER SPEECH: She holds the small pleased smile and the screen-right gaze, lips at rest. Hold quietly until the very end of the clip; the framing does not change.
+AMBIENCE/SFX: quiet indoor room tone, no intelligible background chatter, no extra utterance or laugh, no added music.

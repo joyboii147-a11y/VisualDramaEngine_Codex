@@ -1,0 +1,38 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP28-S016 | Clip: B009 (B-roll) | SC01 โถงงานเลี้ยง กลางคืน
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 3 วิ | เสียงโหมด C
+#
+# ตัวละครในเฟรม (รวม 2 คน):
+# - วิทย์ C05-W06 ชุดแจ็กเก็ตครีมปกดำ | เห็นแค่มือ/แขน | วิทย์ (W06): แขนเสื้อครีมจากขอบบน มือกุมมือไอรินกลางเฟรม
+# - ไอริน C04-W12 ชุดคลุมท้องครีมคาร์ดิแกนเทา | เห็นแค่มือ/แขน | ไอริน (W12): มือซ้ายจากขวา แขนคาร์ดิแกนเทาเบลอ
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - แม่วิทย์ C01-W04 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - พ่อวิทย์ C12-W02 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - ผู้ติดตามชาย C13-W01 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - ริต้า C06-W02 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# แนบใน Grok: ภาพที่เลือกจาก EP28_B009_image
+# ผู้พูด: ไม่มี | คนในเฟรมที่ไม่พูด: วิทย์, ไอริน
+# ช่วงคำพูดตามShotสร้างครั้งเดียว ไม่สร้างคำของคลิปอื่นซ้ำ; เวลาประมาณไม่ใช่ผลตรวจเสียงจริง
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+EP28_B009 SHOT EP28-S016. One continuous cinematic live-action shot, vertical 9:16.
+TARGET DURATION: 3 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
+SCENE GEOGRAPHY: Indoor nighttime reception hall, limited to this camera crop: Cream floor softly defocused and a curved white-cloth table edge in the lower quarter. Visible cast retain the landmark-relative positions listed below.
+VISIBLE CAST: exactly 2 people, including partial and blurred figures. Wit: only a cream jacket right sleeve and bare right hand; completely dry; only the cream right cuff from upper-left and right hand centered. Irin: only a light gray knit cardigan left sleeve and bare left hand; completely dry; only the gray left cuff entering screen-right and left hand centered.
+FRAME ORDER: from screen-left to screen-right: Wit (cream right sleeve from left/top), Irin (gray left cuff from right).
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: Beside the table on the man side of the couple, waist height looking down toward their already touching hands. Looking through the specified visible cast toward Cream floor softly defocused and a curved white-cloth table edge in the lower quarter.
+SET IN FRAME: Cream right sleeve descends from the top-left, gray left sleeve enters from screen-right; joined hands stay centrally above the curved white tablecloth. Keep this layout; do not move or mirror it.
+FOREGROUND / VISIBLE BACKGROUND: Curved white-cloth table edge at lower quarter. Background: Cream floor softly defocused and a curved white-cloth table edge in the lower quarter.
+OFF-FRAME: Upper bodies remain outside this hand crop. No one else enters the frame at any time.
+LIGHTING / COLOR: Soft warm overhead track-light illumination falls across the hands, cuffs and visible floor; restrained natural contrast, no visible light fixture added inside the tight crop. warm luxury-event color treatment, natural skin, medium contrast, controlled highlights and restrained saturation.
+PROP STATE: Only the specified hands and cuffs are visible. No card, telephone or other object is in either hand. Maintain the anatomical right hand of Wit and left hand of Irin.
+START STATE: His right hand already holds her left hand; cream cuff upper-left and gray cuff right.
+PERFORMANCE CONTEXT: This is a silent physical action or reaction, expressing only the specified change; do not invent speech or new events.
+ACTION: Allow a brief 0.5-second quiet head handle, then Wit gently squeezes the clasp once and Irin responds with a slight softening of her fingers; maintain the right-to-left anatomical pairing. Hold the final pose quietly through the tail handle until the very end of the clip; the framing does not change.
+END STATE: The hands are held a little closer with a gentle squeeze; fingers are not yet interlaced.
+CAMERA: TIGHT HAND INSERT. Hands and garment cuffs occupy about 70% of frame height. The top and bottom crop only waist-level bodies, never heads or feet. 65mm full-frame equivalent, waist height, looking slightly down. Motion: locked-off, the framing never changes.
+VISUAL CONTINUITY: Preserve the starting image's faces, hair, wardrobe, set geometry, lighting character and color treatment. Allow only the specified actions and camera movement. No unplanned cuts, added people, identity swaps or prop teleportation. Every named character appears once only, never as duplicate turnaround views.
+AUDIO MODE: no dialogue.
+No intelligible speech or speech-like lip-sync.
+AMBIENCE/SFX: quiet continuous indoor room tone, no intelligible guest chatter, no added music or voices.

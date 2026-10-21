@@ -1,0 +1,41 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP28-S078 | Clip: B128 (B-roll) | SC02 คฤหาสน์/ห้องรับแขก กลางคืน
+# ไฟล์นี้: Image Prompt → OpenArt GPT Image 2 (9:16)
+# ตัวละครในเฟรม (รวม 4 คน):
+# - การ์ด 1 C17-W01 ไม่มีภาพอ้างอิง | ครึ่งตัว | ลำดับเฟรม 1 จากซ้าย; รายละเอียดตำแหน่งและทิศตามองค์ประกอบต้นเฟรมด้านล่าง
+# - หัวหน้าการ์ด C16-W01 ไม่มีภาพอ้างอิง | ครึ่งตัว | ลำดับเฟรม 2 จากซ้าย; รายละเอียดตำแหน่งและทิศตามองค์ประกอบต้นเฟรมด้านล่าง
+# - การ์ด 2 C18-W01 ไม่มีภาพอ้างอิง | ครึ่งตัว | ลำดับเฟรม 3 จากซ้าย; รายละเอียดตำแหน่งและทิศตามองค์ประกอบต้นเฟรมด้านล่าง
+# - การ์ด 3 C19-W01 ไม่มีภาพอ้างอิง | ครึ่งตัว | ลำดับเฟรม 4 จากซ้าย; รายละเอียดตำแหน่งและทิศตามองค์ประกอบต้นเฟรมด้านล่าง
+# องค์ประกอบต้นเฟรม: การ์ด 1 (W01): ซ้ายของเฟรม · ระนาบหน้า · ถึงเข่า · ก้มศีรษะ มือประสานหน้าตัว; หัวหน้าการ์ด และ การ์ด 2–3 (W01): กลางถึงขวา · ระนาบกลาง-หลัง เรียงแถวเฉียง · ถึงเข่า · ก้มศีรษะ
+# ลำดับเฟรมซ้าย→ขวา: การ์ด 1 · หัวหน้าการ์ด · การ์ด 2 · การ์ด 3 (แถวเฉียงกลางถึงขวา; การ์ด4อยู่นอกcropปลายแถว)
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม: ไอริน, วิทย์, แม่วิทย์, ศิลา, แม่บ้าน, ริต้า, การ์ด 4
+# แนบใน OpenArt: ไม่ต้องแนบภาพ
+# Face ใช้เฉพาะใบหน้า/ผม ชุดใช้LOCKEDล่าสุด; รูปturnaroundคือคนเดียว เลือก9:16ที่หน้าOpenArt
+# เสียง/การตัดต่อ: ไม่มีบทใหม่ | โหมด C; ปิดเสียง B128 ใช้ room tone จาก A118 ช่วงหลังจบคำ/หยุดนิ่ง ไม่ทวนบท
+# ความเสี่ยง/เหตุผล:  เสี่ยงอัตลักษณ์หลายคน/ไม่มีภาพ: การ์ด 1, หัวหน้าการ์ด, การ์ด 2, การ์ด 3; คงทุกคนตามผังและบรรยายเต็ม ไม่เพิ่ม/ตัดคนเพื่อเพดานอ้างอิง2รูป
+# ยังไม่มีผลภาพ/วิดีโอจริงให้ตรวจ ต้องเทียบภาพชุดและตรวจเสียงหลังผู้ใช้ผลิต
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+Create one standalone starting-frame image for SHOT EP28-S078.
+Vertical 9:16. Cinematic live-action still, photorealistic, natural skin and material texture.
+CHARACTERS: Guard 1 (C17-W01): a tall adult Thai male bodyguard with neat short black hair; wearing a black suit, a white shirt, a black tie and neat short black hair; screen-left foreground, visible to knees; completely dry; Head guard (C16-W01): an adult Thai male bodyguard with straight black hair falling toward the eyebrows; wearing a black suit, a white shirt, a black tie and straight black hair falling toward the eyebrows; center-left in diagonal line, visible to knees; completely dry; Guard 2 (C18-W01): an adult Thai male bodyguard with neat short black hair; wearing a black suit, a white shirt, a black tie and neat short black hair; center-right in diagonal line, visible to knees; completely dry; Guard 3 (C19-W01): an adult Thai male bodyguard with neat short black hair; wearing a black suit, a white shirt, a black tie and neat short black hair; screen-right rear end of the cropped line, visible to knees; completely dry
+CAST COUNT: exactly 4 people visible, including partial and blurred figures.
+FOREGROUND OWNER: Guard 1.
+VISIBLE FOREGROUND IDENTITY: Guard 1: screen-left foreground, visible to knees
+CAMERA RELATION: on the family-sofa side of the marble lane, looking toward the intruder/entrance-side wall, on the established family side of the conversation axis.
+FOCUS SUBJECT: Head guard.
+OCCLUSION: keep the focused face unobstructed; do not add a generic foreground figure.
+SCENE GEOGRAPHY: A cream mansion living room with molded cream walls and a central marble-floor lane. A white-framed double glass entrance faces a long silver-framed glass coffee table and a gray-cream patterned Louis-style sofa. A matching corner sofa sits at the right of the family sofa from the entrance viewpoint. The entrance-side wall also has a window; the sofa-side wall has black-and-white abstract art and a warm table lamp. A crystal chandelier and wall sconces supply warm light. The peach-orange-white bouquet stays on the coffee table. Visible positions: Guard 1 screen-left foreground, visible to knees; Head guard center-left in diagonal line, visible to knees; Guard 2 center-right in diagonal line, visible to knees; Guard 3 screen-right rear end of the cropped line, visible to knees.
+FRAME ORDER: from screen-left to screen-right: Guard 1 -> Head guard -> Guard 2 -> Guard 3.
+CAMERA POSITION: on the family-sofa side of the marble lane, looking toward the intruder/entrance-side wall, on the established family side of the conversation axis.
+VIEW DIRECTION: on the family-sofa side of the marble lane, looking toward the intruder/entrance-side wall, on the established family side of the conversation axis; the view terminates at the visible background described below.
+BETWEEN CAMERA AND SUBJECT: the explicitly named foreground edges only; do not hide the focused face.
+SET IN FRAME: cream entrance-side wall and white window frame behind the cropped guard line.
+VISIBLE BACKGROUND: cream entrance-side wall and white window frame behind the cropped guard line.
+OFF-FRAME: The attention target beyond the indicated frame edge is not shown; only the eyes may turn, and the camera does not follow the gaze. No other person or any part of another person appears in the frame.
+START STATE: Guard 1, Head guard, Guard 2 and Guard 3 are standing upright in a diagonal line. Position and visible parts: Guard 1 screen-left foreground, visible to knees; Head guard center-left in diagonal line, visible to knees; Guard 2 center-right in diagonal line, visible to knees; Guard 3 screen-right rear end of the cropped line, visible to knees. No hand-held prop visible in this crop. Describe no object beyond the crop.
+CAMERA: MEDIUM FULL SHOT. The frame includes head to knees of the main seated or standing people, each about 65% of frame height. 35mm, eye-level, about 4 meters away.
+FOCUS: deep enough focus for all listed visible people and their spatial relationship.
+LIGHTING: warm crystal-chandelier and wall-sconce practicals, warm table-lamp light behind the sofa, soft neutral fill from the entrance-side window area, restrained cream highlights and natural skin tones, coherent soft medium-low contrast; no daylight sky or sunbeams.
+GRADE: warm cream mansion interiors, silver-gray furniture, restrained peach floral accents, natural skin and soft medium-low contrast.
+Show only the starting moment, before any planned movement begins. This is a single static starting frame, not an action sequence.
+No captions, subtitles, labels, watermarks, panels or collage.

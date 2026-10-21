@@ -1,0 +1,40 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP28-S037A | Clip: B103 (B-roll) | SC02 คฤหาสน์/ห้องรับแขก กลางคืน
+# ไฟล์นี้: Image Prompt → OpenArt GPT Image 2 (9:16)
+# ตัวละครในเฟรม (รวม 5 คน):
+# - ศิลา C14-W02 พ่อริต้า ชุดโปโลกรมท่าW02.png | เต็มตัว | ลำดับเฟรม 1 จากซ้าย; รายละเอียดตำแหน่งและทิศตามองค์ประกอบต้นเฟรมด้านล่าง
+# - แม่บ้าน C15-W01 ไม่มีภาพอ้างอิง | เต็มตัว | ลำดับเฟรม 2 จากซ้าย; รายละเอียดตำแหน่งและทิศตามองค์ประกอบต้นเฟรมด้านล่าง
+# - วิทย์ C05-W06 วิทย์ W06 ชุดแจ็กเก็ตครีมปกดำ.png | เต็มตัว | ลำดับเฟรม 3 จากซ้าย; รายละเอียดตำแหน่งและทิศตามองค์ประกอบต้นเฟรมด้านล่าง
+# - ไอริน C04-W12 ไอริน W12 ชุดคลุมท้อง.png | เต็มตัว | ลำดับเฟรม 4 จากซ้าย; รายละเอียดตำแหน่งและทิศตามองค์ประกอบต้นเฟรมด้านล่าง
+# - แม่วิทย์ C01-W04 แม่วิทย์ W04.png | เต็มตัว | ลำดับเฟรม 5 จากซ้าย; รายละเอียดตำแหน่งและทิศตามองค์ประกอบต้นเฟรมด้านล่าง
+# องค์ประกอบต้นเฟรม: ศิลาเดินตรงจากประตูหยุดหน้าโต๊ะหันเข้ากลุ่ม; ครอบครัวยังนั่งมองผู้มาใหม่; ริต้านอกcropไม่แสดงทางเดินใหม่
+# ลำดับเฟรมซ้าย→ขวา: ศิลา (เดินจากซ้ายไปกลาง) · แม่บ้าน (ไกลซ้ายหลังข้างประตู) · วิทย์ · ไอริน · แม่วิทย์ (กลุ่มโซฟาขวา)
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม: ไม่มี
+# แนบใน OpenArt: 1) input/characters/พ่อของริต้า/พ่อริต้า ชุดโปโลกรมท่าW02.png; 2) input/characters/วิทย์/วิทย์ W06 ชุดแจ็กเก็ตครีมปกดำ.png
+# Face ใช้เฉพาะใบหน้า/ผม ชุดใช้LOCKEDล่าสุด; รูปturnaroundคือคนเดียว เลือก9:16ที่หน้าOpenArt
+# เสียง/การตัดต่อ: ไม่มีบทพูด | โหมด C; ภาพเงียบหลัง D010 คำเรียกจาก A104 จบแล้ว ไม่เล่นเสียงซ้ำ
+# ความเสี่ยง/เหตุผล:  เสี่ยงอัตลักษณ์หลายคน/ไม่มีภาพ: แม่บ้าน, ไอริน, แม่วิทย์; คงทุกคนตามผังและบรรยายเต็ม ไม่เพิ่ม/ตัดคนเพื่อเพดานอ้างอิง2รูป
+# ยังไม่มีผลภาพ/วิดีโอจริงให้ตรวจ ต้องเทียบภาพชุดและตรวจเสียงหลังผู้ใช้ผลิต
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+Create one standalone starting-frame image for SHOT EP28-S037A.
+Vertical 9:16. Cinematic live-action still, photorealistic, natural skin and material texture.
+REFERENCE IMAGES:
+Image 1: Sila — use for face, skin tone, hairstyle, body shape and this exact outfit. Do not copy the background, lighting, pose or camera angle. A multi-view reference represents one person only.
+Image 2: Wit — use for face, skin tone, hairstyle, body shape and this exact outfit. Do not copy the background, lighting, pose or camera angle. A multi-view reference represents one person only.
+CHARACTERS: Sila (C14-W02): an older Thai man, identity bound to reference Image 1; wearing a dark navy short-sleeve polo shirt tucked into light beige trousers, a brown leather belt with a silver buckle, a brown-strap wristwatch on the left wrist, and swept-back dark hair with gray at the temples, with no glasses; screen-left to center on the marble lane, already halfway toward the sofa group on the right; completely dry; Housemaid (C15-W01): an adult Thai woman with tied-back dark hair; wearing a black short dress with white trim, white indoor slippers and tied-back dark hair; far-left background beside the open door; completely dry; Wit (C05-W06): a young adult Thai man, identity bound to reference Image 2; wearing a cream waist-length button-front jacket with a black pointed collar over a plain white crew-neck T-shirt, black straight-leg trousers, black leather loafers, and tousled short black hair; right side, seated on the long sofa facing the approaching man; completely dry; Irin (C04-W12): a young pregnant Thai woman with warm fair skin, soft oval face, and long dark brown wavy hair; wearing a cream cable-knit maternity midi dress with a scoop neckline and a narrow tie under the bust, an open light gray long knit cardigan, cream bow ballet flats, a small silver pendant necklace, and long loose dark brown wavy hair; right side beside Wit, seated and watching the approaching man; completely dry; Wit's mother (C01-W04): an elegant middle-aged Thai woman with warm medium skin, refined oval face, dark brown hair in a low braided chignon; wearing an off-the-shoulder white ribbed bodice with sheer white puff sleeves, a long dark navy wrap-front skirt with a front slit, black pointed heels, a short pearl necklace, pearl earrings, a silver watch, a pearl bracelet, and dark brown hair in a low braided updo; rightmost sofa group, seated on the corner sofa watching the approaching man; completely dry
+CAST COUNT: exactly 5 people visible, including partial and blurred figures.
+SCENE GEOGRAPHY: A cream mansion living room with molded cream walls and a central marble-floor lane. A white-framed double glass entrance faces a long silver-framed glass coffee table and a gray-cream patterned Louis-style sofa. A matching corner sofa sits at the right of the family sofa from the entrance viewpoint. The entrance-side wall also has a window; the sofa-side wall has black-and-white abstract art and a warm table lamp. A crystal chandelier and wall sconces supply warm light. The peach-orange-white bouquet stays on the coffee table. Visible positions: Sila screen-left to center on the marble lane, already halfway toward the sofa group on the right; Housemaid far-left background beside the open door; Wit right side, seated on the long sofa facing the approaching man; Irin right side beside Wit, seated and watching the approaching man; Wit's mother rightmost sofa group, seated on the corner sofa watching the approaching man.
+FRAME ORDER: from screen-left to screen-right: Sila -> Housemaid -> Wit -> Irin -> Wit's mother.
+CAMERA POSITION: beside the sofa corner at chest height, looking diagonally left toward the entrance and walking lane while keeping the seated family on the right; side-on view of the entrance-to-sofa axis.
+VIEW DIRECTION: beside the sofa corner at chest height, looking diagonally left toward the entrance and walking lane while keeping the seated family on the right; side-on view of the entrance-to-sofa axis; the view terminates at the visible background described below.
+BETWEEN CAMERA AND SUBJECT: open air or clear marble floor; no obstructing person.
+SET IN FRAME: white double doorway far-left rear, central marble lane, glass coffee table and peach-orange-white bouquet toward center-front, gray-cream sofa and cream wall on the right.
+VISIBLE BACKGROUND: white double doorway far-left rear, central marble lane, glass coffee table and peach-orange-white bouquet toward center-front, gray-cream sofa and cream wall on the right.
+OFF-FRAME: No additional figure is included outside the listed cast. No other person or any part of another person appears in the frame.
+START STATE: Sila is already halfway along the marble lane, screen-left of the sofa group, stepping toward them. Housemaid stays far left by the open door. Wit, Irin and his mother sit at the sofa on screen-right looking at him. Position and visible parts: Sila screen-left to center on the marble lane, already halfway toward the sofa group on the right; Housemaid far-left background beside the open door; Wit right side, seated on the long sofa facing the approaching man; Irin right side beside Wit, seated and watching the approaching man; Wit's mother rightmost sofa group, seated on the corner sofa watching the approaching man. Housemaid holds the open glass door leaf. The marble lane is clear; the coffee table remains fixed where visible.
+CAMERA: WIDE SHOT, 28mm, chest-height from beside the sofa corner. The walking full figure and seated family destination are visible together, each figure about 35% of frame height, feet and the marble lane visible.
+FOCUS: deep enough focus for all listed visible people and their spatial relationship.
+LIGHTING: warm crystal-chandelier and wall-sconce practicals, warm table-lamp light behind the sofa, soft neutral fill from the entrance-side window area, restrained cream highlights and natural skin tones, coherent soft medium-low contrast; no daylight sky or sunbeams.
+GRADE: warm cream mansion interiors, silver-gray furniture, restrained peach floral accents, natural skin and soft medium-low contrast.
+Show only the starting moment, before any planned movement begins. This is a single static starting frame, not an action sequence.
+No captions, subtitles, labels, watermarks, panels or collage.

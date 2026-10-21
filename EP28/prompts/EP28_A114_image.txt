@@ -1,0 +1,35 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP28-S063 | Clip: A114 (A-roll) | SC02 คฤหาสน์/ห้องรับแขก กลางคืน
+# ไฟล์นี้: Image Prompt → OpenArt GPT Image 2 (9:16)
+# ตัวละครในเฟรม (รวม 1 คน):
+# - ไอริน C04-W12 ไอริน W12 ชุดคลุมท้อง.png | หน้า (CU) | ลำดับเฟรม 1 จากซ้าย; รายละเอียดตำแหน่งและทิศตามองค์ประกอบต้นเฟรมด้านล่าง
+# องค์ประกอบต้นเฟรม: ไอริน (W12): กลางเฟรม · ระนาบกลาง · ศีรษะถึงอก เอียงศีรษะขวาเฟรม · ชำเลืองขวาบน ยิ้มเจ้าเล่ห์ แล้วหลบตาลง
+# ลำดับเฟรมซ้าย→ขวา: ไอริน
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม: วิทย์, แม่วิทย์, ศิลา, แม่บ้าน, ริต้า
+# แนบใน OpenArt: 1) input/characters/ไอริน/Face.png
+# Face ใช้เฉพาะใบหน้า/ผม ชุดใช้LOCKEDล่าสุด; รูปturnaroundคือคนเดียว เลือก9:16ที่หน้าOpenArt
+# เสียง/การตัดต่อ: D013 ไอริน VO: " ฉันจะใส่ไฟหน่อยดีไหมนะ" | โหมด A; บทผลิตเต็มของ A114 เท่านั้น: " วิทย์ก็ไม่เปลี่ยนใจเพราะคำขู่ไม่กี่คำหรอก ฉันจะใส่ไฟหน่อยดีไหมนะ"
+# ความเสี่ยง/เหตุผล:  ยาวเกิน6วิเพื่อบทตรงตัวพร้อมจังหวะหายใจ/เสียงครอบภาพแทรก; ใช้รุ่นปกติและตรวจเวลาหน้าGrok ไม่เร่งบท ไอรินคิดในใจ ปากไม่ลิปซิงก์
+# ยังไม่มีผลภาพ/วิดีโอจริงให้ตรวจ ต้องเทียบภาพชุดและตรวจเสียงหลังผู้ใช้ผลิต
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+Create one standalone starting-frame image for SHOT EP28-S063.
+Vertical 9:16. Cinematic live-action still, photorealistic, natural skin and material texture.
+REFERENCE IMAGES:
+Image 1: Irin — use only for face, skin tone and hairstyle. The outfit comes exclusively from the text below. Do not copy the reference outfit, background, lighting or pose. A multi-view reference represents one person only.
+CHARACTERS: Irin (C04-W12): a young adult pregnant Thai woman, identity bound to reference Image 1; wearing a cream cable-knit maternity midi dress with a scoop neckline and a narrow tie under the bust, an open light gray long knit cardigan, cream bow ballet flats, a small silver pendant necklace, and long loose dark brown wavy hair; center, standing, head tilted screen-right, looking sideways screen-right; completely dry
+CAST COUNT: exactly 1 people visible, including partial and blurred figures.
+SCENE GEOGRAPHY: A cream mansion living room with molded cream walls and a central marble-floor lane. A white-framed double glass entrance faces a long silver-framed glass coffee table and a gray-cream patterned Louis-style sofa. A matching corner sofa sits at the right of the family sofa from the entrance viewpoint. The entrance-side wall also has a window; the sofa-side wall has black-and-white abstract art and a warm table lamp. A crystal chandelier and wall sconces supply warm light. The peach-orange-white bouquet stays on the coffee table. Visible positions: Irin center, standing, head tilted screen-right, looking sideways screen-right.
+FRAME ORDER: from screen-left to screen-right: Irin.
+CAMERA POSITION: on the entrance side of the room, looking toward the family sofa and sofa-side wall, on the established entrance side of the conversation axis.
+VIEW DIRECTION: on the entrance side of the room, looking toward the family sofa and sofa-side wall, on the established entrance side of the conversation axis; the view terminates at the visible background described below.
+BETWEEN CAMERA AND SUBJECT: open air or clear marble floor; no obstructing person.
+SET IN FRAME: cream molded wall on the sofa side, only the wall section within the stated crop visible.
+VISIBLE BACKGROUND: cream molded wall on the sofa side, only the wall section within the stated crop visible.
+OFF-FRAME: The attention target beyond the indicated frame edge is not shown; only the eyes may turn, and the camera does not follow the gaze. No other person or any part of another person appears in the frame.
+START STATE: Irin holds a small knowing smile, eyes upper screen-right. Position and visible parts: Irin center, standing, head tilted screen-right, looking sideways screen-right. No hand-held prop visible in this crop. Describe no object beyond the crop.
+CAMERA: TIGHT CLOSE-UP. The main face fills about 60% of frame height; top cuts through the top of the hair and bottom just below the chin at the collarbones. No main-subject chest, waist or hands visible. 85mm, about 1 meter away.
+FOCUS: Irin is sharp; intended foreground edges and background supporting people are softly defocused, without changing their count.
+LIGHTING: warm crystal-chandelier and wall-sconce practicals, warm table-lamp light behind the sofa, soft neutral fill from the entrance-side window area, restrained cream highlights and natural skin tones, coherent soft medium-low contrast; no daylight sky or sunbeams.
+GRADE: warm cream mansion interiors, silver-gray furniture, restrained peach floral accents, natural skin and soft medium-low contrast.
+Show only the starting moment, before any planned movement begins. This is a single static starting frame, not an action sequence.
+No captions, subtitles, labels, watermarks, panels or collage.

@@ -1,0 +1,47 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP28-S037 | Clip: A104 (A-roll) | SC02 คฤหาสน์/ห้องรับแขก กลางคืน
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 3 วิ | เสียงโหมด A
+# ตัวละครในเฟรม (รวม 2 คน):
+# - ศิลา C14-W02 พ่อริต้า ชุดโปโลกรมท่าW02.png | เต็มตัว | ลำดับเฟรม 1 จากซ้าย; รายละเอียดตำแหน่งและทิศตามองค์ประกอบต้นเฟรมด้านล่าง
+# - แม่บ้าน C15-W01 ไม่มีภาพอ้างอิง | เต็มตัว | ลำดับเฟรม 2 จากซ้าย; รายละเอียดตำแหน่งและทิศตามองค์ประกอบต้นเฟรมด้านล่าง
+# องค์ประกอบต้นเฟรม: ศิลา (W02): กลาง-ซ้าย · ระนาบกลาง · เต็มตัว สูงราวครึ่งเฟรม · เดินเข้าหากล้อง มองขวาล่างเฟรม (กลุ่มที่ 1) พูดเสียงดัง; แม่บ้าน (W01): กลาง-ขวา · ระนาบหลัง · เต็มตัว · ยืนจับบานประตู หันซ้ายเฟรม
+# ลำดับเฟรมซ้าย→ขวา: ศิลา · แม่บ้าน
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม: ไอริน, วิทย์, แม่วิทย์
+# แนบใน Grok: ภาพที่เลือกจาก EP28_A104_image ของคลิปนี้เท่านั้น
+# ผู้พูด: ศิลา ON | คนในเฟรมที่ไม่พูด: แม่บ้าน
+# เสียง/การตัดต่อ: D010 ศิลา ON: "คุณนายคิมครับ!" | โหมด A; บทผลิตเต็มของ A104 เท่านั้น: "คุณนายคิมครับ!"
+# ความเสี่ยง/เหตุผล:  เสี่ยงอัตลักษณ์หลายคน/ไม่มีภาพ: แม่บ้าน; คงทุกคนตามผังและบรรยายเต็ม ไม่เพิ่ม/ตัดคนเพื่อเพดานอ้างอิง2รูป
+# ยังไม่มีผลภาพ/วิดีโอจริงให้ตรวจ ต้องเทียบภาพชุดและตรวจเสียงหลังผู้ใช้ผลิต
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+EP28_A104 SHOT EP28-S037. One continuous cinematic live-action shot, vertical 9:16.
+TARGET DURATION: 3 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
+SCENE GEOGRAPHY: open white-framed double glass entrance directly behind Sila and Housemaid, warm hall ceiling lights beyond it, marble floor below. Visible positions: Sila center-left, full-body, advancing from the doorway toward the lower-right family direction; Housemaid center-right far behind, full-body beside the open doorway, facing left and holding its leaf.
+VISIBLE CAST: Sila (C14-W02): a dark navy short-sleeve polo shirt tucked into light beige trousers, a brown leather belt with a silver buckle, a brown-strap wristwatch on the left wrist, and swept-back dark hair with gray at the temples, with no glasses; plain dark brown leather shoes; center-left, full-body, advancing from the doorway toward the lower-right family direction; completely dry; Housemaid (C15-W01): a black short dress with white trim, white indoor slippers and tied-back dark hair; center-right far behind, full-body beside the open doorway, facing left and holding its leaf; completely dry
+CAST COUNT: exactly 2 people visible, including partial and blurred figures.
+FRAME ORDER: from screen-left to screen-right: Sila -> Housemaid.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: inside the living room, looking back toward the white-framed entrance across the marble lane. LONG SHOT. Full bodies head to toe, each person about 55% of frame height, floor below the feet. 35mm, about 6 meters back, eye-level.
+FOREGROUND / VISIBLE BACKGROUND: No foreground person or added partial figure. Background: open white-framed double glass entrance directly behind Sila and Housemaid, warm hall ceiling lights beyond it, marble floor below.
+SET IN FRAME: open white-framed double glass entrance directly behind Sila and Housemaid, warm hall ceiling lights beyond it, marble floor below.
+OFF-FRAME: The attention target beyond the indicated frame edge is not shown; only the eyes may turn, and the camera does not follow the gaze. No one else enters the frame at any time.
+LIGHTING / COLOR: warm crystal-chandelier and wall-sconce practicals, warm table-lamp light behind the sofa, soft neutral fill from the entrance-side window area, restrained cream highlights and natural skin tones, coherent soft medium-low contrast; no daylight sky or sunbeams. warm cream mansion interiors, silver-gray furniture, restrained peach floral accents, natural skin and soft medium-low contrast.
+PROP STATE: Housemaid holds the open glass door leaf. The marble lane is clear; the coffee table remains fixed where visible.
+START STATE: Sila has stepped just through the open double door, looking down toward screen-right; Housemaid holds a door leaf behind him.
+PERFORMANCE CONTEXT: a tense confrontation, with reactions only after the heard or seen trigger.
+ACTION: Sila calls loudly and advances from the doorway halfway across the marble-floor lane. Housemaid continues holding the door.
+END STATE: Sila is halfway across the room, still advancing; Housemaid remains at the threshold. Hold this final state until the very end of the clip; the framing does not change after the specified movement ends.
+CAMERA: locked-off, the framing never changes.
+VISUAL CONTINUITY: Preserve the supplied starting image's faces, hair, visible wardrobe, set geometry, lighting and color. Allow only the specified actions and camera movement. No added people, identity swaps or prop teleportation. Do not reveal objects or clothing beyond the stated crop.
+AUDIO MODE: generated dialogue.
+SPEECH EVENT 1:
+SPEAKER: Sila (ON).
+EXACT THAI DIALOGUE: "คุณนายคิมครับ!"
+VOICE IDENTITY: older Thai male voice, low-mid register, dry textured timbre, standard Thai accent.
+DELIVERY: contemptuous, forceful but unhurried natural Thai phrasing.
+Lip-sync only the assigned speaker.
+NON-SPEAKERS: Housemaid; no speech-like lip movements.
+Speak only the assigned dialogue exactly once, without paraphrasing or added words.
+Do not stretch speech to fill the clip. No unassigned voices.
+AFTER SPEECH: Sila is halfway across the room, still advancing; Housemaid remains at the threshold. Hold quietly until the end without a transition.
+AMBIENCE/SFX: faint steady indoor room tone; no music or background chatter.

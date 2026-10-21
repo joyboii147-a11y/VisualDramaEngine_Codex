@@ -1,0 +1,47 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP28-S090 | Clip: A126 (A-roll) | SC02 คฤหาสน์/ห้องรับแขก กลางคืน
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 3.5 วิ | เสียงโหมด A
+# ตัวละครในเฟรม (รวม 2 คน):
+# - ศิลา C14-W02 พ่อริต้า ชุดโปโลกรมท่าW02.png | ครึ่งตัว | ลำดับเฟรม 1 จากซ้าย; รายละเอียดตำแหน่งและทิศตามองค์ประกอบต้นเฟรมด้านล่าง
+# - การ์ด 2 C18-W01 ไม่มีภาพอ้างอิง | เบลอฉากหลัง | ลำดับเฟรม 2 จากซ้าย; รายละเอียดตำแหน่งและทิศตามองค์ประกอบต้นเฟรมด้านล่าง
+# องค์ประกอบต้นเฟรม: ศิลา (W02): กลางเฟรม · ระนาบกลาง · ถึงอก · มองตรงกล้อง แขนขวายื่นชี้เข้ากล้อง ตะโกนอ้าปากกว้าง; [เสนอ] การ์ดเบลอระบุคนตามลำดับในคอลัมน์4 ไม่เพิ่มจำนวน
+# ลำดับเฟรมซ้าย→ขวา: ศิลา · การ์ด 2 (ขวาบนหลัง)
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม: ไอริน, วิทย์, แม่วิทย์, แม่บ้าน, ริต้า, หัวหน้าการ์ด, การ์ด 1, การ์ด 3, การ์ด 4
+# แนบใน Grok: ภาพที่เลือกจาก EP28_A126_image ของคลิปนี้เท่านั้น
+# ผู้พูด: ศิลา ON | คนในเฟรมที่ไม่พูด: การ์ด 2
+# เสียง/การตัดต่อ: D018 ศิลา ON: " วิทย์!" | โหมด A; บทผลิตเต็มของ A126 เท่านั้น: " วิทย์!"
+# ความเสี่ยง/เหตุผล:  เสี่ยงอัตลักษณ์หลายคน/ไม่มีภาพ: การ์ด 2; คงทุกคนตามผังและบรรยายเต็ม ไม่เพิ่ม/ตัดคนเพื่อเพดานอ้างอิง2รูป
+# ยังไม่มีผลภาพ/วิดีโอจริงให้ตรวจ ต้องเทียบภาพชุดและตรวจเสียงหลังผู้ใช้ผลิต
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+EP28_A126 SHOT EP28-S090. One continuous cinematic live-action shot, vertical 9:16.
+TARGET DURATION: 3.5 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
+SCENE GEOGRAPHY: gray-cream entrance-side wall behind the standing intruder group. Visible positions: Sila center, mid-chest upward, looking toward camera with right arm pointing forward; Guard 2 upper-right background, blurred.
+VISIBLE CAST: Sila (C14-W02): dark navy short-sleeve polo shirt, swept-back dark hair with gray temples, no glasses; center, mid-chest upward, looking toward camera with right arm pointing forward; completely dry; Guard 2 (C18-W01): black suit, white shirt, black tie, neat short black hair; upper-right background, blurred; completely dry
+CAST COUNT: exactly 2 people visible, including partial and blurred figures.
+FRAME ORDER: from screen-left to screen-right: Sila -> Guard 2.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: on the family-sofa side of the marble lane, looking toward the intruder/entrance-side wall, on the established family side of the conversation axis. MEDIUM CLOSE-UP. Framed from mid-chest upward; the main face fills about 35% of frame height. 65mm, about 1.5 meters away, eye-level.
+FOREGROUND / VISIBLE BACKGROUND: No foreground person or added partial figure. Background: gray-cream entrance-side wall behind the standing intruder group.
+SET IN FRAME: gray-cream entrance-side wall behind the standing intruder group.
+OFF-FRAME: The attention target beyond the indicated frame edge is not shown; only the eyes may turn, and the camera does not follow the gaze. No one else enters the frame at any time.
+LIGHTING / COLOR: warm crystal-chandelier and wall-sconce practicals, warm table-lamp light behind the sofa, soft neutral fill from the entrance-side window area, restrained cream highlights and natural skin tones, coherent soft medium-low contrast; no daylight sky or sunbeams. warm cream mansion interiors, silver-gray furniture, restrained peach floral accents, natural skin and soft medium-low contrast.
+PROP STATE: No hand-held prop visible in this crop. Describe no object beyond the crop.
+START STATE: Sila points his right arm toward camera, face angry; Guard 2 is blurred upper-right.
+PERFORMANCE CONTEXT: a tense confrontation, with reactions only after the heard or seen trigger.
+ACTION: Sila shouts the assigned name and then clenches his jaw. Guard 2 remains close behind him.
+END STATE: Sila holds his pointing arm and gritted expression. Hold this final state until the very end of the clip; the framing does not change after the specified movement ends.
+CAMERA: locked-off, the framing never changes.
+VISUAL CONTINUITY: Preserve the supplied starting image's faces, hair, visible wardrobe, set geometry, lighting and color. Allow only the specified actions and camera movement. No added people, identity swaps or prop teleportation. Do not reveal objects or clothing beyond the stated crop.
+AUDIO MODE: generated dialogue.
+SPEECH EVENT 1:
+SPEAKER: Sila (ON).
+EXACT THAI DIALOGUE: " วิทย์!"
+VOICE IDENTITY: older Thai male voice, low-mid register, dry textured timbre, standard Thai accent.
+DELIVERY: contemptuous, forceful but unhurried natural Thai phrasing.
+Lip-sync only the assigned speaker.
+NON-SPEAKERS: Guard 2; no speech-like lip movements.
+Speak only the assigned dialogue exactly once, without paraphrasing or added words.
+Do not stretch speech to fill the clip. No unassigned voices.
+AFTER SPEECH: Sila holds his pointing arm and gritted expression. Hold quietly until the end without a transition.
+AMBIENCE/SFX: faint steady indoor room tone; no music or background chatter.

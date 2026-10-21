@@ -1,0 +1,47 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP28-S007 | Clip: A007 (A-roll) | SC01 โถงงานเลี้ยง กลางคืน
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 4.5 วิ | เสียงโหมด A
+#
+# ตัวละครในเฟรม (รวม 5 คน):
+# - ผู้ติดตามชาย C13-W01 สูทดำเนกไทแดงเข้ม | ไม่มีภาพอ้างอิง; เต็มตัวถึงเข่าหรือถูกโต๊ะบังตามShot | ผู้ติดตามชาย (W01): ซ้ายสุด · ระนาบกลาง · เต็มตัวถึงเข่า สูงราวครึ่งเฟรม · หันหน้าเฉียงไปทางขวาเฟรม ยืนตรง
+# - วิทย์ C05-W06 ชุดแจ็กเก็ตครีมปกดำ | เต็มตัวถึงเข่าหรือถูกโต๊ะบังตามShot | วิทย์ (W06): ซ้าย-กลาง · ระนาบกลาง · ถึงเอว (ล่างถูกโต๊ะบัง) · หันขวาเฟรม ก้มมองไอริน
+# - ไอริน C04-W12 ชุดคลุมท้องครีมคาร์ดิแกนเทา | เต็มตัวถึงเข่าหรือถูกโต๊ะบังตามShot | ไอริน (W12): กลาง · ระนาบกลางค่อนหลัง ถูกแจกันบังบางส่วน · ถึงอก · หันขวาเฟรม
+# - แม่วิทย์ C01-W04 ชุดW04แขนพองขาวกระโปรงกรม | เต็มตัวถึงเข่าหรือถูกโต๊ะบังตามShot | แม่วิทย์ (W04): กลาง-ขวา · ระนาบกลาง · ถึงอก · หันซ้ายเฟรม
+# - พ่อวิทย์ C12-W02 ชุดW02โปโลเทา | เต็มตัวถึงเข่าหรือถูกโต๊ะบังตามShot | พ่อวิทย์ (W02): ขวาสุด · ระนาบหน้าเล็กน้อย · ถึงเข่า เห็นเฉียงหลัง · หันซ้ายเฟรม
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - ริต้า C06-W02 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# แนบใน Grok: ภาพที่เลือกจาก EP28_A007_image
+# ผู้พูด: ไอริน ON | คนในเฟรมที่ไม่พูด: ผู้ติดตามชาย, วิทย์, แม่วิทย์, พ่อวิทย์
+# ช่วงคำพูดตามShotสร้างครั้งเดียว ไม่สร้างคำของคลิปอื่นซ้ำ; เวลาประมาณไม่ใช่ผลตรวจเสียงจริง
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+EP28_A007 SHOT EP28-S007. One continuous cinematic live-action shot, vertical 9:16.
+TARGET DURATION: 4.5 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
+SCENE GEOGRAPHY: Indoor nighttime reception hall, limited to this camera crop: A tall flame heater directly behind Irin, the black-framed night glass wall across the rear plane, and the white-draped table at lower center. Visible cast retain the landmark-relative positions listed below.
+VISIBLE CAST: exactly 5 people, including partial and blurred figures. male attendant: a black suit jacket, a white shirt, a dark red tie and neat short black hair, dark trousers down to the knee-level crop; completely dry; far screen-left, middle plane, standing straight three-quarter facing screen-right. Wit: a cream button-front jacket with a black pointed collar over a plain white crew-neck T-shirt, and tousled short black hair; completely dry; left-center, middle plane, partly hidden by the table, facing screen-right toward Irin. Irin: a cream cable-knit maternity dress with a scoop neckline, an open light gray knit cardigan, a small silver pendant necklace, and long loose dark brown wavy hair; completely dry; center and slightly farther back, partly behind the floral vase, facing screen-right. Wit's mother: an off-the-shoulder white ribbed bodice with sheer white puff sleeves, a short pearl necklace, pearl earrings, and dark brown hair in a low braided updo; completely dry; center-right, middle plane, facing screen-left. Wit's father: a taupe-gray short-sleeve collared polo shirt and swept-back salt-and-pepper hair, with no glasses, plain charcoal trousers where visible at the knee-level crop; completely dry; far screen-right slightly nearer camera, shown in three-quarter rear view facing screen-left.
+FRAME ORDER: from screen-left to screen-right: male attendant, Wit, Irin, Wit's mother, Wit's father.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: About four meters from the table on the inner-hall side opposite the glazed wall, looking toward both sides of the family group; standing chest height. Looking through the specified visible cast toward A tall flame heater directly behind Irin, the black-framed night glass wall across the rear plane, and the white-draped table at lower center.
+SET IN FRAME: Male attendant leftmost, Wit left-center, Irin center behind part of the vase, mother center-right, father far right in near three-quarter rear view. Purple flowers occupy lower-left and white floor orchids lower-right. Keep this arrangement without mirroring. Keep this layout; do not move or mirror it.
+FOREGROUND / VISIBLE BACKGROUND: Purple floor flowers at lower-left, white floor orchids at lower-right; the black vase and white tablecloth at low center. Background: A tall flame heater directly behind Irin, the black-framed night glass wall across the rear plane, and the white-draped table at lower center.
+OFF-FRAME: Other parts of the reception are outside this view. No one else enters the frame at any time.
+LIGHTING / COLOR: night interior with warm overhead track lights and a restrained heater-flame practical beside the dark glass wall, soft warm facial light against subdued cool teal hall accents, natural medium contrast; exterior beyond the glazing remains dark warm luxury-event color treatment, natural skin, medium contrast, controlled highlights and restrained saturation.
+PROP STATE: The white-draped table and the black vase with white-pink flowers stay fixed. Nobody picks up any table object.
+START STATE: The five people stand around the white-draped table in their assigned places; Irin has a shy appreciative smile.
+PERFORMANCE CONTEXT: The cast convey the current emotional turn through the assigned words and restrained gestures; do not invent additional dialogue or events.
+ACTION: Allow a brief 0.5-second quiet head handle, then Irin speaks the final assigned thanks; Wit gently looks down at her, the mother and father listen with small smiles, and the male attendant stays straight and quiet. Nobody relocates. Hold the final pose quietly through the tail handle until the very end of the clip; the framing does not change.
+END STATE: The five retain their positions and quiet expressions; Irin has finished speaking and her lips rest.
+CAMERA: MEDIUM-WIDE GROUP SHOT. Standing figures extend from heads to knees where not hidden by the table, heads in the upper third; each figure about 65% of frame height. 35mm full-frame equivalent, about four meters back, chest height. Motion: locked-off, the framing never changes.
+VISUAL CONTINUITY: Preserve the starting image's faces, hair, wardrobe, set geometry, lighting character and color treatment. Allow only the specified actions and camera movement. No unplanned cuts, added people, identity swaps or prop teleportation. Every named character appears once only, never as duplicate turnaround views.
+AUDIO MODE: generated dialogue.
+SPEECH EVENT 1:
+SPEAKER: Irin, ON.
+EXACT THAI DIALOGUE: "ขอบคุณมาก ๆ เลยนะคะ"
+VOICE IDENTITY: young Thai female voice, soft clear mid-high register, warm timbre, standard Thai accent
+DELIVERY: soft, sincere and deferential, natural phrase breaks and a shy smile; no rapid speech.
+Lip-sync only Irin to the assigned words.
+NON-SPEAKERS: male attendant, Wit, Wit's mother, Wit's father; no speech-like lip movements.
+Speak only the assigned dialogue exactly once, without paraphrasing or added words.
+Do not stretch speech to fill the clip. No unassigned voices.
+AFTER SPEECH: The five retain their positions and quiet expressions; Irin has finished speaking and her lips rest. Hold quietly until the very end of the clip; the framing does not change.
+AMBIENCE/SFX: quiet indoor room tone, no intelligible background chatter, no extra utterance or laugh, no added music.

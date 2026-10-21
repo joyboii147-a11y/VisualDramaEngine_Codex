@@ -1,0 +1,46 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP28-S084 | Clip: B131 (B-roll) | SC02 คฤหาสน์/ห้องรับแขก กลางคืน
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 4 วิ | เสียงโหมด C
+# ตัวละครในเฟรม (รวม 4 คน):
+# - ศิลา C14-W02 พ่อริต้า ชุดโปโลกรมท่าW02.png | เบลอฉากหลัง | ลำดับเฟรม 1 จากซ้าย; รายละเอียดตำแหน่งและทิศตามองค์ประกอบต้นเฟรมด้านล่าง
+# - ริต้า C06-W02 ริต้า W02 ชุดเดรสสีดำ.webp | ครึ่งตัว | ลำดับเฟรม 2 จากซ้าย; รายละเอียดตำแหน่งและทิศตามองค์ประกอบต้นเฟรมด้านล่าง
+# - การ์ด 2 C18-W01 ไม่มีภาพอ้างอิง | เบลอฉากหลัง | ลำดับเฟรม 3 จากซ้าย; รายละเอียดตำแหน่งและทิศตามองค์ประกอบต้นเฟรมด้านล่าง
+# - วิทย์ C05-W06 วิทย์ W06 ชุดแจ็กเก็ตครีมปกดำ.png | เห็นแค่แขนหรือไหล่ | ลำดับเฟรม 4 จากซ้าย; รายละเอียดตำแหน่งและทิศตามองค์ประกอบต้นเฟรมด้านล่าง
+# องค์ประกอบต้นเฟรม: ริต้า (W02): กลางเฟรม · ระนาบกลาง · ถึงอก · มองตรง หน้าเสียช็อก; ศิลา (W02): ซ้ายบน · ระนาบหลัง · เบลอ; [เสนอ] การ์ดเบลอระบุคนตามลำดับในคอลัมน์4 ไม่เพิ่มจำนวน
+# ลำดับเฟรมซ้าย→ขวา: ศิลา (ซ้ายหลัง) · ริต้า (กลาง) · การ์ด 2 (ขวาหลัง) · วิทย์ (ไหล่ครีมขวาล่างหน้า)
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม: ไอริน, แม่วิทย์, แม่บ้าน, หัวหน้าการ์ด, การ์ด 1, การ์ด 3, การ์ด 4
+# แนบใน Grok: ภาพที่เลือกจาก EP28_B131_image ของคลิปนี้เท่านั้น
+# ผู้พูด: ไม่มี | คนในเฟรมที่ไม่พูด: ศิลา, ริต้า, การ์ด 2, วิทย์
+# เสียง/การตัดต่อ: D016 วิทย์ OS: " ใครกล้าเข้าใกล้จีอา" | ภาพโหมด C เงียบ; ปิดเสียง B131 ใช้เสียงจาก A122 ช่วงคำนี้ครั้งเดียว
+# ความเสี่ยง/เหตุผล:  เสี่ยงอัตลักษณ์หลายคน/ไม่มีภาพ: การ์ด 2, วิทย์; คงทุกคนตามผังและบรรยายเต็ม ไม่เพิ่ม/ตัดคนเพื่อเพดานอ้างอิง2รูป
+# ยังไม่มีผลภาพ/วิดีโอจริงให้ตรวจ ต้องเทียบภาพชุดและตรวจเสียงหลังผู้ใช้ผลิต
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+EP28_B131 SHOT EP28-S084. One continuous cinematic live-action shot, vertical 9:16.
+TARGET DURATION: 4 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
+SCENE GEOGRAPHY: gray-cream entrance-side wall behind the standing intruder group. Visible positions: Sila upper-left background behind Rita, blurred face and navy polo neckline; Rita center, standing, looking forward toward the family; Guard 2 right background behind Rita, blurred head and black suit; Wit only blurred cream jacket shoulder at the lower-right foreground edge.
+VISIBLE CAST: Sila (C14-W02): dark navy short-sleeve polo shirt, swept-back dark hair with gray temples, no glasses; upper-left background behind Rita, blurred face and navy polo neckline; completely dry; Rita (C06-W02): black halter-neck dress bodice with high black lace inset and draped front, small gold earrings, long dark brown wavy half-up hair; center, standing, looking forward toward the family; completely dry; Guard 2 (C18-W01): black suit, white shirt, black tie, neat short black hair; right background behind Rita, blurred head and black suit; completely dry; Wit (C05-W06): visible cream jacket sleeve or shoulder only; only blurred cream jacket shoulder at the lower-right foreground edge; completely dry
+CAST COUNT: exactly 4 people visible, including partial and blurred figures.
+FRAME ORDER: from screen-left to screen-right: Sila -> Rita -> Guard 2 -> Wit.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: on the family-sofa side of the marble lane, looking toward the intruder/entrance-side wall, on the established family side of the conversation axis. MEDIUM CLOSE-UP. Framed from mid-chest upward; the main face fills about 35% of frame height. 65mm, about 1.5 meters away, eye-level.
+FOREGROUND / VISIBLE BACKGROUND: Wit: only blurred cream jacket shoulder at the lower-right foreground edge Background: gray-cream entrance-side wall behind the standing intruder group.
+SET IN FRAME: gray-cream entrance-side wall behind the standing intruder group.
+OFF-FRAME: The attention target beyond the indicated frame edge is not shown; only the eyes may turn, and the camera does not follow the gaze. No one else enters the frame at any time.
+LIGHTING / COLOR: warm crystal-chandelier and wall-sconce practicals, warm table-lamp light behind the sofa, soft neutral fill from the entrance-side window area, restrained cream highlights and natural skin tones, coherent soft medium-low contrast; no daylight sky or sunbeams. warm cream mansion interiors, silver-gray furniture, restrained peach floral accents, natural skin and soft medium-low contrast.
+PROP STATE: No hand-held prop visible in this crop. Describe no object beyond the crop.
+FOREGROUND OWNER: Wit.
+VISIBLE FOREGROUND IDENTITY: Wit: only blurred cream jacket shoulder at the lower-right foreground edge
+CAMERA RELATION: on the family-sofa side of the marble lane, looking toward the intruder/entrance-side wall, on the established family side of the conversation axis.
+FOCUS SUBJECT: Rita.
+OCCLUSION: keep the focused face unobstructed; do not add a generic foreground figure.
+START STATE: Rita looks forward, visibly shocked; Sila is blurred upper-left, Guard 2 blurred rear-right and Wit’s cream shoulder at lower-right foreground.
+PERFORMANCE CONTEXT: a tense confrontation, with reactions only after the heard or seen trigger.
+ACTION: Rita’s brows tighten in displeasure as she listens. Sila and Guard 2 silently stay in position; the cream shoulder remains steady.
+END STATE: Rita holds a tense offended frown. Hold this final state until the very end of the clip; the framing does not change after the specified movement ends.
+CAMERA: locked-off, the framing never changes.
+VISUAL CONTINUITY: Preserve the supplied starting image's faces, hair, visible wardrobe, set geometry, lighting and color. Allow only the specified actions and camera movement. No added people, identity swaps or prop teleportation. Do not reveal objects or clothing beyond the stated crop.
+AUDIO MODE: no dialogue.
+No intelligible speech or speech-like lip-sync.
+NON-SPEAKERS: all visible people; no assigned speaker.
+AMBIENCE/SFX: quiet location tone only; no voices, music or background chatter. The editor will mute this clip and use the identified A-roll source in the shot instructions.

@@ -1,0 +1,38 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP28-S028 | Clip: B014 (B-roll) | SC01 โถงงานเลี้ยง กลางคืน
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 3 วิ | เสียงโหมด C
+#
+# ตัวละครในเฟรม (รวม 1 คน):
+# - วิทย์ C05-W06 ชุดแจ็กเก็ตครีมปกดำ | ครึ่งตัว | วิทย์ (W06): กลางเฟรม · ระนาบกลาง · ถึงอก · ก้มมองขวาเฟรม (ไอริน) ยิ้มกว้าง
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - ไอริน C04-W12 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - แม่วิทย์ C01-W04 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - พ่อวิทย์ C12-W02 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - ผู้ติดตามชาย C13-W01 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - ริต้า C06-W02 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# แนบใน Grok: ภาพที่เลือกจาก EP28_B014_image
+# ผู้พูด: ไม่มี | คนในเฟรมที่ไม่พูด: วิทย์
+# ช่วงคำพูดตามShotสร้างครั้งเดียว ไม่สร้างคำของคลิปอื่นซ้ำ; เวลาประมาณไม่ใช่ผลตรวจเสียงจริง
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+EP28_B014 SHOT EP28-S028. One continuous cinematic live-action shot, vertical 9:16.
+TARGET DURATION: 3 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
+SCENE GEOGRAPHY: Indoor nighttime reception hall, limited to this camera crop: The inner hall with warm defocused lights and a small green floral branch at the upper-right edge. Visible cast retain the landmark-relative positions listed below.
+VISIBLE CAST: exactly 1 people, including partial and blurred figures. Wit: a cream button-front jacket with a black pointed collar over a plain white crew-neck T-shirt, and tousled short black hair; completely dry; center middle plane, looking down toward screen-right.
+FRAME ORDER: from screen-left to screen-right: Wit.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: Near the mother side of the table looking toward Wit and the inner-hall lights beyond him, standing eye level. Looking through the specified visible cast toward The inner hall with warm defocused lights and a small green floral branch at the upper-right edge.
+SET IN FRAME: Wit remains centered, warm light points behind his upper torso, floral branch stays at upper-right; no glass grid is moved into this view. Keep this layout; do not move or mirror it.
+FOREGROUND / VISIBLE BACKGROUND: No separate foreground figure; only the specified set or garment fragments appear. Background: The inner hall with warm defocused lights and a small green floral branch at the upper-right edge.
+OFF-FRAME: His gaze target is below the frame to one side; only his eyes turn, the camera does not follow his gaze. No one else enters the frame at any time.
+LIGHTING / COLOR: Soft warm illumination from fixed overhead track lights, with restrained cool teal fill reflected from the hall surfaces where already visible; natural medium contrast, warm skin tones, nighttime interior throughout. No extra light fixture is introduced within the crop. warm luxury-event color treatment, natural skin, medium contrast, controlled highlights and restrained saturation.
+PROP STATE: No handheld prop is visible.
+START STATE: Wit smiles softly while looking down toward screen-right.
+PERFORMANCE CONTEXT: This is a silent physical action or reaction, expressing only the specified change; do not invent speech or new events.
+ACTION: Allow a brief 0.5-second quiet head handle, then He answers the silent smile with a broader affectionate smile, without speaking. Hold the final pose quietly through the tail handle until the very end of the clip; the framing does not change.
+END STATE: His smile remains broad and his eyes stay directed downward screen-right.
+CAMERA: MEDIUM CLOSE-UP. Framed from mid-chest up; the face fills about 35% of the frame height. 65mm full-frame equivalent, about 1.5 meters away, standing eye level. Motion: locked-off, the framing never changes.
+VISUAL CONTINUITY: Preserve the starting image's faces, hair, wardrobe, set geometry, lighting character and color treatment. Allow only the specified actions and camera movement. No unplanned cuts, added people, identity swaps or prop teleportation. Every named character appears once only, never as duplicate turnaround views.
+AUDIO MODE: no dialogue.
+No intelligible speech or speech-like lip-sync.
+AMBIENCE/SFX: quiet continuous indoor room tone, no intelligible guest chatter, no added music or voices.

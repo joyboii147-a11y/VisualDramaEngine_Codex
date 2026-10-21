@@ -1,0 +1,46 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP28-S081 | Clip: A121 (A-roll) | SC02 คฤหาสน์/ห้องรับแขก กลางคืน
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 9.5 วิ | เสียงโหมด A
+# ตัวละครในเฟรม (รวม 1 คน):
+# - วิทย์ C05-W06 วิทย์ W06 ชุดแจ็กเก็ตครีมปกดำ.png | หน้า (CU) | ลำดับเฟรม 1 จากซ้าย; รายละเอียดตำแหน่งและทิศตามองค์ประกอบต้นเฟรมด้านล่าง
+# องค์ประกอบต้นเฟรม: วิทย์ (W06): กลาง-ขวา · ระนาบกลาง · ศีรษะถึงอก · เงยมองซ้ายบนเฟรม พูดหนักแน่น
+# ลำดับเฟรมซ้าย→ขวา: วิทย์
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม: ไอริน, แม่วิทย์, ศิลา, แม่บ้าน, ริต้า, หัวหน้าการ์ด, การ์ด 1, การ์ด 2, การ์ด 3, การ์ด 4
+# แนบใน Grok: ภาพที่เลือกจาก EP28_A121_image ของคลิปนี้เท่านั้น
+# ผู้พูด: วิทย์ ON | คนในเฟรมที่ไม่พูด: ไม่มี
+# เสียง/การตัดต่อ: D016 วิทย์ ON: " ความปลอดภัยของเมียผม กับสุขภาพของลูกผม" | โหมด A; บทผลิตเต็มของ A121 เท่านั้น: " ความปลอดภัยของเมียผม กับสุขภาพของลูกผม สำคัญกว่าทุกอย่าง"
+# ความเสี่ยง/เหตุผล:  ยาวเกิน6วิเพื่อบทตรงตัวพร้อมจังหวะหายใจ/เสียงครอบภาพแทรก; ใช้รุ่นปกติและตรวจเวลาหน้าGrok ไม่เร่งบท
+# ยังไม่มีผลภาพ/วิดีโอจริงให้ตรวจ ต้องเทียบภาพชุดและตรวจเสียงหลังผู้ใช้ผลิต
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+EP28_A121 SHOT EP28-S081. One continuous cinematic live-action shot, vertical 9:16.
+TARGET DURATION: 9.5 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
+SCENE GEOGRAPHY: cream molded wall on the sofa side, only the wall section within the stated crop visible. Visible positions: Wit center-right, standing, looking upper screen-left, low camera angle.
+VISIBLE CAST: Wit (C05-W06): tousled short black hair, cream jacket black collar and white T-shirt neckline; center-right, standing, looking upper screen-left, low camera angle; completely dry
+CAST COUNT: exactly 1 people visible, including partial and blurred figures.
+FRAME ORDER: from screen-left to screen-right: Wit.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: low near the right side of the standing man, looking toward the sofa-side wall, remaining on the established entrance side of the axis. TIGHT CLOSE-UP. The main face fills about 60% of frame height; top cuts through the top of the hair and bottom just below the chin at the collarbones. No main-subject chest, waist or hands visible. 85mm, about 1 meter away.
+FOREGROUND / VISIBLE BACKGROUND: No foreground person or added partial figure. Background: cream molded wall on the sofa side, only the wall section within the stated crop visible.
+SET IN FRAME: cream molded wall on the sofa side, only the wall section within the stated crop visible.
+OFF-FRAME: The attention target beyond the indicated frame edge is not shown; only the eyes may turn, and the camera does not follow the gaze. No one else enters the frame at any time.
+LIGHTING / COLOR: warm crystal-chandelier and wall-sconce practicals, warm table-lamp light behind the sofa, soft neutral fill from the entrance-side window area, restrained cream highlights and natural skin tones, coherent soft medium-low contrast; no daylight sky or sunbeams. warm cream mansion interiors, silver-gray furniture, restrained peach floral accents, natural skin and soft medium-low contrast.
+PROP STATE: No hand-held prop visible in this crop. Describe no object beyond the crop.
+START STATE: Wit looks up toward upper screen-left, brows set and jaw firm.
+PERFORMANCE CONTEXT: a tense confrontation, with reactions only after the heard or seen trigger.
+ACTION: He delivers all assigned words slowly enough for emphasis, with controlled protective determination.
+END STATE: He closes his lips and keeps his firm upward-left stare. Hold this final state until the very end of the clip; the framing does not change after the specified movement ends.
+CAMERA: locked-off, the framing never changes.
+VISUAL CONTINUITY: Preserve the supplied starting image's faces, hair, visible wardrobe, set geometry, lighting and color. Allow only the specified actions and camera movement. No added people, identity swaps or prop teleportation. Do not reveal objects or clothing beyond the stated crop.
+AUDIO MODE: generated dialogue.
+SPEECH EVENT 1:
+SPEAKER: Wit (ON).
+EXACT THAI DIALOGUE: " ความปลอดภัยของเมียผม กับสุขภาพของลูกผม สำคัญกว่าทุกอย่าง"
+VOICE IDENTITY: young Thai male voice, firm low-mid register, clean resonant timbre, standard Thai accent.
+DELIVERY: firm and protective, deliberate natural Thai phrasing.
+Lip-sync only the assigned speaker.
+NON-SPEAKERS: none visible; no speech-like lip movements.
+Speak only the assigned dialogue exactly once, without paraphrasing or added words.
+Do not stretch speech to fill the clip. No unassigned voices.
+AFTER SPEECH: He closes his lips and keeps his firm upward-left stare. Hold quietly until the end without a transition.
+AMBIENCE/SFX: faint steady indoor room tone; no music or background chatter.

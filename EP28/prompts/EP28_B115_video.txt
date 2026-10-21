@@ -1,0 +1,37 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP28-S057 | Clip: B115 (B-roll) | SC02 คฤหาสน์/ห้องรับแขก กลางคืน
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 4 วิ | เสียงโหมด C
+# ตัวละครในเฟรม (รวม 1 คน):
+# - ไอริน C04-W12 ไอริน W12 ชุดคลุมท้อง.png | หน้า (CU) | ลำดับเฟรม 1 จากซ้าย; รายละเอียดตำแหน่งและทิศตามองค์ประกอบต้นเฟรมด้านล่าง
+# องค์ประกอบต้นเฟรม: ไอริน (W12): กลางเฟรม · ระนาบกลาง · ศีรษะถึงอก เอียงศีรษะขวาเฟรม · ชำเลืองขวาเฟรม (ริต้า) ยิ้มมุมปากสะใจ
+# ลำดับเฟรมซ้าย→ขวา: ไอริน
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม: วิทย์, แม่วิทย์, ศิลา, แม่บ้าน, ริต้า
+# แนบใน Grok: ภาพที่เลือกจาก EP28_B115_image ของคลิปนี้เท่านั้น
+# ผู้พูด: ไม่มี | คนในเฟรมที่ไม่พูด: ไอริน
+# เสียง/การตัดต่อ: D012 ริต้า OS: "ดันทุรังอยู่กับเธอละก็" | ภาพโหมด C เงียบ; ปิดเสียง B115 ใช้เสียงจาก A111 ช่วงคำนี้ครั้งเดียว
+# ยังไม่มีผลภาพ/วิดีโอจริงให้ตรวจ ต้องเทียบภาพชุดและตรวจเสียงหลังผู้ใช้ผลิต
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+EP28_B115 SHOT EP28-S057. One continuous cinematic live-action shot, vertical 9:16.
+TARGET DURATION: 4 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
+SCENE GEOGRAPHY: cream molded wall on the sofa side, only the wall section within the stated crop visible. Visible positions: Irin center, standing, head tilted screen-right, looking sideways screen-right.
+VISIBLE CAST: Irin (C04-W12): long loose dark brown wavy hair, cream scoop-neck knit neckline and light gray cardigan neckline; center, standing, head tilted screen-right, looking sideways screen-right; completely dry
+CAST COUNT: exactly 1 people visible, including partial and blurred figures.
+FRAME ORDER: from screen-left to screen-right: Irin.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: on the entrance side of the room, looking toward the family sofa and sofa-side wall, on the established entrance side of the conversation axis. TIGHT CLOSE-UP. The main face fills about 60% of frame height; top cuts through the top of the hair and bottom just below the chin at the collarbones. No main-subject chest, waist or hands visible. 85mm, about 1 meter away.
+FOREGROUND / VISIBLE BACKGROUND: No foreground person or added partial figure. Background: cream molded wall on the sofa side, only the wall section within the stated crop visible.
+SET IN FRAME: cream molded wall on the sofa side, only the wall section within the stated crop visible.
+OFF-FRAME: The attention target beyond the indicated frame edge is not shown; only the eyes may turn, and the camera does not follow the gaze. No one else enters the frame at any time.
+LIGHTING / COLOR: warm crystal-chandelier and wall-sconce practicals, warm table-lamp light behind the sofa, soft neutral fill from the entrance-side window area, restrained cream highlights and natural skin tones, coherent soft medium-low contrast; no daylight sky or sunbeams. warm cream mansion interiors, silver-gray furniture, restrained peach floral accents, natural skin and soft medium-low contrast.
+PROP STATE: No hand-held prop visible in this crop. Describe no object beyond the crop.
+START STATE: Irin holds her head tilted screen-right, gaze angled sideways.
+PERFORMANCE CONTEXT: a tense confrontation, with reactions only after the heard or seen trigger.
+ACTION: After hearing the threat she lets a tiny knowing smile appear.
+END STATE: She holds a small closed-mouth smile. Hold this final state until the very end of the clip; the framing does not change after the specified movement ends.
+CAMERA: locked-off, the framing never changes.
+VISUAL CONTINUITY: Preserve the supplied starting image's faces, hair, visible wardrobe, set geometry, lighting and color. Allow only the specified actions and camera movement. No added people, identity swaps or prop teleportation. Do not reveal objects or clothing beyond the stated crop.
+AUDIO MODE: no dialogue.
+No intelligible speech or speech-like lip-sync.
+NON-SPEAKERS: all visible people; no assigned speaker.
+AMBIENCE/SFX: quiet location tone only; no voices, music or background chatter. The editor will mute this clip and use the identified A-roll source in the shot instructions.

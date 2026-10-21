@@ -1,0 +1,38 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP28-S011 | Clip: B004 (B-roll) | SC01 โถงงานเลี้ยง กลางคืน
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 3 วิ | เสียงโหมด C
+#
+# ตัวละครในเฟรม (รวม 1 คน):
+# - พ่อวิทย์ C12-W02 ชุดW02โปโลเทา | ครึ่งตัว | พ่อวิทย์ (W02): กลาง-ขวาเฟรม · ระนาบกลาง · ถึงอก · มองซ้ายเฟรม (ไอริน) ยิ้มตาหยี
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - ไอริน C04-W12 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - วิทย์ C05-W06 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - แม่วิทย์ C01-W04 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - ผู้ติดตามชาย C13-W01 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - ริต้า C06-W02 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# แนบใน Grok: ภาพที่เลือกจาก EP28_B004_image
+# ผู้พูด: ไม่มี | คนในเฟรมที่ไม่พูด: พ่อวิทย์
+# ช่วงคำพูดตามShotสร้างครั้งเดียว ไม่สร้างคำของคลิปอื่นซ้ำ; เวลาประมาณไม่ใช่ผลตรวจเสียงจริง
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+EP28_B004 SHOT EP28-S011. One continuous cinematic live-action shot, vertical 9:16.
+TARGET DURATION: 3 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
+SCENE GEOGRAPHY: Indoor nighttime reception hall, limited to this camera crop: Dark glass panes with black metal mullions and a restrained wall light; small green vase branches may remain at lower screen-right. Visible cast retain the landmark-relative positions listed below.
+VISIBLE CAST: exactly 1 people, including partial and blurred figures. Wit's father: a taupe-gray short-sleeve collared polo shirt and swept-back salt-and-pepper hair, with no glasses; completely dry; center-right middle plane, looking screen-left.
+FRAME ORDER: from screen-left to screen-right: Wit's father.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: On Irin side of the standing table, looking diagonally across it at Wit's father toward the dark glass wall; remain on the established axis side. Looking through the specified visible cast toward Dark glass panes with black metal mullions and a restrained wall light; small green vase branches may remain at lower screen-right.
+SET IN FRAME: Black glass mullions stay behind the father, dark exterior beyond; green branches remain low screen-right and never cross his face. Keep this layout; do not move or mirror it.
+FOREGROUND / VISIBLE BACKGROUND: No separate foreground figure; only the specified set or garment fragments appear. Background: Dark glass panes with black metal mullions and a restrained wall light; small green vase branches may remain at lower screen-right.
+OFF-FRAME: The woman he addresses is beyond the left frame edge. No one else enters the frame at any time.
+LIGHTING / COLOR: Soft warm illumination from fixed overhead track lights, with restrained cool teal fill reflected from the hall surfaces where already visible; natural medium contrast, warm skin tones, nighttime interior throughout. No extra light fixture is introduced within the crop. warm luxury-event color treatment, natural skin, medium contrast, controlled highlights and restrained saturation.
+PROP STATE: No handheld prop is visible.
+START STATE: The father holds a broad listening smile, eyes beginning to narrow.
+PERFORMANCE CONTEXT: This is a silent physical action or reaction, expressing only the specified change; do not invent speech or new events.
+ACTION: Allow a brief 0.5-second quiet head handle, then He gives a small acknowledging nod as the smile reaches his eyes, without speech. Hold the final pose quietly through the tail handle until the very end of the clip; the framing does not change.
+END STATE: He rests with the pleased smile and the slightly lowered chin.
+CAMERA: MEDIUM CLOSE-UP. Framed from mid-chest up; the face fills about 35% of the frame height. 65mm full-frame equivalent, about 1.5 meters away, standing eye level. Motion: locked-off, the framing never changes.
+VISUAL CONTINUITY: Preserve the starting image's faces, hair, wardrobe, set geometry, lighting character and color treatment. Allow only the specified actions and camera movement. No unplanned cuts, added people, identity swaps or prop teleportation. Every named character appears once only, never as duplicate turnaround views.
+AUDIO MODE: no dialogue.
+No intelligible speech or speech-like lip-sync.
+AMBIENCE/SFX: quiet continuous indoor room tone, no intelligible guest chatter, no added music or voices.

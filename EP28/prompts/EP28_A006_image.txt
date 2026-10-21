@@ -1,0 +1,38 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP28-S006 | Clip: A006 (A-roll) | SC01 โถงงานเลี้ยง กลางคืน
+# ไฟล์นี้: Image Prompt → OpenArt GPT Image 2 (9:16)
+#
+# ตัวละครในเฟรม (รวม 1 คน):
+# - ไอริน C04-W12 ชุดคลุมท้องครีมคาร์ดิแกนเทา | ครึ่งตัว | ไอริน (W12): กลางเฟรม · ระนาบกลาง · ถึงอก · มองตรงไปข้างหน้าขวาเล็กน้อย พูดจริงจังแล้วก้มตา
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - วิทย์ C05-W06 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - แม่วิทย์ C01-W04 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - พ่อวิทย์ C12-W02 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - ผู้ติดตามชาย C13-W01 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - ริต้า C06-W02 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# แนบใน OpenArt: 1) input/characters/ไอริน/Face.png
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+Create one standalone starting-frame image for SHOT EP28-S006.
+Vertical 9:16. Cinematic live-action still, photorealistic, natural material and skin texture.
+REFERENCE IMAGES:
+Image 1: Irin — use only for face, skin tone and hairstyle. The outfit comes from the text below. Do not copy the outfit, background, lighting or camera angle.
+A multi-view turnaround reference depicts one person from several angles. Render each named character once only; do not copy the sheet layout or duplicate a person.
+CHARACTERS: Irin: young pregnant Thai woman; reference binding controls identity; wearing a cream cable-knit maternity midi dress with a scoop neckline and a narrow tie under the bust, an open light gray long knit cardigan, cream bow ballet flats, a small silver pendant necklace, and long loose dark brown wavy hair; completely dry. Visible position: center middle plane, looking slightly screen-right.
+CAST COUNT: exactly 1 people visible, including every partial figure and blurred person.
+SCENE GEOGRAPHY: A high-ceilinged indoor reception hall at night. The visible fixed surfaces and furniture within this crop are: Cream inner-hall wall and a fixed column with restrained green-teal ambient light. Pale flowers and green branches at the lower screen-left are softly defocused. Visible cast positions relative to these landmarks: Irin center middle plane, looking slightly screen-right.
+FRAME ORDER: from screen-left to screen-right: Irin.
+CAMERA POSITION: On the parents side of the standing table, looking across the floral arrangement toward Irin and the inner-hall cream wall, on the established dialogue-axis side.
+VIEW DIRECTION: Toward the specified visible cast and then Cream inner-hall wall and a fixed column with restrained green-teal ambient light. Pale flowers and green branches at the lower screen-left are softly defocused.
+SET IN FRAME: Cream wall and column fill the rear plane; pale flowers occupy only the lower-left edge; the focused woman remains clear in the center. Keep this layout; do not move or mirror it.
+BETWEEN CAMERA AND SUBJECT: The visible open space or table-edge crop described here; no additional person blocks the view.
+FOREGROUND: Soft pale flowers at lower-left; no foreground person.
+VISIBLE BACKGROUND: Cream inner-hall wall and a fixed column with restrained green-teal ambient light. Pale flowers and green branches at the lower screen-left are softly defocused.
+OFF-FRAME: The person she hears is beyond the right frame edge. No other person or any part of another person appears in the frame.
+START STATE: Irin looks toward screen-right with a small restrained smile, chin gently raised to make eye contact.
+PROP STATE: No handheld prop is visible.
+CAMERA: MEDIUM CLOSE-UP. Framed from mid-chest up; the face fills about 35% of the frame height. 65mm full-frame equivalent, about 1.5 meters away, standing eye level.
+FOCUS: The primary visible face is sharp; foreground shoulders and distant cast remain softly defocused exactly as specified.
+LIGHTING: Soft warm illumination from fixed overhead track lights, with restrained cool teal fill reflected from the hall surfaces where already visible; natural medium contrast, warm skin tones, nighttime interior throughout. No extra light fixture is introduced within the crop.
+GRADE: warm luxury-event color treatment, natural skin, medium contrast, controlled highlights and restrained saturation.
+Show only the starting moment, before any planned movement begins.
+No captions, subtitles, labels, watermarks, panels or collage.

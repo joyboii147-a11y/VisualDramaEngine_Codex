@@ -1,0 +1,32 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP28-S031 | Clip: B101 (B-roll) | SC02 คฤหาสน์/ห้องรับแขก กลางคืน
+# ไฟล์นี้: Image Prompt → OpenArt GPT Image 2 (9:16)
+# ตัวละครในเฟรม (รวม 0 คน):
+# - ไม่มีตัวละคร
+# องค์ประกอบต้นเฟรม: ไม่มีตัวละคร
+# ลำดับเฟรมซ้าย→ขวา: ไม่มีคน
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม: ไม่มี
+# แนบใน OpenArt: ไม่ต้องแนบภาพ
+# Face ใช้เฉพาะใบหน้า/ผม ชุดใช้LOCKEDล่าสุด; รูปturnaroundคือคนเดียว เลือก9:16ที่หน้าOpenArt
+# เสียง/การตัดต่อ: ไม่มีบทใหม่ | โหมด C; ปิดเสียง B101 ใช้ room tone จาก A101 ช่วงหลังจบคำ/หยุดนิ่ง ไม่ทวนบท
+# ยังไม่มีผลภาพ/วิดีโอจริงให้ตรวจ ต้องเทียบภาพชุดและตรวจเสียงหลังผู้ใช้ผลิต
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+Create one standalone starting-frame image for SHOT EP28-S031.
+Vertical 9:16. Cinematic live-action still, photorealistic, natural skin and material texture.
+CHARACTERS: No people.
+CAST COUNT: exactly 0 people visible, including partial and blurred figures.
+SCENE GEOGRAPHY: Night exterior of a cream European-style mansion, black wrought-iron balconies and dark green-framed windows; no figures in the architecture view.
+FRAME ORDER: from screen-left to screen-right: none.
+CAMERA POSITION: outside below the mansion balcony, looking upward diagonally across the facade.
+VIEW DIRECTION: outside below the mansion balcony, looking upward diagonally across the facade; the view terminates at the visible background described below.
+BETWEEN CAMERA AND SUBJECT: open air or clear marble floor; no obstructing person.
+SET IN FRAME: deep navy sky in the upper-left half, black iron balcony slanting from lower-left toward upper-right, warm-lit windows across a cream European-style facade.
+VISIBLE BACKGROUND: deep navy sky in the upper-left half, black iron balcony slanting from lower-left toward upper-right, warm-lit windows across a cream European-style facade.
+OFF-FRAME: No additional figure is included outside the listed cast. No other person or any part of another person appears in the frame.
+START STATE: The building and balcony are motionless under a dark navy sky. Position and visible parts: . No hand-held objects or people.
+CAMERA: Architectural wide shot. The facade fills the right two thirds; the navy sky fills the upper-left half. 35mm, raised viewpoint angled slightly upward.
+FOCUS: the facade is sharp; intended foreground edges and background supporting people are softly defocused, without changing their count.
+LIGHTING: night exterior, warm facade and window practical lights against a deep navy sky, natural medium-low contrast.
+GRADE: warm building lights with deep navy night sky, natural material texture.
+Show only the starting moment, before any planned movement begins. This is a single static starting frame, not an action sequence.
+No captions, subtitles, labels, watermarks, panels or collage.

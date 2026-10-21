@@ -1,0 +1,33 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP28-S079 | Clip: A119 (A-roll) | SC02 คฤหาสน์/ห้องรับแขก กลางคืน
+# ไฟล์นี้: Image Prompt → OpenArt GPT Image 2 (9:16)
+# ตัวละครในเฟรม (รวม 1 คน):
+# - หัวหน้าการ์ด C16-W01 ไม่มีภาพอ้างอิง | ครึ่งตัว | ลำดับเฟรม 1 จากซ้าย; รายละเอียดตำแหน่งและทิศตามองค์ประกอบต้นเฟรมด้านล่าง
+# องค์ประกอบต้นเฟรม: หัวหน้าการ์ด (W01): กลางเฟรม · ระนาบกลาง · ถึงอก · ก้มหน้าเล็กน้อย มองขึ้นซ้ายเฟรม รายงาน
+# ลำดับเฟรมซ้าย→ขวา: หัวหน้าการ์ด
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม: ไอริน, วิทย์, แม่วิทย์, ศิลา, แม่บ้าน, ริต้า, การ์ด 1, การ์ด 2, การ์ด 3, การ์ด 4
+# แนบใน OpenArt: ไม่ต้องแนบภาพ
+# Face ใช้เฉพาะใบหน้า/ผม ชุดใช้LOCKEDล่าสุด; รูปturnaroundคือคนเดียว เลือก9:16ที่หน้าOpenArt
+# เสียง/การตัดต่อ: D015 หัวหน้าการ์ด ON: "ประธานขอโทษครับ คุณศิลาบอกว่ามีสัญญามั่นกับคุณ พวกเราเลยปล่อยเข้ามา" | โหมด A; บทผลิตเต็มของ A119 เท่านั้น: "ประธานขอโทษครับ คุณศิลาบอกว่ามีสัญญามั่นกับคุณ พวกเราเลยปล่อยเข้ามา"
+# ความเสี่ยง/เหตุผล:  เสี่ยงอัตลักษณ์หลายคน/ไม่มีภาพ: หัวหน้าการ์ด; คงทุกคนตามผังและบรรยายเต็ม ไม่เพิ่ม/ตัดคนเพื่อเพดานอ้างอิง2รูป ยาวเกิน6วิเพื่อบทตรงตัวพร้อมจังหวะหายใจ/เสียงครอบภาพแทรก; ใช้รุ่นปกติและตรวจเวลาหน้าGrok ไม่เร่งบท
+# ยังไม่มีผลภาพ/วิดีโอจริงให้ตรวจ ต้องเทียบภาพชุดและตรวจเสียงหลังผู้ใช้ผลิต
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+Create one standalone starting-frame image for SHOT EP28-S079.
+Vertical 9:16. Cinematic live-action still, photorealistic, natural skin and material texture.
+CHARACTERS: Head guard (C16-W01): an adult Thai male bodyguard with straight black hair falling toward the eyebrows; wearing a black suit, a white shirt, a black tie and straight black hair falling toward the eyebrows; center, standing with head slightly lowered, eyes up screen-left, mid-chest upward; completely dry
+CAST COUNT: exactly 1 people visible, including partial and blurred figures.
+SCENE GEOGRAPHY: A cream mansion living room with molded cream walls and a central marble-floor lane. A white-framed double glass entrance faces a long silver-framed glass coffee table and a gray-cream patterned Louis-style sofa. A matching corner sofa sits at the right of the family sofa from the entrance viewpoint. The entrance-side wall also has a window; the sofa-side wall has black-and-white abstract art and a warm table lamp. A crystal chandelier and wall sconces supply warm light. The peach-orange-white bouquet stays on the coffee table. Visible positions: Head guard center, standing with head slightly lowered, eyes up screen-left, mid-chest upward.
+FRAME ORDER: from screen-left to screen-right: Head guard.
+CAMERA POSITION: on the family-sofa side of the marble lane, looking toward the intruder/entrance-side wall, on the established family side of the conversation axis.
+VIEW DIRECTION: on the family-sofa side of the marble lane, looking toward the intruder/entrance-side wall, on the established family side of the conversation axis; the view terminates at the visible background described below.
+BETWEEN CAMERA AND SUBJECT: open air or clear marble floor; no obstructing person.
+SET IN FRAME: dark gray-toned wall section of the entrance side behind the reporting guard, softly defocused with no new opening.
+VISIBLE BACKGROUND: dark gray-toned wall section of the entrance side behind the reporting guard, softly defocused with no new opening.
+OFF-FRAME: The attention target beyond the indicated frame edge is not shown; only the eyes may turn, and the camera does not follow the gaze. No other person or any part of another person appears in the frame.
+START STATE: Head guard stands with head modestly lowered, looking up screen-left. Position and visible parts: Head guard center, standing with head slightly lowered, eyes up screen-left, mid-chest upward. No hand-held prop visible in this crop. Describe no object beyond the crop.
+CAMERA: MEDIUM CLOSE-UP. Framed from mid-chest upward; the main face fills about 35% of frame height. 65mm, about 1.5 meters away, eye-level.
+FOCUS: Head guard is sharp; intended foreground edges and background supporting people are softly defocused, without changing their count.
+LIGHTING: warm crystal-chandelier and wall-sconce practicals, warm table-lamp light behind the sofa, soft neutral fill from the entrance-side window area, restrained cream highlights and natural skin tones, coherent soft medium-low contrast; no daylight sky or sunbeams.
+GRADE: warm cream mansion interiors, silver-gray furniture, restrained peach floral accents, natural skin and soft medium-low contrast.
+Show only the starting moment, before any planned movement begins. This is a single static starting frame, not an action sequence.
+No captions, subtitles, labels, watermarks, panels or collage.

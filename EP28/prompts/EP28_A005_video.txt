@@ -1,0 +1,47 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP28-S005 | Clip: A005 (A-roll) | SC01 โถงงานเลี้ยง กลางคืน
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 7.5 วิ | เสียงโหมด A
+#
+# ตัวละครในเฟรม (รวม 2 คน):
+# - แม่วิทย์ C01-W04 ชุดW04แขนพองขาวกระโปรงกรม | ครึ่งตัว | แม่วิทย์ (W04): ซ้าย-กลางของเฟรม · ระนาบกลาง ต่ำกว่าพ่อวิทย์ · ถึงอก · มองไปทางซ้ายเฟรม (ไอริน) ยิ้ม
+# - พ่อวิทย์ C12-W02 ชุดW02โปโลเทา | ครึ่งตัว | พ่อวิทย์ (W02): ขวาของเฟรม · ระนาบกลาง ศีรษะสูงกว่า · ถึงเอว · ก้มหันหน้าไปทางแม่วิทย์
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - ไอริน C04-W12 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - วิทย์ C05-W06 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - ผู้ติดตามชาย C13-W01 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - ริต้า C06-W02 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# แนบใน Grok: ภาพที่เลือกจาก EP28_A005_image
+# ผู้พูด: ไอริน OS | คนในเฟรมที่ไม่พูด: แม่วิทย์, พ่อวิทย์
+# ช่วงคำพูดตามShotสร้างครั้งเดียว ไม่สร้างคำของคลิปอื่นซ้ำ; เวลาประมาณไม่ใช่ผลตรวจเสียงจริง
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+EP28_A005 SHOT EP28-S005. One continuous cinematic live-action shot, vertical 9:16.
+TARGET DURATION: 7.5 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
+SCENE GEOGRAPHY: Indoor nighttime reception hall, limited to this camera crop: Black-framed glass wall with exterior darkness and a warm wall light; white tablecloth and the black floral vase occupy the lower frame. Visible cast retain the landmark-relative positions listed below.
+VISIBLE CAST: exactly 2 people, including partial and blurred figures. Wit's mother: an off-the-shoulder white ribbed bodice with sheer white puff sleeves, a short pearl necklace, pearl earrings, and dark brown hair in a low braided updo; completely dry; left-center middle plane, looking screen-left. Wit's father: a taupe-gray short-sleeve collared polo shirt and swept-back salt-and-pepper hair, with no glasses; completely dry; screen-right middle plane, slightly taller, leaning a little toward the mother.
+FRAME ORDER: from screen-left to screen-right: Wit's mother, Wit's father.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: On the couple side of the standing table, looking across the table at both parents with the glazed exterior wall beyond, chest height. Looking through the specified visible cast toward Black-framed glass wall with exterior darkness and a warm wall light; white tablecloth and the black floral vase occupy the lower frame.
+SET IN FRAME: The mother stays screen-left and the father screen-right; the white-draped table and black vase are low center; the dark window grid fills the background. Keep this layout; do not move or mirror it.
+FOREGROUND / VISIBLE BACKGROUND: No separate foreground figure; only the specified set or garment fragments appear. Background: Black-framed glass wall with exterior darkness and a warm wall light; white tablecloth and the black floral vase occupy the lower frame.
+OFF-FRAME: The woman being heard stands beyond the left frame edge. No one else enters the frame at any time.
+LIGHTING / COLOR: Soft warm illumination from fixed overhead track lights, with restrained cool teal fill reflected from the hall surfaces where already visible; natural medium contrast, warm skin tones, nighttime interior throughout. No extra light fixture is introduced within the crop. warm luxury-event color treatment, natural skin, medium contrast, controlled highlights and restrained saturation.
+PROP STATE: The white-draped table and the black vase with white-pink flowers stay fixed. Nobody picks up any table object.
+START STATE: The father leans slightly toward the mother, and both listen with small smiles.
+PERFORMANCE CONTEXT: The cast convey the current emotional turn through the assigned words and restrained gestures; do not invent additional dialogue or events.
+ACTION: Allow a brief 0.5-second quiet head handle, then The two parents listen silently to the off-screen words; the father settles his slight lean while both smiles warm. Hold the final pose quietly through the tail handle until the very end of the clip; the framing does not change.
+END STATE: Both remain at their table positions, silently smiling and looking toward the speaker.
+CAMERA: MEDIUM SHOT. The frame bottom cuts at the waist; the head sits in the upper third. 50mm full-frame equivalent, about 2.5 meters away, standing chest height. Motion: locked-off, the framing never changes.
+VISUAL CONTINUITY: Preserve the starting image's faces, hair, wardrobe, set geometry, lighting character and color treatment. Allow only the specified actions and camera movement. No unplanned cuts, added people, identity swaps or prop teleportation. Every named character appears once only, never as duplicate turnaround views.
+AUDIO MODE: generated dialogue.
+SPEECH EVENT 1:
+SPEAKER: Irin, OS.
+EXACT THAI DIALOGUE: "สภาพแวดล้อมการเติบโตที่ดีขนาดนี้ให้ลูกนะคะ"
+VOICE IDENTITY: young Thai female voice, soft clear mid-high register, warm timbre, standard Thai accent
+DELIVERY: soft, sincere and deferential, natural phrase breaks and a shy smile; no rapid speech.
+The speaker is outside the visible crop; no visible person lip-syncs to this voice.
+NON-SPEAKERS: Wit's mother, Wit's father; no speech-like lip movements.
+Speak only the assigned dialogue exactly once, without paraphrasing or added words.
+Do not stretch speech to fill the clip. No unassigned voices.
+AFTER SPEECH: Both remain at their table positions, silently smiling and looking toward the speaker. Hold quietly until the very end of the clip; the framing does not change.
+AMBIENCE/SFX: quiet indoor room tone, no intelligible background chatter, no extra utterance or laugh, no added music.

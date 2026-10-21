@@ -1,0 +1,40 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP28-S013 | Clip: B006 (B-roll) | SC01 โถงงานเลี้ยง กลางคืน
+# ไฟล์นี้: Image Prompt → OpenArt GPT Image 2 (9:16)
+#
+# ตัวละครในเฟรม (รวม 2 คน):
+# - วิทย์ C05-W06 ชุดแจ็กเก็ตครีมปกดำ | เห็นแค่มือ/แขน | วิทย์ (W06): แขนเสื้อครีมขอบซ้าย
+# - ไอริน C04-W12 ชุดคลุมท้องครีมคาร์ดิแกนเทา | เห็นแค่มือ/แขน | ไอริน (W12): กลาง · ระนาบกลาง · เห็นลำตัวช่วงเอว เดรสถักครีมและcardiganเทา · มือซ้ายข้างตัว
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - แม่วิทย์ C01-W04 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - พ่อวิทย์ C12-W02 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - ผู้ติดตามชาย C13-W01 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - ริต้า C06-W02 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# แนบใน OpenArt: 1) input/characters/วิทย์/วิทย์ W06 ชุดแจ็กเก็ตครีมปกดำ.png
+# แนบใน OpenArt: 2) input/characters/ไอริน/ไอริน W12 ชุดคลุมท้อง.png
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+Create one standalone starting-frame image for SHOT EP28-S013.
+Vertical 9:16. Cinematic live-action still, photorealistic, natural material and skin texture.
+REFERENCE IMAGES:
+Image 1: Wit — use for face, skin tone, hairstyle, body shape and this exact outfit. Do not copy the background, lighting, pose or camera angle from this image.
+Image 2: Irin — use for face, skin tone, hairstyle, body shape and this exact outfit. Do not copy the background, lighting, pose or camera angle from this image.
+A multi-view turnaround reference depicts one person from several angles. Render each named character once only; do not copy the sheet layout or duplicate a person.
+CHARACTERS: Wit: young Thai man; reference binding controls identity; wearing a cream waist-length button-front jacket with a black pointed collar over a plain white crew-neck T-shirt, black straight-leg trousers, black leather loafers, and tousled short black hair; completely dry. Visible position: only the cream right sleeve and approaching right hand from screen-left. Irin: young pregnant Thai woman; reference binding controls identity; wearing a cream cable-knit maternity midi dress with a scoop neckline and a narrow tie under the bust, an open light gray long knit cardigan, cream bow ballet flats, a small silver pendant necklace, and long loose dark brown wavy hair; completely dry. Visible position: only the gray cardigan left cuff, left hand and waist-level cream maternity dress at center-right.
+CAST COUNT: exactly 2 people visible, including every partial figure and blurred person.
+SCENE GEOGRAPHY: A high-ceilinged indoor reception hall at night. The visible fixed surfaces and furniture within this crop are: A narrow section of cream floor and the cream dress beside the table; no face or upper torso is visible. Visible cast positions relative to these landmarks: Wit only the cream right sleeve and approaching right hand from screen-left. Irin only the gray cardigan left cuff, left hand and waist-level cream maternity dress at center-right.
+FRAME ORDER: from screen-left to screen-right: Wit (cream right sleeve from left/top), Irin (gray left cuff from right).
+CAMERA POSITION: Beside the standing table and Irin's hip, camera lowered to waist level, viewing her left hand and Wit's approaching right hand from the established side.
+VIEW DIRECTION: Toward the specified visible cast and then A narrow section of cream floor and the cream dress beside the table; no face or upper torso is visible.
+SET IN FRAME: White table edge fills the lower third; cream jacket sleeve enters from left, gray cardigan sleeve and cream maternity dress occupy center-right; the hands stay centered. Keep this layout; do not move or mirror it.
+BETWEEN CAMERA AND SUBJECT: The visible open space or table-edge crop described here; no additional person blocks the view.
+FOREGROUND: No separate foreground figure; only the specified set or garment fragments appear.
+VISIBLE BACKGROUND: A narrow section of cream floor and the cream dress beside the table; no face or upper torso is visible.
+OFF-FRAME: The upper bodies lie beyond this hand crop. No other person or any part of another person appears in the frame.
+START STATE: Irin's left hand hangs relaxed beside her cream dress, gray cuff visible; Wit's cream right cuff is at the left edge with his right hand approaching but not yet holding hers.
+PROP STATE: Only the specified hands and cuffs are visible. No card, telephone or other object is in either hand. Maintain the anatomical right hand of Wit and left hand of Irin.
+CAMERA: TIGHT HAND INSERT. Hands and garment cuffs occupy about 70% of frame height. The top and bottom crop only waist-level bodies, never heads or feet. 65mm full-frame equivalent, waist height, looking slightly down.
+FOCUS: Hands and garment cuffs sharp; soft background floor.
+LIGHTING: Soft warm overhead track-light illumination falls across the hands, cuffs and visible floor; restrained natural contrast, no visible light fixture added inside the tight crop.
+GRADE: warm luxury-event color treatment, natural skin, medium contrast, controlled highlights and restrained saturation.
+Show only the starting moment, before any planned movement begins.
+No captions, subtitles, labels, watermarks, panels or collage.

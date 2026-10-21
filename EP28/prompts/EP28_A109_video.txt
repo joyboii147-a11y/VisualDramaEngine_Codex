@@ -1,0 +1,46 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP28-S053 | Clip: A109 (A-roll) | SC02 คฤหาสน์/ห้องรับแขก กลางคืน
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 4 วิ | เสียงโหมด A
+# ตัวละครในเฟรม (รวม 1 คน):
+# - ไอริน C04-W12 ไอริน W12 ชุดคลุมท้อง.png | ครึ่งตัว | ลำดับเฟรม 1 จากซ้าย; รายละเอียดตำแหน่งและทิศตามองค์ประกอบต้นเฟรมด้านล่าง
+# องค์ประกอบต้นเฟรม: ไอริน (W12): กลางเฟรม · ระนาบกลาง · ถึงอก · ชำเลืองมองลงซ้ายเฟรม (ริต้า) คิด
+# ลำดับเฟรมซ้าย→ขวา: ไอริน
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม: วิทย์, แม่วิทย์, ศิลา, แม่บ้าน, ริต้า
+# แนบใน Grok: ภาพที่เลือกจาก EP28_A109_image ของคลิปนี้เท่านั้น
+# ผู้พูด: ไอริน VO | คนในเฟรมที่ไม่พูด: ไอริน
+# เสียง/การตัดต่อ: D011 ไอริน VO: "ริต้า เธอเสน่ห์แรงจริงๆ" | โหมด A; บทผลิตเต็มของ A109 เท่านั้น: "ริต้า เธอเสน่ห์แรงจริงๆ"
+# ความเสี่ยง/เหตุผล:  ไอรินคิดในใจ ปากไม่ลิปซิงก์
+# ยังไม่มีผลภาพ/วิดีโอจริงให้ตรวจ ต้องเทียบภาพชุดและตรวจเสียงหลังผู้ใช้ผลิต
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+EP28_A109 SHOT EP28-S053. One continuous cinematic live-action shot, vertical 9:16.
+TARGET DURATION: 4 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
+SCENE GEOGRAPHY: cream molded wall on the sofa side, only the wall section within the stated crop visible. Visible positions: Irin center, standing, eyes lowered screen-left toward the unseen listener.
+VISIBLE CAST: Irin (C04-W12): cream cable-knit scoop-neck maternity bodice, open light gray knit cardigan, small silver pendant, long loose dark brown wavy hair; center, standing, eyes lowered screen-left toward the unseen listener; completely dry
+CAST COUNT: exactly 1 people visible, including partial and blurred figures.
+FRAME ORDER: from screen-left to screen-right: Irin.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: on the entrance side of the room, looking toward the family sofa and sofa-side wall, on the established entrance side of the conversation axis. MEDIUM CLOSE-UP. Framed from mid-chest upward; the main face fills about 35% of frame height. 65mm, about 1.5 meters away, eye-level.
+FOREGROUND / VISIBLE BACKGROUND: No foreground person or added partial figure. Background: cream molded wall on the sofa side, only the wall section within the stated crop visible.
+SET IN FRAME: cream molded wall on the sofa side, only the wall section within the stated crop visible.
+OFF-FRAME: The attention target beyond the indicated frame edge is not shown; only the eyes may turn, and the camera does not follow the gaze. No one else enters the frame at any time.
+LIGHTING / COLOR: warm crystal-chandelier and wall-sconce practicals, warm table-lamp light behind the sofa, soft neutral fill from the entrance-side window area, restrained cream highlights and natural skin tones, coherent soft medium-low contrast; no daylight sky or sunbeams. warm cream mansion interiors, silver-gray furniture, restrained peach floral accents, natural skin and soft medium-low contrast.
+PROP STATE: No hand-held prop visible in this crop. Describe no object beyond the crop.
+START STATE: Irin stands with a guarded look, eyes lowered screen-left.
+PERFORMANCE CONTEXT: Irin evaluates the pressure privately through an internal voice; her mouth stays still.
+ACTION: Only her eyes glance sideways and return as her internal thought is heard; her lips remain still.
+END STATE: She holds a knowing closed-mouth look. Hold this final state until the very end of the clip; the framing does not change after the specified movement ends.
+CAMERA: locked-off, the framing never changes.
+VISUAL CONTINUITY: Preserve the supplied starting image's faces, hair, visible wardrobe, set geometry, lighting and color. Allow only the specified actions and camera movement. No added people, identity swaps or prop teleportation. Do not reveal objects or clothing beyond the stated crop.
+AUDIO MODE: generated dialogue.
+SPEECH EVENT 1:
+SPEAKER: Irin internal voice (VO), visible Irin remains silent.
+EXACT THAI DIALOGUE: "ริต้า เธอเสน่ห์แรงจริงๆ"
+VOICE IDENTITY: young Thai female voice, soft clear mid-high register, warm timbre, standard Thai accent.
+DELIVERY: private, controlled knowing thought, clear natural Thai phrasing; no audible laughter.
+No visible person lip-syncs to this internal voice. Irin’s lips remain still.
+NON-SPEAKERS: Irin; no speech-like lip movements.
+Speak only the assigned dialogue exactly once, without paraphrasing or added words.
+Do not stretch speech to fill the clip. No unassigned voices.
+AFTER SPEECH: She holds a knowing closed-mouth look. Hold quietly until the end without a transition.
+AMBIENCE/SFX: faint steady indoor room tone; no music or background chatter.

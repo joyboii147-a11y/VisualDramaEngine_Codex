@@ -1,0 +1,53 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP28-S036 | Clip: A103 (A-roll) | SC02 คฤหาสน์/ห้องรับแขก กลางคืน
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 5.5 วิ | เสียงโหมด A
+# ตัวละครในเฟรม (รวม 3 คน):
+# - วิทย์ C05-W06 วิทย์ W06 ชุดแจ็กเก็ตครีมปกดำ.png | ครึ่งตัว | ลำดับเฟรม 1 จากซ้าย; รายละเอียดตำแหน่งและทิศตามองค์ประกอบต้นเฟรมด้านล่าง
+# - ไอริน C04-W12 ไอริน W12 ชุดคลุมท้อง.png | ครึ่งตัว | ลำดับเฟรม 2 จากซ้าย; รายละเอียดตำแหน่งและทิศตามองค์ประกอบต้นเฟรมด้านล่าง
+# - แม่วิทย์ C01-W04 แม่วิทย์ W04.png | เห็นแค่แขนหรือไหล่ | ลำดับเฟรม 3 จากซ้าย; รายละเอียดตำแหน่งและทิศตามองค์ประกอบต้นเฟรมด้านล่าง
+# องค์ประกอบต้นเฟรม: วิทย์ (W06): ซ้าย-กลาง · ระนาบกลาง · นั่ง เอนตัวมาทางขวาเฟรม · มองแม่วิทย์ พูด มือซ้ายลูบท้องไอริน; ไอริน (W12): กลาง-ขวา · ระนาบกลาง · นั่ง · ก้มหน้ายิ้มมองมือวิทย์ที่ท้อง; แม่วิทย์ (W04): ขวาล่าง · ระนาบหน้า · ไหล่เสื้อขาวเบลอ
+# ลำดับเฟรมซ้าย→ขวา: วิทย์ · ไอริน · แม่วิทย์ (ไหล่ขาวขวาหน้า)
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม: ไม่มี
+# แนบใน Grok: ภาพที่เลือกจาก EP28_A103_image ของคลิปนี้เท่านั้น
+# ผู้พูด: วิทย์ ON | คนในเฟรมที่ไม่พูด: ไอริน, แม่วิทย์
+# เสียง/การตัดต่อ: D009 วิทย์ ON: "ไม่ต้องห่วงครับ ผมจะดูแลเธออย่างดีครับ" | โหมด A; บทผลิตเต็มของ A103 เท่านั้น: "ไม่ต้องห่วงครับ ผมจะดูแลเธออย่างดีครับ"
+# ความเสี่ยง/เหตุผล:  เสี่ยงอัตลักษณ์หลายคน/ไม่มีภาพ: แม่วิทย์; คงทุกคนตามผังและบรรยายเต็ม ไม่เพิ่ม/ตัดคนเพื่อเพดานอ้างอิง2รูป
+# ยังไม่มีผลภาพ/วิดีโอจริงให้ตรวจ ต้องเทียบภาพชุดและตรวจเสียงหลังผู้ใช้ผลิต
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+EP28_A103 SHOT EP28-S036. One continuous cinematic live-action shot, vertical 9:16.
+TARGET DURATION: 5.5 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
+SCENE GEOGRAPHY: cream sofa-side wall, black-and-white abstract art toward upper-right, patterned gray-cream sofa back and silver furniture frame. Visible positions: Wit left-center, seated facing screen-right, visible down to knees; Irin center-right, seated facing screen-right, visible down to knees; Wit's mother only a blurred white shoulder at the lower-right foreground edge.
+VISIBLE CAST: Wit (C05-W06): cream jacket with black pointed collar over a white crew-neck T-shirt, tousled short black hair; black trousers visible to knees; left-center, seated facing screen-right, visible down to knees; completely dry; Irin (C04-W12): cream cable-knit scoop-neck maternity bodice, open light gray knit cardigan, small silver pendant, long loose dark brown wavy hair; cream maternity dress visible to knees; center-right, seated facing screen-right, visible down to knees; completely dry; Wit's mother (C01-W04): visible sheer white puff sleeve and white bodice shoulder only; only a blurred white shoulder at the lower-right foreground edge; completely dry
+CAST COUNT: exactly 3 people visible, including partial and blurred figures.
+FRAME ORDER: from screen-left to screen-right: Wit -> Irin -> Wit's mother.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: on the entrance side of the room, looking toward the family sofa and sofa-side wall, on the established entrance side of the conversation axis. MEDIUM FULL SHOT. The frame includes head to knees of the main seated or standing people, each about 65% of frame height. 35mm, eye-level, about 4 meters away.
+FOREGROUND / VISIBLE BACKGROUND: Wit's mother: only a blurred white shoulder at the lower-right foreground edge Background: cream sofa-side wall, black-and-white abstract art toward upper-right, patterned gray-cream sofa back and silver furniture frame.
+SET IN FRAME: cream sofa-side wall, black-and-white abstract art toward upper-right, patterned gray-cream sofa back and silver furniture frame.
+OFF-FRAME: The attention target beyond the indicated frame edge is not shown; only the eyes may turn, and the camera does not follow the gaze. No one else enters the frame at any time.
+LIGHTING / COLOR: warm crystal-chandelier and wall-sconce practicals, warm table-lamp light behind the sofa, soft neutral fill from the entrance-side window area, restrained cream highlights and natural skin tones, coherent soft medium-low contrast; no daylight sky or sunbeams. warm cream mansion interiors, silver-gray furniture, restrained peach floral accents, natural skin and soft medium-low contrast.
+PROP STATE: Wit’s left hand rests on Irin’s belly; no hand-held object. The sofa frame stays fixed.
+FOREGROUND OWNER: Wit's mother.
+VISIBLE FOREGROUND IDENTITY: Wit's mother: only a blurred white shoulder at the lower-right foreground edge
+CAMERA RELATION: on the entrance side of the room, looking toward the family sofa and sofa-side wall, on the established entrance side of the conversation axis.
+FOCUS SUBJECT: Wit.
+OCCLUSION: keep the focused face unobstructed; do not add a generic foreground figure.
+START STATE: Wit sits screen-left, looking toward the white shoulder at screen-right. His left hand rests on Irin’s belly.
+PERFORMANCE CONTEXT: gentle appreciative family conversation.
+ACTION: Wit leans slightly right and answers reassuringly, softly stroking her belly with his left hand. Irin lowers her eyes and smiles. The foreground shoulder stays seated.
+END STATE: Wit closes his lips with a gentle smile. Irin continues smiling down. Hold this final state until the very end of the clip; the framing does not change after the specified movement ends.
+CAMERA: locked-off, the framing never changes.
+VISUAL CONTINUITY: Preserve the supplied starting image's faces, hair, visible wardrobe, set geometry, lighting and color. Allow only the specified actions and camera movement. No added people, identity swaps or prop teleportation. Do not reveal objects or clothing beyond the stated crop.
+AUDIO MODE: generated dialogue.
+SPEECH EVENT 1:
+SPEAKER: Wit (ON).
+EXACT THAI DIALOGUE: "ไม่ต้องห่วงครับ ผมจะดูแลเธออย่างดีครับ"
+VOICE IDENTITY: young Thai male voice, firm low-mid register, clean resonant timbre, standard Thai accent.
+DELIVERY: warm, polite, unhurried natural Thai phrasing.
+Lip-sync only the assigned speaker.
+NON-SPEAKERS: Irin, Wit's mother; no speech-like lip movements.
+Speak only the assigned dialogue exactly once, without paraphrasing or added words.
+Do not stretch speech to fill the clip. No unassigned voices.
+AFTER SPEECH: Wit closes his lips with a gentle smile. Irin continues smiling down. Hold quietly until the end without a transition.
+AMBIENCE/SFX: faint steady indoor room tone; no music or background chatter.
