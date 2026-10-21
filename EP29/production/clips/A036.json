@@ -18,10 +18,20 @@
     "facts": "Over-the-shoulder: Jet's blurred head and suit back on screen-left; Rita at center, three-quarter view looking screen-left at him with a soft smile. Her right hand holds a pale rose-gold metal card with a small round emblem at chest level, left of center; framed to mid-thigh, bag at her right hip."
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "a6aebeadf898"
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Video/EP29_A036_T01.mp4",
+        "job": "eb111fd6-850b-9350-a226-c5bd628bfa6d",
+        "result": "ok",
+        "qc": "พูดแล้วยิ้มเย็น การ์ดคงอยู่มือขวาระดับอก ฉาก/หน้าคงที่",
+        "cost": 0.32
+      }
+    ],
+    "selected": "EP29/Video/EP29_A036_T01.mp4",
+    "prompt_sha": "a6aebeadf898",
+    "flag": "ต้องฟังลิปซิงก์"
   },
   "notes": []
 }

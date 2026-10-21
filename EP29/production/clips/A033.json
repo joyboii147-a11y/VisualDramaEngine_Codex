@@ -18,10 +18,20 @@
     "facts": "Over-the-shoulder: Jet's blurred head and suit shoulder at screen-left; Rita at center, three-quarter view looking screen-left at him with a thin smile, lips closed. Framed to her hips; her bag hangs at lower right; no hands visible."
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "e6c17056644f"
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Video/EP29_A033_T01.mp4",
+        "job": "0721e582-34a1-9cae-a029-78445392f7c9",
+        "result": "ok",
+        "qc": "พูดแล้วยกการ์ดด้วยมือขวา (ซ้ายเฟรม) ถึงระดับหน้า การ์ดสีเงินอ่อนมีตราเล็ก ไม่มีตัวหนังสือ ฉาก/หน้าคงที่",
+        "cost": 0.32
+      }
+    ],
+    "selected": "EP29/Video/EP29_A033_T01.mp4",
+    "prompt_sha": "e6c17056644f",
+    "flag": "ต้องฟังลิปซิงก์"
   },
   "notes": []
 }

@@ -1,7 +1,7 @@
 {
   "clip": "A039",
   "image": {
-    "status": "flagged",
+    "status": "done",
     "takes": [
       {
         "take": 1,
@@ -10,12 +10,21 @@
         "result": "fail",
         "qc": "ถือการ์ดผิดมือ (มือซ้าย ขวาเฟรม แทนมือขวา) การ์ดดูเป็นกระดาษด้าน ไม่มีตรา ไม่ต่อเนื่องกับ A036/B024",
         "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP29/Image/EP29_A039_T02.png",
+        "job": "01a15c86-dc87-7a11-899b-3c2a0ed024cc",
+        "result": "ok",
+        "qc": "การ์ดโลหะ rose-gold บาง มือขวา (ซ้ายเฟรม) ระดับอก ต่อกับ A036; หน้า ชุด ฉาก ลำดับถูก ไม่มีตัวหนังสือ",
+        "cost": 0.06
       }
     ],
-    "selected": "EP29/Image/EP29_A039_T01.png",
+    "selected": "EP29/Image/EP29_A039_T02.png",
     "prompt_sha": "6ace50ea16fc",
-    "flag": "การ์ดอยู่มือซ้าย (ขวาเฟรม) และดูเป็นกระดาษไม่มีตรา ไม่ต่อเนื่องกับ A036/B024 ควรสร้างใหม่เมื่อเติมเงิน",
-    "facts": "Over-the-shoulder: Jet's blurred head and suit back on screen-left; Rita at center, three-quarter view looking screen-left at him, composed smirk. Her left hand (screen-right side of her body) holds a plain matte pale card at chest-waist level; framed to the thighs, quilted bag at lower right."
+    "flag": null,
+    "facts": "Over-the-shoulder: Jet's blurred back of head and black suit shoulder fill the left third; Rita at center-right, three-quarter view looking screen-left at him, held smirk, lips closed. Her right hand at screen-left holds a thin pale rose-gold card at chest level; framed to upper thigh, quilted bag at her left hip on screen-right.",
+    "reset_at": 1
   },
   "video": {
     "status": "todo",

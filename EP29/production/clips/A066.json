@@ -1,16 +1,61 @@
 {
   "clip": "A066",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "8339b162ce99"
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Image/EP29_A066_T01.png",
+        "job": "01a15c73-dbd4-7b20-93a4-b8888e858340",
+        "result": "fail",
+        "qc": "ข้อ5: ริต้าหันศีรษะไปซ้ายเฟรม (ต้องขวาเฟรม)",
+        "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP29/Image/EP29_A066_T02.png",
+        "job": "01a15c77-007d-7f73-85fd-6ecd485c23c7",
+        "result": "fail",
+        "qc": "ข้อ5: ริต้ายังหันศีรษะ/สายตาไปซ้ายเฟรม และหน้าขมวดคิ้ว",
+        "cost": 0.06
+      },
+      {
+        "take": 3,
+        "file": "EP29/Image/EP29_A066_T03.png",
+        "job": "01a15c77-d8ad-7e30-9aba-4d5eac64266a",
+        "result": "fail",
+        "qc": "ข้อ5: หันซ้ายเฟรมอีก (3 take หันซ้ายทุกครั้ง) และสายกระเป๋าอยู่ไหล่ขวา",
+        "cost": 0.06
+      },
+      {
+        "take": 4,
+        "file": "EP29/Image/EP29_A066_T04.png",
+        "job": "hflip-T03",
+        "result": "ok",
+        "qc": "hflip T03 แก้ทิศมองและสายกระเป๋าไหล่ซ้าย; ผลข้าง: ม่านขาวย้ายไปขอบขวา",
+        "cost": 0.0
+      }
+    ],
+    "selected": "EP29/Image/EP29_A066_T04.png",
+    "prompt_sha": "8339b162ce99",
+    "flag": "ภาพ hflip: ม่านขาวอยู่ขอบขวาเฟรม (ผังให้อยู่ซ้าย) และหน้าบึ้งเล็กน้อยแทนหน้านิ่ง",
+    "facts": "Tight close-up of Rita, face slightly right of center, head turned three-quarter toward screen-right with eyes looking screen-right, lips closed, cool stern expression; white shaggy fur jacket, grey satin shirt, long dark beaded necklaces, gold bag chain over her left shoulder at screen-right; sheer cream curtain at the right edge and dark glass wall with warm bokeh behind."
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "65c5c01cc38e"
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Video/EP29_A066_T01.mp4",
+        "job": "28ee30de-283f-96ed-9bb8-df406973be38",
+        "result": "ok",
+        "qc": "ผ่านด้านภาพ มองขวา ยิ้มปากปิด (ยิ้มกว้างกว่าที่สั่งเล็กน้อย)",
+        "cost": 0.4
+      }
+    ],
+    "selected": "EP29/Video/EP29_A066_T01.mp4",
+    "prompt_sha": "65c5c01cc38e",
+    "flag": "ต้องฟัง: เสียงในใจ D030 ตรวจว่าปากไม่ขยับตามเสียง"
   },
   "notes": []
 }

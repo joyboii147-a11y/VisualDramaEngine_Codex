@@ -1186,7 +1186,7 @@
       "video_prompt": "EP29/prompts/EP29_B022_video.txt",
       "video_sec": 4,
       "image_sha": "bc06a858445b",
-      "video_sha": "d519ba0f1bf9"
+      "video_sha": "470d2e63f107"
     },
     "A031": {
       "clip": "A031",
@@ -1409,7 +1409,7 @@
       "image_prompt": "EP29/prompts/EP29_A041_image.txt",
       "video_prompt": "EP29/prompts/EP29_A041_video.txt",
       "video_sec": 3,
-      "image_sha": "8f497dff7ebc",
+      "image_sha": "5bc7e9d0a420",
       "video_sha": "bf8ea6acd76a"
     },
     "B025": {

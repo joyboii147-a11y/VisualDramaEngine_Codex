@@ -18,10 +18,20 @@
     "facts": "Jet at center-left, nearly frontal, looking screen-right toward Rita, glasses, dark red tie, framed chest-up. Rita's blurred bun, ear and white fur shoulder with gold bag chain fill the right foreground. No hands visible."
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "afea232acded"
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Video/EP29_A032_T01.mp4",
+        "job": "fe45c87c-1ebd-9018-bbd6-237ef1ef90b4",
+        "result": "ok",
+        "qc": "เจตพูดช่วงต้นแล้วนิ่ง หน้า แว่น ชุด ฉากคงที่",
+        "cost": 0.32
+      }
+    ],
+    "selected": "EP29/Video/EP29_A032_T01.mp4",
+    "prompt_sha": "afea232acded",
+    "flag": "ต้องฟังลิปซิงก์"
   },
   "notes": []
 }

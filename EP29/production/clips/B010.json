@@ -18,10 +18,20 @@
     "facts": "Long shot, screen-left to screen-right: Wit, Irin, seated full-body on the foot of the bed, feet on the wooden floor, smiling at each other. Wit's left hand holds Irin's right hand between them; Wit's right hand holds a white smartphone on his right thigh; Irin's left hand rests on her lap. Padded headboard behind, floor lamp at screen-left, sheer window at screen-right, mustard runner across the bed, open floor in the lower third."
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "fc04aecbaaa5"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Video/EP29_B010_T01.mp4",
+        "job": "9bf81edb-219a-9b37-9081-360119a36aec",
+        "result": "ok",
+        "qc": "5.04s ลุกจูงมือเดินออกขวา จบที่เตียงว่าง drift suspect เกิดจากคนเดินจริง ฉากหลัง/กล้องนิ่ง; เดินเข้าหากล้องก่อนเลี้ยวขวา (ไม่ใช่ข้ามไปขวาตรงๆ)",
+        "cost": 0.1
+      }
+    ],
+    "selected": "EP29/Video/EP29_B010_T01.mp4",
+    "prompt_sha": "fc04aecbaaa5",
+    "flag": null
   },
   "notes": []
 }

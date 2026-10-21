@@ -18,10 +18,20 @@
     "facts": "Medium shot, screen-left to screen-right: Wit, Irin, seated side by side on the foot of the bed. Wit holds a white smartphone to his right ear with his right hand, left hand resting on his left thigh, eyes in the middle distance; Irin, hands clasped in her lap, looks toward Wit. Floor lamp and bedside table at screen-left, sheer-curtained window at the far screen-right edge, mustard runner beneath them; frame bottom cuts at the lower thighs."
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "a3e185a25491"
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Video/EP29_A002_T01.mp4",
+        "job": "ee186327-2265-9e1e-96dc-69884aca15dd",
+        "result": "ok",
+        "qc": "4.04s มีเสียง ลำดับวิทย์-ไอรินคงที่ ท้ายคลิปวิทย์หันหน้าไปทางไอริน (prompt ให้มองไกล) โทรศัพท์ยังแนบหู",
+        "cost": 0.08
+      }
+    ],
+    "selected": "EP29/Video/EP29_A002_T01.mp4",
+    "prompt_sha": "a3e185a25491",
+    "flag": "ต้องฟังลิปซิงก์; ท้ายคลิปวิทย์หันมองไอรินเร็วกว่าแผน"
   },
   "notes": []
 }

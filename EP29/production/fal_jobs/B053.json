@@ -6,11 +6,12 @@
   ],
   "out_file": "EP29/Image/EP29_B053_T01.png",
   "prompt_chars": 2844,
-  "status": "failed",
-  "request_id": "01a159d1-a106-7791-b0bb-59fed05b357f",
-  "status_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a159d1-a106-7791-b0bb-59fed05b357f/status",
-  "response_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a159d1-a106-7791-b0bb-59fed05b357f",
-  "submitted": "2026-10-20 21:57:52",
-  "error": "HTTP 403: {\"detail\":\"User is locked. Reason: TOP_UP.\"}",
-  "finished": "2026-10-20 22:00:37"
+  "status": "done",
+  "request_id": "01a15c73-ce0e-7f30-9dc8-ce8eb6c8fcd4",
+  "status_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a15c73-ce0e-7f30-9dc8-ce8eb6c8fcd4/status",
+  "response_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a15c73-ce0e-7f30-9dc8-ce8eb6c8fcd4",
+  "submitted": "2026-10-21 10:14:13",
+  "width": null,
+  "height": null,
+  "finished": "2026-10-21 10:15:20"
 }

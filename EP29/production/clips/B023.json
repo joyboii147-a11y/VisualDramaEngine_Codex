@@ -18,10 +18,20 @@
     "facts": "Jet at center-left, nearly frontal, looking screen-right toward Rita, still guarded face, framed chest-up. Rita's blurred bun and white fur shoulder with gold chain fill the right foreground. No hands visible."
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "5d915f5ba5fa"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Video/EP29_B023_T01.mp4",
+        "job": "a603fd61-5254-99dd-87c7-38aca8e3ae5b",
+        "result": "ok",
+        "qc": "รีแอ็กชันเงียบ ตาเหลือบลงแล้วกลับ ปากปิด ฉาก/หน้าคงที่",
+        "cost": 0.48
+      }
+    ],
+    "selected": "EP29/Video/EP29_B023_T01.mp4",
+    "prompt_sha": "5d915f5ba5fa",
+    "flag": null
   },
   "notes": []
 }

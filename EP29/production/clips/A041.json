@@ -1,7 +1,7 @@
 {
   "clip": "A041",
   "image": {
-    "status": "retry",
+    "status": "done",
     "takes": [
       {
         "take": 1,
@@ -10,16 +10,38 @@
         "result": "fail",
         "qc": "การ์ดหนาคล้ายโทรศัพท์ และถือมือซ้าย (ขวาเฟรม) ผิดจากมือขวา สีหน้าดูนิ่งมากกว่าภูมิใจ",
         "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP29/Image/EP29_A041_T02.png",
+        "job": "01a15c72-4314-71b3-bc28-2b5f8c1a7a7c",
+        "result": "fail",
+        "qc": "ถือการ์ดมือซ้าย (ขวาเฟรม) อีกครั้ง ผิดจาก START STATE มือขวาและ A036; การ์ดสีเงินเรียบไม่มีตรา ไม่ใช่ rose-gold แบบ A036; เฟรมกว้างกว่า MCU (หน้าราว 15% ไม่ใช่ 35%); หน้า ชุด ฉาก ลำดับซ้ายขวาถูก ไม่มีตัวหนังสือ — ใช้สำรองได้ถ้าจำเป็น",
+        "cost": 0.06
+      },
+      {
+        "take": 3,
+        "file": "EP29/Image/EP29_A041_T03.png",
+        "job": "01a15c86-b953-7ff2-b29c-5f388e27d5be",
+        "result": "ok",
+        "qc": "การ์ดโลหะ rose-gold บาง มือขวา (ซ้ายเฟรม) ใกล้ไหล่เจต ไม่มีตัวหนังสือ ต่อกับ A036; หน้า ชุด ฉากถูก (เฟรมกว้างกว่า MCU เล็กน้อยเหมือนช็อต OTS อื่น)",
+        "cost": 0.06
       }
     ],
-    "selected": null,
-    "prompt_sha": "8f497dff7ebc"
+    "selected": "EP29/Image/EP29_A041_T03.png",
+    "prompt_sha": "5bc7e9d0a420",
+    "reset_at": 2,
+    "flag": null,
+    "facts": "Over-the-shoulder: Jet's blurred back of head and black suit shoulder fill the left third; Rita at center, three-quarter view looking screen-left at him, proud composed face, lips closed. Her right hand at screen-left, near Jet's shoulder, holds a thin pale rose-gold card at chest level; framed to upper thigh, quilted bag at her left hip on screen-right."
   },
   "video": {
     "status": "todo",
     "takes": [],
     "selected": null,
-    "prompt_sha": "bf8ea6acd76a"
+    "prompt_sha": "bf8ea6acd76a",
+    "reset_at": 0
   },
-  "notes": []
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
 }

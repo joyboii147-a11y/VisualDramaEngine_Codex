@@ -1,16 +1,37 @@
 {
   "clip": "B049",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "0a2e6a42a139"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Image/EP29_B049_T01.png",
+        "job": "01a15c73-ae55-7f92-9fd3-7ba44b117201",
+        "result": "ok",
+        "qc": "ผ่าน การ์ด 1 เบลอซ้ายตรงภาพอ้างอิง",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP29/Image/EP29_B049_T01.png",
+    "prompt_sha": "0a2e6a42a139",
+    "flag": null,
+    "facts": "Tight close-up of Wit's father in metal-rimmed glasses, face turned three-quarter toward screen-right, intense eager look; Guard 1 (young, soft fringe) stands blurred in the left background; warm corridor wall light behind."
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "167d97baefe1"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Video/EP29_B049_T01.mp4",
+        "job": "a483bac8-0635-9ef6-83e4-7de53796d3ad",
+        "result": "ok",
+        "qc": "ผ่าน จ้องขวา การ์ด 1 นิ่ง",
+        "cost": 0.24
+      }
+    ],
+    "selected": "EP29/Video/EP29_B049_T01.mp4",
+    "prompt_sha": "167d97baefe1",
+    "flag": null
   },
   "notes": []
 }

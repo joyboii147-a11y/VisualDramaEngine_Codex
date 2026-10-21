@@ -1,16 +1,37 @@
 {
   "clip": "B047",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "7fbfb0435b61"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Image/EP29_B047_T01.png",
+        "job": "01a15c73-a011-7970-a58f-759ca8be7409",
+        "result": "ok",
+        "qc": "ผ่าน ลำดับ 5 คนถูก ซองไม่มีตัวหนังสือ",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP29/Image/EP29_B047_T01.png",
+    "prompt_sha": "7fbfb0435b61",
+    "flag": null,
+    "facts": "Long shot: left to right Rita, Secretary Jet (eyes lowered), Wit (white envelope in both hands at chest), Irin (looking at Wit), Wit's mother, all standing behind the round white table with the flower vase in the center foreground; glass wall behind, wall sconce and entrance at right."
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "9b49b2416fd5"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Video/EP29_B047_T01.mp4",
+        "job": "e9280219-0df1-9aa4-a51c-6b58ad0128c5",
+        "result": "ok",
+        "qc": "ผ่าน ทั้ง 5 ยืนนิ่ง ลำดับคงเดิม",
+        "cost": 0.08
+      }
+    ],
+    "selected": "EP29/Video/EP29_B047_T01.mp4",
+    "prompt_sha": "9b49b2416fd5",
+    "flag": null
   },
   "notes": []
 }

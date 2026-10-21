@@ -18,10 +18,20 @@
     "facts": "Over-the-shoulder: Jet's blurred back of head, glasses edge and black suit shoulder fill the left half; Rita at center-right, three-quarter view looking screen-left at him, faint smirk, lips closed. Framed to her waist; no hands visible, bag chain on her left shoulder."
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "cf4d50e04176"
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Video/EP29_A031_T01.mp4",
+        "job": "7855e093-0763-99c8-b280-0b7c833233b6",
+        "result": "ok",
+        "qc": "หน้า ชุด ฉากคงที่ ปากขยับพูดช่วงต้น จบยิ้มปิดปาก",
+        "cost": 0.24
+      }
+    ],
+    "selected": "EP29/Video/EP29_A031_T01.mp4",
+    "prompt_sha": "cf4d50e04176",
+    "flag": "ต้องฟังลิปซิงก์"
   },
   "notes": []
 }

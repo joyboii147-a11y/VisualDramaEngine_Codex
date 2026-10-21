@@ -1,16 +1,45 @@
 {
   "clip": "A063",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "887686cbe1c2"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Image/EP29_A063_T01.png",
+        "job": "01a15c73-9736-79f0-8d7c-4e5da5d09170",
+        "result": "fail",
+        "qc": "ข้อ5: แม่วิทย์หันมองขวาเฟรม (ต้องซ้ายเฟรม) — แก้ด้วย hflip เป็น T02",
+        "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP29/Image/EP29_A063_T02.png",
+        "job": "hflip-T01",
+        "result": "ok",
+        "qc": "hflip แก้ทิศมอง (เข็มกลัดย้ายไปอกขวาของเธอ)",
+        "cost": 0.0
+      }
+    ],
+    "selected": "EP29/Image/EP29_A063_T02.png",
+    "prompt_sha": "887686cbe1c2",
+    "flag": null,
+    "facts": "Tight close-up of Wit's mother, face slightly left of center, head and eyes turned screen-left, calm faint closed-lip smile; beige mink coat, white blouse with brown-striped silk scarf, crystal flower brooch on the coat at screen-left; dark glass wall with warm bokeh behind."
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "2abfda1b579b"
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Video/EP29_A063_T01.mp4",
+        "job": "805c8431-2647-90ae-847d-84fd356bc2c0",
+        "result": "ok",
+        "qc": "ผ่านด้านภาพ พูดมองซ้าย",
+        "cost": 0.32
+      }
+    ],
+    "selected": "EP29/Video/EP29_A063_T01.mp4",
+    "prompt_sha": "2abfda1b579b",
+    "flag": "ต้องฟังลิปซิงก์"
   },
   "notes": []
 }

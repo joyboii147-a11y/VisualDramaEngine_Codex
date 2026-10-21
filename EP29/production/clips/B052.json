@@ -1,16 +1,37 @@
 {
   "clip": "B052",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "89310f29c73a"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Image/EP29_B052_T01.png",
+        "job": "01a15c73-ca75-7512-a2b4-06654ff475ea",
+        "result": "ok",
+        "qc": "ผ่าน",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP29/Image/EP29_B052_T01.png",
+    "prompt_sha": "89310f29c73a",
+    "flag": null,
+    "facts": "Tight close-up of Irin, face right of center, eyes lowered toward the lower left, soft hopeful closed-lip smile; navy tweed jacket and cream satin bow blouse, small pendant necklace; glass wall bokeh behind."
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "d333f3aa2e74"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Video/EP29_B052_T01.mp4",
+        "job": "55455d4f-7ac5-9679-8356-975b3a8a789e",
+        "result": "ok",
+        "qc": "ผ่าน เงยหน้ามองซ้าย เม้มปาก",
+        "cost": 0.32
+      }
+    ],
+    "selected": "EP29/Video/EP29_B052_T01.mp4",
+    "prompt_sha": "d333f3aa2e74",
+    "flag": null
   },
   "notes": []
 }

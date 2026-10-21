@@ -1,16 +1,37 @@
 {
   "clip": "B042",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "f67901965cbf"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Image/EP29_B042_T01.png",
+        "job": "01a15c73-66ca-70a1-bd60-1f24118b8ae7",
+        "result": "ok",
+        "qc": "ผ่าน",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP29/Image/EP29_B042_T01.png",
+    "prompt_sha": "f67901965cbf",
+    "flag": null,
+    "facts": "Rita framed from head to upper thighs, slightly left of center, looking screen-right with a faint smile, bag chain on her left shoulder; blurred pink flowers fill the bottom foreground and the table edge at right. Her hands are visible at her sides."
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "73b49b4be668"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Video/EP29_B042_T01.mp4",
+        "job": "8dab1cca-214d-9a52-a5d7-1bcc8a466c6d",
+        "result": "ok",
+        "qc": "ผ่าน นิ่งตามสั่ง",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP29/Video/EP29_B042_T01.mp4",
+    "prompt_sha": "73b49b4be668",
+    "flag": null
   },
   "notes": []
 }

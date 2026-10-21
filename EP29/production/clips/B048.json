@@ -1,16 +1,45 @@
 {
   "clip": "B048",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "0128d82b40b9"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Image/EP29_B048_T01.png",
+        "job": "01a15c73-a89c-7553-9d49-a1bfe2b6586b",
+        "result": "fail",
+        "qc": "ข้อ8: โต๊ะกลมผ้าปูสีดำในฉากหน้า (โต๊ะในฉากเป็นผ้าขาว และ prompt ให้เป็นพื้นว่าง)",
+        "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP29/Image/EP29_B048_T02.png",
+        "job": "01a15c75-e9eb-7df3-8957-77e535451840",
+        "result": "ok",
+        "qc": "ผ่าน การ์ด 1 ซ้าย การ์ด 2 ขวา ตรงภาพอ้างอิง (มีขอบโต๊ะขาว+เทียนฉากหน้าล่าง ซึ่ง prompt ให้พื้นว่าง — ยอมรับ โต๊ะขาวตรงฉาก)",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP29/Image/EP29_B048_T02.png",
+    "prompt_sha": "0128d82b40b9",
+    "flag": null,
+    "facts": "Medium-wide: Wit's father strides toward camera at center through the entrance from a warm beige corridor, open black overcoat, glasses; Guard 1 (young, soft fringe) behind at screen-left and Guard 2 (older, side-combed) behind at screen-right; Wit's blurred camel suede shoulder fills the right edge foreground; the edge of a white-clothed round table with a small glass candle holder sits in the lower foreground."
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "51b6c0408433"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Video/EP29_B048_T01.mp4",
+        "job": "2b5fe158-2b66-99ef-82bb-a011b3d41757",
+        "result": "ok",
+        "qc": "ผ่าน พ่อเดินเข้าแล้วหยุด การ์ดสองข้าง กล้องดันเข้าเล็กน้อย",
+        "cost": 0.08
+      }
+    ],
+    "selected": "EP29/Video/EP29_B048_T01.mp4",
+    "prompt_sha": "51b6c0408433",
+    "flag": null
   },
   "notes": []
 }

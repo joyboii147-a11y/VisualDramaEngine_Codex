@@ -18,10 +18,20 @@
     "facts": "Close-up of Wit alone, centered, body nearly facing camera, eyes almost toward the lens drifting slightly screen-right. His right hand holds a white smartphone to his right ear on the screen-left side of his face; it is the only hand visible. Gray crew-neck sweater over striped collar, frame bottom at mid-chest; blurred cream headboard and warm lamp bokeh at upper screen-left."
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "f2f66c0b1acf"
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Video/EP29_A001_T01.mp4",
+        "job": "a1318dbb-bf5d-9f61-977f-2e5a66390746",
+        "result": "ok",
+        "qc": "4.04s มีเสียง หน้า/ชุด/โทรศัพท์มือขวาคงที่ ไม่มี drift",
+        "cost": 0.32
+      }
+    ],
+    "selected": "EP29/Video/EP29_A001_T01.mp4",
+    "prompt_sha": "f2f66c0b1acf",
+    "flag": "ต้องฟังลิปซิงก์"
   },
   "notes": []
 }

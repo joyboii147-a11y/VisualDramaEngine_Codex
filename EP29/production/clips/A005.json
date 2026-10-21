@@ -18,10 +18,28 @@
     "facts": "Irin in close-up at center-right, head turned three-quarters toward screen-left, eyes looking screen-left, a soft closed-lip smile; navy tweed jacket and ivory pussy-bow visible to mid-chest, no hands. A blurred gray knit sweater shoulder of Wit fills the lower-left edge of the frame. Background: blurred headboard and lamp glow at screen-left, sheer window light at upper screen-right."
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "d6ce09787b77"
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Video/EP29_A005_T01.mp4",
+        "job": "d4b70720-b2dc-99ae-8489-6c2d74beebc7",
+        "result": "fail",
+        "qc": "drift suspect (stable_until 0.96): ไอรินขยับไปทางขวาเฟรมและหันหาเลนส์แทนมองซ้าย ใบหน้าเพี้ยนดูอายุมากขึ้นช่วงท้าย",
+        "cost": 0.32
+      },
+      {
+        "take": 2,
+        "file": "EP29/Video/EP29_A005_T02.mp4",
+        "job": "bfc75c25-2d1f-9099-b3ef-00b192379b85",
+        "result": "ok",
+        "qc": "4.04s มีเสียง drift suspect จากไอรินขยับศีรษะไปทางขวาเฟรม (ไม่ใช่กล้อง) ฉากหลังและไหล่วิทย์นิ่ง ท้ายคลิปมองซ้ายถูก หน้าใกล้ภาพตั้งต้นกว่า T01",
+        "cost": 0.32
+      }
+    ],
+    "selected": "EP29/Video/EP29_A005_T02.mp4",
+    "prompt_sha": "d6ce09787b77",
+    "flag": "ต้องฟังลิปซิงก์; ไอรินเอนออกจากวิทย์ (ขวาเฟรม) แทนเอนเข้าหา ตามที่ prompt สั่ง"
   },
   "notes": []
 }

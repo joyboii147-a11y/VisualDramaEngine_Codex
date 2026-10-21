@@ -18,10 +18,20 @@
     "facts": "Jet at center, nearly frontal, looking screen-right toward Rita, lips pressed, tense face, framed chest-up. Rita's blurred bun, ear and white fur shoulder with gold chain fill the right foreground. No hands visible."
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "fc12805fa3c6"
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Video/EP29_A035_T01.mp4",
+        "job": "d8201c60-249e-9ac6-b1ba-9c0df86a50ed",
+        "result": "ok",
+        "qc": "เจตพูดแล้วคิ้วขมวด เอียงหัวเล็กน้อย ฉากคงที่",
+        "cost": 0.24
+      }
+    ],
+    "selected": "EP29/Video/EP29_A035_T01.mp4",
+    "prompt_sha": "fc12805fa3c6",
+    "flag": "ต้องฟังลิปซิงก์"
   },
   "notes": []
 }

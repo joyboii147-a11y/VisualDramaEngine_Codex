@@ -1,16 +1,53 @@
 {
   "clip": "A061",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "25f83d3a1e73"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Image/EP29_A061_T01.png",
+        "job": "01a15c73-732c-7f33-8da2-ff404bbc5f3d",
+        "result": "fail",
+        "qc": "ข้อ5: เลขาเจตมองตรงกล้อง ไม่หันขวาเฟรม",
+        "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP29/Image/EP29_A061_T02.png",
+        "job": "01a15c75-00d1-7350-82d7-d3d09d289424",
+        "result": "fail",
+        "qc": "ข้อ5: เลขาเจตหันหน้า/สายตาไปซ้ายเฟรม (ต้องขวาเฟรม)",
+        "cost": 0.06
+      },
+      {
+        "take": 3,
+        "file": "EP29/Image/EP29_A061_T03.png",
+        "job": "01a15c76-fa12-7ed2-8064-24a2b6a1fe05",
+        "result": "ok",
+        "qc": "ผ่าน หันขวาเฟรม ซองขวาล่าง",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP29/Image/EP29_A061_T03.png",
+    "prompt_sha": "25f83d3a1e73",
+    "flag": null,
+    "facts": "Close-up of Secretary Jet in glasses, black suit and burgundy tie, face turned slightly screen-right with eyes toward the right; his right hand holds a plain white envelope at the lower-right corner; blurred pink flowers at lower-left, white table edge at bottom; glass wall bokeh behind."
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "090921faef9d"
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Video/EP29_A061_T01.mp4",
+        "job": "0d662958-4b13-9cb1-92bd-5fff07872d35",
+        "result": "ok",
+        "qc": "ผ่านด้านภาพ พูดแล้วก้มตา ซองยื่นไปขวา",
+        "cost": 0.32
+      }
+    ],
+    "selected": "EP29/Video/EP29_A061_T01.mp4",
+    "prompt_sha": "090921faef9d",
+    "flag": "ต้องฟังลิปซิงก์"
   },
   "notes": []
 }

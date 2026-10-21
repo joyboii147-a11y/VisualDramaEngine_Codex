@@ -1,16 +1,53 @@
 {
   "clip": "B046",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "ab0f55b2a294"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Image/EP29_B046_T01.png",
+        "job": "01a15c73-92c5-7831-9efd-6a230d28e62a",
+        "result": "ok",
+        "qc": "ผ่าน ลำดับ 5 คนถูก",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP29/Image/EP29_B046_T01.png",
+    "prompt_sha": "ab0f55b2a294",
+    "flag": null,
+    "facts": "Long shot: left to right Rita, Secretary Jet, Wit (holding the white envelope flat in both hands at chest, looking down at it), Irin (hands clasped, looking down at it), Wit's mother walking in at the right edge. Round white table with flower vase in the foreground center, glass wall behind, entrance at right."
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "bb042ae0fa8c"
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Video/EP29_B046_T01.mp4",
+        "job": "aad261d5-a272-9db5-8953-3a08f064765a",
+        "result": "fail",
+        "qc": "โต๊ะกลมบิด/หดตัวกลางคลิป แม่วิทย์เดินมาบังไอริน",
+        "cost": 0.08
+      },
+      {
+        "take": 2,
+        "file": "EP29/Video/EP29_B046_T02.mp4",
+        "job": "a3c72327-de81-909d-85dd-5b3a9af50c54",
+        "result": "fail",
+        "qc": "โต๊ะกลมแยกเป็นสองชั้น/บิดรูปตั้งแต่ต้นคลิป",
+        "cost": 0.08
+      },
+      {
+        "take": 3,
+        "file": "EP29/Video/EP29_B046_T03.mp4",
+        "job": "5c8b53b1-5cac-96da-b4f6-60f1f6574cd2",
+        "result": "ok",
+        "qc": "ดีที่สุดใน 3 take: แม่วิทย์เดินเข้าหยุดขวาไอรินถูก แต่ขอบบนโต๊ะกลายเป็นวงใสกลางคลิป",
+        "cost": 0.08
+      }
+    ],
+    "selected": "EP29/Video/EP29_B046_T03.mp4",
+    "prompt_sha": "bb042ae0fa8c",
+    "flag": "ครบ 3 take: โต๊ะกลมบิดรูป (ขอบบนโต๊ะกลายเป็นวงใส) ตั้งแต่กลางคลิป — ใช้ช่วงต้นหรือตัดสั้น"
   },
   "notes": []
 }

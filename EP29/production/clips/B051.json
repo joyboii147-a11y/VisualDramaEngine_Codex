@@ -1,16 +1,37 @@
 {
   "clip": "B051",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "8d87dc206c48"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Image/EP29_B051_T01.png",
+        "job": "01a15c73-c33e-72d3-b922-f03296ec98ed",
+        "result": "ok",
+        "qc": "ผ่าน ฝาซองปิด ไม่มีตัวหนังสือ",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP29/Image/EP29_B051_T01.png",
+    "prompt_sha": "8d87dc206c48",
+    "flag": null,
+    "facts": "Close-up of Wit from head to waist, head bowed reading a plain white envelope (flap closed, back side facing camera) held in both hands at chest height; blurred pink-white flowers and table edge at bottom left; glass doors behind."
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "5fa019507278"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Video/EP29_B051_T01.mp4",
+        "job": "73ea59ce-8004-9b23-932f-60a7e41b0a8c",
+        "result": "ok",
+        "qc": "ผ่าน เปิดฝาซอง",
+        "cost": 0.32
+      }
+    ],
+    "selected": "EP29/Video/EP29_B051_T01.mp4",
+    "prompt_sha": "5fa019507278",
+    "flag": null
   },
   "notes": []
 }

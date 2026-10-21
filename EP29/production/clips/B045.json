@@ -1,16 +1,37 @@
 {
   "clip": "B045",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "e1d92fd54782"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Image/EP29_B045_T01.png",
+        "job": "01a15c73-8388-7883-84e3-381fea399278",
+        "result": "ok",
+        "qc": "ผ่าน (ซองเล็กกว่า A4 เล็กน้อย มีรอยจางกลางซอง ไม่อ่านออก)",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP29/Image/EP29_B045_T01.png",
+    "prompt_sha": "e1d92fd54782",
+    "flag": null,
+    "facts": "Medium shot: Secretary Jet's black-suited arm enters from the left edge (edge of his glasses barely at top-left), handing a white envelope to Wit at center, whose right hand grips it while his left hand is open below; Irin at right smiles at Wit. Blurred pink-white flowers on the white table across the bottom foreground."
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "befcb4478ce2"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Video/EP29_B045_T01.mp4",
+        "job": "6fbcd020-0002-9ec7-98c4-da4ac6b5731c",
+        "result": "ok",
+        "qc": "ผ่าน รับซอง มือเลขาถอยออกซ้าย",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP29/Video/EP29_B045_T01.mp4",
+    "prompt_sha": "befcb4478ce2",
+    "flag": null
   },
   "notes": []
 }

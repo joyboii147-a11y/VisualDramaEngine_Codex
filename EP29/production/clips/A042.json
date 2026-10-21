@@ -18,10 +18,20 @@
     "facts": "Rita alone, close-up chest-up, three-quarter view facing screen-left, head slightly tilted, hard coaxing gaze, lips nearly closed. Fur jacket, grey satin shirt, necklaces and bag chain visible; no hands visible."
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "36a57a072410"
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Video/EP29_A042_T01.mp4",
+        "job": "2be78b70-0eec-938c-9434-9689c20be39d",
+        "result": "ok",
+        "qc": "พูดแล้วยิ้มกว้าง คิ้วยก หน้า/ฉากคงที่",
+        "cost": 0.24
+      }
+    ],
+    "selected": "EP29/Video/EP29_A042_T01.mp4",
+    "prompt_sha": "36a57a072410",
+    "flag": "ต้องฟังลิปซิงก์"
   },
   "notes": []
 }

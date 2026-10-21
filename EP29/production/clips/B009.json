@@ -18,10 +18,20 @@
     "facts": "High-angle insert of two laps: Wit's left hand palm-down on his black trousers at screen-left (gray sweater cuff with striped shirt cuff), Irin's right hand palm-down on her charcoal pleated skirt at screen-right (navy tweed sleeve with ivory cuff); exactly two hands, separate, fingers pointing toward the frame bottom. No faces or phone visible; a mustard-gold fabric band fills the bottom third of the frame."
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "1622f0cd7d7c"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Video/EP29_B009_T01.mp4",
+        "job": "ba68d197-adef-9900-b97a-95f7746f0e4f",
+        "result": "ok",
+        "qc": "3.04s มือซ้ายวิทย์ทับมือขวาไอรินตาม ACTION สองมือพอดี กล้องนิ่ง",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP29/Video/EP29_B009_T01.mp4",
+    "prompt_sha": "1622f0cd7d7c",
+    "flag": null
   },
   "notes": []
 }

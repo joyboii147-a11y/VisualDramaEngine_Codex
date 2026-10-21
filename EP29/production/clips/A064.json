@@ -1,16 +1,37 @@
 {
   "clip": "A064",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "42c18cb12456"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Image/EP29_A064_T01.png",
+        "job": "01a15c73-b8b6-7cd1-b8dc-4c24e00c5664",
+        "result": "ok",
+        "qc": "ผ่าน การ์ด 1 เบลอซ้าย ไหล่วิทย์ขวาล่าง",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP29/Image/EP29_A064_T01.png",
+    "prompt_sha": "42c18cb12456",
+    "flag": null,
+    "facts": "Close-up of Wit's father slightly left of center in glasses, looking toward screen-right just past the lens; Guard 1 (young, soft fringe) blurred at the left background; Wit's camel suede shoulder blurred in the lower-right foreground; warm corridor wall lights behind."
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "87b497244e87"
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Video/EP29_A064_T01.mp4",
+        "job": "d250ee8f-8088-9a2a-b312-497a614dd16c",
+        "result": "ok",
+        "qc": "ผ่านด้านภาพ พูดเร่ง การ์ด 1 นิ่ง ไหล่วิทย์คงที่",
+        "cost": 0.32
+      }
+    ],
+    "selected": "EP29/Video/EP29_A064_T01.mp4",
+    "prompt_sha": "87b497244e87",
+    "flag": "ต้องฟังลิปซิงก์"
   },
   "notes": []
 }

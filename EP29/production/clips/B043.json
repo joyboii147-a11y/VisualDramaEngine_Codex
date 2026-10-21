@@ -1,16 +1,37 @@
 {
   "clip": "B043",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "52a260dc7921"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Image/EP29_B043_T01.png",
+        "job": "01a15c73-6f6f-7102-812e-65b8fa8b3677",
+        "result": "ok",
+        "qc": "ผ่าน ลำดับ 4 คนถูก",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP29/Image/EP29_B043_T01.png",
+    "prompt_sha": "52a260dc7921",
+    "flag": null,
+    "facts": "Long shot: left to right Rita, Secretary Jet (white envelope in his right hand), Wit, Irin standing behind the round white table with the flower vase; Wit has one hand near his trouser pocket. Glass wall behind, entrance corridor with warm lights at the right edge."
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "92a72ce1aaaf"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Video/EP29_B043_T01.mp4",
+        "job": "e5a8fa76-5dac-917a-a6f7-cb453c7e7450",
+        "result": "ok",
+        "qc": "ผ่าน วิทย์+ไอรินเดินเข้าหยุดขวาแจกัน ลำดับคงเดิม (เดินเฉียงเข้าหากล้องเล็กน้อย)",
+        "cost": 0.1
+      }
+    ],
+    "selected": "EP29/Video/EP29_B043_T01.mp4",
+    "prompt_sha": "92a72ce1aaaf",
+    "flag": null
   },
   "notes": []
 }

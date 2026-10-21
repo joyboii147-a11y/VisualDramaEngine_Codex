@@ -18,10 +18,20 @@
     "facts": "Close-up of Irin alone, centered, face nearly frontal with eyes glancing toward screen-left, soft hopeful closed-lip smile. Navy tweed jacket, ivory pussy-bow and pendant necklace visible to the chest; no hands. Blurred headboard behind, bright window glow at upper screen-right."
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "7d58dfc5ffc2"
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Video/EP29_A008_T01.mp4",
+        "job": "16e31700-5c1d-9779-9e5b-35cf759d80e4",
+        "result": "ok",
+        "qc": "3.04s มีเสียง ยิ้มกว้างตาม ACTION สายตาเกือบตรงเลนส์เอียงซ้ายเล็กน้อย ไม่มี drift",
+        "cost": 0.24
+      }
+    ],
+    "selected": "EP29/Video/EP29_A008_T01.mp4",
+    "prompt_sha": "7d58dfc5ffc2",
+    "flag": "ต้องฟังลิปซิงก์"
   },
   "notes": []
 }

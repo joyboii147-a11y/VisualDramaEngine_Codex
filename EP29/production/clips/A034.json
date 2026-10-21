@@ -18,10 +18,20 @@
     "facts": "Rita alone, close-up from chest up, three-quarter view facing screen-left, confident smile with lips closed, camera nearly at eye level. Fur jacket, grey satin shirt, beaded necklaces and bag chain on her left shoulder visible; no hands visible."
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "6065906a3817"
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Video/EP29_A034_T01.mp4",
+        "job": "0f570330-28ed-9d38-a430-6b4185ff7937",
+        "result": "ok",
+        "qc": "พูดสองช่วง โน้มเข้าเล็กน้อย จบยิ้มปิดปาก ฉากคงที่; หน้ายังดูอายุมากกว่าช็อตอื่นตามภาพตั้งต้น",
+        "cost": 0.48
+      }
+    ],
+    "selected": "EP29/Video/EP29_A034_T01.mp4",
+    "prompt_sha": "6065906a3817",
+    "flag": "ต้องฟังลิปซิงก์; ภาพตั้งต้น flagged หน้าริต้าดูอายุมากกว่าช็อตอื่น"
   },
   "notes": []
 }

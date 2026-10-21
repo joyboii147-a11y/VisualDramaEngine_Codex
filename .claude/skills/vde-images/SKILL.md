@@ -13,7 +13,7 @@ description: สร้างภาพตั้งต้นของทุกค�
 - `"fal"` → **ข้ามข้อ 0–2 ทั้งหมด** ไม่ต้องอัปโหลด ref ไม่ใช้ OpenArt MCP แล้วทำแทนด้วย:
   1. `python $S/fal_image.py check` — ถ้าไม่พบ key ให้หยุดและรายงาน: "ตั้ง fal key ด้วย `! pwsh -File ~/.claude/secrets/set-fal-key.ps1`"
   2. `python $S/fal_image.py EPxx submit [--scene SCxx]` — ส่งทุกคลิป todo พร้อมกัน (prompt ตรงตัว + ภาพอ้างอิงสูงสุด `fal_max_refs` รูปจากหัวไฟล์) ถ้าผลมี `error` เรื่อง 401/403/เครดิต → หยุดและรายงาน
-  3. `python $S/fal_image.py EPxx collect --wait 600` — รอและดาวน์โหลดลง out_file; บรรทัด `failed` → `state.py take ... --result fail --qc "<error>"`
+  3. `python $S/fal_image.py EPxx collect [--scene SCxx] --wait 600` — รอและดาวน์โหลดลง out_file (ทำเฉพาะ Scene ให้ใส่ `--scene` เสมอ เพื่อไม่ดึงงานของสายอื่น); บรรทัด `failed` → `state.py take ... --result fail --qc "<error>"`
   4. ไปข้อ 3 (ตรวจภาพ) ตามปกติ บันทึก `--job <request_id> --cost <fal_usd_per_image>` (หน่วย USD ไม่ใช่เครดิต)
   5. ถ่ายซ้ำ: `fal_image.py EPxx submit --clips <clip>` (ส่งซ้ำได้หลังบันทึก take ก่อนหน้าแล้วเท่านั้น สคริปต์กันส่งซ้ำซ้อนให้)
   - ถูก safety checker ปฏิเสธ (error มีคำว่า safety/content) → บันทึก fail; ซ้ำ 2 ครั้ง → `give-up` พร้อมเหตุผล

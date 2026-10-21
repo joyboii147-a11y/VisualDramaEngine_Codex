@@ -1,16 +1,53 @@
 {
   "clip": "B041",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "fe46ebdca534"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Image/EP29_B041_T01.png",
+        "job": "01a15c73-6128-7df3-b414-9758b58ae2c8",
+        "result": "ok",
+        "qc": "ผ่าน ลำดับ ริต้า·เลขาเจต ถูก ซองขาวไม่มีตัวหนังสือ",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP29/Image/EP29_B041_T01.png",
+    "prompt_sha": "fe46ebdca534",
+    "flag": null,
+    "facts": "Long shot: Rita stands at screen-left behind the round white table, looking screen-right; Secretary Jet walks in at screen-right holding a plain white envelope in his right hand at his side. Glass wall with black steel frames behind, pink-white flower vase on the table center, marble floor."
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "34d7ce7632ca"
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Video/EP29_B041_T01.mp4",
+        "job": "fbf18f31-de86-9b6d-a75d-abab95fc92af",
+        "result": "fail",
+        "qc": "เลขาเจตเดินเข้าหากล้องแล้วหยุดขวาของโต๊ะ ไม่ได้ไปหยุดข้างริต้าซ้ายของแจกัน (ไม่ต่อกับ B043)",
+        "cost": 0.1
+      },
+      {
+        "take": 2,
+        "file": "EP29/Video/EP29_B041_T02.mp4",
+        "job": "88b8cfed-f8fc-97a2-9962-0918d74f1cb3",
+        "result": "fail",
+        "qc": "เลขาเจตยังหยุดขวาของโต๊ะ ไม่ไปข้างริต้า และริต้าเดินออกมาข้างหน้า",
+        "cost": 0.1
+      },
+      {
+        "take": 3,
+        "file": "EP29/Video/EP29_B041_T03.mp4",
+        "job": "1d12fb16-c866-9dba-8f52-2d1041851d7e",
+        "result": "fail",
+        "qc": "เลขาเจตหยุดขวาของโต๊ะเหมือนเดิม และริต้าเดินออกมาข้างหน้า",
+        "cost": 0.1
+      }
+    ],
+    "selected": "EP29/Video/EP29_B041_T01.mp4",
+    "prompt_sha": "34d7ce7632ca",
+    "flag": "ครบ 3 take: เลขาเจตเดินเฉียงเข้าหากล้องและหยุดขวาของโต๊ะ ไม่ไปยืนข้างริต้าซ้ายแจกัน ไม่ต่อกับตำแหน่งต้น B043 — ใช้ช่วงต้นคลิปหรือตัดสั้น"
   },
   "notes": []
 }

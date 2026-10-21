@@ -18,10 +18,20 @@
     "facts": "Jet at center, chest-up from slightly below, head bowed with eyes lowered toward below the bottom edge, lips slightly parted. A blurred band of Rita's white fur runs across the bottom edge. No hands or card visible."
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "14d134edfb9a"
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Video/EP29_A044_T01.mp4",
+        "job": "eca2e9b4-88e1-96d3-b321-db0100a820f7",
+        "result": "ok",
+        "qc": "ก้มมองแล้วเงยขึ้นมองริต้า หน้านิ่ง ขนเฟอร์ขอบล่างคงที่ ฉากคงที่",
+        "cost": 0.48
+      }
+    ],
+    "selected": "EP29/Video/EP29_A044_T01.mp4",
+    "prompt_sha": "14d134edfb9a",
+    "flag": "ต้องฟังลิปซิงก์"
   },
   "notes": []
 }

@@ -1,16 +1,37 @@
 {
   "clip": "B044",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "c0ce608b59e6"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Image/EP29_B044_T01.png",
+        "job": "01a15c73-7b63-7840-9856-bbff82a2ce5f",
+        "result": "ok",
+        "qc": "ผ่าน หน้าตรงภาพอ้างอิง Face",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP29/Image/EP29_B044_T01.png",
+    "prompt_sha": "c0ce608b59e6",
+    "flag": null,
+    "facts": "Tight close-up of Rita, face near center, eyes glancing screen-right, faint closed-lip smile, white shaggy fur collar and grey satin shirt with long beaded necklaces; dark glass wall bokeh behind."
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "99348d41b96a"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Video/EP29_B044_T01.mp4",
+        "job": "a0c1b224-3ce9-9e99-8451-2b50d22b3a42",
+        "result": "ok",
+        "qc": "ผ่าน ยิ้มแล้วเก็บหน้านิ่ง มองขวา",
+        "cost": 0.24
+      }
+    ],
+    "selected": "EP29/Video/EP29_B044_T01.mp4",
+    "prompt_sha": "99348d41b96a",
+    "flag": null
   },
   "notes": []
 }
