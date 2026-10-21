@@ -1,0 +1,36 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP28-S070 | Clip: A116 (A-roll) | SC02 คฤหาสน์/ห้องรับแขก กลางคืน
+# ไฟล์นี้: Image Prompt → OpenArt GPT Image 2 (9:16)
+# ตัวละครในเฟรม (รวม 2 คน):
+# - วิทย์ C05-W06 วิทย์ W06 ชุดแจ็กเก็ตครีมปกดำ.png | หน้า (CU) | ลำดับเฟรม 1 จากซ้าย; รายละเอียดตำแหน่งและทิศตามองค์ประกอบต้นเฟรมด้านล่าง
+# - แม่วิทย์ C01-W04 แม่วิทย์ W04.png | เห็นแค่แขนหรือไหล่ | ลำดับเฟรม 2 จากซ้าย; รายละเอียดตำแหน่งและทิศตามองค์ประกอบต้นเฟรมด้านล่าง
+# องค์ประกอบต้นเฟรม: วิทย์ (W06): กลาง-ซ้าย · ระนาบกลาง · ศีรษะถึงไหล่ · มองซ้ายเฟรม ตะคอกอ้าปากกว้าง; [เสนอ] ผู้หญิงเบลอหลังขวา=แม่วิทย์ที่นั่งโซฟามุม ไม่ใช่แม่บ้านเดินข้ามห้อง
+# ลำดับเฟรมซ้าย→ขวา: วิทย์ · แม่วิทย์ (นั่งเบลอขวาหลัง)
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม: ไอริน, ศิลา, แม่บ้าน, ริต้า
+# แนบใน OpenArt: 1) input/characters/วิทย์/Face.webp; 2) input/characters/แม่วิทย์/แม่วิทย์ W04.png
+# Face ใช้เฉพาะใบหน้า/ผม ชุดใช้LOCKEDล่าสุด; รูปturnaroundคือคนเดียว เลือก9:16ที่หน้าOpenArt
+# เสียง/การตัดต่อ: D014 วิทย์ ON: " ทำให้จีอากับลูกตกใจหมดเลย!" | โหมด A; บทผลิตเต็มของ A116 เท่านั้น: " ทำให้จีอากับลูกตกใจหมดเลย!"
+# ยังไม่มีผลภาพ/วิดีโอจริงให้ตรวจ ต้องเทียบภาพชุดและตรวจเสียงหลังผู้ใช้ผลิต
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+Create one standalone starting-frame image for SHOT EP28-S070.
+Vertical 9:16. Cinematic live-action still, photorealistic, natural skin and material texture.
+REFERENCE IMAGES:
+Image 1: Wit — use only for face, skin tone and hairstyle. The outfit comes exclusively from the text below. Do not copy the reference outfit, background, lighting or pose. A multi-view reference represents one person only.
+Image 2: Wit's mother — use for face, skin tone, hairstyle, body shape and this exact outfit. Do not copy the background, lighting, pose or camera angle. A multi-view reference represents one person only.
+CHARACTERS: Wit (C05-W06): a young adult Thai man, identity bound to reference Image 1; wearing a cream waist-length button-front jacket with a black pointed collar over a plain white crew-neck T-shirt, black straight-leg trousers, black leather loafers, and tousled short black hair; center-left, standing by the sofa, facing screen-left; completely dry; Wit's mother (C01-W04): a middle-aged Thai woman, identity bound to reference Image 2; wearing an off-the-shoulder white ribbed bodice with sheer white puff sleeves, a long dark navy wrap-front skirt with a front slit, black pointed heels, a short pearl necklace, pearl earrings, a silver watch, a pearl bracelet, and dark brown hair in a low braided updo; rear-right, seated on the corner sofa, blurred head and white shoulders only; completely dry
+CAST COUNT: exactly 2 people visible, including partial and blurred figures.
+SCENE GEOGRAPHY: A cream mansion living room with molded cream walls and a central marble-floor lane. A white-framed double glass entrance faces a long silver-framed glass coffee table and a gray-cream patterned Louis-style sofa. A matching corner sofa sits at the right of the family sofa from the entrance viewpoint. The entrance-side wall also has a window; the sofa-side wall has black-and-white abstract art and a warm table lamp. A crystal chandelier and wall sconces supply warm light. The peach-orange-white bouquet stays on the coffee table. Visible positions: Wit center-left, standing by the sofa, facing screen-left; Wit's mother rear-right, seated on the corner sofa, blurred head and white shoulders only.
+FRAME ORDER: from screen-left to screen-right: Wit -> Wit's mother.
+CAMERA POSITION: on the entrance side of the room, looking toward the family sofa and sofa-side wall, on the established entrance side of the conversation axis.
+VIEW DIRECTION: on the entrance side of the room, looking toward the family sofa and sofa-side wall, on the established entrance side of the conversation axis; the view terminates at the visible background described below.
+BETWEEN CAMERA AND SUBJECT: clear sightline to the focused face; no foreground person. The named supporting person is behind the focused actor, not between actor and camera.
+SET IN FRAME: cream molded wall on the sofa side, only the wall section within the stated crop visible.
+VISIBLE BACKGROUND: cream molded wall on the sofa side, only the wall section within the stated crop visible. Background supporting person: Wit's mother, seated in the rear-right background, her blurred head, white shoulders, pearl necklace and low braided updo visible.
+OFF-FRAME: The attention target beyond the indicated frame edge is not shown; only the eyes may turn, and the camera does not follow the gaze. No other person or any part of another person appears in the frame.
+START STATE: Wit looks screen-left with a hard stare; his mother sits blurred at the rear right. Position and visible parts: Wit center-left, standing by the sofa, facing screen-left; Wit's mother rear-right, seated on the corner sofa, blurred head and white shoulders only. No hand-held prop visible in this crop. Describe no object beyond the crop.
+CAMERA: TIGHT CLOSE-UP. The main face fills about 60% of frame height; top cuts through the top of the hair and bottom just below the chin at the collarbones. No main-subject chest, waist or hands visible. 85mm, about 1 meter away.
+FOCUS: Wit’s face is sharp; the explicitly named supporting person behind him stays softly defocused in the rear-right background. No foreground person.
+LIGHTING: warm crystal-chandelier and wall-sconce practicals, warm table-lamp light behind the sofa, soft neutral fill from the entrance-side window area, restrained cream highlights and natural skin tones, coherent soft medium-low contrast; no daylight sky or sunbeams.
+GRADE: warm cream mansion interiors, silver-gray furniture, restrained peach floral accents, natural skin and soft medium-low contrast.
+Show only the starting moment, before any planned movement begins. This is a single static starting frame, not an action sequence.
+No captions, subtitles, labels, watermarks, panels or collage.

@@ -1,0 +1,41 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP28-S029 | Clip: B015 (B-roll) | SC01 โถงงานเลี้ยง กลางคืน
+# ไฟล์นี้: Image Prompt → OpenArt GPT Image 2 (9:16)
+#
+# ตัวละครในเฟรม (รวม 8 คน):
+# - วิทย์ C05-W06 ชุดแจ็กเก็ตครีมปกดำ | เบลอฉากหลัง หันหลัง | วิทย์ (หลังเบลอซ้าย)
+# - ริต้า C06-W02 ชุดเดรสสีดำ | ครึ่งตัว | ริต้า (กลางขวา)
+# - แขกชาย 6 คน ไม่มีรหัส/ภาพอ้างอิง | เบลอฉากหลัง กลางหลัง รักษาจำนวน6คน
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - ไอริน C04-W12 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - แม่วิทย์ C01-W04 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - พ่อวิทย์ C12-W02 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - ผู้ติดตามชาย C13-W01 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# แนบใน OpenArt: 1) input/characters/ริต้า/ริต้า W02 ชุดเดรสสีดำ.webp
+# แนบใน OpenArt: 2) input/characters/วิทย์/วิทย์ W06 ชุดแจ็กเก็ตครีมปกดำ.png
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+Create one standalone starting-frame image for SHOT EP28-S029.
+Vertical 9:16. Cinematic live-action still, photorealistic, natural material and skin texture.
+REFERENCE IMAGES:
+Image 1: Rita — use for face, skin tone, hairstyle, body shape and this exact outfit. Do not copy the background, lighting, pose or camera angle from this image.
+Image 2: Wit — use for face, skin tone, hairstyle, body shape and this exact outfit. Do not copy the background, lighting, pose or camera angle from this image.
+A multi-view turnaround reference depicts one person from several angles. Render each named character once only; do not copy the sheet layout or duplicate a person.
+CHARACTERS: Wit: young Thai man; reference binding controls identity; wearing a cream waist-length button-front jacket with a black pointed collar over a plain white crew-neck T-shirt, black straight-leg trousers, black leather loafers, and tousled short black hair; completely dry. Visible position: distant, softly blurred rear figure at far screen-left, cream jacket recognizable. Rita: young Thai woman; reference binding controls identity; wearing a sleeveless black halter-neck evening dress with a high black lace inset, a draped black front and asymmetric peplum waist, a subtly sparkling black lower skirt, small gold earrings, and long dark brown wavy half-up hair; completely dry. Visible position: center-right nearer the camera, initially turned away before moving and turning. Six adult Thai male party guests in dark formal suits and white shirts, each an individual person, softly blurred in the middle-rear plane. They remain behind Rita and between her and the distant Wit; no additional crowd is visible.
+CAST COUNT: exactly 8 people visible, including every partial figure and blurred person.
+SCENE GEOGRAPHY: A high-ceilinged indoor reception hall at night. The visible fixed surfaces and furniture within this crop are: Tall glass panels with dark metal frames and warm wall lights; Wit remains softly blurred at far screen-left behind six male guests. A white-draped standing table with orange flowers occupies the lower-left edge. Visible cast positions relative to these landmarks: Wit distant, softly blurred rear figure at far screen-left, cream jacket recognizable. Rita center-right nearer the camera, initially turned away before moving and turning.
+FRAME ORDER: from screen-left to screen-right: Wit (blurred rear screen-left), six male guests (blurred middle-rear cluster), Rita (center-right).
+CAMERA POSITION: In the inner hall at chest height, initially behind Rita, looking toward the guest cluster and the distant standing-table group; hold the established inner-hall axis.
+VIEW DIRECTION: Toward the specified visible cast and then Tall glass panels with dark metal frames and warm wall lights; Wit remains softly blurred at far screen-left behind six male guests. A white-draped standing table with orange flowers occupies the lower-left edge.
+SET IN FRAME: Wit stays distant left; exactly six male guests form the softly blurred middle-rear cluster; Rita starts center-right in the foreground. Glass mullions and the guest group retain their positions. Do not mirror the layout. Keep this layout; do not move or mirror it.
+BETWEEN CAMERA AND SUBJECT: The visible open space or table-edge crop described here; no additional person blocks the view.
+FOREGROUND: The white-draped standing table and orange flowers at lower-left.
+VISIBLE BACKGROUND: Tall glass panels with dark metal frames and warm wall lights; Wit remains softly blurred at far screen-left behind six male guests. A white-draped standing table with orange flowers occupies the lower-left edge.
+OFF-FRAME: Other family members are outside this crop. No other person or any part of another person appears in the frame.
+START STATE: Rita stands center-right with her back partly toward camera, black phone in her right hand not yet raised; Wit is distant blurred screen-left and six male guests occupy the middle-rear plane.
+PROP STATE: A single black smartphone is in Rita's right hand, initially held down before being lifted to her right ear. A white-draped table with orange flowers stays at lower-left.
+CAMERA: MEDIUM SHOT progressing to a medium close-up solely because Rita turns nearer the camera; frame starts head-to-hip with her about 65% of frame height. 50mm full-frame equivalent, chest height; finish mid-chest up without zooming out.
+FOCUS: The primary visible face is sharp; foreground shoulders and distant cast remain softly defocused exactly as specified.
+LIGHTING: Soft warm illumination from fixed overhead track lights, with restrained cool teal fill reflected from the hall surfaces where already visible; natural medium contrast, warm skin tones, nighttime interior throughout. No extra light fixture is introduced within the crop.
+GRADE: warm luxury-event color treatment, natural skin, medium contrast, controlled highlights and restrained saturation.
+Show only the starting moment, before any planned movement begins.
+No captions, subtitles, labels, watermarks, panels or collage.

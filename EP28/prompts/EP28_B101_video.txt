@@ -1,0 +1,37 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP28-S031 | Clip: B101 (B-roll) | SC02 คฤหาสน์/ห้องรับแขก กลางคืน
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 3 วิ | เสียงโหมด C
+# ตัวละครในเฟรม (รวม 0 คน):
+# - ไม่มีตัวละคร
+# องค์ประกอบต้นเฟรม: ไม่มีตัวละคร
+# ลำดับเฟรมซ้าย→ขวา: ไม่มีคน
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม: ไม่มี
+# แนบใน Grok: ภาพที่เลือกจาก EP28_B101_image ของคลิปนี้เท่านั้น
+# ผู้พูด: ไม่มี | คนในเฟรมที่ไม่พูด: ไม่มี
+# เสียง/การตัดต่อ: ไม่มีบทใหม่ | โหมด C; ปิดเสียง B101 ใช้ room tone จาก A101 ช่วงหลังจบคำ/หยุดนิ่ง ไม่ทวนบท
+# ยังไม่มีผลภาพ/วิดีโอจริงให้ตรวจ ต้องเทียบภาพชุดและตรวจเสียงหลังผู้ใช้ผลิต
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+EP28_B101 SHOT EP28-S031. One continuous cinematic live-action shot, vertical 9:16.
+TARGET DURATION: 3 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
+SCENE GEOGRAPHY: deep navy sky in the upper-left half, black iron balcony slanting from lower-left toward upper-right, warm-lit windows across a cream European-style facade.
+VISIBLE CAST: No people.
+CAST COUNT: exactly 0 people visible, including partial and blurred figures.
+FRAME ORDER: from screen-left to screen-right: none.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: outside below the mansion balcony, looking upward diagonally across the facade. Architectural wide shot. The facade fills the right two thirds; the navy sky fills the upper-left half. 35mm, raised viewpoint angled slightly upward.
+FOREGROUND / VISIBLE BACKGROUND: No foreground person or added partial figure. Background: deep navy sky in the upper-left half, black iron balcony slanting from lower-left toward upper-right, warm-lit windows across a cream European-style facade.
+SET IN FRAME: deep navy sky in the upper-left half, black iron balcony slanting from lower-left toward upper-right, warm-lit windows across a cream European-style facade.
+OFF-FRAME: No additional figure is included outside the listed cast. No one else enters the frame at any time.
+LIGHTING / COLOR: night exterior, warm facade and window practical lights against a deep navy sky, natural medium-low contrast. warm building lights against deep navy night sky.
+PROP STATE: No hand-held objects or people.
+START STATE: The building and balcony are motionless under a dark navy sky.
+PERFORMANCE CONTEXT: gentle appreciative family conversation.
+ACTION: Hold the exterior without people or movement.
+END STATE: The cream facade remains still. Hold this final state until the very end of the clip; the framing does not change after the specified movement ends.
+CAMERA: locked-off, the framing never changes.
+VISUAL CONTINUITY: Preserve the supplied starting image's faces, hair, visible wardrobe, set geometry, lighting and color. Allow only the specified actions and camera movement. No added people, identity swaps or prop teleportation. Do not reveal objects or clothing beyond the stated crop.
+AUDIO MODE: no dialogue.
+No intelligible speech or speech-like lip-sync.
+NON-SPEAKERS: all visible people; no assigned speaker.
+AMBIENCE/SFX: quiet location tone only; no voices, music or background chatter. The editor will mute this clip and use the identified A-roll source in the shot instructions.

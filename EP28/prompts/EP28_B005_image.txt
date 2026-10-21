@@ -1,0 +1,40 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP28-S012 | Clip: B005 (B-roll) | SC01 โถงงานเลี้ยง กลางคืน
+# ไฟล์นี้: Image Prompt → OpenArt GPT Image 2 (9:16)
+#
+# ตัวละครในเฟรม (รวม 2 คน):
+# - วิทย์ C05-W06 ชุดแจ็กเก็ตครีมปกดำ | ครึ่งตัว | วิทย์ (W06): ซ้ายของเฟรม · ระนาบกลาง · ถึงเอว · ก้มหน้ามองไอริน (ขวาเฟรม)
+# - ไอริน C04-W12 ชุดคลุมท้องครีมคาร์ดิแกนเทา | ครึ่งตัว | ไอริน (W12): กลาง-ขวา ต่ำกว่าวิทย์ · ระนาบกลางค่อนหลัง · ถึงอก ถูกแจกันบังลำตัว · ก้มมองลง
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - แม่วิทย์ C01-W04 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - พ่อวิทย์ C12-W02 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - ผู้ติดตามชาย C13-W01 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - ริต้า C06-W02 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# แนบใน OpenArt: 1) input/characters/วิทย์/วิทย์ W06 ชุดแจ็กเก็ตครีมปกดำ.png
+# แนบใน OpenArt: 2) input/characters/ไอริน/ไอริน W12 ชุดคลุมท้อง.png
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+Create one standalone starting-frame image for SHOT EP28-S012.
+Vertical 9:16. Cinematic live-action still, photorealistic, natural material and skin texture.
+REFERENCE IMAGES:
+Image 1: Wit — use for face, skin tone, hairstyle, body shape and this exact outfit. Do not copy the background, lighting, pose or camera angle from this image.
+Image 2: Irin — use for face, skin tone, hairstyle, body shape and this exact outfit. Do not copy the background, lighting, pose or camera angle from this image.
+A multi-view turnaround reference depicts one person from several angles. Render each named character once only; do not copy the sheet layout or duplicate a person.
+CHARACTERS: Wit: young Thai man; reference binding controls identity; wearing a cream waist-length button-front jacket with a black pointed collar over a plain white crew-neck T-shirt, black straight-leg trousers, black leather loafers, and tousled short black hair; completely dry. Visible position: screen-left middle plane, looking down screen-right toward Irin. Irin: young pregnant Thai woman; reference binding controls identity; wearing a cream cable-knit maternity midi dress with a scoop neckline and a narrow tie under the bust, an open light gray long knit cardigan, cream bow ballet flats, a small silver pendant necklace, and long loose dark brown wavy hair; completely dry. Visible position: center-right and a little farther back, looking down.
+CAST COUNT: exactly 2 people visible, including every partial figure and blurred person.
+SCENE GEOGRAPHY: A high-ceilinged indoor reception hall at night. The visible fixed surfaces and furniture within this crop are: Night-black glass behind both people, with the fixed flame heater behind Irin; the white-draped table and black vase fill the lower quarter. Visible cast positions relative to these landmarks: Wit screen-left middle plane, looking down screen-right toward Irin. Irin center-right and a little farther back, looking down.
+FRAME ORDER: from screen-left to screen-right: Wit, Irin.
+CAMERA POSITION: On the mother side of the standing table, looking across its vase toward the couple and the glazed wall, standing chest height.
+VIEW DIRECTION: Toward the specified visible cast and then Night-black glass behind both people, with the fixed flame heater behind Irin; the white-draped table and black vase fill the lower quarter.
+SET IN FRAME: Wit screen-left, Irin center-right and slightly farther back; the black floral vase is low center and the heater behind Irin. Do not move the heater to the other side. Keep this layout; do not move or mirror it.
+BETWEEN CAMERA AND SUBJECT: The visible open space or table-edge crop described here; no additional person blocks the view.
+FOREGROUND: White tablecloth lower quarter and black vase with white-pink flowers low center.
+VISIBLE BACKGROUND: Night-black glass behind both people, with the fixed flame heater behind Irin; the white-draped table and black vase fill the lower quarter.
+OFF-FRAME: The person the couple has been addressing is beyond this crop. No other person or any part of another person appears in the frame.
+START STATE: Wit stands screen-left looking down toward Irin; she looks down, with the flower vase hiding part of her torso.
+PROP STATE: The white-draped table and the black vase with white-pink flowers stay fixed. Nobody picks up any table object.
+CAMERA: MEDIUM SHOT. The frame bottom cuts at the waist; the head sits in the upper third. 50mm full-frame equivalent, about 2.5 meters away, standing chest height.
+FOCUS: The primary visible face is sharp; foreground shoulders and distant cast remain softly defocused exactly as specified.
+LIGHTING: night interior with warm overhead track lights and a restrained heater-flame practical beside the dark glass wall, soft warm facial light against subdued cool teal hall accents, natural medium contrast; exterior beyond the glazing remains dark
+GRADE: warm luxury-event color treatment, natural skin, medium contrast, controlled highlights and restrained saturation.
+Show only the starting moment, before any planned movement begins.
+No captions, subtitles, labels, watermarks, panels or collage.

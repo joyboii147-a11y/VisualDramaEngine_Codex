@@ -1,0 +1,41 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP28-S083 | Clip: B130 (B-roll) | SC02 คฤหาสน์/ห้องรับแขก กลางคืน
+# ไฟล์นี้: Image Prompt → OpenArt GPT Image 2 (9:16)
+# ตัวละครในเฟรม (รวม 2 คน):
+# - วิทย์ C05-W06 วิทย์ W06 ชุดแจ็กเก็ตครีมปกดำ.png | เห็นแค่แขนหรือไหล่ | ลำดับเฟรม 1 จากซ้าย; รายละเอียดตำแหน่งและทิศตามองค์ประกอบต้นเฟรมด้านล่าง
+# - ไอริน C04-W12 ไอริน W12 ชุดคลุมท้อง.png | ครึ่งตัว | ลำดับเฟรม 2 จากซ้าย; รายละเอียดตำแหน่งและทิศตามองค์ประกอบต้นเฟรมด้านล่าง
+# องค์ประกอบต้นเฟรม: ไอริน (W12): กลางเฟรม · ระนาบกลาง · ยืน ถึงเอว · ก้มตาลงแล้วเงยมองตรง หน้าเรียบ; วิทย์ (W06): แขนเสื้อครีมเบลอขอบซ้าย
+# ลำดับเฟรมซ้าย→ขวา: วิทย์ (แขนซ้าย) · ไอริน
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม: แม่วิทย์, ศิลา, แม่บ้าน, ริต้า, หัวหน้าการ์ด, การ์ด 1, การ์ด 2, การ์ด 3, การ์ด 4
+# แนบใน OpenArt: 1) input/characters/วิทย์/วิทย์ W06 ชุดแจ็กเก็ตครีมปกดำ.png; 2) input/characters/ไอริน/ไอริน W12 ชุดคลุมท้อง.png
+# Face ใช้เฉพาะใบหน้า/ผม ชุดใช้LOCKEDล่าสุด; รูปturnaroundคือคนเดียว เลือก9:16ที่หน้าOpenArt
+# เสียง/การตัดต่อ: D016 วิทย์ OS: " นอกจากคนในครอบครัวผม" | ภาพโหมด C เงียบ; ปิดเสียง B130 ใช้เสียงจาก A122 ช่วงคำนี้ครั้งเดียว
+# ยังไม่มีผลภาพ/วิดีโอจริงให้ตรวจ ต้องเทียบภาพชุดและตรวจเสียงหลังผู้ใช้ผลิต
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+Create one standalone starting-frame image for SHOT EP28-S083.
+Vertical 9:16. Cinematic live-action still, photorealistic, natural skin and material texture.
+REFERENCE IMAGES:
+Image 1: Wit — use for face, skin tone, hairstyle, body shape and this exact outfit. Do not copy the background, lighting, pose or camera angle. A multi-view reference represents one person only.
+Image 2: Irin — use for face, skin tone, hairstyle, body shape and this exact outfit. Do not copy the background, lighting, pose or camera angle. A multi-view reference represents one person only.
+CHARACTERS: Wit (C05-W06): a young adult Thai man, identity bound to reference Image 1; wearing a cream waist-length button-front jacket with a black pointed collar over a plain white crew-neck T-shirt, black straight-leg trousers, black leather loafers, and tousled short black hair; only his blurred cream sleeve along the left foreground edge; completely dry; Irin (C04-W12): a young adult pregnant Thai woman, identity bound to reference Image 2; wearing a cream cable-knit maternity midi dress with a scoop neckline and a narrow tie under the bust, an open light gray long knit cardigan, cream bow ballet flats, a small silver pendant necklace, and long loose dark brown wavy hair; center, standing by the sofa facing slightly screen-left; completely dry
+CAST COUNT: exactly 2 people visible, including partial and blurred figures.
+FOREGROUND OWNER: Wit.
+VISIBLE FOREGROUND IDENTITY: Wit: only his blurred cream sleeve along the left foreground edge
+CAMERA RELATION: on the entrance side of the room, looking toward the family sofa and sofa-side wall, on the established entrance side of the conversation axis.
+FOCUS SUBJECT: Irin.
+OCCLUSION: keep the focused face unobstructed; do not add a generic foreground figure.
+SCENE GEOGRAPHY: A cream mansion living room with molded cream walls and a central marble-floor lane. A white-framed double glass entrance faces a long silver-framed glass coffee table and a gray-cream patterned Louis-style sofa. A matching corner sofa sits at the right of the family sofa from the entrance viewpoint. The entrance-side wall also has a window; the sofa-side wall has black-and-white abstract art and a warm table lamp. A crystal chandelier and wall sconces supply warm light. The peach-orange-white bouquet stays on the coffee table. Visible positions: Wit only his blurred cream sleeve along the left foreground edge; Irin center, standing by the sofa facing slightly screen-left.
+FRAME ORDER: from screen-left to screen-right: Wit -> Irin.
+CAMERA POSITION: on the entrance side of the room, looking toward the family sofa and sofa-side wall, on the established entrance side of the conversation axis.
+VIEW DIRECTION: on the entrance side of the room, looking toward the family sofa and sofa-side wall, on the established entrance side of the conversation axis; the view terminates at the visible background described below.
+BETWEEN CAMERA AND SUBJECT: the explicitly named foreground edges only; do not hide the focused face.
+SET IN FRAME: cream molded wall on the sofa side, only the wall section within the stated crop visible.
+VISIBLE BACKGROUND: cream molded wall on the sofa side, only the wall section within the stated crop visible.
+OFF-FRAME: The attention target beyond the indicated frame edge is not shown; only the eyes may turn, and the camera does not follow the gaze. No other person or any part of another person appears in the frame.
+START STATE: Irin stands with eyes lowered, face composed; Wit’s cream sleeve is blurred at the left edge. Position and visible parts: Wit only his blurred cream sleeve along the left foreground edge; Irin center, standing by the sofa facing slightly screen-left. No hand-held prop visible in this crop. Describe no object beyond the crop.
+CAMERA: MEDIUM SHOT. Frame bottom cuts at the waist; the main head sits in the upper third. 50mm, about 2.5 meters away, eye-level.
+FOCUS: Irin is sharp; intended foreground edges and background supporting people are softly defocused, without changing their count.
+LIGHTING: warm crystal-chandelier and wall-sconce practicals, warm table-lamp light behind the sofa, soft neutral fill from the entrance-side window area, restrained cream highlights and natural skin tones, coherent soft medium-low contrast; no daylight sky or sunbeams.
+GRADE: warm cream mansion interiors, silver-gray furniture, restrained peach floral accents, natural skin and soft medium-low contrast.
+Show only the starting moment, before any planned movement begins. This is a single static starting frame, not an action sequence.
+No captions, subtitles, labels, watermarks, panels or collage.

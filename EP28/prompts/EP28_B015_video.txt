@@ -1,0 +1,39 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP28-S029 | Clip: B015 (B-roll) | SC01 โถงงานเลี้ยง กลางคืน
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 7 วิ | เสียงโหมด C
+#
+# ตัวละครในเฟรม (รวม 8 คน):
+# - วิทย์ C05-W06 ชุดแจ็กเก็ตครีมปกดำ | เบลอฉากหลัง หันหลัง | วิทย์ (หลังเบลอซ้าย)
+# - ริต้า C06-W02 ชุดเดรสสีดำ | ครึ่งตัว | ริต้า (กลางขวา)
+# - แขกชาย 6 คน ไม่มีรหัส/ภาพอ้างอิง | เบลอฉากหลัง กลางหลัง รักษาจำนวน6คน
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - ไอริน C04-W12 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - แม่วิทย์ C01-W04 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - พ่อวิทย์ C12-W02 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - ผู้ติดตามชาย C13-W01 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# แนบใน Grok: ภาพที่เลือกจาก EP28_B015_image
+# ผู้พูด: ไม่มี | คนในเฟรมที่ไม่พูด: วิทย์, ริต้า, แขกชายทั้ง6คน
+# ช่วงคำพูดตามShotสร้างครั้งเดียว ไม่สร้างคำของคลิปอื่นซ้ำ; เวลาประมาณไม่ใช่ผลตรวจเสียงจริง
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+EP28_B015 SHOT EP28-S029. One continuous cinematic live-action shot, vertical 9:16.
+TARGET DURATION: 7 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
+SCENE GEOGRAPHY: Indoor nighttime reception hall, limited to this camera crop: Tall glass panels with dark metal frames and warm wall lights; Wit remains softly blurred at far screen-left behind six male guests. A white-draped standing table with orange flowers occupies the lower-left edge. Visible cast retain the landmark-relative positions listed below.
+VISIBLE CAST: exactly 8 people, including partial and blurred figures. Wit: the rear of a cream jacket with a dark collar and tousled short black hair, softly blurred; completely dry; distant, softly blurred rear figure at far screen-left, cream jacket recognizable. Rita: a sleeveless black halter-neck evening dress with a high black lace inset, a draped black front, small gold earrings, and long dark brown wavy half-up hair, asymmetric black peplum at the waist and a black skirt only within the hip-level crop; completely dry; center-right nearer the camera, initially turned away before moving and turning. Six adult Thai male party guests in dark formal suits and white shirts, each an individual person, softly blurred in the middle-rear plane. They remain behind Rita and between her and the distant Wit; no additional crowd is visible.
+FRAME ORDER: from screen-left to screen-right: Wit (blurred rear screen-left), six male guests (blurred middle-rear cluster), Rita (center-right).
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: In the inner hall at chest height, initially behind Rita, looking toward the guest cluster and the distant standing-table group; hold the established inner-hall axis. Looking through the specified visible cast toward Tall glass panels with dark metal frames and warm wall lights; Wit remains softly blurred at far screen-left behind six male guests. A white-draped standing table with orange flowers occupies the lower-left edge.
+SET IN FRAME: Wit stays distant left; exactly six male guests form the softly blurred middle-rear cluster; Rita starts center-right in the foreground. Glass mullions and the guest group retain their positions. Do not mirror the layout. Keep this layout; do not move or mirror it.
+FOREGROUND / VISIBLE BACKGROUND: The white-draped standing table and orange flowers at lower-left. Background: Tall glass panels with dark metal frames and warm wall lights; Wit remains softly blurred at far screen-left behind six male guests. A white-draped standing table with orange flowers occupies the lower-left edge.
+OFF-FRAME: Other family members are outside this crop. No one else enters the frame at any time.
+LIGHTING / COLOR: Soft warm illumination from fixed overhead track lights, with restrained cool teal fill reflected from the hall surfaces where already visible; natural medium contrast, warm skin tones, nighttime interior throughout. No extra light fixture is introduced within the crop. warm luxury-event color treatment, natural skin, medium contrast, controlled highlights and restrained saturation.
+PROP STATE: A single black smartphone is in Rita's right hand, initially held down before being lifted to her right ear. A white-draped table with orange flowers stays at lower-left.
+START STATE: Rita stands center-right with her back partly toward camera, black phone in her right hand not yet raised; Wit is distant blurred screen-left and six male guests occupy the middle-rear plane.
+PERFORMANCE CONTEXT: This is a silent physical action or reaction, expressing only the specified change; do not invent speech or new events.
+ACTION: Allow a brief 0.5-second quiet head handle, then Rita takes a few steps screen-right away from the central area, turns back toward camera, stops beside the standing table and lifts the black phone in her right hand to her right ear. Wit stays at the distant table, softly smiling without speech; each of the six guests remains in the rear cluster with only slight breathing and posture shifts. Rita does not speak yet. Hold the final pose quietly through the tail handle until the very end of the clip; the framing does not change.
+END STATE: Rita has stopped beside the table facing more toward camera, right hand holds phone to right ear, lips at rest with the beginning of a distressed pout. The guest cluster and distant Wit stay in place.
+CAMERA: MEDIUM SHOT progressing to a medium close-up solely because Rita turns nearer the camera; frame starts head-to-hip with her about 65% of frame height. 50mm full-frame equivalent, chest height; finish mid-chest up without zooming out. Motion: a restrained handheld follow of Rita moving screen-right, then settle as she turns and stops beside the table. Keep Wit and the six guests in their fixed distant background places. There is no zoom or change to a different camera angle.
+VISUAL CONTINUITY: Preserve the starting image's faces, hair, wardrobe, set geometry, lighting character and color treatment. Allow only the specified actions and camera movement. No unplanned cuts, added people, identity swaps or prop teleportation. Every named character appears once only, never as duplicate turnaround views.
+AUDIO MODE: no dialogue.
+No intelligible speech or speech-like lip-sync.
+AMBIENCE/SFX: quiet continuous indoor room tone, no intelligible guest chatter, no added music or voices.

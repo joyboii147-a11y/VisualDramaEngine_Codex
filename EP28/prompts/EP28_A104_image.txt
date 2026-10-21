@@ -1,0 +1,36 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP28-S037 | Clip: A104 (A-roll) | SC02 คฤหาสน์/ห้องรับแขก กลางคืน
+# ไฟล์นี้: Image Prompt → OpenArt GPT Image 2 (9:16)
+# ตัวละครในเฟรม (รวม 2 คน):
+# - ศิลา C14-W02 พ่อริต้า ชุดโปโลกรมท่าW02.png | เต็มตัว | ลำดับเฟรม 1 จากซ้าย; รายละเอียดตำแหน่งและทิศตามองค์ประกอบต้นเฟรมด้านล่าง
+# - แม่บ้าน C15-W01 ไม่มีภาพอ้างอิง | เต็มตัว | ลำดับเฟรม 2 จากซ้าย; รายละเอียดตำแหน่งและทิศตามองค์ประกอบต้นเฟรมด้านล่าง
+# องค์ประกอบต้นเฟรม: ศิลา (W02): กลาง-ซ้าย · ระนาบกลาง · เต็มตัว สูงราวครึ่งเฟรม · เดินเข้าหากล้อง มองขวาล่างเฟรม (กลุ่มที่ 1) พูดเสียงดัง; แม่บ้าน (W01): กลาง-ขวา · ระนาบหลัง · เต็มตัว · ยืนจับบานประตู หันซ้ายเฟรม
+# ลำดับเฟรมซ้าย→ขวา: ศิลา · แม่บ้าน
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม: ไอริน, วิทย์, แม่วิทย์
+# แนบใน OpenArt: 1) input/characters/พ่อของริต้า/พ่อริต้า ชุดโปโลกรมท่าW02.png
+# Face ใช้เฉพาะใบหน้า/ผม ชุดใช้LOCKEDล่าสุด; รูปturnaroundคือคนเดียว เลือก9:16ที่หน้าOpenArt
+# เสียง/การตัดต่อ: D010 ศิลา ON: "คุณนายคิมครับ!" | โหมด A; บทผลิตเต็มของ A104 เท่านั้น: "คุณนายคิมครับ!"
+# ความเสี่ยง/เหตุผล:  เสี่ยงอัตลักษณ์หลายคน/ไม่มีภาพ: แม่บ้าน; คงทุกคนตามผังและบรรยายเต็ม ไม่เพิ่ม/ตัดคนเพื่อเพดานอ้างอิง2รูป
+# ยังไม่มีผลภาพ/วิดีโอจริงให้ตรวจ ต้องเทียบภาพชุดและตรวจเสียงหลังผู้ใช้ผลิต
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+Create one standalone starting-frame image for SHOT EP28-S037.
+Vertical 9:16. Cinematic live-action still, photorealistic, natural skin and material texture.
+REFERENCE IMAGES:
+Image 1: Sila — use for face, skin tone, hairstyle, body shape and this exact outfit. Do not copy the background, lighting, pose or camera angle. A multi-view reference represents one person only.
+CHARACTERS: Sila (C14-W02): an older Thai man, identity bound to reference Image 1; wearing a dark navy short-sleeve polo shirt tucked into light beige trousers, a brown leather belt with a silver buckle, a brown-strap wristwatch on the left wrist, and swept-back dark hair with gray at the temples, with no glasses; center-left, full-body, advancing from the doorway toward the lower-right family direction; completely dry; Housemaid (C15-W01): an adult Thai woman with tied-back dark hair; wearing a black short dress with white trim, white indoor slippers and tied-back dark hair; center-right far behind, full-body beside the open doorway, facing left and holding its leaf; completely dry
+CAST COUNT: exactly 2 people visible, including partial and blurred figures.
+SCENE GEOGRAPHY: A cream mansion living room with molded cream walls and a central marble-floor lane. A white-framed double glass entrance faces a long silver-framed glass coffee table and a gray-cream patterned Louis-style sofa. A matching corner sofa sits at the right of the family sofa from the entrance viewpoint. The entrance-side wall also has a window; the sofa-side wall has black-and-white abstract art and a warm table lamp. A crystal chandelier and wall sconces supply warm light. The peach-orange-white bouquet stays on the coffee table. Visible positions: Sila center-left, full-body, advancing from the doorway toward the lower-right family direction; Housemaid center-right far behind, full-body beside the open doorway, facing left and holding its leaf.
+FRAME ORDER: from screen-left to screen-right: Sila -> Housemaid.
+CAMERA POSITION: inside the living room, looking back toward the white-framed entrance across the marble lane.
+VIEW DIRECTION: inside the living room, looking back toward the white-framed entrance across the marble lane; the view terminates at the visible background described below.
+BETWEEN CAMERA AND SUBJECT: open air or clear marble floor; no obstructing person.
+SET IN FRAME: open white-framed double glass entrance directly behind Sila and Housemaid, warm hall ceiling lights beyond it, marble floor below.
+VISIBLE BACKGROUND: open white-framed double glass entrance directly behind Sila and Housemaid, warm hall ceiling lights beyond it, marble floor below.
+OFF-FRAME: The attention target beyond the indicated frame edge is not shown; only the eyes may turn, and the camera does not follow the gaze. No other person or any part of another person appears in the frame.
+START STATE: Sila has stepped just through the open double door, looking down toward screen-right; Housemaid holds a door leaf behind him. Position and visible parts: Sila center-left, full-body, advancing from the doorway toward the lower-right family direction; Housemaid center-right far behind, full-body beside the open doorway, facing left and holding its leaf. Housemaid holds the open glass door leaf. The marble lane is clear; the coffee table remains fixed where visible.
+CAMERA: LONG SHOT. Full bodies head to toe, each person about 55% of frame height, floor below the feet. 35mm, about 6 meters back, eye-level.
+FOCUS: deep enough focus for all listed visible people and their spatial relationship.
+LIGHTING: warm crystal-chandelier and wall-sconce practicals, warm table-lamp light behind the sofa, soft neutral fill from the entrance-side window area, restrained cream highlights and natural skin tones, coherent soft medium-low contrast; no daylight sky or sunbeams.
+GRADE: warm cream mansion interiors, silver-gray furniture, restrained peach floral accents, natural skin and soft medium-low contrast.
+Show only the starting moment, before any planned movement begins. This is a single static starting frame, not an action sequence.
+No captions, subtitles, labels, watermarks, panels or collage.

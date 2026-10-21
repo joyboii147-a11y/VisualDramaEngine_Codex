@@ -1,0 +1,46 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP28-S079 | Clip: A119 (A-roll) | SC02 คฤหาสน์/ห้องรับแขก กลางคืน
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 8.5 วิ | เสียงโหมด A
+# ตัวละครในเฟรม (รวม 1 คน):
+# - หัวหน้าการ์ด C16-W01 ไม่มีภาพอ้างอิง | ครึ่งตัว | ลำดับเฟรม 1 จากซ้าย; รายละเอียดตำแหน่งและทิศตามองค์ประกอบต้นเฟรมด้านล่าง
+# องค์ประกอบต้นเฟรม: หัวหน้าการ์ด (W01): กลางเฟรม · ระนาบกลาง · ถึงอก · ก้มหน้าเล็กน้อย มองขึ้นซ้ายเฟรม รายงาน
+# ลำดับเฟรมซ้าย→ขวา: หัวหน้าการ์ด
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม: ไอริน, วิทย์, แม่วิทย์, ศิลา, แม่บ้าน, ริต้า, การ์ด 1, การ์ด 2, การ์ด 3, การ์ด 4
+# แนบใน Grok: ภาพที่เลือกจาก EP28_A119_image ของคลิปนี้เท่านั้น
+# ผู้พูด: หัวหน้าการ์ด ON | คนในเฟรมที่ไม่พูด: ไม่มี
+# เสียง/การตัดต่อ: D015 หัวหน้าการ์ด ON: "ประธานขอโทษครับ คุณศิลาบอกว่ามีสัญญามั่นกับคุณ พวกเราเลยปล่อยเข้ามา" | โหมด A; บทผลิตเต็มของ A119 เท่านั้น: "ประธานขอโทษครับ คุณศิลาบอกว่ามีสัญญามั่นกับคุณ พวกเราเลยปล่อยเข้ามา"
+# ความเสี่ยง/เหตุผล:  เสี่ยงอัตลักษณ์หลายคน/ไม่มีภาพ: หัวหน้าการ์ด; คงทุกคนตามผังและบรรยายเต็ม ไม่เพิ่ม/ตัดคนเพื่อเพดานอ้างอิง2รูป ยาวเกิน6วิเพื่อบทตรงตัวพร้อมจังหวะหายใจ/เสียงครอบภาพแทรก; ใช้รุ่นปกติและตรวจเวลาหน้าGrok ไม่เร่งบท
+# ยังไม่มีผลภาพ/วิดีโอจริงให้ตรวจ ต้องเทียบภาพชุดและตรวจเสียงหลังผู้ใช้ผลิต
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+EP28_A119 SHOT EP28-S079. One continuous cinematic live-action shot, vertical 9:16.
+TARGET DURATION: 8.5 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
+SCENE GEOGRAPHY: dark gray-toned wall section of the entrance side behind the reporting guard, softly defocused with no new opening. Visible positions: Head guard center, standing with head slightly lowered, eyes up screen-left, mid-chest upward.
+VISIBLE CAST: Head guard (C16-W01): black suit, white shirt, black tie, straight black hair falling toward the eyebrows; center, standing with head slightly lowered, eyes up screen-left, mid-chest upward; completely dry
+CAST COUNT: exactly 1 people visible, including partial and blurred figures.
+FRAME ORDER: from screen-left to screen-right: Head guard.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: on the family-sofa side of the marble lane, looking toward the intruder/entrance-side wall, on the established family side of the conversation axis. MEDIUM CLOSE-UP. Framed from mid-chest upward; the main face fills about 35% of frame height. 65mm, about 1.5 meters away, eye-level.
+FOREGROUND / VISIBLE BACKGROUND: No foreground person or added partial figure. Background: dark gray-toned wall section of the entrance side behind the reporting guard, softly defocused with no new opening.
+SET IN FRAME: dark gray-toned wall section of the entrance side behind the reporting guard, softly defocused with no new opening.
+OFF-FRAME: The attention target beyond the indicated frame edge is not shown; only the eyes may turn, and the camera does not follow the gaze. No one else enters the frame at any time.
+LIGHTING / COLOR: warm crystal-chandelier and wall-sconce practicals, warm table-lamp light behind the sofa, soft neutral fill from the entrance-side window area, restrained cream highlights and natural skin tones, coherent soft medium-low contrast; no daylight sky or sunbeams. warm cream mansion interiors, silver-gray furniture, restrained peach floral accents, natural skin and soft medium-low contrast.
+PROP STATE: No hand-held prop visible in this crop. Describe no object beyond the crop.
+START STATE: Head guard stands with head modestly lowered, looking up screen-left.
+PERFORMANCE CONTEXT: a tense confrontation, with reactions only after the heard or seen trigger.
+ACTION: He gives the complete assigned apology respectfully, then presses his lips with visible apprehension.
+END STATE: He is silent, head slightly lowered and eyes attentive. Hold this final state until the very end of the clip; the framing does not change after the specified movement ends.
+CAMERA: locked-off, the framing never changes.
+VISUAL CONTINUITY: Preserve the supplied starting image's faces, hair, visible wardrobe, set geometry, lighting and color. Allow only the specified actions and camera movement. No added people, identity swaps or prop teleportation. Do not reveal objects or clothing beyond the stated crop.
+AUDIO MODE: generated dialogue.
+SPEECH EVENT 1:
+SPEAKER: Head guard (ON).
+EXACT THAI DIALOGUE: "ประธานขอโทษครับ คุณศิลาบอกว่ามีสัญญามั่นกับคุณ พวกเราเลยปล่อยเข้ามา"
+VOICE IDENTITY: adult Thai male voice, firm mid-low register, restrained clear timbre, standard Thai accent.
+DELIVERY: respectful and apprehensive, clear natural phrasing.
+Lip-sync only the assigned speaker.
+NON-SPEAKERS: none visible; no speech-like lip movements.
+Speak only the assigned dialogue exactly once, without paraphrasing or added words.
+Do not stretch speech to fill the clip. No unassigned voices.
+AFTER SPEECH: He is silent, head slightly lowered and eyes attentive. Hold quietly until the end without a transition.
+AMBIENCE/SFX: faint steady indoor room tone; no music or background chatter.

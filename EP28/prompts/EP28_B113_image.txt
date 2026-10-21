@@ -1,0 +1,34 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP28-S052 | Clip: B113 (B-roll) | SC02 คฤหาสน์/ห้องรับแขก กลางคืน
+# ไฟล์นี้: Image Prompt → OpenArt GPT Image 2 (9:16)
+# ตัวละครในเฟรม (รวม 1 คน):
+# - วิทย์ C05-W06 วิทย์ W06 ชุดแจ็กเก็ตครีมปกดำ.png | ครึ่งตัว | ลำดับเฟรม 1 จากซ้าย; รายละเอียดตำแหน่งและทิศตามองค์ประกอบต้นเฟรมด้านล่าง
+# องค์ประกอบต้นเฟรม: วิทย์ (W06): กลางเฟรม · ระนาบกลาง · ถึงอก · มองตรงไปข้างหน้า หน้าตึง แล้วหันศีรษะไปทางขวาเฟรม
+# ลำดับเฟรมซ้าย→ขวา: วิทย์
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม: ไอริน, แม่วิทย์, ศิลา, แม่บ้าน, ริต้า
+# แนบใน OpenArt: 1) input/characters/วิทย์/Face.webp
+# Face ใช้เฉพาะใบหน้า/ผม ชุดใช้LOCKEDล่าสุด; รูปturnaroundคือคนเดียว เลือก9:16ที่หน้าOpenArt
+# เสียง/การตัดต่อ: ไม่มีบทใหม่ | โหมด C; ปิดเสียง B113 ใช้ room tone จาก A108 ช่วงหลังจบคำ/หยุดนิ่ง ไม่ทวนบท
+# ยังไม่มีผลภาพ/วิดีโอจริงให้ตรวจ ต้องเทียบภาพชุดและตรวจเสียงหลังผู้ใช้ผลิต
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+Create one standalone starting-frame image for SHOT EP28-S052.
+Vertical 9:16. Cinematic live-action still, photorealistic, natural skin and material texture.
+REFERENCE IMAGES:
+Image 1: Wit — use only for face, skin tone and hairstyle. The outfit comes exclusively from the text below. Do not copy the reference outfit, background, lighting or pose. A multi-view reference represents one person only.
+CHARACTERS: Wit (C05-W06): a young adult Thai man, identity bound to reference Image 1; wearing a cream waist-length button-front jacket with a black pointed collar over a plain white crew-neck T-shirt, black straight-leg trousers, black leather loafers, and tousled short black hair; center-left, standing by the sofa, facing forward; completely dry
+CAST COUNT: exactly 1 people visible, including partial and blurred figures.
+SCENE GEOGRAPHY: A cream mansion living room with molded cream walls and a central marble-floor lane. A white-framed double glass entrance faces a long silver-framed glass coffee table and a gray-cream patterned Louis-style sofa. A matching corner sofa sits at the right of the family sofa from the entrance viewpoint. The entrance-side wall also has a window; the sofa-side wall has black-and-white abstract art and a warm table lamp. A crystal chandelier and wall sconces supply warm light. The peach-orange-white bouquet stays on the coffee table. Visible positions: Wit center-left, standing by the sofa, facing forward.
+FRAME ORDER: from screen-left to screen-right: Wit.
+CAMERA POSITION: on the entrance side of the room, looking toward the family sofa and sofa-side wall, on the established entrance side of the conversation axis.
+VIEW DIRECTION: on the entrance side of the room, looking toward the family sofa and sofa-side wall, on the established entrance side of the conversation axis; the view terminates at the visible background described below.
+BETWEEN CAMERA AND SUBJECT: open air or clear marble floor; no obstructing person.
+SET IN FRAME: cream molded wall on the sofa side, only the wall section within the stated crop visible.
+VISIBLE BACKGROUND: cream molded wall on the sofa side, only the wall section within the stated crop visible.
+OFF-FRAME: The attention target beyond the indicated frame edge is not shown; only the eyes may turn, and the camera does not follow the gaze. No other person or any part of another person appears in the frame.
+START STATE: Wit stands by the sofa, face tense and lips slightly parted. Position and visible parts: Wit center-left, standing by the sofa, facing forward. No hand-held prop visible in this crop. Describe no object beyond the crop.
+CAMERA: MEDIUM CLOSE-UP. Framed from mid-chest upward; the main face fills about 35% of frame height. 65mm, about 1.5 meters away, eye-level.
+FOCUS: Wit is sharp; intended foreground edges and background supporting people are softly defocused, without changing their count.
+LIGHTING: warm crystal-chandelier and wall-sconce practicals, warm table-lamp light behind the sofa, soft neutral fill from the entrance-side window area, restrained cream highlights and natural skin tones, coherent soft medium-low contrast; no daylight sky or sunbeams.
+GRADE: warm cream mansion interiors, silver-gray furniture, restrained peach floral accents, natural skin and soft medium-low contrast.
+Show only the starting moment, before any planned movement begins. This is a single static starting frame, not an action sequence.
+No captions, subtitles, labels, watermarks, panels or collage.

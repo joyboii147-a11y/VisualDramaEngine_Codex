@@ -1,0 +1,34 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP28-S061 | Clip: B116 (B-roll) | SC02 คฤหาสน์/ห้องรับแขก กลางคืน
+# ไฟล์นี้: Image Prompt → OpenArt GPT Image 2 (9:16)
+# ตัวละครในเฟรม (รวม 1 คน):
+# - แม่วิทย์ C01-W04 แม่วิทย์ W04.png | หน้า (CU) | ลำดับเฟรม 1 จากซ้าย; รายละเอียดตำแหน่งและทิศตามองค์ประกอบต้นเฟรมด้านล่าง
+# องค์ประกอบต้นเฟรม: แม่วิทย์ (W04): กลาง-ซ้าย · ระนาบกลาง · ศีรษะถึงไหล่ · เงยมองซ้ายบนเฟรม ยิ้มมุมปากหยาม
+# ลำดับเฟรมซ้าย→ขวา: แม่วิทย์
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม: ไอริน, วิทย์, ศิลา, แม่บ้าน, ริต้า
+# แนบใน OpenArt: 1) input/characters/แม่วิทย์/Face.webp
+# Face ใช้เฉพาะใบหน้า/ผม ชุดใช้LOCKEDล่าสุด; รูปturnaroundคือคนเดียว เลือก9:16ที่หน้าOpenArt
+# เสียง/การตัดต่อ: D013 ไอริน VO: " แม่สามีฉันไม่ได้รังแกกันง่ายๆ นะ" | ภาพโหมด C เงียบ; ปิดเสียง B116 ใช้เสียงจาก A113 ช่วงคำนี้ครั้งเดียว
+# ยังไม่มีผลภาพ/วิดีโอจริงให้ตรวจ ต้องเทียบภาพชุดและตรวจเสียงหลังผู้ใช้ผลิต
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+Create one standalone starting-frame image for SHOT EP28-S061.
+Vertical 9:16. Cinematic live-action still, photorealistic, natural skin and material texture.
+REFERENCE IMAGES:
+Image 1: Wit's mother — use only for face, skin tone and hairstyle. The outfit comes exclusively from the text below. Do not copy the reference outfit, background, lighting or pose. A multi-view reference represents one person only.
+CHARACTERS: Wit's mother (C01-W04): a middle-aged Thai woman, identity bound to reference Image 1; wearing an off-the-shoulder white ribbed bodice with sheer white puff sleeves, a long dark navy wrap-front skirt with a front slit, black pointed heels, a short pearl necklace, pearl earrings, a silver watch, a pearl bracelet, and dark brown hair in a low braided updo; center-left, seated, chin raised, looking upper screen-left; completely dry
+CAST COUNT: exactly 1 people visible, including partial and blurred figures.
+SCENE GEOGRAPHY: A cream mansion living room with molded cream walls and a central marble-floor lane. A white-framed double glass entrance faces a long silver-framed glass coffee table and a gray-cream patterned Louis-style sofa. A matching corner sofa sits at the right of the family sofa from the entrance viewpoint. The entrance-side wall also has a window; the sofa-side wall has black-and-white abstract art and a warm table lamp. A crystal chandelier and wall sconces supply warm light. The peach-orange-white bouquet stays on the coffee table. Visible positions: Wit's mother center-left, seated, chin raised, looking upper screen-left.
+FRAME ORDER: from screen-left to screen-right: Wit's mother.
+CAMERA POSITION: low beside the seated woman.
+VIEW DIRECTION: low beside the seated woman; the view terminates at the visible background described below.
+BETWEEN CAMERA AND SUBJECT: open air or clear marble floor; no obstructing person.
+SET IN FRAME: cream molded wall on the sofa side, only the wall section within the stated crop visible.
+VISIBLE BACKGROUND: cream molded wall on the sofa side, only the wall section within the stated crop visible.
+OFF-FRAME: The attention target beyond the indicated frame edge is not shown; only the eyes may turn, and the camera does not follow the gaze. No other person or any part of another person appears in the frame.
+START STATE: Wit's mother sits with her chin tilted up, eyes upper screen-left. Position and visible parts: Wit's mother center-left, seated, chin raised, looking upper screen-left. No hand-held prop visible in this crop. Describe no object beyond the crop.
+CAMERA: TIGHT CLOSE-UP. The main face fills about 60% of frame height; top cuts through the top of the hair and bottom just below the chin at the collarbones. No main-subject chest, waist or hands visible. 85mm, about 1 meter away.
+FOCUS: Wit's mother is sharp; intended foreground edges and background supporting people are softly defocused, without changing their count.
+LIGHTING: warm crystal-chandelier and wall-sconce practicals, warm table-lamp light behind the sofa, soft neutral fill from the entrance-side window area, restrained cream highlights and natural skin tones, coherent soft medium-low contrast; no daylight sky or sunbeams.
+GRADE: warm cream mansion interiors, silver-gray furniture, restrained peach floral accents, natural skin and soft medium-low contrast.
+Show only the starting moment, before any planned movement begins. This is a single static starting frame, not an action sequence.
+No captions, subtitles, labels, watermarks, panels or collage.

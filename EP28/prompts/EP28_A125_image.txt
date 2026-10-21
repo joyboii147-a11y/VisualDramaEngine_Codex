@@ -1,0 +1,38 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP28-S089 | Clip: A125 (A-roll) | SC02 คฤหาสน์/ห้องรับแขก กลางคืน
+# ไฟล์นี้: Image Prompt → OpenArt GPT Image 2 (9:16)
+# ตัวละครในเฟรม (รวม 4 คน):
+# - การ์ด 1 C17-W01 ไม่มีภาพอ้างอิง | เบลอฉากหลัง | ลำดับเฟรม 1 จากซ้าย; รายละเอียดตำแหน่งและทิศตามองค์ประกอบต้นเฟรมด้านล่าง
+# - ศิลา C14-W02 พ่อริต้า ชุดโปโลกรมท่าW02.png | ครึ่งตัว | ลำดับเฟรม 2 จากซ้าย; รายละเอียดตำแหน่งและทิศตามองค์ประกอบต้นเฟรมด้านล่าง
+# - การ์ด 2 C18-W01 ไม่มีภาพอ้างอิง | เบลอฉากหลัง | ลำดับเฟรม 3 จากซ้าย; รายละเอียดตำแหน่งและทิศตามองค์ประกอบต้นเฟรมด้านล่าง
+# - หัวหน้าการ์ด C16-W01 ไม่มีภาพอ้างอิง | เบลอฉากหลัง | ลำดับเฟรม 4 จากซ้าย; รายละเอียดตำแหน่งและทิศตามองค์ประกอบต้นเฟรมด้านล่าง
+# องค์ประกอบต้นเฟรม: ศิลา (W02): กลางเฟรม · ระนาบกลาง · ถึงเอว · เริ่มมองซ้าย (การ์ด) แล้วหันมาทางขวาเฟรม ยกแขนขวาชี้ไปขวาเฟรม (วิทย์); [เสนอ] การ์ดเบลอระบุคนตามลำดับในคอลัมน์4 ไม่เพิ่มจำนวน
+# ลำดับเฟรมซ้าย→ขวา: การ์ด 1 (ซ้ายหลัง) · ศิลา (กลาง) · การ์ด 2 · หัวหน้าการ์ด (ขวาหลัง)
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม: ไอริน, วิทย์, แม่วิทย์, แม่บ้าน, ริต้า, การ์ด 3, การ์ด 4
+# แนบใน OpenArt: 1) input/characters/พ่อของริต้า/พ่อริต้า ชุดโปโลกรมท่าW02.png
+# Face ใช้เฉพาะใบหน้า/ผม ชุดใช้LOCKEDล่าสุด; รูปturnaroundคือคนเดียว เลือก9:16ที่หน้าOpenArt
+# เสียง/การตัดต่อ: D018 ศิลา ON: "เฮ้ย นี่!" | โหมด A; บทผลิตเต็มของ A125 เท่านั้น: "เฮ้ย นี่!"
+# ความเสี่ยง/เหตุผล:  เสี่ยงอัตลักษณ์หลายคน/ไม่มีภาพ: การ์ด 1, การ์ด 2, หัวหน้าการ์ด; คงทุกคนตามผังและบรรยายเต็ม ไม่เพิ่ม/ตัดคนเพื่อเพดานอ้างอิง2รูป
+# ยังไม่มีผลภาพ/วิดีโอจริงให้ตรวจ ต้องเทียบภาพชุดและตรวจเสียงหลังผู้ใช้ผลิต
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+Create one standalone starting-frame image for SHOT EP28-S089.
+Vertical 9:16. Cinematic live-action still, photorealistic, natural skin and material texture.
+REFERENCE IMAGES:
+Image 1: Sila — use for face, skin tone, hairstyle, body shape and this exact outfit. Do not copy the background, lighting, pose or camera angle. A multi-view reference represents one person only.
+CHARACTERS: Guard 1 (C17-W01): a tall adult Thai male bodyguard with neat short black hair; wearing a black suit, a white shirt, a black tie and neat short black hair; left background, blurred; completely dry; Sila (C14-W02): an older Thai man, identity bound to reference Image 1; wearing a dark navy short-sleeve polo shirt tucked into light beige trousers, a brown leather belt with a silver buckle, a brown-strap wristwatch on the left wrist, and swept-back dark hair with gray at the temples, with no glasses; center or slightly left of center, standing on the marble lane, looking screen-right toward the family; completely dry; Guard 2 (C18-W01): an adult Thai male bodyguard with neat short black hair; wearing a black suit, a white shirt, a black tie and neat short black hair; right background, blurred; completely dry; Head guard (C16-W01): an adult Thai male bodyguard with straight black hair falling toward the eyebrows; wearing a black suit, a white shirt, a black tie and straight black hair falling toward the eyebrows; farthest right background, blurred; completely dry
+CAST COUNT: exactly 4 people visible, including partial and blurred figures.
+SCENE GEOGRAPHY: A cream mansion living room with molded cream walls and a central marble-floor lane. A white-framed double glass entrance faces a long silver-framed glass coffee table and a gray-cream patterned Louis-style sofa. A matching corner sofa sits at the right of the family sofa from the entrance viewpoint. The entrance-side wall also has a window; the sofa-side wall has black-and-white abstract art and a warm table lamp. A crystal chandelier and wall sconces supply warm light. The peach-orange-white bouquet stays on the coffee table. Visible positions: Guard 1 left background, blurred; Sila center or slightly left of center, standing on the marble lane, looking screen-right toward the family; Guard 2 right background, blurred; Head guard farthest right background, blurred.
+FRAME ORDER: from screen-left to screen-right: Guard 1 -> Sila -> Guard 2 -> Head guard.
+CAMERA POSITION: on the family-sofa side of the marble lane, looking toward the intruder/entrance-side wall, on the established family side of the conversation axis.
+VIEW DIRECTION: on the family-sofa side of the marble lane, looking toward the intruder/entrance-side wall, on the established family side of the conversation axis; the view terminates at the visible background described below.
+BETWEEN CAMERA AND SUBJECT: open air or clear marble floor; no obstructing person.
+SET IN FRAME: cream molded wall on the entrance side, only the wall section within the stated crop visible.
+VISIBLE BACKGROUND: cream molded wall on the entrance side, only the wall section within the stated crop visible.
+OFF-FRAME: The attention target beyond the indicated frame edge is not shown; only the eyes may turn, and the camera does not follow the gaze. No other person or any part of another person appears in the frame.
+START STATE: Sila looks screen-left toward Guard 1. Guard 2 and Head guard are behind him to the right. Position and visible parts: Guard 1 left background, blurred; Sila center or slightly left of center, standing on the marble lane, looking screen-right toward the family; Guard 2 right background, blurred; Head guard farthest right background, blurred. No hand-held prop visible in this crop. Describe no object beyond the crop.
+CAMERA: MEDIUM SHOT. Frame bottom cuts at the waist; the main head sits in the upper third. 50mm, about 2.5 meters away, eye-level.
+FOCUS: Sila is sharp; intended foreground edges and background supporting people are softly defocused, without changing their count.
+LIGHTING: warm crystal-chandelier and wall-sconce practicals, warm table-lamp light behind the sofa, soft neutral fill from the entrance-side window area, restrained cream highlights and natural skin tones, coherent soft medium-low contrast; no daylight sky or sunbeams.
+GRADE: warm cream mansion interiors, silver-gray furniture, restrained peach floral accents, natural skin and soft medium-low contrast.
+Show only the starting moment, before any planned movement begins. This is a single static starting frame, not an action sequence.
+No captions, subtitles, labels, watermarks, panels or collage.

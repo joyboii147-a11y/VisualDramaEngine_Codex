@@ -1,0 +1,43 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP28-S015 | Clip: B008 (B-roll) | SC01 โถงงานเลี้ยง กลางคืน
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 3 วิ | เสียงโหมด C
+#
+# ตัวละครในเฟรม (รวม 2 คน):
+# - วิทย์ C05-W06 ชุดแจ็กเก็ตครีมปกดำ | เห็นแค่ไหล่/แขน | วิทย์ (W06): ไหล่แจ็กเก็ตครีมเบลอขอบซ้ายล่าง
+# - ไอริน C04-W12 ชุดคลุมท้องครีมคาร์ดิแกนเทา | ครึ่งตัว | ไอริน (W12): กลางเฟรม · ระนาบกลาง · ศีรษะถึงอก · เงยหน้ามองซ้ายบนเฟรม (วิทย์) แล้วก้มยิ้ม
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - แม่วิทย์ C01-W04 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - พ่อวิทย์ C12-W02 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - ผู้ติดตามชาย C13-W01 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - ริต้า C06-W02 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# แนบใน Grok: ภาพที่เลือกจาก EP28_B008_image
+# ผู้พูด: ไม่มี | คนในเฟรมที่ไม่พูด: วิทย์, ไอริน
+# ช่วงคำพูดตามShotสร้างครั้งเดียว ไม่สร้างคำของคลิปอื่นซ้ำ; เวลาประมาณไม่ใช่ผลตรวจเสียงจริง
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+EP28_B008 SHOT EP28-S015. One continuous cinematic live-action shot, vertical 9:16.
+TARGET DURATION: 3 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
+SCENE GEOGRAPHY: Indoor nighttime reception hall, limited to this camera crop: The cream inner-hall wall with muted teal illumination and a horizontal soft white light strip; no glass wall is inserted behind her in this view. Visible cast retain the landmark-relative positions listed below.
+VISIBLE CAST: exactly 2 people, including partial and blurred figures. Wit: only the cream jacket shoulder or sleeve at the specified edge; no face, hands or accessories visible; completely dry; only the cream jacket shoulder at lower-left, no face visible. Irin: a cream cable-knit maternity dress with a scoop neckline, an open light gray knit cardigan, a small silver pendant necklace, and long loose dark brown wavy hair; completely dry; center middle plane, eyes initially directed toward upper-left.
+FRAME ORDER: from screen-left to screen-right: Wit (cream shoulder at screen-left), Irin.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: Beside the near shoulder of the man on the couple side of the standing table, looking obliquely toward Irin on the established conversation-axis side. Looking through the specified visible cast toward The cream inner-hall wall with muted teal illumination and a horizontal soft white light strip; no glass wall is inserted behind her in this view.
+SET IN FRAME: Teal-tinted cream wall occupies the rear plane; the horizontal light strip stays behind the upper torso; Irin has look room toward screen-right. Keep this layout; do not move or mirror it.
+FOREGROUND OWNER: Wit.
+VISIBLE FOREGROUND IDENTITY: Wit: only the cream jacket shoulder or sleeve at the specified edge; no face, hands or accessories visible.
+CAMERA RELATION: Beside the near shoulder of the man on the couple side of the standing table, looking obliquely toward Irin on the established conversation-axis side.
+FOCUS SUBJECT: Irin remains sharp in the specified middle plane.
+OCCLUSION: Keep Irin's face unobstructed; foreground owners keep their faces hidden. The foreground belongs to these named people, not additional stand-ins.
+FOREGROUND / VISIBLE BACKGROUND: Only Wit's cream shoulder at lower-left. Background: The cream inner-hall wall with muted teal illumination and a horizontal soft white light strip; no glass wall is inserted behind her in this view.
+OFF-FRAME: Her conversation target is beyond the right frame edge. No one else enters the frame at any time.
+LIGHTING / COLOR: Soft warm illumination from fixed overhead track lights, with restrained cool teal fill reflected from the hall surfaces where already visible; natural medium contrast, warm skin tones, nighttime interior throughout. No extra light fixture is introduced within the crop. warm luxury-event color treatment, natural skin, medium contrast, controlled highlights and restrained saturation.
+PROP STATE: No handheld prop is visible.
+START STATE: Irin has just lifted her gaze toward upper-left with slightly widened eyes; Wit's cream shoulder remains at lower-left.
+PERFORMANCE CONTEXT: This is a silent physical action or reaction, expressing only the specified change; do not invent speech or new events.
+ACTION: Allow a brief 0.5-second quiet head handle, then Her brief surprise softens; she lowers her chin into a broad shy smile, while the cream shoulder stays still. Hold the final pose quietly through the tail handle until the very end of the clip; the framing does not change.
+END STATE: Irin looks down, quietly smiling; the cream shoulder remains at the edge.
+CAMERA: MEDIUM CLOSE-UP. Framed from mid-chest up; the face fills about 35% of the frame height. 65mm full-frame equivalent, about 1.5 meters away, standing eye level. Motion: locked-off, the framing never changes.
+VISUAL CONTINUITY: Preserve the starting image's faces, hair, wardrobe, set geometry, lighting character and color treatment. Allow only the specified actions and camera movement. No unplanned cuts, added people, identity swaps or prop teleportation. Every named character appears once only, never as duplicate turnaround views.
+AUDIO MODE: no dialogue.
+No intelligible speech or speech-like lip-sync.
+AMBIENCE/SFX: quiet continuous indoor room tone, no intelligible guest chatter, no added music or voices.

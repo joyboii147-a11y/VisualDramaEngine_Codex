@@ -1,0 +1,38 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP28-S022 | Clip: A011 (A-roll) | SC01 โถงงานเลี้ยง กลางคืน
+# ไฟล์นี้: Image Prompt → OpenArt GPT Image 2 (9:16)
+#
+# ตัวละครในเฟรม (รวม 1 คน):
+# - แม่วิทย์ C01-W04 ชุดW04แขนพองขาวกระโปรงกรม | ครึ่งตัว | แม่วิทย์ (W04): กลางเฟรม · ระนาบกลาง · ถึงอก · มองซ้ายเฟรม พูดน้ำเสียงอบอุ่น
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - ไอริน C04-W12 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - วิทย์ C05-W06 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - พ่อวิทย์ C12-W02 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - ผู้ติดตามชาย C13-W01 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - ริต้า C06-W02 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# แนบใน OpenArt: 1) input/characters/แม่วิทย์/Face.webp
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+Create one standalone starting-frame image for SHOT EP28-S022.
+Vertical 9:16. Cinematic live-action still, photorealistic, natural material and skin texture.
+REFERENCE IMAGES:
+Image 1: Wit's mother — use only for face, skin tone and hairstyle. The outfit comes from the text below. Do not copy the outfit, background, lighting or camera angle.
+A multi-view turnaround reference depicts one person from several angles. Render each named character once only; do not copy the sheet layout or duplicate a person.
+CHARACTERS: Wit's mother: middle-aged Thai woman; reference binding controls identity; wearing an off-the-shoulder white ribbed bodice with sheer white puff sleeves, a long dark navy wrap-front skirt with a front slit, black pointed heels, a short pearl necklace, pearl earrings, a silver watch, a pearl bracelet, and dark brown hair in a low braided updo; completely dry. Visible position: center middle plane, looking screen-left.
+CAST COUNT: exactly 1 people visible, including every partial figure and blurred person.
+SCENE GEOGRAPHY: A high-ceilinged indoor reception hall at night. The visible fixed surfaces and furniture within this crop are: Softly defocused black glass mullions, a metal column and overhead light rails inside the night hall. Visible cast positions relative to these landmarks: Wit's mother center middle plane, looking screen-left.
+FRAME ORDER: from screen-left to screen-right: Wit's mother.
+CAMERA POSITION: On Irin side of the standing table facing the mother at standing eye level, on the established dialogue-axis side.
+VIEW DIRECTION: Toward the specified visible cast and then Softly defocused black glass mullions, a metal column and overhead light rails inside the night hall.
+SET IN FRAME: The mother stays centered with a little look room on screen-left; black glazing mullions remain behind her, pearl necklace near the lower frame. Keep this layout; do not move or mirror it.
+BETWEEN CAMERA AND SUBJECT: The visible open space or table-edge crop described here; no additional person blocks the view.
+FOREGROUND: No separate foreground figure; only the specified set or garment fragments appear.
+VISIBLE BACKGROUND: Softly defocused black glass mullions, a metal column and overhead light rails inside the night hall.
+OFF-FRAME: The woman she addresses is beyond the left edge. No other person or any part of another person appears in the frame.
+START STATE: The mother looks screen-left with a warm speaking-ready smile.
+PROP STATE: No handheld prop is visible.
+CAMERA: MEDIUM CLOSE-UP. Framed from mid-chest up; the face fills about 35% of the frame height. 65mm full-frame equivalent, about 1.5 meters away, standing eye level.
+FOCUS: The primary visible face is sharp; foreground shoulders and distant cast remain softly defocused exactly as specified.
+LIGHTING: Soft warm illumination from fixed overhead track lights, with restrained cool teal fill reflected from the hall surfaces where already visible; natural medium contrast, warm skin tones, nighttime interior throughout. No extra light fixture is introduced within the crop.
+GRADE: warm luxury-event color treatment, natural skin, medium contrast, controlled highlights and restrained saturation.
+Show only the starting moment, before any planned movement begins.
+No captions, subtitles, labels, watermarks, panels or collage.

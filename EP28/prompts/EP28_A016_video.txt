@@ -1,0 +1,47 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP28-S030 | Clip: A016 (A-roll) | SC01 โถงงานเลี้ยง กลางคืน
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 5.5 วิ | เสียงโหมด A
+#
+# ตัวละครในเฟรม (รวม 1 คน):
+# - ริต้า C06-W02 ชุดเดรสสีดำ | ครึ่งตัว | ริต้า (W02): กลางเฟรม · ระนาบกลาง · ศีรษะถึงอก · โทรศัพท์แนบหูขวา (ซ้ายเฟรม) · มองลงขวาเฟรม
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - ไอริน C04-W12 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - วิทย์ C05-W06 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - แม่วิทย์ C01-W04 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - พ่อวิทย์ C12-W02 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - ผู้ติดตามชาย C13-W01 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# แนบใน Grok: ภาพที่เลือกจาก EP28_A016_image
+# ผู้พูด: ริต้า ON | คนในเฟรมที่ไม่พูด: ไม่มี
+# ช่วงคำพูดตามShotสร้างครั้งเดียว ไม่สร้างคำของคลิปอื่นซ้ำ; เวลาประมาณไม่ใช่ผลตรวจเสียงจริง
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+EP28_A016 SHOT EP28-S030. One continuous cinematic live-action shot, vertical 9:16.
+TARGET DURATION: 5.5 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
+SCENE GEOGRAPHY: Indoor nighttime reception hall, limited to this camera crop: A pale gray hall wall and a soft round light point at screen-right, with a small suggestion of the ceiling; no other person is visible. Visible cast retain the landmark-relative positions listed below.
+VISIBLE CAST: exactly 1 people, including partial and blurred figures. Rita: a sleeveless black halter-neck evening dress with a high black lace inset, a draped black front, small gold earrings, and long dark brown wavy half-up hair; completely dry; center middle plane, right hand holds a black phone against her right ear at screen-left, gaze down toward screen-right.
+FRAME ORDER: from screen-left to screen-right: Rita.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: Directly in front of Rita beside her standing table, about 0.7 to one meter away, slightly below eye level and maintaining her phone-call axis. Looking through the specified visible cast toward A pale gray hall wall and a soft round light point at screen-right, with a small suggestion of the ceiling; no other person is visible.
+SET IN FRAME: Rita centered, the phone at her anatomical right ear appears at screen-left; the round light stays screen-right; gray wall fills the rear plane. Keep this layout; do not move or mirror it.
+FOREGROUND / VISIBLE BACKGROUND: No separate foreground figure; only the specified set or garment fragments appear. Background: A pale gray hall wall and a soft round light point at screen-right, with a small suggestion of the ceiling; no other person is visible.
+OFF-FRAME: The phone listener is not shown. No one else enters the frame at any time.
+LIGHTING / COLOR: Soft warm illumination from fixed overhead track lights, with restrained cool teal fill reflected from the hall surfaces where already visible; natural medium contrast, warm skin tones, nighttime interior throughout. No extra light fixture is introduced within the crop. warm luxury-event color treatment, natural skin, medium contrast, controlled highlights and restrained saturation.
+PROP STATE: A single black smartphone is held to Rita's right ear by her right hand; the handset appears on screen-left. No readable screen content.
+START STATE: Rita holds the black phone at her right ear with her right hand, eyes lowered screen-right, mouth at rest with a distressed pout and moisture at her eyes.
+PERFORMANCE CONTEXT: The cast convey the current emotional turn through the assigned words and restrained gestures; do not invent additional dialogue or events.
+ACTION: Allow a brief 0.5-second quiet head handle, then She delivers the assigned demand with a trembling start and angry emphasis at the end; her brows draw together and her jaw tightens. Hold the final pose quietly through the tail handle until the very end of the clip; the framing does not change.
+END STATE: Her brows are drawn, jaw tense with anger, lips at rest after the demand; phone remains at right ear.
+CAMERA: TIGHT MEDIUM CLOSE-UP. Head to upper chest, face about 45% of frame height. 65mm full-frame equivalent, around one meter away, slightly low angle; keep the phone hand inside the crop. Motion: locked-off, the framing never changes.
+VISUAL CONTINUITY: Preserve the starting image's faces, hair, wardrobe, set geometry, lighting character and color treatment. Allow only the specified actions and camera movement. No unplanned cuts, added people, identity swaps or prop teleportation. Every named character appears once only, never as duplicate turnaround views.
+AUDIO MODE: generated dialogue.
+SPEECH EVENT 1:
+SPEAKER: Rita, ON.
+EXACT THAI DIALOGUE: "พ่อต้องแก้แค้นแทนหนูนะ!"
+VOICE IDENTITY: young Thai female voice, crisp mid register, cool bright timbre, standard Thai accent
+DELIVERY: trembling hurt at first, gathering angry insistence without rushed syllables.
+Lip-sync only Rita to the assigned words.
+NON-SPEAKERS: none visible; no speech-like lip movements.
+Speak only the assigned dialogue exactly once, without paraphrasing or added words.
+Do not stretch speech to fill the clip. No unassigned voices.
+AFTER SPEECH: Her brows are drawn, jaw tense with anger, lips at rest after the demand; phone remains at right ear. Hold quietly until the very end of the clip; the framing does not change.
+AMBIENCE/SFX: quiet indoor room tone, no intelligible background chatter, no extra utterance or laugh, no added music.

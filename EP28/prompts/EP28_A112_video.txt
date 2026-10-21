@@ -1,0 +1,52 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP28-S059 | Clip: A112 (A-roll) | SC02 คฤหาสน์/ห้องรับแขก กลางคืน
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 4.5 วิ | เสียงโหมด A
+# ตัวละครในเฟรม (รวม 2 คน):
+# - วิทย์ C05-W06 วิทย์ W06 ชุดแจ็กเก็ตครีมปกดำ.png | เห็นแค่แขนหรือไหล่ | ลำดับเฟรม 1 จากซ้าย; รายละเอียดตำแหน่งและทิศตามองค์ประกอบต้นเฟรมด้านล่าง
+# - ไอริน C04-W12 ไอริน W12 ชุดคลุมท้อง.png | ครึ่งตัว | ลำดับเฟรม 2 จากซ้าย; รายละเอียดตำแหน่งและทิศตามองค์ประกอบต้นเฟรมด้านล่าง
+# องค์ประกอบต้นเฟรม: ไอริน (W12): กลาง-ขวา · ระนาบกลาง · ยืน ถึงเอว · มองลงซ้ายแล้วชำเลืองซ้ายเฟรม; วิทย์ (W06): ซ้ายเฟรม · ระนาบหน้า · แขนเสื้อครีมเบลอกินขอบซ้าย 1/4
+# ลำดับเฟรมซ้าย→ขวา: วิทย์ (แขนเสื้อครีมขอบซ้ายหน้า) · ไอริน (กลางขวา)
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม: แม่วิทย์, ศิลา, แม่บ้าน, ริต้า
+# แนบใน Grok: ภาพที่เลือกจาก EP28_A112_image ของคลิปนี้เท่านั้น
+# ผู้พูด: ไอริน VO | คนในเฟรมที่ไม่พูด: วิทย์, ไอริน
+# เสียง/การตัดต่อ: D013 ไอริน VO: "ริต้า ยิ่งเธอโวยวายเท่าไหร่" | โหมด A; บทผลิตเต็มของ A112 เท่านั้น: "ริต้า ยิ่งเธอโวยวายเท่าไหร่"
+# ความเสี่ยง/เหตุผล:  ไอรินคิดในใจ ปากไม่ลิปซิงก์
+# ยังไม่มีผลภาพ/วิดีโอจริงให้ตรวจ ต้องเทียบภาพชุดและตรวจเสียงหลังผู้ใช้ผลิต
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+EP28_A112 SHOT EP28-S059. One continuous cinematic live-action shot, vertical 9:16.
+TARGET DURATION: 4.5 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
+SCENE GEOGRAPHY: cream molded wall on the sofa side, only the wall section within the stated crop visible. Visible positions: Wit only his blurred cream sleeve along the left foreground edge; Irin center, standing by the sofa facing slightly screen-left.
+VISIBLE CAST: Wit (C05-W06): visible cream jacket sleeve or shoulder only; only his blurred cream sleeve along the left foreground edge; completely dry; Irin (C04-W12): cream cable-knit scoop-neck maternity bodice, open light gray knit cardigan, small silver pendant, long loose dark brown wavy hair; center, standing by the sofa facing slightly screen-left; completely dry
+CAST COUNT: exactly 2 people visible, including partial and blurred figures.
+FRAME ORDER: from screen-left to screen-right: Wit -> Irin.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: on the entrance side of the room, looking toward the family sofa and sofa-side wall, on the established entrance side of the conversation axis. MEDIUM SHOT. Frame bottom cuts at the waist; the main head sits in the upper third. 50mm, about 2.5 meters away, eye-level.
+FOREGROUND / VISIBLE BACKGROUND: Wit: only his blurred cream sleeve along the left foreground edge Background: cream molded wall on the sofa side, only the wall section within the stated crop visible.
+SET IN FRAME: cream molded wall on the sofa side, only the wall section within the stated crop visible.
+OFF-FRAME: The attention target beyond the indicated frame edge is not shown; only the eyes may turn, and the camera does not follow the gaze. No one else enters the frame at any time.
+LIGHTING / COLOR: warm crystal-chandelier and wall-sconce practicals, warm table-lamp light behind the sofa, soft neutral fill from the entrance-side window area, restrained cream highlights and natural skin tones, coherent soft medium-low contrast; no daylight sky or sunbeams. warm cream mansion interiors, silver-gray furniture, restrained peach floral accents, natural skin and soft medium-low contrast.
+PROP STATE: No hand-held prop visible in this crop. Describe no object beyond the crop.
+FOREGROUND OWNER: Wit.
+VISIBLE FOREGROUND IDENTITY: Wit: only his blurred cream sleeve along the left foreground edge
+CAMERA RELATION: on the entrance side of the room, looking toward the family sofa and sofa-side wall, on the established entrance side of the conversation axis.
+FOCUS SUBJECT: Irin.
+OCCLUSION: keep the focused face unobstructed; do not add a generic foreground figure.
+START STATE: Irin stands center-right, eyes lowered screen-left. Wit’s cream sleeve forms a blurred strip at the left foreground edge.
+PERFORMANCE CONTEXT: Irin evaluates the pressure privately through an internal voice; her mouth stays still.
+ACTION: Irin shifts only her eyes sideways as she thinks; the cream sleeve remains still.
+END STATE: Irin maintains a slight sideways glance, lips unmoving. Hold this final state until the very end of the clip; the framing does not change after the specified movement ends.
+CAMERA: locked-off, the framing never changes.
+VISUAL CONTINUITY: Preserve the supplied starting image's faces, hair, visible wardrobe, set geometry, lighting and color. Allow only the specified actions and camera movement. No added people, identity swaps or prop teleportation. Do not reveal objects or clothing beyond the stated crop.
+AUDIO MODE: generated dialogue.
+SPEECH EVENT 1:
+SPEAKER: Irin internal voice (VO), visible Irin remains silent.
+EXACT THAI DIALOGUE: "ริต้า ยิ่งเธอโวยวายเท่าไหร่"
+VOICE IDENTITY: young Thai female voice, soft clear mid-high register, warm timbre, standard Thai accent.
+DELIVERY: private, controlled knowing thought, clear natural Thai phrasing; no audible laughter.
+No visible person lip-syncs to this internal voice. Irin’s lips remain still.
+NON-SPEAKERS: Wit, Irin; no speech-like lip movements.
+Speak only the assigned dialogue exactly once, without paraphrasing or added words.
+Do not stretch speech to fill the clip. No unassigned voices.
+AFTER SPEECH: Irin maintains a slight sideways glance, lips unmoving. Hold quietly until the end without a transition.
+AMBIENCE/SFX: faint steady indoor room tone; no music or background chatter.

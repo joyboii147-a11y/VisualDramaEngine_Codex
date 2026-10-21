@@ -1,0 +1,45 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP28-S034 | Clip: B102 (B-roll) | SC02 คฤหาสน์/ห้องรับแขก กลางคืน
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 2.5 วิ | เสียงโหมด C
+# ตัวละครในเฟรม (รวม 3 คน):
+# - วิทย์ C05-W06 วิทย์ W06 ชุดแจ็กเก็ตครีมปกดำ.png | ครึ่งตัว | ลำดับเฟรม 1 จากซ้าย; รายละเอียดตำแหน่งและทิศตามองค์ประกอบต้นเฟรมด้านล่าง
+# - ไอริน C04-W12 ไอริน W12 ชุดคลุมท้อง.png | ครึ่งตัว | ลำดับเฟรม 2 จากซ้าย; รายละเอียดตำแหน่งและทิศตามองค์ประกอบต้นเฟรมด้านล่าง
+# - แม่วิทย์ C01-W04 แม่วิทย์ W04.png | เห็นแค่แขนหรือไหล่ | ลำดับเฟรม 3 จากซ้าย; รายละเอียดตำแหน่งและทิศตามองค์ประกอบต้นเฟรมด้านล่าง
+# องค์ประกอบต้นเฟรม: วิทย์ (W06): ซ้าย-กลาง · ระนาบกลาง · นั่งถึงเข่า · มองขวาเฟรม (แม่วิทย์) มือซ้ายวางบนท้องไอริน; ไอริน (W12): กลาง-ขวา · ระนาบกลาง · นั่งถึงเข่า · มองขวาเฟรม ยิ้ม; แม่วิทย์ (W04): ขวาล่าง · ระนาบหน้า · ไหล่เสื้อขาวเบลอกินขวา 1/4 เฟรม
+# ลำดับเฟรมซ้าย→ขวา: วิทย์ · ไอริน · แม่วิทย์ (ไหล่ขาวขวาหน้า)
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม: ไม่มี
+# แนบใน Grok: ภาพที่เลือกจาก EP28_B102_image ของคลิปนี้เท่านั้น
+# ผู้พูด: ไม่มี | คนในเฟรมที่ไม่พูด: วิทย์, ไอริน, แม่วิทย์
+# เสียง/การตัดต่อ: D008 แม่วิทย์ OS: " วิทย์" | ภาพโหมด C เงียบ; ปิดเสียง B102 ใช้เสียงจาก A102 ช่วงคำนี้ครั้งเดียว
+# ความเสี่ยง/เหตุผล:  เสี่ยงอัตลักษณ์หลายคน/ไม่มีภาพ: แม่วิทย์; คงทุกคนตามผังและบรรยายเต็ม ไม่เพิ่ม/ตัดคนเพื่อเพดานอ้างอิง2รูป
+# ยังไม่มีผลภาพ/วิดีโอจริงให้ตรวจ ต้องเทียบภาพชุดและตรวจเสียงหลังผู้ใช้ผลิต
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+EP28_B102 SHOT EP28-S034. One continuous cinematic live-action shot, vertical 9:16.
+TARGET DURATION: 2.5 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
+SCENE GEOGRAPHY: cream sofa-side wall, black-and-white abstract art toward upper-right, patterned gray-cream sofa back and silver furniture frame. Visible positions: Wit left-center, seated facing screen-right, visible down to knees; Irin center-right, seated facing screen-right, visible down to knees; Wit's mother only a blurred white shoulder at the lower-right foreground edge.
+VISIBLE CAST: Wit (C05-W06): cream jacket with black pointed collar over a white crew-neck T-shirt, tousled short black hair; black trousers visible to knees; left-center, seated facing screen-right, visible down to knees; completely dry; Irin (C04-W12): cream cable-knit scoop-neck maternity bodice, open light gray knit cardigan, small silver pendant, long loose dark brown wavy hair; cream maternity dress visible to knees; center-right, seated facing screen-right, visible down to knees; completely dry; Wit's mother (C01-W04): visible sheer white puff sleeve and white bodice shoulder only; only a blurred white shoulder at the lower-right foreground edge; completely dry
+CAST COUNT: exactly 3 people visible, including partial and blurred figures.
+FRAME ORDER: from screen-left to screen-right: Wit -> Irin -> Wit's mother.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: on the entrance side of the room, looking toward the family sofa and sofa-side wall, on the established entrance side of the conversation axis. MEDIUM FULL SHOT. The frame includes head to knees of the main seated or standing people, each about 65% of frame height. 35mm, eye-level, about 4 meters away.
+FOREGROUND / VISIBLE BACKGROUND: Wit's mother: only a blurred white shoulder at the lower-right foreground edge Background: cream sofa-side wall, black-and-white abstract art toward upper-right, patterned gray-cream sofa back and silver furniture frame.
+SET IN FRAME: cream sofa-side wall, black-and-white abstract art toward upper-right, patterned gray-cream sofa back and silver furniture frame.
+OFF-FRAME: The attention target beyond the indicated frame edge is not shown; only the eyes may turn, and the camera does not follow the gaze. No one else enters the frame at any time.
+LIGHTING / COLOR: warm crystal-chandelier and wall-sconce practicals, warm table-lamp light behind the sofa, soft neutral fill from the entrance-side window area, restrained cream highlights and natural skin tones, coherent soft medium-low contrast; no daylight sky or sunbeams. warm cream mansion interiors, silver-gray furniture, restrained peach floral accents, natural skin and soft medium-low contrast.
+PROP STATE: Wit’s left hand rests on Irin’s belly; no hand-held object. The sofa frame stays fixed.
+FOREGROUND OWNER: Wit's mother.
+VISIBLE FOREGROUND IDENTITY: Wit's mother: only a blurred white shoulder at the lower-right foreground edge
+CAMERA RELATION: on the entrance side of the room, looking toward the family sofa and sofa-side wall, on the established entrance side of the conversation axis.
+FOCUS SUBJECT: Wit.
+OCCLUSION: keep the focused face unobstructed; do not add a generic foreground figure.
+START STATE: Wit and Irin sit listening toward screen-right. His left hand rests on her belly.
+PERFORMANCE CONTEXT: gentle appreciative family conversation.
+ACTION: They listen as his name is called; their seated positions do not change.
+END STATE: Wit remains attentive; Irin keeps a small smile. Hold this final state until the very end of the clip; the framing does not change after the specified movement ends.
+CAMERA: locked-off, the framing never changes.
+VISUAL CONTINUITY: Preserve the supplied starting image's faces, hair, visible wardrobe, set geometry, lighting and color. Allow only the specified actions and camera movement. No added people, identity swaps or prop teleportation. Do not reveal objects or clothing beyond the stated crop.
+AUDIO MODE: no dialogue.
+No intelligible speech or speech-like lip-sync.
+NON-SPEAKERS: all visible people; no assigned speaker.
+AMBIENCE/SFX: quiet location tone only; no voices, music or background chatter. The editor will mute this clip and use the identified A-roll source in the shot instructions.

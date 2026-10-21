@@ -1,0 +1,46 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP28-S010 | Clip: B003 (B-roll) | SC01 โถงงานเลี้ยง กลางคืน
+# ไฟล์นี้: Image Prompt → OpenArt GPT Image 2 (9:16)
+#
+# ตัวละครในเฟรม (รวม 3 คน):
+# - วิทย์ C05-W06 ชุดแจ็กเก็ตครีมปกดำ | เห็นแค่ไหล่/แขน | วิทย์ (แขนครีมขอบซ้าย)
+# - ไอริน C04-W12 ชุดคลุมท้องครีมคาร์ดิแกนเทา | ครึ่งตัว | ไอริน (W12): กลางเฟรม · ระนาบกลาง · ถึงอก · ก้มหน้าหลบตา ยิ้มเขิน
+# - แม่วิทย์ C01-W04 ชุดW04แขนพองขาวกระโปรงกรม | หันหลัง เห็นแค่ท้ายทอยและไหล่ | แม่วิทย์ (ไหล่ขาวขอบขวา)
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - พ่อวิทย์ C12-W02 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - ผู้ติดตามชาย C13-W01 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - ริต้า C06-W02 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# แนบใน OpenArt: 1) input/characters/ไอริน/Face.png
+# แนบใน OpenArt: 2) input/characters/แม่วิทย์/แม่วิทย์ W04.png
+# เสี่ยง: ตัวละครบางคน/ส่วนแขนไม่มีภาพแนบเพราะOpenArtใช้2รูป; ใช้IdentityและชุดLOCKEDในprompt ไม่ใช่ผลตรวจภาพจริง
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+Create one standalone starting-frame image for SHOT EP28-S010.
+Vertical 9:16. Cinematic live-action still, photorealistic, natural material and skin texture.
+REFERENCE IMAGES:
+Image 1: Irin — use only for face, skin tone and hairstyle. The outfit comes from the text below. Do not copy the outfit, background, lighting or camera angle.
+Image 2: Wit's mother — use for face, skin tone, hairstyle, body shape and this exact outfit. Do not copy the background, lighting, pose or camera angle from this image.
+A multi-view turnaround reference depicts one person from several angles. Render each named character once only; do not copy the sheet layout or duplicate a person.
+CHARACTERS: Wit: a tall young Thai man with warm fair skin, a lean build, and tousled short black hair; wearing a cream waist-length button-front jacket with a black pointed collar over a plain white crew-neck T-shirt, black straight-leg trousers, black leather loafers, and tousled short black hair; completely dry. Visible position: only a cream sleeve fragment at the far left edge, no face visible. Irin: young pregnant Thai woman; reference binding controls identity; wearing a cream cable-knit maternity midi dress with a scoop neckline and a narrow tie under the bust, an open light gray long knit cardigan, cream bow ballet flats, a small silver pendant necklace, and long loose dark brown wavy hair; completely dry. Visible position: center middle plane, looking toward screen-right. Wit's mother: middle-aged Thai woman; reference binding controls identity; wearing an off-the-shoulder white ribbed bodice with sheer white puff sleeves, a long dark navy wrap-front skirt with a front slit, black pointed heels, a short pearl necklace, pearl earrings, a silver watch, a pearl bracelet, and dark brown hair in a low braided updo; completely dry. Visible position: only the back of her low braided head and white shoulder at the right foreground edge, face excluded.
+CAST COUNT: exactly 3 people visible, including every partial figure and blurred person.
+FOREGROUND OWNER: Wit, Wit's mother.
+VISIBLE FOREGROUND IDENTITY: Wit: only the cream jacket shoulder or sleeve at the specified edge; no face, hands or accessories visible. Wit's mother: only the back of dark brown hair in a low braided updo and the white puff-sleeve shoulder; her face is hidden.
+CAMERA RELATION: Behind the mothers anatomical right shoulder on the parents side of the standing table, looking toward Irin across the table at standing eye level.
+FOCUS SUBJECT: Irin remains sharp in the specified middle plane.
+OCCLUSION: Keep Irin's face unobstructed; foreground owners keep their faces hidden. The foreground belongs to these named people, not additional stand-ins.
+SCENE GEOGRAPHY: A high-ceilinged indoor reception hall at night. The visible fixed surfaces and furniture within this crop are: Cream inner-hall wall, a fixed column and a softly defocused shelf surface in the hall; the foreground white shoulder belongs to the mother. Visible cast positions relative to these landmarks: Wit only a cream sleeve fragment at the far left edge, no face visible. Irin center middle plane, looking toward screen-right. Wit's mother only the back of her low braided head and white shoulder at the right foreground edge, face excluded.
+FRAME ORDER: from screen-left to screen-right: Wit (cream arm at screen-left), Irin, Wit's mother (white shoulder at screen-right).
+CAMERA POSITION: Behind the mothers anatomical right shoulder on the parents side of the standing table, looking toward Irin across the table at standing eye level.
+VIEW DIRECTION: Toward the specified visible cast and then Cream inner-hall wall, a fixed column and a softly defocused shelf surface in the hall; the foreground white shoulder belongs to the mother.
+SET IN FRAME: Irin stays left-center in the middle plane; the mothers low braided head and white shoulder occupy the right foreground. The hall wall remains behind Irin. Do not mirror these sides. Keep this layout; do not move or mirror it.
+BETWEEN CAMERA AND SUBJECT: The named foreground shoulders and open sightline across the table; no object covers the focused face.
+FOREGROUND: Wit's cream sleeve fragment at left and the mothers white shoulder and rear braided head at right.
+VISIBLE BACKGROUND: Cream inner-hall wall, a fixed column and a softly defocused shelf surface in the hall; the foreground white shoulder belongs to the mother.
+OFF-FRAME: The conversation continues within the visible group. No other person or any part of another person appears in the frame.
+START STATE: Irin looks slightly upward with a shy smile; the white shoulder at right and cream sleeve at left remain softly defocused.
+PROP STATE: No handheld prop is visible.
+CAMERA: MEDIUM CLOSE-UP. Framed from mid-chest up; the face fills about 35% of the frame height. 65mm full-frame equivalent, about 1.5 meters away, standing eye level.
+FOCUS: The primary visible face is sharp; foreground shoulders and distant cast remain softly defocused exactly as specified.
+LIGHTING: Soft warm illumination from fixed overhead track lights, with restrained cool teal fill reflected from the hall surfaces where already visible; natural medium contrast, warm skin tones, nighttime interior throughout. No extra light fixture is introduced within the crop.
+GRADE: warm luxury-event color treatment, natural skin, medium contrast, controlled highlights and restrained saturation.
+Show only the starting moment, before any planned movement begins.
+No captions, subtitles, labels, watermarks, panels or collage.

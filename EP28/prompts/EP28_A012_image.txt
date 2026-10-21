@@ -1,0 +1,38 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP28-S024 | Clip: A012 (A-roll) | SC01 โถงงานเลี้ยง กลางคืน
+# ไฟล์นี้: Image Prompt → OpenArt GPT Image 2 (9:16)
+#
+# ตัวละครในเฟรม (รวม 1 คน):
+# - พ่อวิทย์ C12-W02 ชุดW02โปโลเทา | ครึ่งตัว | พ่อวิทย์ (W02): กลางเฟรม · ระนาบกลาง · ถึงอก · เงยหน้าเล็กน้อย มองขวาบน แล้วกลับมามองซ้ายเฟรม พูด
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - ไอริน C04-W12 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - วิทย์ C05-W06 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - แม่วิทย์ C01-W04 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - ผู้ติดตามชาย C13-W01 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# - ริต้า C06-W02 | คงจุดตามPresence/Blocking ไม่เพิ่มเข้ากรอบ
+# แนบใน OpenArt: 1) input/characters/พ่อวิทย์/พ่อวิทย์ Face.webp
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+Create one standalone starting-frame image for SHOT EP28-S024.
+Vertical 9:16. Cinematic live-action still, photorealistic, natural material and skin texture.
+REFERENCE IMAGES:
+Image 1: Wit's father — use only for face, skin tone and hairstyle. The outfit comes from the text below. Do not copy the outfit, background, lighting or camera angle.
+A multi-view turnaround reference depicts one person from several angles. Render each named character once only; do not copy the sheet layout or duplicate a person.
+CHARACTERS: Wit's father: older Thai man; reference binding controls identity; wearing a taupe-gray short-sleeve collared polo shirt and swept-back salt-and-pepper hair, with no glasses; completely dry. Visible position: center middle plane, initially lifting his gaze slightly toward upper-right.
+CAST COUNT: exactly 1 people visible, including every partial figure and blurred person.
+SCENE GEOGRAPHY: A high-ceilinged indoor reception hall at night. The visible fixed surfaces and furniture within this crop are: Dark glass panes with black metal mullions and a restrained wall light; small green vase branches may remain at lower screen-right. Visible cast positions relative to these landmarks: Wit's father center middle plane, initially lifting his gaze slightly toward upper-right.
+FRAME ORDER: from screen-left to screen-right: Wit's father.
+CAMERA POSITION: On Irin side of the standing table, looking diagonally across it at Wit's father toward the dark glass wall; remain on the established axis side.
+VIEW DIRECTION: Toward the specified visible cast and then Dark glass panes with black metal mullions and a restrained wall light; small green vase branches may remain at lower screen-right.
+SET IN FRAME: Black glass mullions stay behind the father, dark exterior beyond; green branches remain low screen-right and never cross his face. Keep this layout; do not move or mirror it.
+BETWEEN CAMERA AND SUBJECT: The visible open space or table-edge crop described here; no additional person blocks the view.
+FOREGROUND: Soft green vase branches low screen-right.
+VISIBLE BACKGROUND: Dark glass panes with black metal mullions and a restrained wall light; small green vase branches may remain at lower screen-right.
+OFF-FRAME: The woman he addresses is beyond the left frame edge. No other person or any part of another person appears in the frame.
+START STATE: The father raises his gaze slightly toward upper-right with a thoughtful, polite face and lips at rest.
+PROP STATE: No handheld prop is visible.
+CAMERA: MEDIUM CLOSE-UP. Framed from mid-chest up; the face fills about 35% of the frame height. 65mm full-frame equivalent, about 1.5 meters away, standing eye level.
+FOCUS: The primary visible face is sharp; foreground shoulders and distant cast remain softly defocused exactly as specified.
+LIGHTING: Soft warm illumination from fixed overhead track lights, with restrained cool teal fill reflected from the hall surfaces where already visible; natural medium contrast, warm skin tones, nighttime interior throughout. No extra light fixture is introduced within the crop.
+GRADE: warm luxury-event color treatment, natural skin, medium contrast, controlled highlights and restrained saturation.
+Show only the starting moment, before any planned movement begins.
+No captions, subtitles, labels, watermarks, panels or collage.
