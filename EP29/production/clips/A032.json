@@ -1,0 +1,27 @@
+{
+  "clip": "A032",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Image/EP29_A032_T01.png",
+        "job": "01a159d0-c970-7340-8f0a-6e500214b996",
+        "result": "ok",
+        "qc": "เจตกลางเฟรมหน้าตรง คิ้วยกเล็กน้อย ไหล่ขนเฟอร์+มวยริต้าขวาล่าง เบลอ",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP29/Image/EP29_A032_T01.png",
+    "prompt_sha": "4b48544ee936",
+    "flag": null,
+    "facts": "Jet at center-left, nearly frontal, looking screen-right toward Rita, glasses, dark red tie, framed chest-up. Rita's blurred bun, ear and white fur shoulder with gold bag chain fill the right foreground. No hands visible."
+  },
+  "video": {
+    "status": "todo",
+    "takes": [],
+    "selected": null,
+    "prompt_sha": "afea232acded"
+  },
+  "notes": []
+}

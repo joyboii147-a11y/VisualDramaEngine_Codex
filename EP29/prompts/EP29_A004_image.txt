@@ -1,0 +1,33 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP29-S004 | Clip: A004 (A-roll) | SC01 ห้องนอนโรงแรม (L02) กลางวัน
+# ไฟล์นี้: Image Prompt → GPT Image 2 (9:16) ผ่าน fal.ai หรือ OpenArt
+#
+# ตัวละครในเฟรม (รวม 1 คน):
+# - วิทย์ C05-W09 สเวตเตอร์เทา+เชิ้ตลายทาง ไม่ใส่แจ็กเก็ต (ไม่มีภาพชุด ใช้ Face.webp) | หน้า (CU) ศีรษะถึงอก หันเฉียงขวา มองไกล มือขวาถือสมาร์ตโฟนขาวแนบหูขวา (ลดลงออกขอบล่างระหว่างคลิป) | กลางเฟรม
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - ไอริน C04-W18 | นั่งติดขวาของวิทย์ นอกขอบขวา (ไม่ได้เป็นเป้าสายตาในช็อตนี้ prompt ไม่เอ่ยถึง)
+#
+# แนบใน OpenArt: 1) input/characters/วิทย์/Face.webp
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+Create one standalone starting-frame image for SHOT EP29-S004.
+Vertical 9:16. Cinematic live-action still, photorealistic.
+REFERENCE IMAGES:
+Image 1: Wit — use only for face, skin tone and hairstyle. The outfit comes from the text below. Do not copy the outfit, background, lighting or camera angle.
+CHARACTERS: Wit, a young Thai man in his late twenties, face and hair from Image 1, wearing a heather gray wool crew-neck sweater over a pale blue-and-white fine-striped button-down shirt with the collar showing, black slim straight trousers, black leather penny loafers, no jacket, and tousled black hair parted in the middle.
+CAST COUNT: exactly one person visible.
+SCENE GEOGRAPHY: a hotel bedroom in daytime. A large double bed with crisp white sheets and a mustard-gold bed runner across its foot stands with its cream padded upholstered headboard against a plain warm beige wall; a small bedside table and a tall floor lamp with a warm glowing fabric shade stand on the left side of the headboard. A sheer-curtained window is in the right-hand wall beside the bed. Wit sits on the edge of the foot of the bed, near its middle, facing away from the headboard toward the room.
+FRAME ORDER: from screen-left to screen-right: Wit alone, centered.
+CAMERA POSITION: on the side of the room opposite the headboard, in front of Wit and slightly to the left of the couple's center line, at seated eye level.
+VIEW DIRECTION: toward Wit, past him to the left part of the cream padded headboard and the beige wall behind it.
+SET IN FRAME: the cream padded headboard spans the softly blurred background behind Wit's head and shoulders; the warm floor-lamp glow is a soft round bokeh at upper screen-left; plain warm beige wall above the headboard. Keep this layout; do not move or mirror it.
+BETWEEN CAMERA AND SUBJECT: nothing; open air in the room.
+VISIBLE BACKGROUND: softly defocused cream padded headboard and the plain beige wall above it, with the warm floor-lamp glow as a round bokeh at upper screen-left.
+OFF-FRAME: No other person or any part of another person appears in the frame.
+START STATE: Wit sits upright on the bed edge, body turned three-quarters toward screen-right, holding a white smartphone to his right ear with his right hand. He looks ahead into the middle distance past the right side of the lens, calm, head held in a slight nod, lips closed.
+CAMERA: TIGHT CLOSE-UP. The face fills about 60% of the frame height; the frame top cuts through the top of the hair and the frame bottom cuts just below the chin at the collarbones and upper chest. No waist visible; his right hand holding the phone at his ear is the only hand in frame. 85mm full-frame equivalent, about 1 meter away, seated eye level, three-quarter view.
+FOCUS: sharp on Wit's eyes; background softly defocused.
+LIGHTING: soft warm daytime interior light: a soft frontal key from camera-left motivated by the room's ceiling cove light, sheer-curtained window daylight from the window side on camera-right as gentle fill, a warm floor lamp glowing beside the headboard, approximately 4000K, soft natural contrast. The key falls on the screen-left cheek of Wit's face; the window light adds a soft rim on the screen-right edge of his hair and shoulder.
+GRADE: warm neutral daytime interior with cream, beige and soft gold tones, soft contrast, natural warm skin tones.
+Show only the starting moment, before any planned movement begins.
+No captions, subtitles, labels, watermarks, panels or collage.

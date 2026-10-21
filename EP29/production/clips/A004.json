@@ -1,0 +1,27 @@
+{
+  "clip": "A004",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Image/EP29_A004_T01.png",
+        "job": "01a159d0-8c62-7f32-bffb-fb07548509bb",
+        "result": "ok",
+        "qc": "ผ่าน คนเดียว วิทย์ CU ชุดถูก มือขวาถือโทรศัพท์ขาวแนบหูขวา สายตาเบนขวาเล็กน้อย ไฟโคมโบเก้ซ้ายบน; ลำตัวค่อนข้างตรงกล้อง",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP29/Image/EP29_A004_T01.png",
+    "prompt_sha": "32eb142411af",
+    "flag": null,
+    "facts": "Close-up of Wit alone, centered, body nearly facing camera, eyes just off-lens toward screen-right. His right hand holds a white smartphone to his right ear on the screen-left side of his face; only that hand is visible. Gray sweater over blue-striped collar, frame bottom at mid-chest; blurred cream headboard and warm lamp bokeh at upper screen-left."
+  },
+  "video": {
+    "status": "todo",
+    "takes": [],
+    "selected": null,
+    "prompt_sha": "9a547bfb58e3"
+  },
+  "notes": []
+}

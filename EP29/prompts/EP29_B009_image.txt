@@ -1,0 +1,37 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP29-S009 | Clip: B009 (B-roll) | SC01 ห้องนอนโรงแรม (L02) กลางวัน
+# ไฟล์นี้: Image Prompt → GPT Image 2 (9:16) ผ่าน fal.ai หรือ OpenArt
+#
+# ตัวละครในเฟรม (รวม 2 คน):
+# - วิทย์ C05-W09 สเวตเตอร์เทา+เชิ้ตลายทาง ไม่ใส่แจ็กเก็ต (ไม่แนบภาพ ใช้คำบรรยาย) | เห็นแค่มือซ้าย ข้อมือสเวตเตอร์เทา และต้นขากางเกงดำ | ซ้ายเฟรม
+# - ไอริน C04-W18 แจ็กเก็ตทวีดกรมท่าโบว์ขาว (ภาพ ไอริน W17) | เห็นแค่มือขวา ปลายแขนเสื้อทวีดกรมท่า และกระโปรงพลีทเทาเข้ม | ขวาเฟรม
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - ใบหน้าวิทย์และไอริน | นอกกรอบด้านบน
+# - สมาร์ตโฟนขาว P14 ในมือขวาวิทย์บนต้นขาขวา นอกขอบซ้าย — prompt ไม่เอ่ยถึง
+#
+# แนบใน OpenArt: 1) input/characters/ไอริน/ไอริน W17 แจ็กเก็ตทวีดกรมท่าโบว์ขาว.png
+# ภาพไอริน W17 ใช้คุมแขนเสื้อทวีดและกระโปรงพลีทเท่านั้น วิทย์ใช้คำบรรยาย (ภาพ W08 มีแจ็กเก็ต ไม่แนบ)
+# ตรวจ: ต้องเห็นมือรวม 2 มือ ห้ามมือเกิน แขนวิทย์เป็นสเวตเตอร์เทา ไม่ใช่หนังกลับ
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+Create one standalone starting-frame image for SHOT EP29-S009.
+Vertical 9:16. Cinematic live-action still, photorealistic.
+REFERENCE IMAGES:
+Image 1: Irin's outfit sheet (front, side and back of the same woman) — use only for the navy boucle tweed jacket sleeve, the ivory blouse cuff and the charcoal gray knife-pleated skirt. Her face is not in this shot. Do not copy the background, lighting, pose, camera angle or multi-view layout from this image.
+CHARACTERS: Wit, a young Thai man in his late twenties, seen only as his left hand, his left forearm in a heather gray wool sweater sleeve with the cuff of a pale blue-and-white fine-striped shirt just showing at the wrist, and his lap in black slim trousers; no jacket, no brown suede. Irin, a young Thai woman in her mid-twenties, seen only as her right hand, the cuff of her collarless navy boucle tweed jacket flecked with silver threads, and her lap in a charcoal gray knife-pleated midi skirt.
+CAST COUNT: exactly two people represented, by hands and laps only; exactly two hands visible in total: Wit's left hand and Irin's right hand.
+SCENE GEOGRAPHY: a hotel bedroom in daytime. A large double bed with crisp white sheets and a mustard-gold bed runner across its foot stands with its cream padded upholstered headboard against a plain warm beige wall; a small bedside table and a tall floor lamp with a warm glowing fabric shade stand on the left side of the headboard. A sheer-curtained window is in the right-hand wall beside the bed. Wit and Irin sit side by side on the edge of the foot of the bed, Wit on the left and Irin on the right, their thighs close together.
+FRAME ORDER: from screen-left to screen-right: Wit's left hand and lap, Irin's right hand and lap.
+CAMERA POSITION: directly above and slightly in front of the couple's laps where they sit side by side on the foot of the bed.
+VIEW DIRECTION: steeply down onto the space between their laps.
+SET IN FRAME: Wit's black trousers across the screen-left half; Irin's charcoal gray knife-pleated skirt across the screen-right half; a strip of the mustard-gold bed runner along the bottom edge. Keep this layout; do not move or mirror it.
+BETWEEN CAMERA AND SUBJECT: nothing; open air above their laps.
+VISIBLE BACKGROUND: only their laps — black trousers and charcoal pleated skirt — and a strip of the mustard-gold bed runner and white sheet along the bottom edge.
+OFF-FRAME: both faces are above the frame. No other person or any part of another person appears in the frame.
+START STATE: Irin's right hand rests palm-down on her right thigh near the gap between them. Wit's left hand rests on his left thigh just beside it, fingers relaxed, about to move toward her hand. Both hands are clearly separate.
+CAMERA: INSERT CLOSE-UP from a high angle looking down at the laps. The frame shows only the two hands, the sleeve cuffs and the laps; no faces, no shoulders, no chests. 50mm full-frame equivalent, about 0.8 meters above the hands.
+FOCUS: the two hands sharp; the fabric of the laps falls softly out of focus at the edges.
+LIGHTING: soft warm overhead light from the room's ceiling falling on the hands and laps, with gentle window fill from screen-right, approximately 4000K, soft natural contrast.
+GRADE: warm neutral daytime interior with cream, beige and soft gold tones, soft contrast, natural warm skin tones.
+Show only the starting moment, before any planned movement begins.
+No captions, subtitles, labels, watermarks, panels or collage.

@@ -1,0 +1,33 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP29-S011 | Clip: B021 (B-roll) | SC02 โถงทางเดินระแนงไม้ L03 กลางคืน | Setup SC02-A
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 4 วิ | เสียงโหมด C
+#
+# ตัวละครในเฟรม (รวม 1 คน):
+# - เลขาเจต C13-W01 เลขาเจต W02 สูทดำเนกไทแดง | ครึ่งตัว (MS ศีรษะถึงเอว) เดินเข้าหากล้อง กลางเฟรม
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - ริต้า C06-W07 | ยังไม่เข้าฉาก (มาจากทางมุมโซฟาหลังกล้องขวาใน S012) — ไม่เอ่ยถึงใน prompt
+# แนบใน Grok: ภาพที่เลือกจาก EP29_B021_image
+# ผู้พูด: ไม่มีผู้พูด (โหมด C) | คนในเฟรมที่ไม่พูด: Jet
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+EP29_B021 SHOT EP29-S011. One continuous cinematic live-action shot, vertical 9:16.
+TARGET DURATION: 4 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
+SCENE GEOGRAPHY: Night interior corridor seen toward its west end: a horizontal wood-slat panel backlit in cool blue fills the background, with warm gray stacked stone along the screen-right edge. Jet walks along the middle of the corridor toward the camera; the corridor is otherwise empty.
+VISIBLE CAST: exactly one person. Jet, a tall slim Thai man in his early thirties with short black hair with a soft fringe and thin rectangular metal-rimmed glasses, wearing a charcoal-black suit jacket, a crisp white shirt, a dark burgundy-red silk tie and a white pocket square; he walks toward the camera along the middle of the corridor, frontal, eyes forward. FRAME ORDER: Jet alone at center.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: Camera in the middle of the corridor ahead of Jet, a little toward the stone-wall side, at standing eye level, looking west toward him and the backlit slat panel behind him. MEDIUM SHOT: the frame bottom cuts just below the waist; head in the upper third; 50mm full-frame equivalent, about 2.5 meters away. Blue-backlit slat panel fills the background; warm gray stacked stone along the screen-right edge. Keep this layout; do not mirror it.
+FOREGROUND / VISIBLE BACKGROUND: No foreground. Background: the blue-backlit wood-slat end panel, softly defocused and filling the background, and a defocused strip of warm gray stacked stone at the screen-right edge.
+OFF-FRAME: nothing; the corridor ahead of Jet is empty. No one else enters the frame at any time.
+LIGHTING / COLOR: warm overhead linear ceiling lights from above fall on Jet's face and shoulders; the cool blue glow of the backlit wood-slat panel behind him gives a cool blue rim on his hair and shoulders; mixed 3200K warm key with cool blue accents, medium contrast with soft pools of light. GRADE: night corridor mixed grade: cool teal-blue accents in the background behind Jet, warm amber light on skin, medium contrast, restrained saturation, natural skin tones.
+PROP STATE: a plain white A4 document envelope with no readable logo or text, its flap closed, held low at hip level in Jet's right hand (screen-left), upper half visible at the lower-left edge.
+START STATE: Jet is mid-stride walking straight toward the camera along the middle of the corridor, body and face frontal, eyes forward, neutral composed expression, lips closed. His right hand (screen-left) holds a plain white A4 document envelope with no readable logo or text, its flap closed low at hip level, its upper half visible at the lower screen-left edge; his left arm swings naturally at his side.
+PERFORMANCE CONTEXT: Jet is carrying the sealed results report somewhere at night, doing his job with quiet, focused purpose.
+ACTION: Jet keeps walking steadily toward the camera at an even pace. Around the middle of the clip he lifts the envelope in his right hand to chest height and glances down at it for a moment, then lowers it back to hip level and raises his eyes to look straight ahead, still walking.
+END STATE: Jet still walks toward the camera, envelope low in his right hand at hip level, eyes straight ahead, face composed and intent, lips closed.
+CAMERA: a smooth backward dolly at Jet's walking pace for the whole clip, keeping him the same size in frame; no zoom, no cut; the move continues evenly to the very end of the clip and the framing does not otherwise change.
+VISUAL CONTINUITY: Preserve the starting image's faces, hair, glasses, wardrobe, set geometry, lighting character and color treatment. Allow only the specified actions and camera movement. No unplanned cuts, added people, identity swaps or prop teleportation. No readable text appears anywhere, including on the envelope.
+AUDIO MODE: no dialogue.
+No intelligible speech or speech-like lip-sync.
+AMBIENCE/SFX: Jet's leather-soled footsteps on the tile floor and faint night-corridor room tone; no music, no other voices.
+No captions, subtitles, labels or watermarks.

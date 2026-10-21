@@ -1,0 +1,27 @@
+{
+  "clip": "A031",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Image/EP29_A031_T01.png",
+        "job": "01a159d0-c3ae-7c63-a3ab-ff94070a94fa",
+        "result": "ok",
+        "qc": "OTS ไหล่/ท้ายทอยเจตซ้ายใหญ่ ริต้ากลางเฟรมมองซ้าย ยิ้มมุมปาก ไม่เห็นมือ",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP29/Image/EP29_A031_T01.png",
+    "prompt_sha": "d46f7bc0cc00",
+    "flag": null,
+    "facts": "Over-the-shoulder: Jet's blurred back of head, glasses edge and black suit shoulder fill the left half; Rita at center-right, three-quarter view looking screen-left at him, faint smirk, lips closed. Framed to her waist; no hands visible, bag chain on her left shoulder."
+  },
+  "video": {
+    "status": "todo",
+    "takes": [],
+    "selected": null,
+    "prompt_sha": "cf4d50e04176"
+  },
+  "notes": []
+}

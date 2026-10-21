@@ -1,0 +1,33 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP29-S003 | Clip: B003 (B-roll) | SC01 ห้องนอนโรงแรม (L02) กลางวัน
+# ไฟล์นี้: Image Prompt → GPT Image 2 (9:16) ผ่าน fal.ai หรือ OpenArt
+#
+# ตัวละครในเฟรม (รวม 1 คน):
+# - ไอริน C04-W18 แจ็กเก็ตทวีดกรมท่าโบว์ขาว (ภาพ ไอริน W17) | หน้า (CU) ศีรษะถึงไหล่ หันซ้ายมองวิทย์ | กลางเฟรม
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - วิทย์ C05-W09 | นั่งติดซ้ายของไอริน นอกขอบซ้าย ยังถือโทรศัพท์แนบหู — เป้าสายตาของไอริน (prompt เอ่ยแค่ว่าคนที่เธอมองอยู่นอกขอบซ้าย)
+#
+# แนบใน OpenArt: 1) input/characters/ไอริน/Face.png
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+Create one standalone starting-frame image for SHOT EP29-S003.
+Vertical 9:16. Cinematic live-action still, photorealistic.
+REFERENCE IMAGES:
+Image 1: Irin — use only for face, skin tone and hairstyle. The outfit comes from the text below. Do not copy the outfit, background, lighting or camera angle.
+CHARACTERS: Irin, a young Thai woman in her mid-twenties, face and hair from Image 1, wearing a cropped collarless navy boucle tweed jacket flecked with silver and multicolor threads, worn open, with silver buttons and patch pockets, over an ivory satin blouse with a large soft pussy-bow tied at the neck, a delicate thin pendant necklace, a charcoal gray knife-pleated midi skirt, black leather Mary Jane flats with a buckled strap, and long dark brown wavy hair worn loose.
+CAST COUNT: exactly one person visible.
+SCENE GEOGRAPHY: a hotel bedroom in daytime. A large double bed with crisp white sheets and a mustard-gold bed runner across its foot stands with its cream padded upholstered headboard against a plain warm beige wall; a small bedside table and a tall floor lamp with a warm glowing fabric shade stand on the left side of the headboard. A sheer-curtained window is in the right-hand wall beside the bed. Irin sits on the edge of the foot of the bed, right of its middle, facing away from the headboard toward the room.
+FRAME ORDER: from screen-left to screen-right: Irin alone, centered.
+CAMERA POSITION: on the side of the room opposite the headboard, in front of Irin and slightly to the left of her center line, at seated eye level.
+VIEW DIRECTION: toward Irin, past her to the right part of the cream padded headboard and the wall near the window.
+SET IN FRAME: the right part of the cream padded headboard softly blurred behind Irin's head and shoulders; a soft bright sheer-curtain window glow at upper screen-right behind her; plain warm beige wall above the headboard. Keep this layout; do not move or mirror it.
+BETWEEN CAMERA AND SUBJECT: nothing; open air in the room.
+VISIBLE BACKGROUND: softly defocused right part of the cream padded headboard and the beige wall, with a bright sheer-curtain window glow at upper screen-right.
+OFF-FRAME: the person Irin looks at is outside the left frame edge. No other person or any part of another person appears in the frame.
+START STATE: Irin sits upright, head and eyes turned three-quarters toward screen-left, looking at someone just beyond the left frame edge; curious and attentive, lips closed. Empty space on the screen-left side of the frame in front of her gaze.
+CAMERA: TIGHT CLOSE-UP. The face fills about 60% of the frame height; the frame top cuts through the top of the hair and the frame bottom cuts just below the chin at the collarbones, showing the pussy-bow knot and the tweed collar edge. No chest, waist or hands visible. 85mm full-frame equivalent, about 1 meter away, seated eye level, three-quarter view.
+FOCUS: sharp on Irin's eyes; background softly defocused.
+LIGHTING: soft warm daytime interior light: a soft frontal key from camera-left motivated by the room's ceiling cove light, sheer-curtained window daylight from the window side on camera-right as gentle fill, a warm floor lamp glowing beside the headboard, approximately 4000K, soft natural contrast. The camera-left key lights Irin's whole face; the window glow behind her at screen-right brightens the edge of her hair.
+GRADE: warm neutral daytime interior with cream, beige and soft gold tones, soft contrast, natural warm skin tones.
+Show only the starting moment, before any planned movement begins.
+No captions, subtitles, labels, watermarks, panels or collage.

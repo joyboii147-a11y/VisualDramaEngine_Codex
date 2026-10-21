@@ -1,0 +1,18 @@
+{
+  "clip": "B045",
+  "endpoint": "openai/gpt-image-2/edit",
+  "refs": [
+    "input/characters/วิทย์/วิทย์ W08 แจ็กเก็ตหนังกลับน้ำตาล.png",
+    "input/characters/ไอริน/ไอริน W17 แจ็กเก็ตทวีดกรมท่าโบว์ขาว.png",
+    "input/characters/เลขาเจต/เลขาเจต W02 สูทดำเนกไทแดง.png"
+  ],
+  "out_file": "EP29/Image/EP29_B045_T01.png",
+  "prompt_chars": 4895,
+  "status": "failed",
+  "request_id": "01a159d1-536f-7af2-98e1-d968f8668db0",
+  "status_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a159d1-536f-7af2-98e1-d968f8668db0/status",
+  "response_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a159d1-536f-7af2-98e1-d968f8668db0",
+  "submitted": "2026-10-20 21:57:32",
+  "error": "HTTP 403: {\"detail\":\"User is locked. Reason: TOP_UP.\"}",
+  "finished": "2026-10-20 22:00:26"
+}

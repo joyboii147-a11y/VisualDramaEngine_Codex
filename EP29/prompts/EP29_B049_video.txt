@@ -1,0 +1,36 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP29-S049 | Clip: B049 (B-roll) | SC03 โถงงานเลี้ยงผนังกระจก L04 กลางคืน
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 3 วิ | เสียงโหมด C
+#
+# ตัวละครในเฟรม (รวม 2 คน):
+# - การ์ด 1 C14-W01 สูทดำ (ไม่มีภาพอ้างอิง) | เบลอฉากหลัง ยืนนิ่ง | ซ้ายหลัง
+# - พ่อวิทย์ C12-W01 โค้ทยาวดำ | หน้า (CU) เฉียง 3/4 หันขวา | กลางค่อนซ้าย ช่องว่างขวา
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - วิทย์ C05-W10 | นอกขวาใกล้เลนส์ เป็นคนที่พ่อจ้อง
+# - การ์ด 2 | นอกขวาหลัง
+# - ไอริน แม่วิทย์ ริต้า เลขาเจต | นอกกรอบ
+#
+# แนบใน Grok: ภาพที่เลือกจาก EP29_B049_image
+# ผู้พูด: ไม่มี | คนในเฟรมที่ไม่พูด: พ่อวิทย์, การ์ด 1
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+EP29_B049 SHOT EP29-S049. One continuous cinematic live-action close-up, vertical 9:16.
+TARGET DURATION: 3 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
+SCENE GEOGRAPHY: near the entrance opening of a night banquet hall; behind Wit's father, softly defocused beige corridor walls with warm wall lights; Guard 1 blurred behind him on the left.
+VISIBLE CAST: exactly 2 people. FRAME ORDER from screen-left to screen-right: (Guard 1 blurred in the background) · Wit's father. Wit's father, a distinguished Thai man in his late fifties, wearing the lapels of a black wool overcoat over a black suit, a crisp white shirt, a silver-gray patterned tie, thin metal-rimmed glasses, and salt-and-pepper hair swept back, three-quarter toward the camera, head turned screen-right. Guard 1, a young Thai male bodyguard in his late twenties with fair skin and short black hair with a soft fringe falling over the forehead, wearing a plain black suit jacket, a white shirt, a narrow black tie, and short black hair with a soft fringe, standing still, blurred.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: camera on the glass-wall side near Wit, aimed diagonally toward the entrance opening; standing eye level; tight close-up; 85mm.
+FOREGROUND / VISIBLE BACKGROUND: no foreground. Background: softly defocused beige corridor walls and warm wall lights; Guard 1 blurred behind on the left.
+OFF-FRAME: the person the father stares at is beyond the right frame edge, near the lens; the camera does not follow his gaze. No one else enters the frame at any time.
+LIGHTING / COLOR: warm rim from the corridor lights behind, warm overhead fill on his face, approximately 3200K; warm night banquet palette of white, cream and black steel tones, medium-low contrast, warm natural skin tones.
+PROP STATE: no handheld object in frame.
+START STATE: the father has just stopped, eager and impatient, staring screen-right; Guard 1 stands still behind on the left.
+PERFORMANCE CONTEXT: Wit's father stares at his son with high expectation; he can hardly wait.
+ACTION: Wit's father keeps staring screen-right; his eyebrows lift slightly and his eyes brighten with eager expectation; lips stay closed. Guard 1 stays still. Both hold until the very end of the clip; the framing does not change.
+END STATE: staring screen-right, eyebrows slightly raised, bright eager eyes, lips closed; Guard 1 still behind.
+CAMERA: locked-off, the framing never changes.
+VISUAL CONTINUITY: Preserve the starting image's faces, hair, wardrobe, set geometry, lighting character and color treatment. Allow only the specified actions and camera movement. No unplanned cuts, added people, identity swaps or prop teleportation.
+AUDIO MODE: no dialogue.
+No intelligible speech or speech-like lip-sync.
+AMBIENCE/SFX: quiet hall ambience; no music, no chatter.

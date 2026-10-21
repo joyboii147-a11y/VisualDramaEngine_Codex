@@ -1,0 +1,27 @@
+{
+  "clip": "A005",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Image/EP29_A005_T01.png",
+        "job": "01a159d0-93db-7a53-8831-e31468e5c16e",
+        "result": "ok",
+        "qc": "ผ่าน ไอรินกลางเฟรม + ขอบไหล่ซ้ายวิทย์ (สเวตเตอร์เทา ไม่ใช่หนังกลับ) ล่างซ้าย เบลอ ไม่บังหน้า สายตามองซ้ายเฟรม; ยิ้มบางเล็กน้อย",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP29/Image/EP29_A005_T01.png",
+    "prompt_sha": "1cf074cab5d4",
+    "flag": null,
+    "facts": "Irin in close-up at center-right, head turned three-quarters toward screen-left, eyes looking screen-left, a soft closed-lip smile; navy tweed jacket and ivory pussy-bow visible to mid-chest, no hands. A blurred gray knit sweater shoulder of Wit fills the lower-left edge of the frame. Background: blurred headboard and lamp glow at screen-left, sheer window light at upper screen-right."
+  },
+  "video": {
+    "status": "todo",
+    "takes": [],
+    "selected": null,
+    "prompt_sha": "d6ce09787b77"
+  },
+  "notes": []
+}

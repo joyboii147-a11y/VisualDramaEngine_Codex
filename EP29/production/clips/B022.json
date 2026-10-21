@@ -1,0 +1,27 @@
+{
+  "clip": "B022",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Image/EP29_B022_T01.png",
+        "job": "01a159d0-bcdd-7870-bc4f-96dddf1b855a",
+        "result": "ok",
+        "qc": "สองคนครบ เจตซ้ายด้านข้างหันขวา ถือซองขาว ริต้าขวาก้าวเข้าหา ด้านข้างหันซ้าย ชุดตรง",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP29/Image/EP29_B022_T01.png",
+    "prompt_sha": "bc06a858445b",
+    "flag": null,
+    "facts": "Full-length profile two-shot: Jet at screen-left standing facing right holding a white envelope at his side; Rita at screen-right mid-step facing left toward him, right hand on her quilted bag. Both full bodies down to the shoes are visible, sofas along the right wall."
+  },
+  "video": {
+    "status": "todo",
+    "takes": [],
+    "selected": null,
+    "prompt_sha": "d519ba0f1bf9"
+  },
+  "notes": []
+}

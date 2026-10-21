@@ -1,0 +1,17 @@
+{
+  "clip": "B021",
+  "endpoint": "openai/gpt-image-2/edit",
+  "refs": [
+    "input/characters/เลขาเจต/เลขาเจต W02 สูทดำเนกไทแดง.png"
+  ],
+  "out_file": "EP29/Image/EP29_B021_T01.png",
+  "prompt_chars": 3726,
+  "status": "done",
+  "request_id": "01a159d0-b613-7ee1-b73e-3f376041232d",
+  "status_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a159d0-b613-7ee1-b73e-3f376041232d/status",
+  "response_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a159d0-b613-7ee1-b73e-3f376041232d",
+  "submitted": "2026-10-20 21:56:51",
+  "width": null,
+  "height": null,
+  "finished": "2026-10-20 22:00:01"
+}

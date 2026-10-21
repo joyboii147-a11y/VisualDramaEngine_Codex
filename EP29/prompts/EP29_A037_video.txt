@@ -1,0 +1,43 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP29-S023 | Clip: A037 (A-roll) | SC02 โถงทางเดินระแนงไม้ L03 กลางคืน | Setup SC02-D2
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 3 วิ | เสียงโหมด A
+#
+# ตัวละครในเฟรม (รวม 1 คน):
+# - ริต้า   C06-W07 ริต้า W07 แจ็กเก็ตขนนกขาว | หน้า (CU มุมต่ำ) เฉียง 3/4 กลางเฟรม มองซ้ายเฟรม
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - เลขาเจต C13-W01 | นอกเฟรมซ้ายใกล้เลนส์ เป็นคนที่ริต้ามองและพูดด้วย
+# เสี่ยง: ช็อตเดี่ยวคู่สนทนานอกเฟรม; มุมต่ำ
+# แนบใน Grok: ภาพที่เลือกจาก EP29_A037_image
+# ผู้พูด: Rita ON | คนในเฟรมที่ไม่พูด: ไม่มี
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+EP29_A037 SHOT EP29-S023. One continuous cinematic live-action shot, vertical 9:16.
+TARGET DURATION: 3 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
+SCENE GEOGRAPHY: Night interior corridor seen toward its east end: a warm gray horizontal stacked-stone wall with warm decorative lights blurred behind Rita, the corridor receding on the right. Rita stands in the middle of the corridor facing screen-left.
+VISIBLE CAST: exactly one person. Rita, a young Thai woman with dark brown hair in a high top-knot bun, wearing a cropped shaggy long-hair white faux-fur jacket worn open over a silver-gray satin button-front shirt dress, the upper strands of dark beaded necklaces at her collar, and gold cluster earrings; she stands at frame center in three-quarter view, seen from slightly below, eyes directed screen-left. FRAME ORDER: Rita alone.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: Camera on the same east-facing axis as the over-the-shoulder angle on Rita but moved in past Jet's shoulder, slightly below her eye level, on the same side of the conversation axis as every other angle in this scene; looking east and slightly upward toward Rita, with the warm gray stacked-stone wall and the far east end of the corridor behind her. TIGHT CLOSE-UP, gentle low angle. The face fills about 60% of the frame height; the frame top cuts through the top-knot bun and the frame bottom cuts just below the chin at the collarbones, showing only the fur collar. No chest, waist or hands visible. 85mm full-frame equivalent, about 1 meter away, camera slightly below her eye level tilted up a little; Rita in three-quarter view. Set in frame: blurred warm gray stacked-stone wall with warm decorative-light bokeh behind Rita, the corridor's far end receding on the right side of the background. Keep this layout; do not move or mirror it.
+FOREGROUND / VISIBLE BACKGROUND: No foreground. Background: the warm gray horizontal stacked-stone wall with warm decorative wall lights blurred into amber bokeh, and the corridor fading into the far distance on the right.
+OFF-FRAME: the person she addresses is just beyond the left frame edge near the lens; only her eyes and face turn toward that side; the camera does not follow her gaze. No one else enters the frame at any time.
+LIGHTING / COLOR: warm overhead linear ceiling lights and warm decorative lights on the stone wall light Rita's face and white fur; a faint cool blue edge reflection on the fur and hair; mixed 3200K warm light with a cool blue accent, medium contrast. GRADE: night corridor mixed grade: warm amber stone-wall light behind Rita with subtle cool teal-blue edge accents, medium contrast, restrained saturation, natural skin tones.
+PROP STATE: no hand-held objects are visible.
+START STATE: Rita faces screen-left in three-quarter view, seen from slightly below, eyes fixed on him beyond the left frame edge, a cold smile, lips closed. No hands are visible.
+PERFORMANCE CONTEXT: Rita coldly states she will swap out the report.
+ACTION: Rita speaks the assigned line low, slow and cold, each word clear; her cold smile stays and her eyes do not move.
+END STATE: Rita's cold smile holds, eyes still, lips closed; she holds this until the very end of the clip and the framing does not change.
+CAMERA: locked-off, the framing never changes.
+VISUAL CONTINUITY: Preserve the starting image's faces, hair, glasses, wardrobe, set geometry, lighting character and color treatment. Allow only the specified actions. No unplanned cuts, added people, identity swaps or prop teleportation. No readable text appears anywhere.
+AUDIO MODE: generated dialogue.
+SPEECH EVENT 1:
+SPEAKER: Rita, visible on screen (ON), the only speaker.
+EXACT THAI DIALOGUE: "ฉันจะเอามันไปเปลี่ยนทิ้ง"
+VOICE IDENTITY: young Thai female voice, crisp mid register, cool bright timbre, standard Thai accent
+DELIVERY: low, slow, cold and certain, each word clear.
+Lip-sync only Rita to the assigned line.
+NON-SPEAKERS: none visible; no speech-like lip movements.
+Speak only the assigned dialogue exactly once, without paraphrasing or added words.
+Do not stretch speech to fill the clip. No unassigned voices.
+AFTER SPEECH: cold smile, lips closed; quiet hold until the cut.
+AMBIENCE/SFX: faint steady night-corridor room tone with a soft ventilation hum; no music, no chatter, no other voices.
+No captions, subtitles, labels or watermarks.

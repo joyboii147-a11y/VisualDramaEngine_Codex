@@ -1,0 +1,18 @@
+{
+  "clip": "A064",
+  "endpoint": "openai/gpt-image-2/edit",
+  "refs": [
+    "input/characters/พ่อวิทย์/พ่อวิทย์ Face.webp",
+    "input/characters/วิทย์/วิทย์ W08 แจ็กเก็ตหนังกลับน้ำตาล.png",
+    "input/characters/การ์ด 1/การ์ด 1 W01 สูทดำเนกไทดำ.png"
+  ],
+  "out_file": "EP29/Image/EP29_A064_T01.png",
+  "prompt_chars": 5167,
+  "status": "failed",
+  "request_id": "01a159d1-8b03-7d63-bdb8-ece104fd45fc",
+  "status_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a159d1-8b03-7d63-bdb8-ece104fd45fc/status",
+  "response_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a159d1-8b03-7d63-bdb8-ece104fd45fc",
+  "submitted": "2026-10-20 21:57:46",
+  "error": "HTTP 403: {\"detail\":\"User is locked. Reason: TOP_UP.\"}",
+  "finished": "2026-10-20 21:59:44"
+}

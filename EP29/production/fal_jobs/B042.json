@@ -1,0 +1,16 @@
+{
+  "clip": "B042",
+  "endpoint": "openai/gpt-image-2/edit",
+  "refs": [
+    "input/characters/ริต้า/ริต้า W07 แจ็กเก็ตขนนกขาว.png"
+  ],
+  "out_file": "EP29/Image/EP29_B042_T01.png",
+  "prompt_chars": 3179,
+  "status": "failed",
+  "request_id": "01a159d1-3998-78f3-b23c-d8e40ed2cc2e",
+  "status_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a159d1-3998-78f3-b23c-d8e40ed2cc2e/status",
+  "response_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a159d1-3998-78f3-b23c-d8e40ed2cc2e",
+  "submitted": "2026-10-20 21:57:25",
+  "error": "HTTP 403: {\"detail\":\"User is locked. Reason: TOP_UP.\"}",
+  "finished": "2026-10-20 22:00:22"
+}

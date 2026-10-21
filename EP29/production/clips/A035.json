@@ -1,0 +1,27 @@
+{
+  "clip": "A035",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Image/EP29_A035_T01.png",
+        "job": "01a159d0-e115-79b3-a7b6-ffc1efe05c04",
+        "result": "ok",
+        "qc": "เจตกลางหน้าตรง ปากเม้ม ตึง ไหล่ริต้าขวาล่าง",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP29/Image/EP29_A035_T01.png",
+    "prompt_sha": "f0d4ba3c2517",
+    "flag": null,
+    "facts": "Jet at center, nearly frontal, looking screen-right toward Rita, lips pressed, tense face, framed chest-up. Rita's blurred bun, ear and white fur shoulder with gold chain fill the right foreground. No hands visible."
+  },
+  "video": {
+    "status": "todo",
+    "takes": [],
+    "selected": null,
+    "prompt_sha": "fc12805fa3c6"
+  },
+  "notes": []
+}

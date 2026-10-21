@@ -1,0 +1,25 @@
+{
+  "clip": "A041",
+  "image": {
+    "status": "retry",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Image/EP29_A041_T01.png",
+        "job": "01a159d1-0de6-7b83-87a5-946d8debd5ae",
+        "result": "fail",
+        "qc": "การ์ดหนาคล้ายโทรศัพท์ และถือมือซ้าย (ขวาเฟรม) ผิดจากมือขวา สีหน้าดูนิ่งมากกว่าภูมิใจ",
+        "cost": 0.06
+      }
+    ],
+    "selected": null,
+    "prompt_sha": "8f497dff7ebc"
+  },
+  "video": {
+    "status": "todo",
+    "takes": [],
+    "selected": null,
+    "prompt_sha": "bf8ea6acd76a"
+  },
+  "notes": []
+}

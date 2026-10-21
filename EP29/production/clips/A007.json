@@ -1,0 +1,27 @@
+{
+  "clip": "A007",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Image/EP29_A007_T01.png",
+        "job": "01a159d0-9df9-7291-8832-2187e81fdaaa",
+        "result": "ok",
+        "qc": "ผ่าน คนเดียว วิทย์หันเฉียงขวา สายตามองขวาเฟรม ไม่มีโทรศัพท์/มือในเฟรม ชุดถูก โคมโบเก้ซ้ายบน",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP29/Image/EP29_A007_T01.png",
+    "prompt_sha": "1f9c8304df02",
+    "flag": null,
+    "facts": "Close-up of Wit alone, head and body turned three-quarters toward screen-right, eyes looking to screen-right, calm faint expression, lips closed. No hands or phone visible; gray sweater over striped collar fills the lower frame. Blurred cream headboard behind, warm lamp bokeh at upper screen-left."
+  },
+  "video": {
+    "status": "todo",
+    "takes": [],
+    "selected": null,
+    "prompt_sha": "d81ac2e68880"
+  },
+  "notes": []
+}

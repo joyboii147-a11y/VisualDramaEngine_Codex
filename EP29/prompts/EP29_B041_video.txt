@@ -1,0 +1,34 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP29-S039 | Clip: B041 (B-roll) | SC03 โถงงานเลี้ยงผนังกระจก L04 กลางคืน
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 5 วิ | เสียงโหมด C
+#
+# ตัวละครในเฟรม (รวม 2 คน):
+# - ริต้า C06-W07 แจ็กเก็ตขนนกขาว | เต็มตัว หันขวา ยิ้มบาง | ซ้าย หลังโต๊ะฝั่งซ้าย
+# - เลขาเจต C13-W01 สูทดำเนกไทแดง | เต็มตัว เดินเข้า ถือซองมือขวาแนบลำตัว | ขอบขวา → หยุดขวาของริต้า ~1 ม.
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - วิทย์ ไอริน แม่วิทย์ พ่อวิทย์ การ์ด — ยังไม่เข้าโถง
+#
+# แนบใน Grok: ภาพที่เลือกจาก EP29_B041_image
+# ผู้พูด: ไม่มี | คนในเฟรมที่ไม่พูด: ริต้า, เลขาเจต
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+EP29_B041 SHOT EP29-S039. One continuous cinematic live-action long shot, vertical 9:16.
+TARGET DURATION: 5 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
+SCENE GEOGRAPHY: a night banquet hall with a cream marble floor. A waist-high round standing table with a floor-length white tablecloth stands in the middle; on it a turned black vase holds pink and white flowers with pale green sprigs. Along the far side of the hall, behind the table, runs a tall black steel-framed glass wall with a tall glass door; outside is dark night, with warm reflections on the glass. On the left side of the hall is a white wall with sheer white curtains and a small potted plant. On the right side, where the glass wall meets the side wall, is the entrance opening from a corridor with beige walls and warm wall lights. People stand in a shallow arc on the far side of the table, between the table and the glass wall, facing the table and the camera. Rita stands behind the left end of the table; Secretary Jet walks in from the entrance opening on the right.
+VISIBLE CAST: exactly 2 people. FRAME ORDER from screen-left to screen-right: Rita · Secretary Jet. Rita, a young Thai woman in her mid-twenties, wearing "a cropped shaggy long-hair white faux-fur jacket worn open, over a silver-gray satin button-front mini shirt dress, several long strands of dark beaded necklaces layered at different lengths, gold cluster earrings, an ivory quilted mini shoulder bag on a gold chain strap worn on the left shoulder, nude patent pointed-toe stiletto pumps, and dark brown hair in a high top-knot bun", stands behind the left end of the table, facing the camera, head turned screen-right toward Jet. Secretary Jet, a tall slim Thai man in his early thirties, wearing "a charcoal-black two-button single-breasted suit, a crisp white shirt, a dark burgundy-red silk tie, a white pocket square, black leather cap-toe oxford shoes, thin rectangular metal-rimmed glasses, and short black hair with a soft fringe", walks along the far side of the table from the right edge toward Rita.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: camera on the hall interior side in front of the round table at the reference position, looking straight across the table toward the people and the glass wall beyond; standing eye level; long shot with full bodies, 35mm.
+FOREGROUND / VISIBLE BACKGROUND: foreground: the round white-clothed table with the black vase of pink and white flowers at lower center, hiding no face. Background: the tall black steel-framed glass wall with a tall glass door across the back, dark night outside with warm reflections; the white wall with sheer white curtains and a small potted plant on the left; the corner of the glass wall and the warmly lit beige entrance opening at the far right.
+OFF-FRAME: none needed; both people are in frame. No one else enters the frame at any time.
+LIGHTING / COLOR: warm white overhead linear ceiling lights and warm wall sconces, soft warm fill on faces, dark night beyond the tall black steel-framed glass wall with warm reflections on the glass, approximately 3200K, medium-low contrast; warm night banquet palette of white, cream and black steel with soft pink floral accents, medium-low contrast, warm natural skin tones.
+PROP STATE: Secretary Jet holds a plain white A4 document envelope with no readable logo or text in his right hand down along his side for the whole clip. Rita's hands are empty; her bag hangs on its chain on her left shoulder. The envelope and paper are plain white with no readable text, logo, letters or numbers anywhere.
+START STATE: Rita stands still with a faint smile looking screen-right at Jet; Jet is mid-stride near the right edge, face neutral, envelope at his right side.
+PERFORMANCE CONTEXT: Rita has been waiting for the secretary and is quietly confident because she already knows the plan; Jet keeps a composed, expressionless face.
+ACTION: Secretary Jet walks screen-left along the far side of the table from the right edge toward Rita and stops about one meter to her right, on the left side of the flower vase. He turns his head left and meets Rita's eyes briefly with a neutral face. Rita keeps her faint smile and watches him arrive. After he stops, both stay still until the very end of the clip; the framing does not change.
+END STATE: Jet stands still behind the table about one meter to Rita's right, facing her, neutral face, envelope in his right hand at his side; Rita smiles faintly at him.
+CAMERA: locked-off, the framing never changes.
+VISUAL CONTINUITY: Preserve the starting image's faces, hair, wardrobe, set geometry, lighting character and color treatment. Allow only the specified actions and camera movement. No unplanned cuts, added people, identity swaps or prop teleportation.
+AUDIO MODE: no dialogue.
+No intelligible speech or speech-like lip-sync.
+AMBIENCE/SFX: footsteps on the marble floor, a quiet hall ambience; no music, no chatter.

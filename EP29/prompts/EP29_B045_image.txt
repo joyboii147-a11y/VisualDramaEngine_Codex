@@ -1,0 +1,41 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP29-S044 | Clip: B045 (B-roll) | SC03 โถงงานเลี้ยงผนังกระจก L04 กลางคืน
+# ไฟล์นี้: Image Prompt → GPT Image 2 (9:16) ผ่าน fal.ai
+#
+# ตัวละครในเฟรม (รวม 3 คน):
+# - เลขาเจต C13-W01 สูทดำเนกไทแดง | เห็นแค่ไหล่ขวาและแขนขวา (ยื่นซองเข้ามา) ไม่เห็นหน้า | ขอบซ้าย
+# - วิทย์ C05-W10 แจ็กเก็ตหนังกลับน้ำตาล (ใส่แจ็กเก็ต) | ครึ่งตัว (ศีรษะถึงเอว) หน้าตรง ยกสองมือรับซอง | กลางซ้าย
+# - ไอริน C04-W18 แจ็กเก็ตทวีดกรมท่าโบว์ขาว | ครึ่งตัว (ศีรษะถึงเอว) มองวิทย์ ยิ้มบาง | ขวา
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - ริต้า C06-W07 | นอกซ้าย (หลังเลขาเจต)
+#
+# แนบใน OpenArt: 1) input/characters/วิทย์/วิทย์ W08 แจ็กเก็ตหนังกลับน้ำตาล.png
+#                2) input/characters/ไอริน/ไอริน W17 แจ็กเก็ตทวีดกรมท่าโบว์ขาว.png
+#                3) input/characters/เลขาเจต/เลขาเจต W02 สูทดำเนกไทแดง.png
+# หมายเหตุภาพแนบ: รูปที่ 3 ใช้เฉพาะแขนเสื้อ/ไหล่สูท ห้ามเห็นหน้าเลขาเจต
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+Create one standalone starting-frame image for SHOT EP29-S044.
+Vertical 9:16. Cinematic live-action still, photorealistic.
+REFERENCE IMAGES:
+Image 1: Wit — this image is a three-view sheet (front, side, back) of one person; use it for face, skin tone, hairstyle, body shape and this exact outfit. Show this person only once. Do not copy the white background, lighting, pose or camera angle from this image.
+Image 2: Irin — this image is a three-view sheet (front, side, back) of one person; use it for face, skin tone, hairstyle, body shape and this exact outfit. Show this person only once. Do not copy the white background, lighting, pose or camera angle from this image.
+Image 3: Secretary Jet — a three-view sheet of one person; use only for the charcoal-black suit sleeve, white shirt cuff and shoulder. In the new image only his sleeve and shoulder appear; his face and head are not shown. Do not copy the background, lighting, pose or camera angle.
+CHARACTERS: Wit, a tall young Thai man in his late twenties, bound to the reference image; exact outfit: "a camel-brown suede trucker jacket worn open, with a point collar, silver snap buttons and two chest flap pockets, over a heather gray wool crew-neck sweater and a pale blue-and-white fine-striped button-down shirt with the collar showing, black slim straight trousers, black leather penny loafers, and tousled black hair parted in the middle". Irin, a young Thai woman in her mid-twenties, bound to the reference image; exact outfit: "a cropped collarless navy boucle tweed jacket flecked with silver and multicolor threads, worn open, with silver buttons and patch pockets, over an ivory satin blouse with a large soft pussy-bow tied at the neck, a delicate thin pendant necklace, a charcoal gray knife-pleated midi skirt, black leather Mary Jane flats with a buckled strap, and long dark brown wavy hair worn loose". Secretary Jet, a tall slim Thai man in his early thirties, only his right shoulder and arm visible; outfit: "a charcoal-black two-button single-breasted suit, a crisp white shirt, a dark burgundy-red silk tie, a white pocket square, black leather cap-toe oxford shoes, thin rectangular metal-rimmed glasses, and short black hair with a soft fringe".
+CAST COUNT: exactly 3 people: Wit and Irin in full view from the waist up, plus the right shoulder and arm of Secretary Jet at the left edge.
+PARTIAL FIGURE: Secretary Jet stands just beyond the left frame edge on the far side of the table. Only his right shoulder and right arm, in a charcoal-black suit sleeve with a white shirt cuff, enter the frame from the left edge; his head and face are outside the frame. This arm belongs to Secretary Jet, not to an additional person.
+SCENE GEOGRAPHY: a night banquet hall. Wit and Irin stand side by side on the far side of a round white-clothed standing table, between the table and a tall black steel-framed glass wall with a tall glass door; Wit on the left, Irin to his right. Secretary Jet stands just to Wit's left, beyond the left frame edge.
+FRAME ORDER: from screen-left to screen-right: (Secretary Jet's shoulder and arm at the far left edge) · Wit · Irin.
+CAMERA POSITION: on the hall interior side across the table, directly in front of Wit and Irin, straight-on; standing eye level.
+VIEW DIRECTION: toward Wit and Irin, with the glass wall and glass door beyond them.
+SET IN FRAME: a softly defocused black steel-framed glass wall with a tall glass door and small warm wall lights filling the background. Keep this layout; do not move or mirror it.
+BETWEEN CAMERA AND SUBJECT: only the top of the flower arrangement, softly blurred along the bottom edge; it hides no hands or faces.
+VISIBLE BACKGROUND: softly defocused black steel-framed glass wall with a tall glass door and small warm wall lights.
+OFF-FRAME: No other person or any part of another person appears in the frame.
+START STATE: Secretary Jet's right hand reaches in from the left edge holding a plain white A4 document envelope with no readable logo or text out at Wit's chest height. Wit raises both hands to receive it, fingertips just touching the envelope, calm and attentive, eyes on the envelope. Irin stands at Wit's right, looking at Wit with a faint smile, hands empty and relaxed.
+CAMERA: MEDIUM SHOT. The frame bottom cuts at the waist; the head sits in the upper third. 50mm, about 2.5 meters away, standing eye level, straight-on.
+FOCUS: Wit and Irin sharp; background softly defocused.
+LIGHTING: warm overhead ceiling light from the front and above, soft warm fill on faces, warm reflections on the glass behind, approximately 3200K, medium-low contrast.
+GRADE: warm night banquet palette of white, cream and black steel with soft pink floral accents, medium-low contrast, warm natural skin tones.
+Show only the starting moment, before any planned movement begins.
+No captions, subtitles, labels, watermarks, panels or collage.

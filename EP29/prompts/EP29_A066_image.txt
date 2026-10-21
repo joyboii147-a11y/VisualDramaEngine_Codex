@@ -1,0 +1,35 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP29-S057 | Clip: A066 (A-roll) | SC03 โถงงานเลี้ยงผนังกระจก L04 กลางคืน
+# ไฟล์นี้: Image Prompt → GPT Image 2 (9:16) ผ่าน fal.ai
+#
+# ตัวละครในเฟรม (รวม 1 คน):
+# - ริต้า C06-W07 แจ็กเก็ตขนนกขาว | หน้า (CU) เฉียง 3/4 หันขวา ปากปิด | กลางค่อนซ้าย ช่องว่างขวา
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - วิทย์ C05-W10 | นอกขวา เป็นคนที่ริต้ามอง
+# - เลขาเจต ไอริน แม่วิทย์ พ่อวิทย์ การ์ด | นอกขวา
+# - D030 เป็นเสียงในใจ — ห้ามลิปซิงก์
+#
+# แนบใน OpenArt: 1) input/characters/ริต้า/Face.jpeg
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+Create one standalone starting-frame image for SHOT EP29-S057.
+Vertical 9:16. Cinematic live-action still, photorealistic.
+REFERENCE IMAGES:
+Image 1: Rita — use only for face, skin tone and hairstyle. The outfit comes from the text below. Do not copy the outfit, background, lighting or camera angle.
+CHARACTERS: Rita, a young Thai woman in her mid-twenties, face and hair from the reference image; outfit: "a cropped shaggy long-hair white faux-fur jacket worn open, over a silver-gray satin button-front mini shirt dress, several long strands of dark beaded necklaces layered at different lengths, gold cluster earrings, an ivory quilted mini shoulder bag on a gold chain strap worn on the left shoulder, nude patent pointed-toe stiletto pumps, and dark brown hair in a high top-knot bun".
+CAST COUNT: exactly 1 person visible: Rita.
+SCENE GEOGRAPHY: a night banquet hall. Rita stands on the far side of a round standing table at its left end, with a tall black steel-framed glass wall behind her and a white sheer curtain at the left of the hall.
+FRAME ORDER: from screen-left to screen-right: Rita.
+CAMERA POSITION: on the hall interior side, in front of the left part of the round table, directly facing Rita at a slight three-quarter angle; standing eye level.
+VIEW DIRECTION: toward Rita, with the black steel-framed glass wall and the edge of the sheer curtain beyond her.
+SET IN FRAME: a softly defocused black steel-framed glass wall with warm light reflections across the background behind Rita; the edge of a white sheer curtain at the far screen-left. Keep this layout; do not move or mirror it.
+BETWEEN CAMERA AND SUBJECT: nothing; clear view of her face.
+VISIBLE BACKGROUND: softly defocused black steel-framed glass wall with warm reflections; the edge of a white sheer curtain at the far left.
+OFF-FRAME: the person Rita watches is outside the right frame edge. No other person or any part of another person appears in the frame.
+START STATE: Rita's face is slightly left of center with open space on the right, three-quarter toward the camera, head and eyes turned screen-right, a still neutral face, lips fully closed.
+CAMERA: TIGHT CLOSE-UP. The face fills about 60% of the frame height; the frame top cuts through the top of the hair and the frame bottom cuts just below the chin at the collarbones. No chest, waist or hands visible. 85mm, about 1 meter away, standing eye level, three-quarter view.
+FOCUS: Rita's eyes sharp; background softly defocused.
+LIGHTING: warm overhead ceiling light as the key from slightly front-right, soft warm fill on her face, warm reflections in the glass behind her, approximately 3200K, medium-low contrast.
+GRADE: warm night banquet palette of white, cream and black steel tones, medium-low contrast, warm natural skin tones.
+Show only the starting moment, before any planned movement begins.
+No captions, subtitles, labels, watermarks, panels or collage.

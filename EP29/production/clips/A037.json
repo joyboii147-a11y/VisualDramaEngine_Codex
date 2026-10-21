@@ -1,0 +1,27 @@
+{
+  "clip": "A037",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Image/EP29_A037_T01.png",
+        "job": "01a159d0-ed85-7372-91f3-0366a5f6ec2a",
+        "result": "ok",
+        "qc": "ริต้าคนเดียว CU เฉียงมองซ้าย ยิ้มเย็น ปากปิด ไม่เห็นมือ",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP29/Image/EP29_A037_T01.png",
+    "prompt_sha": "39a8f6bf00ef",
+    "flag": null,
+    "facts": "Rita alone, close-up chest-up, three-quarter profile facing screen-left, cold faint smile, lips closed, camera near eye level. Fur jacket, grey satin shirt and beaded necklaces visible; no hands visible."
+  },
+  "video": {
+    "status": "todo",
+    "takes": [],
+    "selected": null,
+    "prompt_sha": "7ed1b4353cf6"
+  },
+  "notes": []
+}

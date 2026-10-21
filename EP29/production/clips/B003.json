@@ -1,0 +1,27 @@
+{
+  "clip": "B003",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Image/EP29_B003_T01.png",
+        "job": "01a159d0-87f1-7640-a9d1-cee7ba0fa984",
+        "result": "ok",
+        "qc": "ผ่าน คนเดียว ไอริน CU ชุดทวีดกรมท่า+โบว์ขาว สร้อยจี้ สายตาเหลือบซ้ายเฟรม; ข้อสังเกต: หันศีรษะน้อยกว่า 3/4 ยิ้มบางกว่าที่สั่ง (ปิดปาก) มีแสงโคมเบลอซ้ายด้วย",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP29/Image/EP29_B003_T01.png",
+    "prompt_sha": "f20c41a9fa82",
+    "flag": null,
+    "facts": "Close-up of Irin alone, centered, head turned only slightly toward screen-left, eyes glancing to screen-left, faint closed-lip smile. Frame shows her face, the ivory pussy-bow and the navy tweed jacket down to the upper chest; no hands visible. Blurred headboard with a soft lamp glow at screen-left and bright window glow at upper screen-right."
+  },
+  "video": {
+    "status": "todo",
+    "takes": [],
+    "selected": null,
+    "prompt_sha": "7cd5df58da8e"
+  },
+  "notes": []
+}

@@ -1,0 +1,27 @@
+{
+  "clip": "B026",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Image/EP29_B026_T01.png",
+        "job": "01a159d1-2d30-7260-bdb7-723c8552f381",
+        "result": "ok",
+        "qc": "OTS เจตซ้าย ริต้ากลางยิ้มมั่นใจ ยื่นการ์ดมือขวาไปทางเจต การ์ดเงินเรียบ ไม่เห็นตรา ไม่มีตัวหนังสือ",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP29/Image/EP29_B026_T01.png",
+    "prompt_sha": "903505a248ec",
+    "flag": null,
+    "facts": "Over-the-shoulder: Jet's blurred head and suit back on screen-left; Rita at center, three-quarter view looking screen-left at him with a confident smile. Her right hand extends a plain pale silver card toward him at chest level left of center (no emblem visible); framed to mid-thigh, bag at her right hip."
+  },
+  "video": {
+    "status": "todo",
+    "takes": [],
+    "selected": null,
+    "prompt_sha": "1560421ad014"
+  },
+  "notes": []
+}

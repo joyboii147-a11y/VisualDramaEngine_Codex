@@ -1,0 +1,1878 @@
+{
+  "episode": "EP29",
+  "shots": [
+    {
+      "id": "EP29-S001",
+      "scene": "SC01",
+      "clip": "A001",
+      "reuse": false,
+      "gen_sec": 4.0,
+      "use_sec": 2.5,
+      "dialogue_ids": [
+        "D001"
+      ],
+      "dialogue": [
+        "ประธานวรเทพครับ ผลตรวจออกมาแล้วครับ",
+        "ประธาน"
+      ],
+      "audio_mode": "A",
+      "mute": false,
+      "overlay": false,
+      "cut_note": "ประมาณ 2.5 วิ | In: วิทย์นั่งขอบเตียง P14 มือขวาแนบหูขวา หันเฉียงขวา มองตรงไปไกล สีหน้าตั้งใจฟัง จริงจังแต่สงบ ปากปิด → Out: พูดจบ ปากปิด โทรศัพท์ยังแนบหู คิ้วยกเล็กน้อย สายตาเดิม | ตัดหลังจบคำ \"ครับ\" ท้ายประโยค | ภาพใหม่ ฉากใหม่ (เปิดตอน) | Blocking: SC01-B01"
+    },
+    {
+      "id": "EP29-S002",
+      "scene": "SC01",
+      "clip": "A002",
+      "reuse": false,
+      "gen_sec": 4.0,
+      "use_sec": 2.7,
+      "dialogue_ids": [
+        "D002"
+      ],
+      "dialogue": [
+        "โอเค ผมจะส่งที่อยู่ให้คุณ คุณเอามาให้หน่อย"
+      ],
+      "audio_mode": "A",
+      "mute": false,
+      "overlay": false,
+      "cut_note": "ประมาณ 2.7 วิ | In: วิทย์ P14 มือขวาแนบหูขวา หันเฉียงขวาเล็กน้อย สีหน้าสงบจริงจัง (ต่อจาก S001 Out) มือซ้ายวางบนต้นขาซ้าย; ไอรินมือประสานบนตัก หันซ้ายมองวิทย์ สีหน้าอยากรู้ ใส่ใจ → Out: วิทย์พูดจบ พยักหน้าเล็กน้อย ไหล่ผ่อน โทรศัพท์ยังแนบหู; ไอรินยังมองวิทย์ อยากรู้ | ตัดหลังจบ \"เอามาให้หน่อย\" | ภาพใหม่ในฉากเดิม | Blocking: SC01-B02"
+    },
+    {
+      "id": "EP29-S003",
+      "scene": "SC01",
+      "clip": "B003",
+      "reuse": false,
+      "gen_sec": 3.0,
+      "use_sec": 1.3,
+      "dialogue_ids": [],
+      "dialogue": [],
+      "audio_mode": "C",
+      "mute": true,
+      "overlay": false,
+      "cut_note": "ประมาณ 1.3 วิ | In: ไอรินหันซ้ายมองวิทย์ สีหน้าอยากรู้ ใส่ใจ ริมฝีปากปิด (ต่อจาก S002 Out) → Out: ตาเปิดกว้างขึ้นเล็กน้อย ยังมองซ้าย ริมฝีปากปิด | ตัดหลังตาเปิดกว้างขึ้น | ภาพใหม่ในฉากเดิม | Blocking: SC01-B02"
+    },
+    {
+      "id": "EP29-S004",
+      "scene": "SC01",
+      "clip": "A004",
+      "reuse": false,
+      "gen_sec": 4.0,
+      "use_sec": 2.7,
+      "dialogue_ids": [
+        "D003"
+      ],
+      "dialogue": [
+        "ครับ"
+      ],
+      "audio_mode": "A",
+      "mute": false,
+      "overlay": false,
+      "cut_note": "ประมาณ 2.7 วิ | In: วิทย์ P14 มือขวาแนบหูขวา หันเฉียงขวา มองตรงไปไกล สีหน้าสงบ พยักหน้าค้างเล็กน้อย (ต่อจาก S002 Out) → พูด \"ครับ\" สั้นต่ำ แล้วลดโทรศัพท์ลงจากหู → Out: P14 พักในมือขวาบนต้นขาขวา (ขอบล่างเฟรม) ถอนหายใจเบา สายตายังมองตรง | ตัดหลังโทรศัพท์ลงพักบนต้นขา | ภาพใหม่ในฉากเดิม | Blocking: SC01-B03"
+    },
+    {
+      "id": "EP29-S005",
+      "scene": "SC01",
+      "clip": "A005",
+      "reuse": false,
+      "gen_sec": 4.0,
+      "use_sec": 2.4,
+      "dialogue_ids": [
+        "D004"
+      ],
+      "dialogue": [
+        "ผลตรวจออกมาแล้วหรอ?"
+      ],
+      "audio_mode": "A",
+      "mute": false,
+      "overlay": false,
+      "cut_note": "ประมาณ 2.4 วิ | In: ไอรินหันซ้ายมองวิทย์ ตาเปิดกว้างเล็กน้อย อยากรู้ (ต่อจาก S003 Out) มือประสานบนตัก → เอียงตัวเข้าหาวิทย์เล็กน้อย ยกคิ้ว ถามเสียงเบาขึ้นท้าย → Out: คิ้วยก มองตาวิทย์ รอคำตอบ ปากปิด | ตัดหลังจบคำถาม | ภาพใหม่ในฉากเดิม | Blocking: SC01-B04–B06"
+    },
+    {
+      "id": "EP29-S006",
+      "scene": "SC01",
+      "clip": "A006",
+      "reuse": false,
+      "gen_sec": 4.0,
+      "use_sec": 3.0,
+      "dialogue_ids": [
+        "D005"
+      ],
+      "dialogue": [
+        "อืม"
+      ],
+      "audio_mode": "A",
+      "mute": false,
+      "overlay": false,
+      "cut_note": "ประมาณ 3.0 วิ | In: วิทย์ P14 ในมือขวาบนต้นขาขวา มองตรงไปข้างหน้า สีหน้าสงบหลังถอนหายใจ (ต่อจาก S004 Out); ไอรินเอียงตัวเข้าหาวิทย์เล็กน้อย คิ้วยก รอคำตอบ (ต่อจาก S005 Out) → วิทย์หันขวามองไอริน พยักหน้าหนึ่งครั้ง \"อืม\" มุมปากยกเล็กน้อย → Out: ทั้งคู่มองกัน วิทย์ยิ้มบาง ไอรินยังรอ สีหน้าคาดหวัง | ตัดหลังพยักหน้าจบ | ภาพใหม่ในฉากเดิม | Blocking: SC01-B04–B06"
+    },
+    {
+      "id": "EP29-S007",
+      "scene": "SC01",
+      "clip": "A007",
+      "reuse": false,
+      "gen_sec": 4.0,
+      "use_sec": 2.0,
+      "dialogue_ids": [
+        "D006"
+      ],
+      "dialogue": [
+        "ไปกันเถอะ ไปดูพร้อมแม่กัน"
+      ],
+      "audio_mode": "A",
+      "mute": false,
+      "overlay": false,
+      "cut_note": "ประมาณ 2.0 วิ | In: วิทย์หันขวามองไอริน ยิ้มบาง (ต่อจาก S006 Out) → พูดนุ่ม อบอุ่น สายตาอ่อนลง → Out: ยิ้มบาง มองไอรินค้าง ปากปิด | ตัดหลังจบ \"พร้อมแม่กัน\" | ภาพใหม่ในฉากเดิม | Blocking: SC01-B04–B06"
+    },
+    {
+      "id": "EP29-S008",
+      "scene": "SC01",
+      "clip": "A008",
+      "reuse": false,
+      "gen_sec": 3.0,
+      "use_sec": 1.4,
+      "dialogue_ids": [
+        "D007"
+      ],
+      "dialogue": [
+        "โอเค"
+      ],
+      "audio_mode": "A",
+      "mute": false,
+      "overlay": false,
+      "cut_note": "ประมาณ 1.4 วิ | In: ไอรินหันซ้ายมองวิทย์ สีหน้าคาดหวัง คิ้วยกเล็กน้อย (ต่อจาก S006 Out) → ยิ้มกว้างขึ้น พูด \"โอเค\" เบาสดใส พยักหน้าเล็กน้อย → Out: ยิ้ม มองวิทย์ ปากปิด | ตัดหลังพยักหน้า | ภาพใหม่ในฉากเดิม | Blocking: SC01-B04–B06"
+    },
+    {
+      "id": "EP29-S009",
+      "scene": "SC01",
+      "clip": "B009",
+      "reuse": false,
+      "gen_sec": 3.0,
+      "use_sec": 1.4,
+      "dialogue_ids": [],
+      "dialogue": [],
+      "audio_mode": "C",
+      "mute": true,
+      "overlay": false,
+      "cut_note": "ประมาณ 1.4 วิ | In: มือขวาไอรินวางบนตักตัวเอง มือซ้ายวิทย์เคลื่อนเข้ามาวางกุมหลังมือขวาไอริน; P14 ในมือขวาวิทย์บนต้นขาขวา (นอก/ขอบซ้ายเฟรม) → Out: มือซ้ายวิทย์กุมหลังมือขวาไอริน นิ้วกระชับเบาๆ บนตักไอริน/ระหว่างตัก | ตัดหลังนิ้วกระชับ | ภาพใหม่ในฉากเดิม | Blocking: SC01-B07"
+    },
+    {
+      "id": "EP29-S010",
+      "scene": "SC01",
+      "clip": "B010",
+      "reuse": false,
+      "gen_sec": 5.0,
+      "use_sec": 3.5,
+      "dialogue_ids": [],
+      "dialogue": [],
+      "audio_mode": "C",
+      "mute": true,
+      "overlay": false,
+      "cut_note": "ประมาณ 3.5 วิ | In: ทั้งคู่นั่งขอบปลายเตียง จับมือกัน (มือซ้ายวิทย์กุมมือขวาไอริน ต่อจาก S009 Out) วิทย์ยิ้มบาง ไอรินยิ้ม (ต่อจาก S007/S008 Out) P14 มือขวาวิทย์ → ลุกยืน วิทย์จูงมือนำไปทางขวา (ฝั่ง B ทางออก) ไอรินเดินตาม → Out: ทั้งคู่ออกนอกกรอบขวา เหลือเตียงว่าง | ตัดเมื่อทั้งคู่พ้นขอบขวา (หรือก่อนพ้นเล็กน้อย) | ภาพใหม่ในฉากเดิม | Blocking: SC01-B08"
+    },
+    {
+      "id": "EP29-S011",
+      "scene": "SC02",
+      "clip": "B021",
+      "reuse": false,
+      "gen_sec": 4.0,
+      "use_sec": 2.4,
+      "dialogue_ids": [],
+      "dialogue": [],
+      "audio_mode": "C",
+      "mute": false,
+      "overlay": false,
+      "cut_note": "~2.4 วิ | In: เลขาเจตเดินมาจากปลายระแนงฟ้า E1 กลางทางเดิน มือขวาถือซอง P13 ต่ำระดับสะโพก ใบหน้าเรียบ → Out: ยังเดินเข้าหากล้อง ยกซองดูครู่หนึ่งแล้วเงยหน้ามองตรงไปข้างหน้า ใบหน้าเรียบตั้งใจ | ตัดระหว่างก้าวเดิน | ภาพใหม่ ฉากใหม่ (ข้ามเวลา กลางวัน→กลางคืน, ตัดตรงจาก SC01) | Blocking: SC02-B01"
+    },
+    {
+      "id": "EP29-S012",
+      "scene": "SC02",
+      "clip": "B022",
+      "reuse": false,
+      "gen_sec": 4.0,
+      "use_sec": 2.0,
+      "dialogue_ids": [],
+      "dialogue": [],
+      "audio_mode": "C",
+      "mute": false,
+      "overlay": false,
+      "cut_note": "~2.0 วิ | In: เลขาเจตซ้ายเฟรมเพิ่งหยุดเท้า หันขวา ซอง P13 มือขวาแนบลำตัว; ริต้าก้าวเข้ามาจากขอบขวาเฟรม (ทางอาร์มแชร์) มือขวาถือบัตร P12 แนบลำตัวระดับเอว กระเป๋าสายโซ่ไหล่ซ้าย → Out: ริต้าหยุดยืนขวางหน้า ห่าง ~0.8 ม. หันซ้ายมองเลขาเจต ยิ้มมุมปาก; เลขาเจตเงยหน้ามอง คิ้วขยับขึ้นเล็กน้อย (แปลกใจ) | ตัดหลังริต้าหยุดนิ่ง | ภาพใหม่ในฉากเดิม | Blocking: SC02-B02"
+    },
+    {
+      "id": "EP29-S013",
+      "scene": "SC02",
+      "clip": "A031",
+      "reuse": false,
+      "gen_sec": 3.0,
+      "use_sec": 1.5,
+      "dialogue_ids": [
+        "D008"
+      ],
+      "dialogue": [
+        "คุณเลขาเจต"
+      ],
+      "audio_mode": "A",
+      "mute": false,
+      "overlay": false,
+      "cut_note": "~1.5 วิ | In: ริต้ายิ้มมุมปาก (ต่อจาก Out S012) หันซ้ายมองเลขาเจต → Out: เอียงศีรษะเล็กน้อย ยิ้มบาง สายตาจ้อง ปากปิดหลังพูด | ตัดหลังจบคำ | ภาพใหม่ในฉากเดิม | Blocking: SC02-B03–B04"
+    },
+    {
+      "id": "EP29-S014",
+      "scene": "SC02",
+      "clip": "A032",
+      "reuse": false,
+      "gen_sec": 4.0,
+      "use_sec": 2.5,
+      "dialogue_ids": [
+        "D009"
+      ],
+      "dialogue": [
+        "คุณหนูจองฮียอน มีเรื่องอะไรหรอครับ?"
+      ],
+      "audio_mode": "A",
+      "mute": false,
+      "overlay": false,
+      "cut_note": "~2.5 วิ | In: เลขาเจตคิ้วยกเล็กน้อยแปลกใจ (ต่อจาก Out S012) ยืนตรง มองริต้า → Out: ใบหน้าสุภาพนิ่ง ระวังตัว ปากปิด สายตามองริต้านิ่ง | ตัดหลังจบประโยค | ภาพใหม่ในฉากเดิม | Blocking: SC02-B03–B04"
+    },
+    {
+      "id": "EP29-S015",
+      "scene": "SC02",
+      "clip": "A033",
+      "reuse": false,
+      "gen_sec": 4.0,
+      "use_sec": 0.9,
+      "dialogue_ids": [
+        "D010",
+        "D010",
+        "D011",
+        "D011"
+      ],
+      "dialogue": [
+        "เลขาเจต",
+        "ในการ์ดใบนี้"
+      ],
+      "audio_mode": "A",
+      "mute": false,
+      "overlay": false,
+      "cut_note": "~0.9 วิ | In: ริต้ายิ้มบาง เอียงศีรษะ (ต่อจาก Out S013) บัตร P12 มือขวาระดับเอวนอกเฟรม → Out: ยิ้มหายไปครึ่งหนึ่ง สบตาตรง เริ่มยกมือขวา | ตัดหลังคำ \"เลขาเจต\" ไป B023 | ภาพใหม่ในฉากเดิม | Blocking: SC02-B03–B04"
+    },
+    {
+      "id": "EP29-S016",
+      "scene": "SC02",
+      "clip": "B023",
+      "reuse": false,
+      "gen_sec": 6.0,
+      "use_sec": 0.8,
+      "dialogue_ids": [],
+      "dialogue": [],
+      "audio_mode": "C",
+      "mute": true,
+      "overlay": false,
+      "cut_note": "~0.8 วิ (ช่วง 0.5–1.3 วิของคลิป) | In: ใบหน้าสุภาพนิ่ง ระวังตัว (ต่อจาก Out S014) → Out: นิ่ง ไม่กะพริบตา กรามตึงเล็กน้อย | ตัดกลับ A033 | ภาพใหม่ในฉากเดิม | Blocking: SC02-B03–B04"
+    },
+    {
+      "id": "EP29-S017",
+      "scene": "SC02",
+      "clip": "A033",
+      "reuse": true,
+      "gen_sec": null,
+      "use_sec": 1.3,
+      "dialogue_ids": [
+        "D011"
+      ],
+      "dialogue": [
+        "ในการ์ดใบนี้"
+      ],
+      "audio_mode": null,
+      "mute": false,
+      "overlay": false,
+      "cut_note": "~1.3 วิ | เข้าที่ช่วงบัตรกำลังยกถึงระดับใบหน้า ก่อนคำว่า \"ในการ์ด\" ออกหลังจบ \"ใบนี้\" | In: ยิ้มหายครึ่งหนึ่ง สบตาตรง มือขวายกบัตร → Out: บัตร P12 ชูมือขวาระดับใบหน้า หันหน้าบัตรเข้าหาเลขาเจต ยิ้มมั่นใจ ยกคิ้ว | กลับ A033 ตามเวลาเดิม ไม่เริ่มใหม่ | Blocking: SC02-B05"
+    },
+    {
+      "id": "EP29-S018",
+      "scene": "SC02",
+      "clip": "A034",
+      "reuse": false,
+      "gen_sec": 6.0,
+      "use_sec": 1.9,
+      "dialogue_ids": [
+        "D012",
+        "D012",
+        "D013",
+        "D013",
+        "D013"
+      ],
+      "dialogue": [
+        "มีเงินอยู่ 12 ล้าน 5 แสน",
+        "ฉันมีเรื่องอยากให้คุณช่วยหน่อย"
+      ],
+      "audio_mode": "A",
+      "mute": false,
+      "overlay": false,
+      "cut_note": "~1.9 วิ | In: ยิ้มมั่นใจ ยกคิ้ว (ต่อจาก Out S017) บัตรยังชูระดับใบหน้าแต่อยู่นอกขอบซ้ายเฟรม (D2 แคบ) → Out: จบคำ \"5 แสน\" เน้นตัวเลข ยิ้มมั่นใจ | ตัดหลัง \"5 แสน\" ไป B023 | ต่อการกระทำจาก A033 — ตัดจาก MCU OTS เป็น CU มุมต่ำไม่ติดไหล่ | Blocking: SC02-B05"
+    },
+    {
+      "id": "EP29-S019",
+      "scene": "SC02",
+      "clip": "B023",
+      "reuse": true,
+      "gen_sec": null,
+      "use_sec": 1.3,
+      "dialogue_ids": [
+        "D012",
+        "D013"
+      ],
+      "dialogue": [],
+      "audio_mode": null,
+      "mute": true,
+      "overlay": false,
+      "cut_note": "~1.3 วิ (ช่วง 1.6–2.9 วิของ B023) | In: นิ่ง กรามตึง → Out: สายตาเหลือบลงที่บัตรแล้วกลับขึ้นสบตา ริมฝีปากเม้ม | ใช้ B023 ช่วงถัดไป ไม่เริ่มใหม่ | Blocking: SC02-B06–B12"
+    },
+    {
+      "id": "EP29-S020",
+      "scene": "SC02",
+      "clip": "A034",
+      "reuse": true,
+      "gen_sec": null,
+      "use_sec": 1.8,
+      "dialogue_ids": [
+        "D013"
+      ],
+      "dialogue": [
+        "ฉันมีเรื่องอยากให้คุณช่วยหน่อย"
+      ],
+      "audio_mode": null,
+      "mute": false,
+      "overlay": false,
+      "cut_note": "~1.8 วิ | เข้าก่อนคำ \"ฉันมี\" ออกหลังจบ \"หน่อย\" | In: ลดบัตรลงแล้ว (นอกเฟรม) โน้มตัวเข้าเล็กน้อย → Out: ยิ้มนุ่ม สายตาจ้องรอคำตอบ ปากปิด | กลับ A034 ตามเวลาเดิม | Blocking: SC02-B06–B12"
+    },
+    {
+      "id": "EP29-S021",
+      "scene": "SC02",
+      "clip": "A035",
+      "reuse": false,
+      "gen_sec": 3.0,
+      "use_sec": 1.2,
+      "dialogue_ids": [
+        "D014"
+      ],
+      "dialogue": [
+        "เรื่องอะไรครับ?"
+      ],
+      "audio_mode": "A",
+      "mute": false,
+      "overlay": false,
+      "cut_note": "~1.2 วิ | In: ริมฝีปากเม้ม สบตาริต้า (ต่อจาก Out S019) → Out: คิ้วขมวดเล็กน้อย ศีรษะเอียงนิดหนึ่ง ปากปิด | ตัดหลังจบคำ | ภาพใหม่ในฉากเดิม | Blocking: SC02-B06–B12"
+    },
+    {
+      "id": "EP29-S022",
+      "scene": "SC02",
+      "clip": "A036",
+      "reuse": false,
+      "gen_sec": 4.0,
+      "use_sec": 2.8,
+      "dialogue_ids": [
+        "D015"
+      ],
+      "dialogue": [
+        "เอารายงานผลตรวจ ในมือคุณมาให้ฉัน"
+      ],
+      "audio_mode": "A",
+      "mute": false,
+      "overlay": false,
+      "cut_note": "~2.8 วิ | In: ยิ้มนุ่ม จ้องรอ (ต่อจาก Out S020) บัตรมือขวาระดับอก (ขอบล่างซ้ายเฟรม เห็นบางส่วน ไม่เด่น) → Out: สายตาเหลือบลงต่ำซ้ายเฟรม (ซองในมือขวาเลขาเจตนอกเฟรม) แล้วกลับมาจ้องตา ยิ้มเย็น | ตัดหลังจบประโยค | ภาพใหม่ในฉากเดิม | Blocking: SC02-B06–B12"
+    },
+    {
+      "id": "EP29-S023",
+      "scene": "SC02",
+      "clip": "A037",
+      "reuse": false,
+      "gen_sec": 3.0,
+      "use_sec": 1.7,
+      "dialogue_ids": [
+        "D016"
+      ],
+      "dialogue": [
+        "ฉันจะเอามันไปเปลี่ยนทิ้ง"
+      ],
+      "audio_mode": "A",
+      "mute": false,
+      "overlay": false,
+      "cut_note": "~1.7 วิ | In: ยิ้มเย็น จ้องตา (ต่อจาก Out S022) → Out: ยิ้มเย็นค้าง สายตานิ่ง ปากปิด | ตัดหลังจบคำ \"ทิ้ง\" | ต่อการกระทำจาก A036 — ตัดจาก MCU OTS เป็น CU มุมต่ำไม่ติดไหล่ | Blocking: SC02-B06–B12"
+    },
+    {
+      "id": "EP29-S024",
+      "scene": "SC02",
+      "clip": "B023",
+      "reuse": true,
+      "gen_sec": null,
+      "use_sec": 1.5,
+      "dialogue_ids": [],
+      "dialogue": [],
+      "audio_mode": null,
+      "mute": true,
+      "overlay": false,
+      "cut_note": "~1.5 วิ (ช่วง 3.2–4.7 วิของ B023) | In: เลขาเจตใบหน้าเครียดหลังได้ยิน D016 สบตาริต้า → Out: กลืนน้ำลาย กรามตึง สายตาชั่งใจ | ใช้ B023 ช่วงท้าย ไม่เริ่มใหม่ | Blocking: SC02-B06–B12 (B09: มือขวากำซองแน่นขึ้น — นอกเฟรม)"
+    },
+    {
+      "id": "EP29-S025",
+      "scene": "SC02",
+      "clip": "B024",
+      "reuse": false,
+      "gen_sec": 5.0,
+      "use_sec": 1.3,
+      "dialogue_ids": [],
+      "dialogue": [],
+      "audio_mode": "C",
+      "mute": false,
+      "overlay": false,
+      "cut_note": "~1.3 วิ (ช่วง 0.5–1.8 วิของคลิป) | In: ยิ้มเย็นค้าง สายตานิ่ง (ต่อจาก Out S023) → Out: จ้องนิ่งไม่กะพริบ | ตัดไป A038 | ภาพใหม่ในฉากเดิม | Blocking: SC02-B06–B12"
+    },
+    {
+      "id": "EP29-S026",
+      "scene": "SC02",
+      "clip": "A038",
+      "reuse": false,
+      "gen_sec": 6.0,
+      "use_sec": 1.2,
+      "dialogue_ids": [
+        "D017",
+        "D017",
+        "D018",
+        "D018"
+      ],
+      "dialogue": [
+        "เปลี่ยนมันทิ้ง",
+        "คุณพูดแบบนี้หมายความว่าไงครับ?"
+      ],
+      "audio_mode": "A",
+      "mute": false,
+      "overlay": false,
+      "cut_note": "~1.2 วิ | In: กรามตึง สายตาชั่งใจ (ต่อจาก Out S024) → Out: ตาเบิกเล็กน้อย ศีรษะถอยหลังนิดหนึ่ง | ตัดหลังคำ \"ทิ้ง\" ไป B024 | ภาพใหม่ในฉากเดิม | Blocking: SC02-B06–B12"
+    },
+    {
+      "id": "EP29-S027",
+      "scene": "SC02",
+      "clip": "B024",
+      "reuse": true,
+      "gen_sec": null,
+      "use_sec": 1.2,
+      "dialogue_ids": [
+        "D017",
+        "D018"
+      ],
+      "dialogue": [],
+      "audio_mode": null,
+      "mute": true,
+      "overlay": false,
+      "cut_note": "~1.2 วิ (ช่วง 2.4–3.6 วิของ B024) | In: จ้องนิ่ง → Out: ยิ้มมุมปากค้าง สายตานิ่ง | ใช้ B024 ช่วงหลัง ไม่เริ่มใหม่ | Blocking: SC02-B06–B12"
+    },
+    {
+      "id": "EP29-S028",
+      "scene": "SC02",
+      "clip": "A038",
+      "reuse": true,
+      "gen_sec": null,
+      "use_sec": 2.0,
+      "dialogue_ids": [
+        "D018"
+      ],
+      "dialogue": [
+        "คุณพูดแบบนี้หมายความว่าไงครับ?"
+      ],
+      "audio_mode": null,
+      "mute": false,
+      "overlay": false,
+      "cut_note": "~2.0 วิ | เข้าก่อนคำ \"คุณพูด\" ออกหลังจบ \"ครับ?\" | In: ตาเบิก คิ้วขมวด → Out: สุภาพแต่เครียด คิ้วขมวดค้าง ปากปิด | กลับ A038 ตามเวลาเดิม | Blocking: SC02-B06–B12"
+    },
+    {
+      "id": "EP29-S029",
+      "scene": "SC02",
+      "clip": "A039",
+      "reuse": false,
+      "gen_sec": 4.0,
+      "use_sec": 2.8,
+      "dialogue_ids": [
+        "D019"
+      ],
+      "dialogue": [
+        "แบจีอาไม่มีสิทธิ์เป็นลูกสะใภ้ของคึมอินกรุ๊ปหรอก"
+      ],
+      "audio_mode": "A",
+      "mute": false,
+      "overlay": false,
+      "cut_note": "~2.8 วิ | In: ยิ้มมุมปากค้าง สายตานิ่ง (ต่อจาก Out S027) → Out: เชิดคางขึ้น มุมปากบิดดูแคลน เสียงเย็น ปากปิด | ตัดหลังจบ \"หรอก\" | ภาพใหม่ในฉากเดิม | Blocking: SC02-B06–B12"
+    },
+    {
+      "id": "EP29-S030",
+      "scene": "SC02",
+      "clip": "A040",
+      "reuse": false,
+      "gen_sec": 4.0,
+      "use_sec": 2.2,
+      "dialogue_ids": [
+        "D020"
+      ],
+      "dialogue": [
+        "มีแค่ฉันที่คู่ควร กับพี่มินฮยอก"
+      ],
+      "audio_mode": "A",
+      "mute": false,
+      "overlay": false,
+      "cut_note": "~2.2 วิ | In: เชิดคาง มุมปากดูแคลน (ต่อจาก Out S029) → Out: ภาคภูมิ มือซ้ายแตะหน้าอกตัวเองเบาๆ ตอน \"มีแค่ฉัน\" แล้วค้างไว้ ปากปิด | ตัดหลังจบ \"มินฮยอก\" | ต่อการกระทำจาก A039 — ตัดจาก MCU OTS เป็น CU มุมต่ำ | Blocking: SC02-B06–B12"
+    },
+    {
+      "id": "EP29-S031",
+      "scene": "SC02",
+      "clip": "A041",
+      "reuse": false,
+      "gen_sec": 3.0,
+      "use_sec": 1.8,
+      "dialogue_ids": [
+        "D021"
+      ],
+      "dialogue": [
+        "ขอแค่ครั้งนี้คุณยอมช่วยฉัน"
+      ],
+      "audio_mode": "A",
+      "mute": false,
+      "overlay": false,
+      "cut_note": "~1.8 วิ | In: ภาคภูมิ มือซ้ายเพิ่งลดจากอก (ต่อจาก Out S030) → Out: เอียงศีรษะ สายตาอ้อนแต่แข็ง ปากปิด | ตัดหลังจบประโยค | ภาพใหม่ในฉากเดิม | Blocking: SC02-B06–B12"
+    },
+    {
+      "id": "EP29-S032",
+      "scene": "SC02",
+      "clip": "B025",
+      "reuse": false,
+      "gen_sec": 4.0,
+      "use_sec": 2.1,
+      "dialogue_ids": [],
+      "dialogue": [],
+      "audio_mode": "C",
+      "mute": false,
+      "overlay": false,
+      "cut_note": "~2.1 วิ | In: สุภาพแต่เครียด คิ้วขมวด (ต่อจาก Out S028) → Out: หายใจลึก ไหล่ยกขึ้นแล้วลง สายตาเลื่อนหลบไปด้านข้างครู่หนึ่งแล้วกลับมามองริต้า ปากปิด | ตัดหลังสายตากลับ | ภาพใหม่ในฉากเดิม | Blocking: SC02-B06–B12"
+    },
+    {
+      "id": "EP29-S033",
+      "scene": "SC02",
+      "clip": "A042",
+      "reuse": false,
+      "gen_sec": 3.0,
+      "use_sec": 1.8,
+      "dialogue_ids": [
+        "D022"
+      ],
+      "dialogue": [
+        "จะไม่ใช่แค่ 12 ล้าน 5 แสน"
+      ],
+      "audio_mode": "A",
+      "mute": false,
+      "overlay": false,
+      "cut_note": "~1.8 วิ | In: เอียงศีรษะ สายตาอ้อนแต่แข็ง (ต่อจาก Out S031 ข้ามความเงียบสั้นของ S032) → Out: มั่นใจ ยิ้มกว้างขึ้น ยกคิ้ว ปากปิด | ตัดหลังจบ \"5 แสน\" | ภาพใหม่ในฉากเดิม | Blocking: SC02-B13 (บัตรยังไม่เห็นในเฟรม D2 — ดูปัญหาที่รายงาน)"
+    },
+    {
+      "id": "EP29-S034",
+      "scene": "SC02",
+      "clip": "A043",
+      "reuse": false,
+      "gen_sec": 5.0,
+      "use_sec": 3.2,
+      "dialogue_ids": [
+        "D023"
+      ],
+      "dialogue": [
+        "บริษัทเราจะให้คุณ เพิ่มอีกปีละ 2 ล้าน 5 แสน"
+      ],
+      "audio_mode": "A",
+      "mute": false,
+      "overlay": false,
+      "cut_note": "~3.2 วิ | In: ยิ้มกว้าง ยกคิ้ว (ต่อจาก Out S033) บัตรมือขวาระดับอกขอบล่างซ้าย → Out: ชูบัตร P12 มือขวาขึ้นระดับใบหน้า หันหน้าบัตรเข้าหาเลขาเจต ยิ้มมั่นใจ ปากปิด | ตัดหลังจบ \"5 แสน\" | ต่อการกระทำจาก A042 — ตัดจาก CU มุมต่ำเป็น MCU OTS | Blocking: SC02-B13"
+    },
+    {
+      "id": "EP29-S035",
+      "scene": "SC02",
+      "clip": "A044",
+      "reuse": false,
+      "gen_sec": 6.0,
+      "use_sec": 1.8,
+      "dialogue_ids": [
+        "D024"
+      ],
+      "dialogue": [
+        "ได้ครับ"
+      ],
+      "audio_mode": "A",
+      "mute": false,
+      "overlay": false,
+      "cut_note": "~1.8 วิ | In: เลขาเจตเพิ่งกลับมามองริต้าหลังหายใจลึก (ต่อจาก Out S032) แล้วสายตาตกลงที่บัตร → Out: ก้มมองบัตรนิ่ง ตาไม่ละ ริมฝีปากเผยอเล็กน้อย | ตัดไป B026 | ภาพใหม่ในฉากเดิม | Blocking: SC02-B14–B15"
+    },
+    {
+      "id": "EP29-S036",
+      "scene": "SC02",
+      "clip": "B026",
+      "reuse": false,
+      "gen_sec": 5.0,
+      "use_sec": 1.2,
+      "dialogue_ids": [],
+      "dialogue": [],
+      "audio_mode": "C",
+      "mute": true,
+      "overlay": false,
+      "cut_note": "~1.2 วิ (ช่วง 0.5–1.7 วิของคลิป) | In: ยิ้มมั่นใจ บัตรมือขวาระดับอกยื่นเข้าหาเลขาเจตเล็กน้อย (ลดจากระดับใบหน้าใน S034) → Out: จ้องรอ ยิ้มค้าง | ตัดกลับ A044 | ภาพใหม่ในฉากเดิม | Blocking: SC02-B14–B15"
+    },
+    {
+      "id": "EP29-S037",
+      "scene": "SC02",
+      "clip": "A044",
+      "reuse": true,
+      "gen_sec": null,
+      "use_sec": 2.0,
+      "dialogue_ids": [
+        "D024"
+      ],
+      "dialogue": [
+        "ได้ครับ"
+      ],
+      "audio_mode": null,
+      "mute": false,
+      "overlay": false,
+      "cut_note": "~2.0 วิ | เข้าขณะยังก้มมองบัตร ก่อนเงยหน้า ออกหลังพยักหน้าจบ | In: ก้มมองบัตร ริมฝีปากเผยอ → Out: สบตาริต้า ใบหน้าเรียบไร้รอยยิ้ม หลังพยักหน้าครั้งเดียว | กลับ A044 ตามเวลาเดิม | Blocking: SC02-B14–B15"
+    },
+    {
+      "id": "EP29-S038",
+      "scene": "SC02",
+      "clip": "B026",
+      "reuse": true,
+      "gen_sec": null,
+      "use_sec": 2.0,
+      "dialogue_ids": [],
+      "dialogue": [
+        "ได้ครับ"
+      ],
+      "audio_mode": null,
+      "mute": true,
+      "overlay": false,
+      "cut_note": "~2.0 วิ (ช่วง 2.5–4.5 วิของ B026) | In: จ้องรอ ยิ้มค้าง → Out: ยิ้มกว้างขึ้นช้าๆ ตาหยีเล็กน้อย บัตรมือขวาระดับอก | ใช้ B026 ช่วงหลัง ไม่เริ่มใหม่ | ตัดไป SC03 (ภาพใหม่ ฉากใหม่) | Blocking: SC02-B16 — ไม่มีการส่งมอบบัตรหรือซอง"
+    },
+    {
+      "id": "EP29-S039",
+      "scene": "SC03",
+      "clip": "B041",
+      "reuse": false,
+      "gen_sec": 5.0,
+      "use_sec": 3.5,
+      "dialogue_ids": [],
+      "dialogue": [],
+      "audio_mode": "C",
+      "mute": false,
+      "overlay": false,
+      "cut_note": "ประมาณ 3.5 วิ | In: ริต้ายืนนิ่งหลังโต๊ะฝั่งซ้าย มือว่าง กระเป๋าไหล่ซ้าย ยิ้มบาง หันขวา; เลขาเจตเพิ่งก้าวเข้าจากขอบขวาเฟรม ถือ P13 มือขวาแนบลำตัว หน้าเรียบ → Out: เลขาเจตหยุดหลังโต๊ะทางขวาของริต้า ห่าง ~1 ม. หันซ้ายสบตาริต้าสั้นๆ หน้าเรียบ; ริต้ายิ้มบางมองเลขาเจต | ตัดหลังเลขาเจตหยุดเท้า | ภาพใหม่ ฉากใหม่ (ข้ามจาก SC02 โถงทางเดิน — ข้ามเวลาสั้น) | Blocking: SC03-B01"
+    },
+    {
+      "id": "EP29-S040",
+      "scene": "SC03",
+      "clip": "B042",
+      "reuse": false,
+      "gen_sec": 3.0,
+      "use_sec": 2.0,
+      "dialogue_ids": [],
+      "dialogue": [],
+      "audio_mode": "C",
+      "mute": false,
+      "overlay": false,
+      "cut_note": "ประมาณ 2.0 วิ | In: ริต้ายิ้มบาง หันขวามองเลขาเจต (นอกขวา) มือว่าง → Out: ยิ้มบางค้าง สายตาเดิม | ตัดหลังพักสั้น | ภาพใหม่ในฉากเดิม | Blocking: SC03-B02"
+    },
+    {
+      "id": "EP29-S041",
+      "scene": "SC03",
+      "clip": "B043",
+      "reuse": false,
+      "gen_sec": 5.0,
+      "use_sec": 4.0,
+      "dialogue_ids": [],
+      "dialogue": [],
+      "audio_mode": "C",
+      "mute": false,
+      "overlay": false,
+      "cut_note": "ประมาณ 4.0 วิ | In: ริต้า/เลขาเจตยืนที่เดิมตาม Out ของ S039 (เลขาเจตถือ P13 มือขวาแนบลำตัว หน้าเรียบ; ริต้ายิ้มบาง); วิทย์+ไอรินเพิ่งก้าวเข้าจากขอบขวาเฟรม เดินเคียงกัน มือว่าง วิทย์หน้าสงบ ไอรินยิ้มบาง → Out: วิทย์หยุดหลังโต๊ะกลางหลังแจกัน ไอรินถัดขวา; ริต้าและเลขาเจตหันขวามองทั้งคู่ | ตัดหลังทั้งคู่หยุด | ภาพใหม่ในฉากเดิม | Blocking: SC03-B03"
+    },
+    {
+      "id": "EP29-S042",
+      "scene": "SC03",
+      "clip": "A061",
+      "reuse": false,
+      "gen_sec": 4.0,
+      "use_sec": 3.0,
+      "dialogue_ids": [
+        "D025"
+      ],
+      "dialogue": [
+        "ประธานวรเทพครับ นี่คือรายงานผลตรวจครับ",
+        "ประธาน"
+      ],
+      "audio_mode": "A",
+      "mute": false,
+      "overlay": false,
+      "cut_note": "ประมาณ 3.0 วิ | In: เลขาเจตหันขวามองวิทย์ (นอกขวา) หน้าเรียบ ถือ P13 มือขวาระดับเอว → Out: แขนขวายื่นซองออกไปทางขวาเฟรมล่าง ก้มศีรษะเล็กน้อย สายตาไม่สบตานาน ซองยังอยู่ในมือเขา | ตัดหลังจบ \"ครับ\" | ภาพใหม่ในฉากเดิม | Blocking: SC03-B04"
+    },
+    {
+      "id": "EP29-S043",
+      "scene": "SC03",
+      "clip": "B044",
+      "reuse": false,
+      "gen_sec": 3.0,
+      "use_sec": 2.0,
+      "dialogue_ids": [
+        "D025"
+      ],
+      "dialogue": [],
+      "audio_mode": "C",
+      "mute": true,
+      "overlay": false,
+      "cut_note": "ประมาณ 2.0 วิ | In: ยิ้มบางตาม Out ของ S040/S041 หันขวามองวิทย์ (นอกขวา) → Out: มุมปากกระตุกยิ้มเล็กน้อยแล้วเก็บกลับเป็นหน้านิ่ง สายตาเดิม | ตัดหลังเก็บยิ้ม | ภาพใหม่ในฉากเดิม | Blocking: SC03-B04"
+    },
+    {
+      "id": "EP29-S044",
+      "scene": "SC03",
+      "clip": "B045",
+      "reuse": false,
+      "gen_sec": 3.0,
+      "use_sec": 1.5,
+      "dialogue_ids": [],
+      "dialogue": [],
+      "audio_mode": "C",
+      "mute": false,
+      "overlay": false,
+      "cut_note": "ประมาณ 1.5 วิ | In: มือขวาเลขาเจต (แขนเสื้อสูทดำ) ยื่นซอง P13 เข้ามาจากซ้ายเฟรม ตาม Out ของ A061; วิทย์ยกสองมือขึ้นรับ หน้าสงบตั้งใจ; ไอรินมองวิทย์ ยิ้มบาง → Out: วิทย์ถือซองสองมือระดับอก ก้มมองซอง; มือเลขาเจตถอยออกขอบซ้าย (มือว่าง); ไอรินมองวิทย์ | ตัดหลังมือเลขาเจตปล่อยซอง | ต่อการกระทำจาก A061 — ตัดจาก CU เลขาเจตเป็น MS สองคน | Blocking: SC03-B04"
+    },
+    {
+      "id": "EP29-S045",
+      "scene": "SC03",
+      "clip": "A062",
+      "reuse": false,
+      "gen_sec": 3.0,
+      "use_sec": 2.0,
+      "dialogue_ids": [
+        "D026"
+      ],
+      "dialogue": [
+        "พวกเรา มาดูด้วยกันเถอะ"
+      ],
+      "audio_mode": "A",
+      "mute": false,
+      "overlay": false,
+      "cut_note": "ประมาณ 2.0 วิ | In: ไอรินยิ้มบาง หันซ้ายมองวิทย์ (นอกซ้าย) มือว่าง → Out: ยิ้มขึ้น สายตาเลื่อนลงไปที่ซอง (นอกซ้ายล่าง) โน้มตัวเข้าเล็กน้อย | ตัดหลังจบ \"เถอะ\" | ภาพใหม่ในฉากเดิม | Blocking: SC03-B05"
+    },
+    {
+      "id": "EP29-S045A",
+      "scene": "SC03",
+      "clip": "B046",
+      "reuse": false,
+      "gen_sec": 4.0,
+      "use_sec": 2.5,
+      "dialogue_ids": [],
+      "dialogue": [],
+      "audio_mode": "C",
+      "mute": false,
+      "overlay": false,
+      "cut_note": "ประมาณ 2.5 วิ | In: สี่คนยืนตามแนวเดิม วิทย์ถือ P13 สองมือระดับอก ไอรินยิ้ม มองซอง (ตาม Out S045) เลขาเจตมือว่าง ริต้าหน้านิ่งมองวิทย์; แม่วิทย์ก้าวเข้าจากขอบขวาเฟรม หน้าสงบ มือว่าง → Out: แม่วิทย์หยุดหลังโต๊ะขวาสุดถัดไอริน มองไปทางวิทย์; คนอื่นนิ่งที่เดิม | ตัดเมื่อแม่หยุดเท้า | ภาพใหม่ในฉากเดิม | Blocking: SC03-B06"
+    },
+    {
+      "id": "EP29-S046",
+      "scene": "SC03",
+      "clip": "A063",
+      "reuse": false,
+      "gen_sec": 4.0,
+      "use_sec": 2.2,
+      "dialogue_ids": [
+        "D027"
+      ],
+      "dialogue": [
+        "เดี๋ยวก่อน ยังขาดอีกคนนึง"
+      ],
+      "audio_mode": "A",
+      "mute": false,
+      "overlay": false,
+      "cut_note": "ประมาณ 2.2 วิ | In: แม่วิทย์หน้าสงบ หันซ้ายมองวิทย์ (นอกซ้าย) มือลงข้างตัว (ตาม Out S045A) → Out: พยักหน้าเล็กน้อยครั้งเดียวขณะพูด สีหน้าสงบหนักแน่น | ตัดหลังจบ \"นึง\" | ภาพใหม่ในฉากเดิม | Blocking: SC03-B07"
+    },
+    {
+      "id": "EP29-S047",
+      "scene": "SC03",
+      "clip": "B047",
+      "reuse": false,
+      "gen_sec": 4.0,
+      "use_sec": 2.6,
+      "dialogue_ids": [],
+      "dialogue": [],
+      "audio_mode": "C",
+      "mute": false,
+      "overlay": false,
+      "cut_note": "ประมาณ 2.6 วิ | In: แม่วิทย์มือลงข้างตัว หน้าสงบ (ตาม Out A063); วิทย์ถือ P13 สองมือระดับอก หน้าตั้งใจ; ไอรินมองวิทย์; ริต้าหน้านิ่งมองวิทย์; เลขาเจตมือว่างก้มสายตา → Out: ทุกคนยืนนิ่งรอ ท่าเดิม | ตัดหลังพักนิ่ง | ภาพใหม่ในฉากเดิม | Blocking: SC03-B08"
+    },
+    {
+      "id": "EP29-S048",
+      "scene": "SC03",
+      "clip": "B048",
+      "reuse": false,
+      "gen_sec": 4.0,
+      "use_sec": 2.5,
+      "dialogue_ids": [],
+      "dialogue": [],
+      "audio_mode": "C",
+      "mute": false,
+      "overlay": false,
+      "cut_note": "ประมาณ 2.5 วิ | In: พ่อวิทย์ก้าวยาวเร็วเข้ามาจากโถงทางเดิน ชายโค้ตพลิ้ว มือว่าง สีหน้าร้อนใจ; การ์ดสองคนตามหลัง ~1.5 ม. มือว่าง; ไหล่แจ็กเก็ตหนังกลับวิทย์นิ่งขอบขวาล่าง → Out: พ่อวิทย์ชะลอเกือบหยุด จ้องไปทางวิทย์ (ขวาเฟรมใกล้เลนส์) การ์ดชะลอตาม | ตัดก่อนพ่อหยุดสนิท | ภาพใหม่ในฉากเดิม (มุมกลับ ฝั่งกระจก) | Blocking: SC03-B09"
+    },
+    {
+      "id": "EP29-S049",
+      "scene": "SC03",
+      "clip": "B049",
+      "reuse": false,
+      "gen_sec": 3.0,
+      "use_sec": 2.0,
+      "dialogue_ids": [],
+      "dialogue": [],
+      "audio_mode": "C",
+      "mute": false,
+      "overlay": false,
+      "cut_note": "ประมาณ 2.0 วิ | In: พ่อวิทย์เพิ่งหยุดเท้า ร้อนใจ หันขวามองวิทย์ (นอกขวาใกล้เลนส์); การ์ด 1 ยืนนิ่งหลังซ้ายเบลอ → Out: จ้องวิทย์ คิ้วยกเล็กน้อย ตาเป็นประกาย มือว่าง | ตัดหลังพักจ้อง | ต่อการกระทำจาก B048 — ตัดจาก MS เป็น CU | Blocking: SC03-B10"
+    },
+    {
+      "id": "EP29-S050",
+      "scene": "SC03",
+      "clip": "B050",
+      "reuse": false,
+      "gen_sec": 3.0,
+      "use_sec": 1.3,
+      "dialogue_ids": [],
+      "dialogue": [],
+      "audio_mode": "C",
+      "mute": false,
+      "overlay": false,
+      "cut_note": "ประมาณ 1.3 วิ | In: วิทย์ถือ P13 สองมือระดับอก (นอกขอบล่าง) หน้าตั้งใจ มองต่ำไปทางซอง → Out: หันศีรษะไปทาง**ซ้ายเฟรม** มองพ่อวิทย์ (นอกซ้าย) หน้าตั้งใจ | ตัดเมื่อสบตาพ่อ | ภาพใหม่ในฉากเดิม | Blocking: SC03-B10 | **ทิศสายตา: ยึดไฟล์เรื่อง (\"หันซ้ายมองพ่อวิทย์\" + ช่องว่างฝั่งซ้าย) ไม่ใช้ \"ขวาเฟรม\" ของ Setup Map SC03-D [เสนอ] เพราะ S049/S051 พ่อมองขวาเฟรม ถ้าวิทย์มองขวาด้วยจะข้ามแกน — รายงานกลับให้ bible ยืนยัน**"
+    },
+    {
+      "id": "EP29-S051",
+      "scene": "SC03",
+      "clip": "A064",
+      "reuse": false,
+      "gen_sec": 4.0,
+      "use_sec": 2.5,
+      "dialogue_ids": [
+        "D028"
+      ],
+      "dialogue": [
+        "รีบเปิดดูสิ พ่อรอจนใจจะขาดแล้ว"
+      ],
+      "audio_mode": "A",
+      "mute": false,
+      "overlay": false,
+      "cut_note": "ประมาณ 2.5 วิ | In: พ่อจ้องวิทย์ คิ้วยก (ตาม Out B049) หันขวาเฟรม → Out: พยักหน้าเร่งเล็กน้อยไปทางซอง (ขวาล่าง) ตาเป็นประกาย ปากปิดหลังจบบท | ตัดหลังจบ \"แล้ว\" | ภาพใหม่ในฉากเดิม | Blocking: SC03-B11"
+    },
+    {
+      "id": "EP29-S052",
+      "scene": "SC03",
+      "clip": "A065",
+      "reuse": false,
+      "gen_sec": 3.0,
+      "use_sec": 1.6,
+      "dialogue_ids": [
+        "D029"
+      ],
+      "dialogue": [
+        "ครับ"
+      ],
+      "audio_mode": "A",
+      "mute": false,
+      "overlay": false,
+      "cut_note": "ประมาณ 1.6 วิ | In: วิทย์หันศีรษะกลับจากซ้ายเฟรม (หลังมองพ่อใน S050) มาหน้าตรง หน้าตั้งใจ ถือ P13 สองมือระดับอก; ไอรินมองวิทย์ ยิ้มหาย เริ่มลุ้น → Out: วิทย์พยักหน้า พูด \"ครับ\" แล้วก้มมองซองในมือ; ไอรินก้มมองซอง | ตัดหลังก้มมอง | ภาพใหม่ในฉากเดิม | Blocking: SC03-B12"
+    },
+    {
+      "id": "EP29-S053",
+      "scene": "SC03",
+      "clip": "B051",
+      "reuse": false,
+      "gen_sec": 4.0,
+      "use_sec": 2.1,
+      "dialogue_ids": [],
+      "dialogue": [],
+      "audio_mode": "C",
+      "mute": false,
+      "overlay": false,
+      "cut_note": "ประมาณ 2.1 วิ | In: วิทย์ก้มมองซองที่ถือสองมือระดับอก (ตาม Out A065) → Out: นิ้วขวาเปิดฝาซองขึ้นช้าๆ ฝาเปิดแล้ว สายตาจดจ่อ | ตัดเมื่อฝาเปิด | ต่อการกระทำจาก A065 — ตัดจาก MS เป็น CU มุมสูง | Blocking: SC03-B13"
+    },
+    {
+      "id": "EP29-S054",
+      "scene": "SC03",
+      "clip": "B052",
+      "reuse": false,
+      "gen_sec": 4.0,
+      "use_sec": 2.4,
+      "dialogue_ids": [],
+      "dialogue": [],
+      "audio_mode": "C",
+      "mute": false,
+      "overlay": false,
+      "cut_note": "ประมาณ 2.4 วิ | In: ไอรินก้มมองซอง (ตาม Out A065) แล้วหันซ้ายมองวิทย์ (นอกซ้าย) → Out: กลั้นหายใจ ริมฝีปากเม้ม | ตัดหลังกลั้นหายใจ | ภาพใหม่ในฉากเดิม | Blocking: SC03-B14"
+    },
+    {
+      "id": "EP29-S055",
+      "scene": "SC03",
+      "clip": "B053",
+      "reuse": false,
+      "gen_sec": 4.0,
+      "use_sec": 2.7,
+      "dialogue_ids": [],
+      "dialogue": [],
+      "audio_mode": "C",
+      "mute": false,
+      "overlay": false,
+      "cut_note": "ประมาณ 2.7 วิ | In: ฝาซองเปิดแล้ว สองมือถือซอง สายตาจดจ่อ (ตาม Out B051) → Out: มือขวาดึงกระดาษขาวพับออก คลี่ออกบางส่วน ซองเปล่าในมือซ้าย สายตาเริ่มอ่าน | ตัดเมื่อเริ่มอ่าน | ต่อการกระทำจาก B051 — มุมเดียวกันแต่ภาพตั้งต้นใหม่ (คั่นด้วย B052) | Blocking: SC03-B15"
+    },
+    {
+      "id": "EP29-S056",
+      "scene": "SC03",
+      "clip": "B054",
+      "reuse": false,
+      "gen_sec": 3.0,
+      "use_sec": 2.0,
+      "dialogue_ids": [],
+      "dialogue": [],
+      "audio_mode": "C",
+      "mute": false,
+      "overlay": false,
+      "cut_note": "ประมาณ 2.0 วิ | In: แม่วิทย์มือลงข้างตัว ยิ้มรอ (ต่อจาก Out B047); พ่อวิทย์มือว่าง ตาเป็นประกาย (ต่อจาก Out A064); ทั้งคู่มองวิทย์ (นอกซ้าย) → Out: แม่ยิ้มรอ พ่อโน้มตัวไปข้างหน้าเล็กน้อย | ตัดหลังพ่อโน้มตัว | ภาพใหม่ในฉากเดิม | Blocking: SC03-B16"
+    },
+    {
+      "id": "EP29-S057",
+      "scene": "SC03",
+      "clip": "A066",
+      "reuse": false,
+      "gen_sec": 5.0,
+      "use_sec": 3.5,
+      "dialogue_ids": [
+        "D030"
+      ],
+      "dialogue": [
+        "แบจีอา เธอรอโดนไล่ออกจากบ้านได้เลย"
+      ],
+      "audio_mode": "A",
+      "mute": false,
+      "overlay": false,
+      "cut_note": "ประมาณ 3.5 วิ | In: ริต้าหน้านิ่งมองวิทย์ หันขวาเฟรม (ตาม Out B044/B047) → Out: ยิ้มเยาะมุมปากข้างเดียว ตาหรี่เล็กน้อย ปากปิดสนิท | ตัดหลัง VO จบและยิ้มค้าง | ภาพใหม่ในฉากเดิม | Blocking: SC03-B17"
+    },
+    {
+      "id": "EP29-S058",
+      "scene": "SC03",
+      "clip": "B055",
+      "reuse": false,
+      "gen_sec": 4.0,
+      "use_sec": 2.1,
+      "dialogue_ids": [],
+      "dialogue": [],
+      "audio_mode": "C",
+      "mute": false,
+      "overlay": false,
+      "cut_note": "ประมาณ 2.1 วิ | In: ไอรินกลั้นหายใจ ริมฝีปากเม้ม หันซ้ายมองวิทย์ (ตาม Out B052) → Out: คิ้วขมวดเข้าหากันเล็กน้อย ตาไม่ละจากวิทย์ สีหน้ากังวล | ตัดหลังคิ้วขมวด | ภาพใหม่ในฉากเดิม | Blocking: SC03-B18"
+    },
+    {
+      "id": "EP29-S059",
+      "scene": "SC03",
+      "clip": "B056",
+      "reuse": false,
+      "gen_sec": 6.0,
+      "use_sec": 4.8,
+      "dialogue_ids": [],
+      "dialogue": [],
+      "audio_mode": "C",
+      "mute": false,
+      "overlay": false,
+      "cut_note": "ประมาณ 4.8 วิ | In: วิทย์ถือกระดาษกางสองมือ ซองหนีบใต้นิ้วโป้งซ้ายหลังกระดาษ สายตาเริ่มอ่าน (ตาม Out B053) → Out: ตาเบิกกว้าง หยุดหายใจ ริมฝีปากเผยอ มือที่ถือกระดาษชะงัก ค้างจนจบ | ค้างภาพจบตอน | ภาพใหม่ในฉากเดิม (เปลี่ยนจากมุมสูงเป็นมุมต่ำ) | Blocking: SC03-B19"
+    }
+  ],
+  "clips": {
+    "A001": {
+      "clip": "A001",
+      "kind": "A",
+      "scene": "SC01",
+      "shots": [
+        "EP29-S001"
+      ],
+      "refs": [
+        "input/characters/วิทย์/Face.webp"
+      ],
+      "image_prompt": "EP29/prompts/EP29_A001_image.txt",
+      "video_prompt": "EP29/prompts/EP29_A001_video.txt",
+      "video_sec": 4,
+      "image_sha": "d2bf3213c561",
+      "video_sha": "f2f66c0b1acf"
+    },
+    "A002": {
+      "clip": "A002",
+      "kind": "A",
+      "scene": "SC01",
+      "shots": [
+        "EP29-S002"
+      ],
+      "refs": [
+        "input/characters/ไอริน/ไอริน W17 แจ็กเก็ตทวีดกรมท่าโบว์ขาว.png",
+        "input/characters/วิทย์/Face.webp"
+      ],
+      "image_prompt": "EP29/prompts/EP29_A002_image.txt",
+      "video_prompt": "EP29/prompts/EP29_A002_video.txt",
+      "video_sec": 4,
+      "image_sha": "d951b106deb4",
+      "video_sha": "a3e185a25491"
+    },
+    "B003": {
+      "clip": "B003",
+      "kind": "B",
+      "scene": "SC01",
+      "shots": [
+        "EP29-S003"
+      ],
+      "refs": [
+        "input/characters/ไอริน/Face.png"
+      ],
+      "image_prompt": "EP29/prompts/EP29_B003_image.txt",
+      "video_prompt": "EP29/prompts/EP29_B003_video.txt",
+      "video_sec": 3,
+      "image_sha": "f20c41a9fa82",
+      "video_sha": "7cd5df58da8e"
+    },
+    "A004": {
+      "clip": "A004",
+      "kind": "A",
+      "scene": "SC01",
+      "shots": [
+        "EP29-S004"
+      ],
+      "refs": [
+        "input/characters/วิทย์/Face.webp"
+      ],
+      "image_prompt": "EP29/prompts/EP29_A004_image.txt",
+      "video_prompt": "EP29/prompts/EP29_A004_video.txt",
+      "video_sec": 4,
+      "image_sha": "32eb142411af",
+      "video_sha": "9a547bfb58e3"
+    },
+    "A005": {
+      "clip": "A005",
+      "kind": "A",
+      "scene": "SC01",
+      "shots": [
+        "EP29-S005"
+      ],
+      "refs": [
+        "input/characters/ไอริน/Face.png"
+      ],
+      "image_prompt": "EP29/prompts/EP29_A005_image.txt",
+      "video_prompt": "EP29/prompts/EP29_A005_video.txt",
+      "video_sec": 4,
+      "image_sha": "1cf074cab5d4",
+      "video_sha": "d6ce09787b77"
+    },
+    "A006": {
+      "clip": "A006",
+      "kind": "A",
+      "scene": "SC01",
+      "shots": [
+        "EP29-S006"
+      ],
+      "refs": [
+        "input/characters/ไอริน/ไอริน W17 แจ็กเก็ตทวีดกรมท่าโบว์ขาว.png",
+        "input/characters/วิทย์/Face.webp"
+      ],
+      "image_prompt": "EP29/prompts/EP29_A006_image.txt",
+      "video_prompt": "EP29/prompts/EP29_A006_video.txt",
+      "video_sec": 4,
+      "image_sha": "864bc7c48c8e",
+      "video_sha": "1acb0d9274eb"
+    },
+    "A007": {
+      "clip": "A007",
+      "kind": "A",
+      "scene": "SC01",
+      "shots": [
+        "EP29-S007"
+      ],
+      "refs": [
+        "input/characters/วิทย์/Face.webp"
+      ],
+      "image_prompt": "EP29/prompts/EP29_A007_image.txt",
+      "video_prompt": "EP29/prompts/EP29_A007_video.txt",
+      "video_sec": 4,
+      "image_sha": "1f9c8304df02",
+      "video_sha": "d81ac2e68880"
+    },
+    "A008": {
+      "clip": "A008",
+      "kind": "A",
+      "scene": "SC01",
+      "shots": [
+        "EP29-S008"
+      ],
+      "refs": [
+        "input/characters/ไอริน/Face.png"
+      ],
+      "image_prompt": "EP29/prompts/EP29_A008_image.txt",
+      "video_prompt": "EP29/prompts/EP29_A008_video.txt",
+      "video_sec": 3,
+      "image_sha": "c6881bfd8a39",
+      "video_sha": "7d58dfc5ffc2"
+    },
+    "B009": {
+      "clip": "B009",
+      "kind": "B",
+      "scene": "SC01",
+      "shots": [
+        "EP29-S009"
+      ],
+      "refs": [
+        "input/characters/ไอริน/ไอริน W17 แจ็กเก็ตทวีดกรมท่าโบว์ขาว.png"
+      ],
+      "image_prompt": "EP29/prompts/EP29_B009_image.txt",
+      "video_prompt": "EP29/prompts/EP29_B009_video.txt",
+      "video_sec": 3,
+      "image_sha": "fa0abcf1700c",
+      "video_sha": "1622f0cd7d7c"
+    },
+    "B010": {
+      "clip": "B010",
+      "kind": "B",
+      "scene": "SC01",
+      "shots": [
+        "EP29-S010"
+      ],
+      "refs": [
+        "input/characters/ไอริน/ไอริน W17 แจ็กเก็ตทวีดกรมท่าโบว์ขาว.png",
+        "input/characters/วิทย์/Face.webp"
+      ],
+      "image_prompt": "EP29/prompts/EP29_B010_image.txt",
+      "video_prompt": "EP29/prompts/EP29_B010_video.txt",
+      "video_sec": 5,
+      "image_sha": "a1c92f5ede40",
+      "video_sha": "fc04aecbaaa5"
+    },
+    "B021": {
+      "clip": "B021",
+      "kind": "B",
+      "scene": "SC02",
+      "shots": [
+        "EP29-S011"
+      ],
+      "refs": [
+        "input/characters/เลขาเจต/เลขาเจต W02 สูทดำเนกไทแดง.png"
+      ],
+      "image_prompt": "EP29/prompts/EP29_B021_image.txt",
+      "video_prompt": "EP29/prompts/EP29_B021_video.txt",
+      "video_sec": 4,
+      "image_sha": "9694dfbd6aa6",
+      "video_sha": "03cd59cce7d8"
+    },
+    "B022": {
+      "clip": "B022",
+      "kind": "B",
+      "scene": "SC02",
+      "shots": [
+        "EP29-S012"
+      ],
+      "refs": [
+        "input/characters/เลขาเจต/เลขาเจต W02 สูทดำเนกไทแดง.png",
+        "input/characters/ริต้า/ริต้า W07 แจ็กเก็ตขนนกขาว.png"
+      ],
+      "image_prompt": "EP29/prompts/EP29_B022_image.txt",
+      "video_prompt": "EP29/prompts/EP29_B022_video.txt",
+      "video_sec": 4,
+      "image_sha": "bc06a858445b",
+      "video_sha": "d519ba0f1bf9"
+    },
+    "A031": {
+      "clip": "A031",
+      "kind": "A",
+      "scene": "SC02",
+      "shots": [
+        "EP29-S013"
+      ],
+      "refs": [
+        "input/characters/ริต้า/ริต้า W07 แจ็กเก็ตขนนกขาว.png",
+        "input/characters/เลขาเจต/เลขาเจต W02 สูทดำเนกไทแดง.png"
+      ],
+      "image_prompt": "EP29/prompts/EP29_A031_image.txt",
+      "video_prompt": "EP29/prompts/EP29_A031_video.txt",
+      "video_sec": 3,
+      "image_sha": "d46f7bc0cc00",
+      "video_sha": "cf4d50e04176"
+    },
+    "A032": {
+      "clip": "A032",
+      "kind": "A",
+      "scene": "SC02",
+      "shots": [
+        "EP29-S014"
+      ],
+      "refs": [
+        "input/characters/เลขาเจต/เลขาเจต Face.webp",
+        "input/characters/ริต้า/ริต้า W07 แจ็กเก็ตขนนกขาว.png"
+      ],
+      "image_prompt": "EP29/prompts/EP29_A032_image.txt",
+      "video_prompt": "EP29/prompts/EP29_A032_video.txt",
+      "video_sec": 4,
+      "image_sha": "4b48544ee936",
+      "video_sha": "afea232acded"
+    },
+    "A033": {
+      "clip": "A033",
+      "kind": "A",
+      "scene": "SC02",
+      "shots": [
+        "EP29-S015",
+        "EP29-S017"
+      ],
+      "refs": [
+        "input/characters/ริต้า/ริต้า W07 แจ็กเก็ตขนนกขาว.png",
+        "input/characters/เลขาเจต/เลขาเจต W02 สูทดำเนกไทแดง.png"
+      ],
+      "image_prompt": "EP29/prompts/EP29_A033_image.txt",
+      "video_prompt": "EP29/prompts/EP29_A033_video.txt",
+      "video_sec": 4,
+      "image_sha": "1afe2955de1d",
+      "video_sha": "e6c17056644f"
+    },
+    "B023": {
+      "clip": "B023",
+      "kind": "B",
+      "scene": "SC02",
+      "shots": [
+        "EP29-S016",
+        "EP29-S019",
+        "EP29-S024"
+      ],
+      "refs": [
+        "input/characters/เลขาเจต/เลขาเจต Face.webp",
+        "input/characters/ริต้า/ริต้า W07 แจ็กเก็ตขนนกขาว.png"
+      ],
+      "image_prompt": "EP29/prompts/EP29_B023_image.txt",
+      "video_prompt": "EP29/prompts/EP29_B023_video.txt",
+      "video_sec": 6,
+      "image_sha": "00ba0ac9c0db",
+      "video_sha": "5d915f5ba5fa"
+    },
+    "A034": {
+      "clip": "A034",
+      "kind": "A",
+      "scene": "SC02",
+      "shots": [
+        "EP29-S018",
+        "EP29-S020"
+      ],
+      "refs": [
+        "input/characters/ริต้า/ริต้า W07 แจ็กเก็ตขนนกขาว.png"
+      ],
+      "image_prompt": "EP29/prompts/EP29_A034_image.txt",
+      "video_prompt": "EP29/prompts/EP29_A034_video.txt",
+      "video_sec": 6,
+      "image_sha": "c8efd5fef413",
+      "video_sha": "6065906a3817"
+    },
+    "A035": {
+      "clip": "A035",
+      "kind": "A",
+      "scene": "SC02",
+      "shots": [
+        "EP29-S021"
+      ],
+      "refs": [
+        "input/characters/เลขาเจต/เลขาเจต Face.webp",
+        "input/characters/ริต้า/ริต้า W07 แจ็กเก็ตขนนกขาว.png"
+      ],
+      "image_prompt": "EP29/prompts/EP29_A035_image.txt",
+      "video_prompt": "EP29/prompts/EP29_A035_video.txt",
+      "video_sec": 3,
+      "image_sha": "f0d4ba3c2517",
+      "video_sha": "fc12805fa3c6"
+    },
+    "A036": {
+      "clip": "A036",
+      "kind": "A",
+      "scene": "SC02",
+      "shots": [
+        "EP29-S022"
+      ],
+      "refs": [
+        "input/characters/ริต้า/ริต้า W07 แจ็กเก็ตขนนกขาว.png",
+        "input/characters/เลขาเจต/เลขาเจต W02 สูทดำเนกไทแดง.png"
+      ],
+      "image_prompt": "EP29/prompts/EP29_A036_image.txt",
+      "video_prompt": "EP29/prompts/EP29_A036_video.txt",
+      "video_sec": 4,
+      "image_sha": "e49e3b42cee0",
+      "video_sha": "a6aebeadf898"
+    },
+    "A037": {
+      "clip": "A037",
+      "kind": "A",
+      "scene": "SC02",
+      "shots": [
+        "EP29-S023"
+      ],
+      "refs": [
+        "input/characters/ริต้า/ริต้า W07 แจ็กเก็ตขนนกขาว.png"
+      ],
+      "image_prompt": "EP29/prompts/EP29_A037_image.txt",
+      "video_prompt": "EP29/prompts/EP29_A037_video.txt",
+      "video_sec": 3,
+      "image_sha": "39a8f6bf00ef",
+      "video_sha": "7ed1b4353cf6"
+    },
+    "B024": {
+      "clip": "B024",
+      "kind": "B",
+      "scene": "SC02",
+      "shots": [
+        "EP29-S025",
+        "EP29-S027"
+      ],
+      "refs": [
+        "input/characters/ริต้า/ริต้า W07 แจ็กเก็ตขนนกขาว.png",
+        "input/characters/เลขาเจต/เลขาเจต W02 สูทดำเนกไทแดง.png"
+      ],
+      "image_prompt": "EP29/prompts/EP29_B024_image.txt",
+      "video_prompt": "EP29/prompts/EP29_B024_video.txt",
+      "video_sec": 5,
+      "image_sha": "513d3c6c5685",
+      "video_sha": "fd52ff1acdae"
+    },
+    "A038": {
+      "clip": "A038",
+      "kind": "A",
+      "scene": "SC02",
+      "shots": [
+        "EP29-S026",
+        "EP29-S028"
+      ],
+      "refs": [
+        "input/characters/เลขาเจต/เลขาเจต Face.webp",
+        "input/characters/ริต้า/ริต้า W07 แจ็กเก็ตขนนกขาว.png"
+      ],
+      "image_prompt": "EP29/prompts/EP29_A038_image.txt",
+      "video_prompt": "EP29/prompts/EP29_A038_video.txt",
+      "video_sec": 6,
+      "image_sha": "15be5cf78918",
+      "video_sha": "64cd6dc30371"
+    },
+    "A039": {
+      "clip": "A039",
+      "kind": "A",
+      "scene": "SC02",
+      "shots": [
+        "EP29-S029"
+      ],
+      "refs": [
+        "input/characters/ริต้า/ริต้า W07 แจ็กเก็ตขนนกขาว.png",
+        "input/characters/เลขาเจต/เลขาเจต W02 สูทดำเนกไทแดง.png"
+      ],
+      "image_prompt": "EP29/prompts/EP29_A039_image.txt",
+      "video_prompt": "EP29/prompts/EP29_A039_video.txt",
+      "video_sec": 4,
+      "image_sha": "6ace50ea16fc",
+      "video_sha": "ca155cf04cda"
+    },
+    "A040": {
+      "clip": "A040",
+      "kind": "A",
+      "scene": "SC02",
+      "shots": [
+        "EP29-S030"
+      ],
+      "refs": [
+        "input/characters/ริต้า/ริต้า W07 แจ็กเก็ตขนนกขาว.png"
+      ],
+      "image_prompt": "EP29/prompts/EP29_A040_image.txt",
+      "video_prompt": "EP29/prompts/EP29_A040_video.txt",
+      "video_sec": 4,
+      "image_sha": "eed4af38a601",
+      "video_sha": "5b668d3bcc57"
+    },
+    "A041": {
+      "clip": "A041",
+      "kind": "A",
+      "scene": "SC02",
+      "shots": [
+        "EP29-S031"
+      ],
+      "refs": [
+        "input/characters/ริต้า/ริต้า W07 แจ็กเก็ตขนนกขาว.png",
+        "input/characters/เลขาเจต/เลขาเจต W02 สูทดำเนกไทแดง.png"
+      ],
+      "image_prompt": "EP29/prompts/EP29_A041_image.txt",
+      "video_prompt": "EP29/prompts/EP29_A041_video.txt",
+      "video_sec": 3,
+      "image_sha": "8f497dff7ebc",
+      "video_sha": "bf8ea6acd76a"
+    },
+    "B025": {
+      "clip": "B025",
+      "kind": "B",
+      "scene": "SC02",
+      "shots": [
+        "EP29-S032"
+      ],
+      "refs": [
+        "input/characters/เลขาเจต/เลขาเจต Face.webp",
+        "input/characters/ริต้า/ริต้า W07 แจ็กเก็ตขนนกขาว.png"
+      ],
+      "image_prompt": "EP29/prompts/EP29_B025_image.txt",
+      "video_prompt": "EP29/prompts/EP29_B025_video.txt",
+      "video_sec": 4,
+      "image_sha": "c6889cb26d56",
+      "video_sha": "2f451f693ccb"
+    },
+    "A042": {
+      "clip": "A042",
+      "kind": "A",
+      "scene": "SC02",
+      "shots": [
+        "EP29-S033"
+      ],
+      "refs": [
+        "input/characters/ริต้า/ริต้า W07 แจ็กเก็ตขนนกขาว.png"
+      ],
+      "image_prompt": "EP29/prompts/EP29_A042_image.txt",
+      "video_prompt": "EP29/prompts/EP29_A042_video.txt",
+      "video_sec": 3,
+      "image_sha": "2ce4c808fb20",
+      "video_sha": "36a57a072410"
+    },
+    "A043": {
+      "clip": "A043",
+      "kind": "A",
+      "scene": "SC02",
+      "shots": [
+        "EP29-S034"
+      ],
+      "refs": [
+        "input/characters/ริต้า/ริต้า W07 แจ็กเก็ตขนนกขาว.png",
+        "input/characters/เลขาเจต/เลขาเจต W02 สูทดำเนกไทแดง.png"
+      ],
+      "image_prompt": "EP29/prompts/EP29_A043_image.txt",
+      "video_prompt": "EP29/prompts/EP29_A043_video.txt",
+      "video_sec": 5,
+      "image_sha": "80bb7715fac6",
+      "video_sha": "4a3f4bd6e4fe"
+    },
+    "A044": {
+      "clip": "A044",
+      "kind": "A",
+      "scene": "SC02",
+      "shots": [
+        "EP29-S035",
+        "EP29-S037"
+      ],
+      "refs": [
+        "input/characters/เลขาเจต/เลขาเจต Face.webp",
+        "input/characters/ริต้า/ริต้า W07 แจ็กเก็ตขนนกขาว.png"
+      ],
+      "image_prompt": "EP29/prompts/EP29_A044_image.txt",
+      "video_prompt": "EP29/prompts/EP29_A044_video.txt",
+      "video_sec": 6,
+      "image_sha": "cc5dac0a9c62",
+      "video_sha": "14d134edfb9a"
+    },
+    "B026": {
+      "clip": "B026",
+      "kind": "B",
+      "scene": "SC02",
+      "shots": [
+        "EP29-S036",
+        "EP29-S038"
+      ],
+      "refs": [
+        "input/characters/ริต้า/ริต้า W07 แจ็กเก็ตขนนกขาว.png",
+        "input/characters/เลขาเจต/เลขาเจต W02 สูทดำเนกไทแดง.png"
+      ],
+      "image_prompt": "EP29/prompts/EP29_B026_image.txt",
+      "video_prompt": "EP29/prompts/EP29_B026_video.txt",
+      "video_sec": 5,
+      "image_sha": "903505a248ec",
+      "video_sha": "1560421ad014"
+    },
+    "B041": {
+      "clip": "B041",
+      "kind": "B",
+      "scene": "SC03",
+      "shots": [
+        "EP29-S039"
+      ],
+      "refs": [
+        "input/characters/ริต้า/ริต้า W07 แจ็กเก็ตขนนกขาว.png",
+        "input/characters/เลขาเจต/เลขาเจต W02 สูทดำเนกไทแดง.png"
+      ],
+      "image_prompt": "EP29/prompts/EP29_B041_image.txt",
+      "video_prompt": "EP29/prompts/EP29_B041_video.txt",
+      "video_sec": 5,
+      "image_sha": "fe46ebdca534",
+      "video_sha": "34d7ce7632ca"
+    },
+    "B042": {
+      "clip": "B042",
+      "kind": "B",
+      "scene": "SC03",
+      "shots": [
+        "EP29-S040"
+      ],
+      "refs": [
+        "input/characters/ริต้า/ริต้า W07 แจ็กเก็ตขนนกขาว.png"
+      ],
+      "image_prompt": "EP29/prompts/EP29_B042_image.txt",
+      "video_prompt": "EP29/prompts/EP29_B042_video.txt",
+      "video_sec": 3,
+      "image_sha": "f67901965cbf",
+      "video_sha": "73b49b4be668"
+    },
+    "B043": {
+      "clip": "B043",
+      "kind": "B",
+      "scene": "SC03",
+      "shots": [
+        "EP29-S041"
+      ],
+      "refs": [
+        "input/characters/วิทย์/วิทย์ W08 แจ็กเก็ตหนังกลับน้ำตาล.png",
+        "input/characters/ไอริน/ไอริน W17 แจ็กเก็ตทวีดกรมท่าโบว์ขาว.png",
+        "input/characters/ริต้า/ริต้า W07 แจ็กเก็ตขนนกขาว.png",
+        "input/characters/เลขาเจต/เลขาเจต W02 สูทดำเนกไทแดง.png"
+      ],
+      "image_prompt": "EP29/prompts/EP29_B043_image.txt",
+      "video_prompt": "EP29/prompts/EP29_B043_video.txt",
+      "video_sec": 5,
+      "image_sha": "52a260dc7921",
+      "video_sha": "92a72ce1aaaf"
+    },
+    "A061": {
+      "clip": "A061",
+      "kind": "A",
+      "scene": "SC03",
+      "shots": [
+        "EP29-S042"
+      ],
+      "refs": [
+        "input/characters/เลขาเจต/เลขาเจต Face.webp"
+      ],
+      "image_prompt": "EP29/prompts/EP29_A061_image.txt",
+      "video_prompt": "EP29/prompts/EP29_A061_video.txt",
+      "video_sec": 4,
+      "image_sha": "25f83d3a1e73",
+      "video_sha": "090921faef9d"
+    },
+    "B044": {
+      "clip": "B044",
+      "kind": "B",
+      "scene": "SC03",
+      "shots": [
+        "EP29-S043"
+      ],
+      "refs": [
+        "input/characters/ริต้า/Face.jpeg"
+      ],
+      "image_prompt": "EP29/prompts/EP29_B044_image.txt",
+      "video_prompt": "EP29/prompts/EP29_B044_video.txt",
+      "video_sec": 3,
+      "image_sha": "c0ce608b59e6",
+      "video_sha": "99348d41b96a"
+    },
+    "B045": {
+      "clip": "B045",
+      "kind": "B",
+      "scene": "SC03",
+      "shots": [
+        "EP29-S044"
+      ],
+      "refs": [
+        "input/characters/วิทย์/วิทย์ W08 แจ็กเก็ตหนังกลับน้ำตาล.png",
+        "input/characters/ไอริน/ไอริน W17 แจ็กเก็ตทวีดกรมท่าโบว์ขาว.png",
+        "input/characters/เลขาเจต/เลขาเจต W02 สูทดำเนกไทแดง.png"
+      ],
+      "image_prompt": "EP29/prompts/EP29_B045_image.txt",
+      "video_prompt": "EP29/prompts/EP29_B045_video.txt",
+      "video_sec": 3,
+      "image_sha": "e1d92fd54782",
+      "video_sha": "befcb4478ce2"
+    },
+    "A062": {
+      "clip": "A062",
+      "kind": "A",
+      "scene": "SC03",
+      "shots": [
+        "EP29-S045"
+      ],
+      "refs": [
+        "input/characters/ไอริน/Face.png"
+      ],
+      "image_prompt": "EP29/prompts/EP29_A062_image.txt",
+      "video_prompt": "EP29/prompts/EP29_A062_video.txt",
+      "video_sec": 3,
+      "image_sha": "338d7a9e41ab",
+      "video_sha": "e37437577275"
+    },
+    "B046": {
+      "clip": "B046",
+      "kind": "B",
+      "scene": "SC03",
+      "shots": [
+        "EP29-S045A"
+      ],
+      "refs": [
+        "input/characters/แม่วิทย์/แม่วิทย์ W07 โค้ทเฟอร์ครีม.png",
+        "input/characters/วิทย์/วิทย์ W08 แจ็กเก็ตหนังกลับน้ำตาล.png",
+        "input/characters/ไอริน/ไอริน W17 แจ็กเก็ตทวีดกรมท่าโบว์ขาว.png",
+        "input/characters/ริต้า/ริต้า W07 แจ็กเก็ตขนนกขาว.png",
+        "input/characters/เลขาเจต/เลขาเจต W02 สูทดำเนกไทแดง.png"
+      ],
+      "image_prompt": "EP29/prompts/EP29_B046_image.txt",
+      "video_prompt": "EP29/prompts/EP29_B046_video.txt",
+      "video_sec": 4,
+      "image_sha": "ab0f55b2a294",
+      "video_sha": "bb042ae0fa8c"
+    },
+    "A063": {
+      "clip": "A063",
+      "kind": "A",
+      "scene": "SC03",
+      "shots": [
+        "EP29-S046"
+      ],
+      "refs": [
+        "input/characters/แม่วิทย์/Face.webp"
+      ],
+      "image_prompt": "EP29/prompts/EP29_A063_image.txt",
+      "video_prompt": "EP29/prompts/EP29_A063_video.txt",
+      "video_sec": 4,
+      "image_sha": "887686cbe1c2",
+      "video_sha": "2abfda1b579b"
+    },
+    "B047": {
+      "clip": "B047",
+      "kind": "B",
+      "scene": "SC03",
+      "shots": [
+        "EP29-S047"
+      ],
+      "refs": [
+        "input/characters/วิทย์/วิทย์ W08 แจ็กเก็ตหนังกลับน้ำตาล.png",
+        "input/characters/ไอริน/ไอริน W17 แจ็กเก็ตทวีดกรมท่าโบว์ขาว.png",
+        "input/characters/แม่วิทย์/แม่วิทย์ W07 โค้ทเฟอร์ครีม.png",
+        "input/characters/ริต้า/ริต้า W07 แจ็กเก็ตขนนกขาว.png",
+        "input/characters/เลขาเจต/เลขาเจต W02 สูทดำเนกไทแดง.png"
+      ],
+      "image_prompt": "EP29/prompts/EP29_B047_image.txt",
+      "video_prompt": "EP29/prompts/EP29_B047_video.txt",
+      "video_sec": 4,
+      "image_sha": "7fbfb0435b61",
+      "video_sha": "9b49b2416fd5"
+    },
+    "B048": {
+      "clip": "B048",
+      "kind": "B",
+      "scene": "SC03",
+      "shots": [
+        "EP29-S048"
+      ],
+      "refs": [
+        "input/characters/พ่อวิทย์/พ่อวิทย์ W03 โค้ทยาวดำ.png",
+        "input/characters/วิทย์/วิทย์ W08 แจ็กเก็ตหนังกลับน้ำตาล.png",
+        "input/characters/การ์ด 1/การ์ด 1 W01 สูทดำเนกไทดำ.png",
+        "input/characters/การ์ด 2/การ์ด 2 W01 สูทดำเนกไทดำ.png"
+      ],
+      "image_prompt": "EP29/prompts/EP29_B048_image.txt",
+      "video_prompt": "EP29/prompts/EP29_B048_video.txt",
+      "video_sec": 4,
+      "image_sha": "0128d82b40b9",
+      "video_sha": "51b6c0408433"
+    },
+    "B049": {
+      "clip": "B049",
+      "kind": "B",
+      "scene": "SC03",
+      "shots": [
+        "EP29-S049"
+      ],
+      "refs": [
+        "input/characters/พ่อวิทย์/พ่อวิทย์ Face.webp",
+        "input/characters/การ์ด 1/การ์ด 1 W01 สูทดำเนกไทดำ.png"
+      ],
+      "image_prompt": "EP29/prompts/EP29_B049_image.txt",
+      "video_prompt": "EP29/prompts/EP29_B049_video.txt",
+      "video_sec": 3,
+      "image_sha": "0a2e6a42a139",
+      "video_sha": "167d97baefe1"
+    },
+    "B050": {
+      "clip": "B050",
+      "kind": "B",
+      "scene": "SC03",
+      "shots": [
+        "EP29-S050"
+      ],
+      "refs": [
+        "input/characters/วิทย์/Face.webp"
+      ],
+      "image_prompt": "EP29/prompts/EP29_B050_image.txt",
+      "video_prompt": "EP29/prompts/EP29_B050_video.txt",
+      "video_sec": 3,
+      "image_sha": "eb1e04e6b975",
+      "video_sha": "3e93acaf4f39"
+    },
+    "A064": {
+      "clip": "A064",
+      "kind": "A",
+      "scene": "SC03",
+      "shots": [
+        "EP29-S051"
+      ],
+      "refs": [
+        "input/characters/พ่อวิทย์/พ่อวิทย์ Face.webp",
+        "input/characters/วิทย์/วิทย์ W08 แจ็กเก็ตหนังกลับน้ำตาล.png",
+        "input/characters/การ์ด 1/การ์ด 1 W01 สูทดำเนกไทดำ.png"
+      ],
+      "image_prompt": "EP29/prompts/EP29_A064_image.txt",
+      "video_prompt": "EP29/prompts/EP29_A064_video.txt",
+      "video_sec": 4,
+      "image_sha": "42c18cb12456",
+      "video_sha": "87b497244e87"
+    },
+    "A065": {
+      "clip": "A065",
+      "kind": "A",
+      "scene": "SC03",
+      "shots": [
+        "EP29-S052"
+      ],
+      "refs": [
+        "input/characters/วิทย์/วิทย์ W08 แจ็กเก็ตหนังกลับน้ำตาล.png",
+        "input/characters/ไอริน/ไอริน W17 แจ็กเก็ตทวีดกรมท่าโบว์ขาว.png"
+      ],
+      "image_prompt": "EP29/prompts/EP29_A065_image.txt",
+      "video_prompt": "EP29/prompts/EP29_A065_video.txt",
+      "video_sec": 3,
+      "image_sha": "c9d13d206858",
+      "video_sha": "799fc3d36118"
+    },
+    "B051": {
+      "clip": "B051",
+      "kind": "B",
+      "scene": "SC03",
+      "shots": [
+        "EP29-S053"
+      ],
+      "refs": [
+        "input/characters/วิทย์/Face.webp"
+      ],
+      "image_prompt": "EP29/prompts/EP29_B051_image.txt",
+      "video_prompt": "EP29/prompts/EP29_B051_video.txt",
+      "video_sec": 4,
+      "image_sha": "8d87dc206c48",
+      "video_sha": "5fa019507278"
+    },
+    "B052": {
+      "clip": "B052",
+      "kind": "B",
+      "scene": "SC03",
+      "shots": [
+        "EP29-S054"
+      ],
+      "refs": [
+        "input/characters/ไอริน/Face.png"
+      ],
+      "image_prompt": "EP29/prompts/EP29_B052_image.txt",
+      "video_prompt": "EP29/prompts/EP29_B052_video.txt",
+      "video_sec": 4,
+      "image_sha": "89310f29c73a",
+      "video_sha": "d333f3aa2e74"
+    },
+    "B053": {
+      "clip": "B053",
+      "kind": "B",
+      "scene": "SC03",
+      "shots": [
+        "EP29-S055"
+      ],
+      "refs": [
+        "input/characters/วิทย์/Face.webp"
+      ],
+      "image_prompt": "EP29/prompts/EP29_B053_image.txt",
+      "video_prompt": "EP29/prompts/EP29_B053_video.txt",
+      "video_sec": 4,
+      "image_sha": "60a0da3d2f6f",
+      "video_sha": "90b67fe03203"
+    },
+    "B054": {
+      "clip": "B054",
+      "kind": "B",
+      "scene": "SC03",
+      "shots": [
+        "EP29-S056"
+      ],
+      "refs": [
+        "input/characters/แม่วิทย์/แม่วิทย์ W07 โค้ทเฟอร์ครีม.png",
+        "input/characters/พ่อวิทย์/พ่อวิทย์ W03 โค้ทยาวดำ.png",
+        "input/characters/การ์ด 1/การ์ด 1 W01 สูทดำเนกไทดำ.png"
+      ],
+      "image_prompt": "EP29/prompts/EP29_B054_image.txt",
+      "video_prompt": "EP29/prompts/EP29_B054_video.txt",
+      "video_sec": 3,
+      "image_sha": "9c1351ba5a27",
+      "video_sha": "3c56ef4a8b38"
+    },
+    "A066": {
+      "clip": "A066",
+      "kind": "A",
+      "scene": "SC03",
+      "shots": [
+        "EP29-S057"
+      ],
+      "refs": [
+        "input/characters/ริต้า/Face.jpeg"
+      ],
+      "image_prompt": "EP29/prompts/EP29_A066_image.txt",
+      "video_prompt": "EP29/prompts/EP29_A066_video.txt",
+      "video_sec": 5,
+      "image_sha": "8339b162ce99",
+      "video_sha": "65c5c01cc38e"
+    },
+    "B055": {
+      "clip": "B055",
+      "kind": "B",
+      "scene": "SC03",
+      "shots": [
+        "EP29-S058"
+      ],
+      "refs": [
+        "input/characters/ไอริน/Face.png"
+      ],
+      "image_prompt": "EP29/prompts/EP29_B055_image.txt",
+      "video_prompt": "EP29/prompts/EP29_B055_video.txt",
+      "video_sec": 4,
+      "image_sha": "f452ddf9f595",
+      "video_sha": "33aa538601f1"
+    },
+    "B056": {
+      "clip": "B056",
+      "kind": "B",
+      "scene": "SC03",
+      "shots": [
+        "EP29-S059"
+      ],
+      "refs": [
+        "input/characters/วิทย์/Face.webp"
+      ],
+      "image_prompt": "EP29/prompts/EP29_B056_image.txt",
+      "video_prompt": "EP29/prompts/EP29_B056_video.txt",
+      "video_sec": 6,
+      "image_sha": "59f6bf29c842",
+      "video_sha": "209fcec81dbf"
+    }
+  },
+  "problems": []
+}

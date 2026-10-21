@@ -1,0 +1,27 @@
+{
+  "clip": "A039",
+  "image": {
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Image/EP29_A039_T01.png",
+        "job": "01a159d1-01a2-7e41-9bd3-6169e297acb2",
+        "result": "fail",
+        "qc": "ถือการ์ดผิดมือ (มือซ้าย ขวาเฟรม แทนมือขวา) การ์ดดูเป็นกระดาษด้าน ไม่มีตรา ไม่ต่อเนื่องกับ A036/B024",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP29/Image/EP29_A039_T01.png",
+    "prompt_sha": "6ace50ea16fc",
+    "flag": "การ์ดอยู่มือซ้าย (ขวาเฟรม) และดูเป็นกระดาษไม่มีตรา ไม่ต่อเนื่องกับ A036/B024 ควรสร้างใหม่เมื่อเติมเงิน",
+    "facts": "Over-the-shoulder: Jet's blurred head and suit back on screen-left; Rita at center, three-quarter view looking screen-left at him, composed smirk. Her left hand (screen-right side of her body) holds a plain matte pale card at chest-waist level; framed to the thighs, quilted bag at lower right."
+  },
+  "video": {
+    "status": "todo",
+    "takes": [],
+    "selected": null,
+    "prompt_sha": "ca155cf04cda"
+  },
+  "notes": []
+}

@@ -1,0 +1,16 @@
+{
+  "clip": "B053",
+  "image": {
+    "status": "todo",
+    "takes": [],
+    "selected": null,
+    "prompt_sha": "60a0da3d2f6f"
+  },
+  "video": {
+    "status": "todo",
+    "takes": [],
+    "selected": null,
+    "prompt_sha": "90b67fe03203"
+  },
+  "notes": []
+}

@@ -8,6 +8,9 @@ from vde_common import (ROOT, ep_dir, prod_dir, rel, load_json, save_json, sha1,
                         parse_refs, parse_video_seconds, clip_state_path, new_clip_state)
 
 QUOTE = re.compile(r'[“"]([^”"]+)[”"]')
+CFG = load_json(os.path.join(os.path.dirname(__file__), '..', 'config.json'), {})
+# fal takes up to fal_max_refs; OpenArt accepts 4
+MAX_REFS = CFG.get('fal_max_refs', 8) if CFG.get('image_provider') == 'fal' else 4
 
 
 def field(block, key):
@@ -96,9 +99,9 @@ def main():
             for r in info['refs']:
                 if not os.path.exists(os.path.join(ROOT, r)):
                     problems.append(f'{c}: ไม่พบภาพอ้างอิง {r}')
-            if len(info['refs']) > 4:
-                problems.append(f'{c}: แนบ {len(info["refs"])} ภาพ เกิน 4 — ใช้ 4 ภาพแรก')
-                info['refs'] = info['refs'][:4]
+            if len(info['refs']) > MAX_REFS:
+                problems.append(f'{c}: แนบ {len(info["refs"])} ภาพ เกิน {MAX_REFS} — ใช้ {MAX_REFS} ภาพแรก')
+                info['refs'] = info['refs'][:MAX_REFS]
         else:
             problems.append(f'{c}: ไม่พบ {rel(ip)}')
         if os.path.exists(vp):

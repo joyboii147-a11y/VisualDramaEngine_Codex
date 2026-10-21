@@ -81,6 +81,7 @@ def main():
     ap.add_argument('--music-db', type=float, default=CFG.get('music_db', -22))
     ap.add_argument('--burn', action='store_true')
     ap.add_argument('--head', type=float, default=CFG.get('clip_head_sec', 0.5))
+    ap.add_argument('--skip', default='', help='shots to leave out, e.g. "S098,S103-S108"')
     a = ap.parse_args()
     ep = a.ep
     d = ep_dir(ep)
@@ -92,9 +93,16 @@ def main():
     shutil.rmtree(seg_dir, ignore_errors=True)
     os.makedirs(seg_dir)
 
+    skip = set()
+    for part in filter(None, (x.strip() for x in a.skip.split(','))):
+        lo, _, hi = part.partition('-')
+        n0 = int(re.sub(r'\D', '', lo))
+        skip.update(range(n0, (int(re.sub(r'\D', '', hi)) if hi else n0) + 1))
+    shots = [s for s in plan['shots'] if int(re.sub(r'\D', '', s['id'].rsplit('-S', 1)[-1]) or -1) not in skip]
+
     consumed, rows, cues, warnings = {}, [], [], []
     t_line = 0.0
-    for i, s in enumerate(plan['shots']):
+    for i, s in enumerate(shots):
         st = load_json(clip_state_path(ep, s['clip'])) or {}
         sel = (st.get('video') or {}).get('selected')
         src = os.path.join(ROOT, sel) if sel else None
@@ -124,7 +132,7 @@ def main():
                 if s['dialogue'] and sp:
                     start = max(0.0, min(start, sp[0][0] - 0.15))
                     end = min(dur - 0.02, max(end, sp[-1][1] + 0.3))
-                elif s['dialogue'] and not sp:
+                elif s['dialogue'] and not sp and not s['mute']:
                     warnings.append(f'{s["id"]}: มีบทพูดแต่ตรวจไม่พบเสียงพูดใน {sel}')
                 usable = (st.get('video') or {}).get('usable_until')
                 if usable and end > usable:
@@ -146,18 +154,27 @@ def main():
             if s['overlay']:
                 warnings.append(f'{s["id"]} ({s["clip"]}): ไฟล์ Shot ระบุให้ภาพทับเสียงคลิปอื่น ("ทับช่วง") — ต้องจัดเสียงเองในโปรแกรมตัดต่อ')
         seg_len = duration(seg)
-        if s['dialogue']:
+        # one subtitle per line, on the shot where it is heard: a muted or silent shot hands its line to a neighbouring
+        # unmuted shot that carries the same line; with no such neighbour it keeps the subtitle so no story line is lost;
+        # a line already on the previous cue is not repeated
+        lines = list(s['dialogue'])
+        if lines and (s['mute'] or (kind == 'NEW' and src and not _speech.get(src))):
+            near = {l for j in (i - 1, i + 1) if 0 <= j < len(shots) and not shots[j]['mute'] for l in shots[j]['dialogue']}
+            lines = [l for l in lines if l not in near]
+        if cues:
+            lines = [l for l in lines if l not in cues[-1][2].split('\n')]
+        if lines:
             lead = 0.0
             if kind == 'NEW' and src and _speech.get(src):
                 lead = max(0.0, _speech[src][0][0] - start)
-            cues.append((t_line + lead, t_line + seg_len, '\n'.join(s['dialogue'])))
+            cues.append((t_line + lead, t_line + seg_len, '\n'.join(lines)))
         rows.append([s['id'], s['scene'], s['clip'], kind, sel or '', f'{start:.2f}', f'{end:.2f}',
                      f'{seg_len:.2f}', f'{t_line:.2f}', ' / '.join(s['dialogue'])])
         t_line += seg_len
 
     lst = os.path.join(seg_dir, 'list.txt')
     with open(lst, 'w', encoding='utf-8') as fh:
-        for i in range(len(plan['shots'])):
+        for i in range(len(shots)):
             fh.write(f"file '{i:03d}.mp4'\n")
     joined = os.path.join(seg_dir, 'joined.mp4')
     run(['ffmpeg', '-y', '-v', 'error', '-f', 'concat', '-safe', '0', '-i', 'list.txt', '-c', 'copy', 'joined.mp4'],

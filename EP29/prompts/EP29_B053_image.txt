@@ -1,0 +1,34 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP29-S055 | Clip: B053 (B-roll) | SC03 โถงงานเลี้ยงผนังกระจก L04 กลางคืน
+# ไฟล์นี้: Image Prompt → GPT Image 2 (9:16) ผ่าน fal.ai
+#
+# ตัวละครในเฟรม (รวม 1 คน):
+# - วิทย์ C05-W10 แจ็กเก็ตหนังกลับน้ำตาล (ใส่แจ็กเก็ต) | หน้าก้ม (CU ถึงอก) มุมสูง เห็นมือ ซอง กระดาษ | กลาง
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - ไอริน C04-W18 | นอกขวา
+# - คนอื่นตาม Presence Ledger | นอกกรอบ
+#
+# แนบใน OpenArt: 1) input/characters/วิทย์/Face.webp
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+Create one standalone starting-frame image for SHOT EP29-S055.
+Vertical 9:16. Cinematic live-action still, photorealistic.
+REFERENCE IMAGES:
+Image 1: Wit — use only for face, skin tone and hairstyle. The outfit comes from the text below. Do not copy the outfit, background, lighting or camera angle.
+CHARACTERS: Wit, a tall young Thai man in his late twenties, face and hair from the reference image; outfit: "a camel-brown suede trucker jacket worn open, with a point collar, silver snap buttons and two chest flap pockets, over a heather gray wool crew-neck sweater and a pale blue-and-white fine-striped button-down shirt with the collar showing, black slim straight trousers, black leather penny loafers, and tousled black hair parted in the middle".
+CAST COUNT: exactly 1 person visible: Wit.
+SCENE GEOGRAPHY: a night banquet hall. Wit stands on the far side of a round white-clothed standing table, between the table and a tall black steel-framed glass wall with a tall glass door.
+FRAME ORDER: from screen-left to screen-right: Wit.
+CAMERA POSITION: on the hall interior side across the table, in front of Wit, raised above his eye level and looking down; straight-on.
+VIEW DIRECTION: down toward Wit's face and hands, with the glass wall beyond him.
+SET IN FRAME: a softly defocused black steel-framed glass wall with a tall glass door and small warm wall lights filling the background. Keep this layout; do not move or mirror it.
+BETWEEN CAMERA AND SUBJECT: only flower tips softly blurred along the bottom edge; they do not cover his hands, the envelope or the paper.
+VISIBLE BACKGROUND: softly defocused black steel-framed glass wall with small warm wall lights.
+OFF-FRAME: No other person or any part of another person appears in the frame.
+START STATE: Wit's head is bowed, eyes intensely focused. He holds a plain white A4 document envelope with no readable logo or text with its flap already open in both hands at chest height; the edge of a folded plain white sheet shows at the opening. Lips closed.
+CAMERA: CLOSE-UP from slightly above. The frame shows Wit from the top of his head to mid-chest, with both hands and the envelope at chest height in the lower part of the frame; his face fills about 40% of the frame height. 50mm, about 1.2 meters away, camera raised and looking down at about 30 degrees, straight-on.
+FOCUS: Wit's face and the paper sharp; background softly defocused.
+LIGHTING: warm overhead ceiling light from the front and above; the white paper reflects a little soft light up onto his face; approximately 3200K, medium-low contrast.
+GRADE: warm night banquet palette of white, cream and black steel with soft pink floral accents, medium-low contrast, warm natural skin tones.
+Show only the starting moment, before any planned movement begins.
+No captions, subtitles, labels, watermarks, panels or collage.

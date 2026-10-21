@@ -1,0 +1,34 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP29-S010 | Clip: B010 (B-roll) | SC01 ห้องนอนโรงแรม (L02) กลางวัน
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 5 วิ | เสียงโหมด C
+#
+# ตัวละครในเฟรม (รวม 2 คน):
+# - วิทย์ C05-W09 สเวตเตอร์เทา+เชิ้ตลายทาง ไม่ใส่แจ็กเก็ต (ไม่มีภาพชุด ใช้ Face.webp) | เต็มตัว นั่งขอบปลายเตียง ลุกเดินจูงมือออกขวา มือขวาถือสมาร์ตโฟนขาว | ซ้ายเฟรม (ตอนเริ่ม)
+# - ไอริน C04-W18 แจ็กเก็ตทวีดกรมท่าโบว์ขาว (ภาพ ไอริน W17) | เต็มตัว นั่งขอบปลายเตียง ลุกเดินตามออกขวา | ขวาเฟรม (ตอนเริ่ม)
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - ไม่มี
+#
+# แนบใน Grok: ภาพที่เลือกจาก EP29_B010_image
+# ผู้พูด: ไม่มี | คนในเฟรมที่ไม่พูด: วิทย์, ไอริน
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+EP29_B010 SHOT EP29-S010. One continuous cinematic live-action wide shot, vertical 9:16.
+TARGET DURATION: 5 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
+SCENE GEOGRAPHY: a daytime hotel bedroom. A white bed with a mustard-gold runner across its foot and a cream padded headboard; a bedside table and warm floor lamp at screen-left; the edge of a sheer-curtained window at the far screen-right edge; open floor in front of the bed running out past the right frame edge. Wit and Irin sit on the edge of the foot of the bed, Wit on the left and Irin on the right.
+VISIBLE CAST: exactly two people. Wit, a young Thai man in his late twenties, wearing a heather gray wool crew-neck sweater over a pale blue-and-white fine-striped button-down shirt with the collar showing, black slim straight trousers, black leather penny loafers, no jacket, and tousled black hair parted in the middle; seated at screen-left, a white smartphone in his right hand, his left hand holding Irin's right hand. Irin, a young Thai woman in her mid-twenties, wearing a cropped collarless navy boucle tweed jacket flecked with silver and multicolor threads, worn open, with silver buttons and patch pockets, over an ivory satin blouse with a large soft pussy-bow tied at the neck, a delicate thin pendant necklace, a charcoal gray knife-pleated midi skirt, black leather Mary Jane flats with a buckled strap, and long dark brown wavy hair worn loose; seated at screen-right. FRAME ORDER at the start, from screen-left to screen-right: Wit, Irin.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: centered in front of the foot of the bed, about 4 meters back on the side of the room opposite the headboard, looking straight at the couple and the whole bed; standing chest height; long shot showing them head to toe; 35mm full-frame equivalent; deep focus.
+FOREGROUND / VISIBLE BACKGROUND: open floor in the foreground; the full bed, headboard, lamp and beige wall behind them.
+OFF-FRAME: the way out of the room is beyond the right frame edge. No one else enters the frame at any time.
+LIGHTING / COLOR: soft warm daytime interior light: a soft frontal key from camera-left motivated by the room's ceiling cove light, sheer-curtained window daylight from the window side on camera-right as gentle fill, a warm floor lamp glowing beside the headboard, approximately 4000K, soft natural contrast. Both faces are evenly lit by the camera-left key; window light comes from screen-right; the floor lamp glows warm at screen-left behind Wit. Grade: warm neutral daytime interior with cream, beige and soft gold tones, soft contrast, natural warm skin tones.
+PROP STATE: a white smartphone in Wit's right hand; Wit's left hand holds Irin's right hand.
+START STATE: both seated, holding hands between them, smiling softly, just beginning to shift forward.
+PERFORMANCE CONTEXT: they leave together, calm and united, to go see the results.
+ACTION: Wit stands up first, half a beat ahead, and steps toward screen-right, passing just in front of Irin on the camera side while still holding her right hand in his left; Irin rises and follows half a step behind him. Without letting go of each other's hands, they walk at a normal pace across the floor toward screen-right and exit past the right frame edge, Wit leading. The phone stays in Wit's right hand.
+END STATE: both have left the frame past the right edge; the empty foot of the bed and the room remain. Hold on the empty bed until the very end of the clip; the framing does not change.
+CAMERA: locked-off, the framing never changes. Do not pan or follow them.
+VISUAL CONTINUITY: Preserve the starting image's faces, hair, wardrobe, set geometry, lighting character and color treatment. Allow only the specified actions. No unplanned cuts, added people, identity swaps or prop teleportation; their hands stay joined until they leave the frame.
+AUDIO MODE: no dialogue.
+No intelligible speech or speech-like lip-sync.
+AMBIENCE/SFX: faint quiet hotel room tone, soft footsteps on the floor and a light fabric rustle; no music, no voices.

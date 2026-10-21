@@ -1,0 +1,48 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP29-S051 | Clip: A064 (A-roll) | SC03 โถงงานเลี้ยงผนังกระจก L04 กลางคืน
+# ไฟล์นี้: Image Prompt → GPT Image 2 (9:16) ผ่าน fal.ai
+#
+# ตัวละครในเฟรม (รวม 3 คน):
+# - การ์ด 1 C14-W01 สูทดำ | เบลอฉากหลัง ยืนนิ่ง | ซ้ายหลัง
+# - พ่อวิทย์ C12-W01 โค้ทยาวดำ | หน้า (CU) เฉียง 3/4 หันขวา | กลางค่อนซ้าย
+# - วิทย์ C05-W10 แจ็กเก็ตหนังกลับน้ำตาล (ใส่แจ็กเก็ต) | เห็นแค่ไหล่ซ้ายแจ็กเก็ต หันหลัง | ขอบขวาล่าง (ฉากหน้า)
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - การ์ด 2 | นอกขวาหลัง
+# - ไอริน แม่วิทย์ ริต้า เลขาเจต | นอกกรอบ
+# - หมายเหตุ: ใส่การ์ด 1 เบลอหลังซ้ายตาม reviewer (ต่อเนื่องกับ B049 Setup เดียวกัน) รายชื่อใน Shot S051 รวมการ์ด 1 แล้ว
+# - หมายเหตุ: Out ใน Shot ให้โบกมือขวาไปทางซอง แต่ CU ไม่เห็นมือ — prompt ใช้การพยักศีรษะเร่งไปทางขวาล่างแทน
+#
+# แนบใน OpenArt: 1) input/characters/พ่อวิทย์/พ่อวิทย์ Face.webp
+#                2) input/characters/วิทย์/วิทย์ W08 แจ็กเก็ตหนังกลับน้ำตาล.png
+#                3) input/characters/การ์ด 1/การ์ด 1 W01 สูทดำเนกไทดำ.png
+# หมายเหตุภาพแนบ: รูปที่ 2 ใช้มุมหลังของภาพชุด สำหรับไหล่แจ็กเก็ตเท่านั้น
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+Create one standalone starting-frame image for SHOT EP29-S051.
+Vertical 9:16. Cinematic live-action still, photorealistic.
+REFERENCE IMAGES:
+Image 1: Wit's father — use only for face, skin tone and hairstyle. The outfit comes from the text below. Do not copy the outfit, background, lighting or camera angle.
+Image 2: Wit — a three-view sheet of one person; use only its back view, for the back of the camel-brown suede jacket and the black hair seen from behind. Only part of his shoulder appears in this image. Do not copy the background, lighting, pose or camera angle.
+Image 3: Guard 1 — a three-view sheet (front, side, back) of one person; use it for face, skin tone, hairstyle, body shape and the black suit. Show this person only once, at the size and focus described below. Do not copy the white background, lighting, pose or camera angle.
+CHARACTERS: Wit's father, a distinguished Thai man in his late fifties, face and hair from the reference image; outfit: "a knee-length black wool single-breasted overcoat with notch lapels worn open over a black three-piece suit with a buttoned waistcoat, a crisp white shirt, a silver-gray tie with a small diagonal geometric pattern, black leather derby shoes, thin metal-rimmed glasses, and salt-and-pepper hair swept back". Guard 1, bound to the reference image: a young Thai male bodyguard in his late twenties with fair skin and short black hair with a soft fringe falling over the forehead; outfit: "a plain black two-button suit, a white shirt, a narrow black tie, black leather shoes, and short black hair with a soft fringe"; seen only softly blurred in the background. Wit, a tall young Thai man in his late twenties, only his left shoulder from behind; outfit: "a camel-brown suede trucker jacket worn open, with a point collar, silver snap buttons and two chest flap pockets, over a heather gray wool crew-neck sweater and a pale blue-and-white fine-striped button-down shirt with the collar showing, black slim straight trousers, black leather penny loafers, and tousled black hair parted in the middle".
+CAST COUNT: exactly 3 people: Wit's father in close-up, Guard 1 blurred in the background behind him on the left, and the partial shoulder of Wit in the lower-right foreground.
+FOREGROUND OWNER: Wit, standing at the round table, seen from behind.
+VISIBLE FOREGROUND IDENTITY: the back of a camel-brown suede trucker jacket over his left shoulder and upper arm; no face.
+CAMERA RELATION: camera just behind Wit's anatomical left shoulder, with that shoulder occupying the lower-right corner, about one fifth of the frame width; his head is outside the frame.
+OCCLUSION: keep the face of the focus subject unobstructed.
+The foreground shoulder is Wit's, not an additional person or a generic stand-in.
+SCENE GEOGRAPHY: the right side of a night banquet hall near an entrance opening from a corridor with beige walls and warm wall lights. Wit's father stands at the right corner of the round table, facing Wit; Guard 1 stands still behind him on the left; Wit stands at the table with his back to the camera.
+FRAME ORDER: from screen-left to screen-right: (Guard 1 blurred, behind on the left) · Wit's father · (Wit's shoulder at the lower-right edge).
+CAMERA POSITION: on the glass-wall side of the hall, just behind Wit's left shoulder, aimed diagonally toward the entrance opening; standing eye level.
+VIEW DIRECTION: toward Wit's father, with the entrance opening and corridor beyond him.
+SET IN FRAME: the entrance opening and the corridor beyond it, beige walls with warm wall lights, softly defocused across the background. Keep this layout; do not move or mirror it.
+BETWEEN CAMERA AND SUBJECT: only Wit's left shoulder in the lower-right foreground; it does not cover the father's face.
+VISIBLE BACKGROUND: softly defocused beige corridor walls with warm wall lights; Guard 1 as a soft blurred figure behind on the left.
+OFF-FRAME: No other person or any part of another person appears in the frame.
+START STATE: Wit's father's face is slightly left of center, three-quarter toward the camera, head turned screen-right toward Wit, eyebrows raised, eyes bright with eager impatience, lips closed. Guard 1 stands still behind him on the left, softly blurred, neutral face. Wit's camel-brown suede shoulder is still in the lower-right corner.
+CAMERA: TIGHT CLOSE-UP. The face fills about 60% of the frame height; the frame top cuts through the top of the hair and the frame bottom cuts just below the chin at the collarbones. No waist or hands visible. 85mm, about 1 meter away, standing eye level, three-quarter view.
+FOCUS: the father's eyes sharp; Guard 1 and the background softly defocused; Wit's shoulder softly defocused while the camel-brown suede stays recognizable.
+LIGHTING: warm corridor wall lights behind him give a warm rim on his hair; warm overhead hall light gives soft fill on his face; approximately 3200K, medium-low contrast.
+GRADE: warm night banquet palette of white, cream and black steel tones, medium-low contrast, warm natural skin tones.
+Show only the starting moment, before any planned movement begins.
+No captions, subtitles, labels, watermarks, panels or collage.

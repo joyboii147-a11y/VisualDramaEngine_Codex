@@ -1,0 +1,17 @@
+{
+  "clip": "B041",
+  "endpoint": "openai/gpt-image-2/edit",
+  "refs": [
+    "input/characters/ริต้า/ริต้า W07 แจ็กเก็ตขนนกขาว.png",
+    "input/characters/เลขาเจต/เลขาเจต W02 สูทดำเนกไทแดง.png"
+  ],
+  "out_file": "EP29/Image/EP29_B041_T01.png",
+  "prompt_chars": 5231,
+  "status": "failed",
+  "request_id": "01a159d1-33f6-7ef3-9582-f5c5be94c688",
+  "status_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a159d1-33f6-7ef3-9582-f5c5be94c688/status",
+  "response_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a159d1-33f6-7ef3-9582-f5c5be94c688",
+  "submitted": "2026-10-20 21:57:24",
+  "error": "HTTP 403: {\"detail\":\"User is locked. Reason: TOP_UP.\"}",
+  "finished": "2026-10-20 22:00:21"
+}

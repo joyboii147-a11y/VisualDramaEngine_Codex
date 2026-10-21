@@ -1,0 +1,18 @@
+{
+  "clip": "B025",
+  "endpoint": "openai/gpt-image-2/edit",
+  "refs": [
+    "input/characters/เลขาเจต/เลขาเจต Face.webp",
+    "input/characters/ริต้า/ริต้า W07 แจ็กเก็ตขนนกขาว.png"
+  ],
+  "out_file": "EP29/Image/EP29_B025_T01.png",
+  "prompt_chars": 5528,
+  "status": "done",
+  "request_id": "01a159d1-1384-7e21-90fa-d62134669f20",
+  "status_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a159d1-1384-7e21-90fa-d62134669f20/status",
+  "response_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a159d1-1384-7e21-90fa-d62134669f20",
+  "submitted": "2026-10-20 21:57:15",
+  "width": null,
+  "height": null,
+  "finished": "2026-10-20 22:00:16"
+}

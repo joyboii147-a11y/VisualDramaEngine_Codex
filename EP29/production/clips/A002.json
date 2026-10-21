@@ -1,0 +1,27 @@
+{
+  "clip": "A002",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Image/EP29_A002_T01.png",
+        "job": "01a159d0-80d3-73a1-927e-b03fe6a5ec13",
+        "result": "ok",
+        "qc": "ผ่าน 2 คน ลำดับ วิทย์ซ้าย ไอรินขวา ชุดถูกทั้งคู่ วิทย์ถือโทรศัพท์แนบหูขวา มือซ้ายบนต้นขา ไอรินมือประสานบนตัก มองวิทย์ โคมซ้าย หน้าต่างขวา",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP29/Image/EP29_A002_T01.png",
+    "prompt_sha": "d951b106deb4",
+    "flag": null,
+    "facts": "Medium shot, screen-left to screen-right: Wit, Irin, seated side by side on the foot of the bed. Wit holds a white smartphone to his right ear with his right hand, left hand resting on his left thigh, eyes in the middle distance; Irin, hands clasped in her lap, looks toward Wit. Floor lamp and bedside table at screen-left, sheer-curtained window at the far screen-right edge, mustard runner beneath them; frame bottom cuts at the lower thighs."
+  },
+  "video": {
+    "status": "todo",
+    "takes": [],
+    "selected": null,
+    "prompt_sha": "a3e185a25491"
+  },
+  "notes": []
+}

@@ -1,0 +1,38 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP29-S056 | Clip: B054 (B-roll) | SC03 โถงงานเลี้ยงผนังกระจก L04 กลางคืน
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 3 วิ | เสียงโหมด C
+#
+# ตัวละครในเฟรม (รวม 3 คน):
+# - แม่วิทย์ C01-W08 โค้ทเฟอร์ครีม | ครึ่งตัว (ศีรษะถึงเอว) มองซ้าย ยิ้มรอ | ซ้าย
+# - การ์ด 1 C14-W01 สูทดำ (ไม่มีภาพอ้างอิง) | เบลอฉากหลัง ยืนนิ่ง | หลังกลาง
+# - พ่อวิทย์ C12-W01 โค้ทยาวดำ | ครึ่งตัว (ศีรษะถึงเอว) มองซ้าย เยื้องมาทางกล้อง | ขวา
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - วิทย์ C05-W10 | นอกซ้าย เป็นคนที่ทั้งคู่มอง
+# - ไอริน | นอกซ้าย
+# - การ์ด 2 | นอกขวา
+# - ริต้า เลขาเจต | นอกซ้ายไกล
+#
+# แนบใน Grok: ภาพที่เลือกจาก EP29_B054_image
+# ผู้พูด: ไม่มี | คนในเฟรมที่ไม่พูด: แม่วิทย์, พ่อวิทย์, การ์ด 1
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+EP29_B054 SHOT EP29-S056. One continuous cinematic live-action medium shot, vertical 9:16.
+TARGET DURATION: 3 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
+SCENE GEOGRAPHY: a night banquet hall; Wit's mother and Wit's father stand at the right part of a round white-clothed table; behind them the far-right corner where the black steel-framed glass wall meets the beige entrance opening; Guard 1 blurred behind them.
+VISIBLE CAST: exactly 3 people. FRAME ORDER from screen-left to screen-right: Wit's mother · (Guard 1 blurred, behind in the center) · Wit's father. Wit's mother, an elegant Thai woman in her mid-fifties, wearing a collarless oat-beige mink-style fur coat worn open, a white button-front blouse, a brown-and-white striped silk scarf tied loosely at the collar, a crystal floral brooch on the left chest of the coat, small pearl stud earrings, and dark brown hair in a low twisted chignon, on the left. Wit's father, a distinguished Thai man in his late fifties, wearing a black wool overcoat with notch lapels worn open over a black three-piece suit with a buttoned waistcoat, a crisp white shirt, a silver-gray tie with a small diagonal geometric pattern, thin metal-rimmed glasses, and salt-and-pepper hair swept back, on the right, half a step closer to the camera. Guard 1, a young Thai male bodyguard in his late twenties with fair skin and short black hair with a soft fringe falling over the forehead, wearing a plain black suit jacket, a white shirt, a narrow black tie, and short black hair with a soft fringe, standing still, blurred.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: camera on the hall interior side at the front-left of the table, aimed diagonally across toward the far right; standing eye level; medium shot from head to waist; 50mm.
+FOREGROUND / VISIBLE BACKGROUND: foreground: blurred pink and white flowers in the vase at the lower-left. Background: softly defocused corner of the glass wall and beige entrance opening; Guard 1 blurred.
+OFF-FRAME: the person they both look at is beyond the left frame edge; the camera does not follow their gaze. No one else enters the frame at any time.
+LIGHTING / COLOR: warm overhead light, soft warm fill, warm reflections on the glass behind, approximately 3200K; warm night banquet palette of white, cream and black steel with soft pink floral accents, medium-low contrast, warm natural skin tones.
+PROP STATE: No handheld props; all hands are empty.
+START STATE: the mother smiles in waiting, looking screen-left; the father looks screen-left with bright expectant eyes; Guard 1 stands still behind.
+PERFORMANCE CONTEXT: Both parents wait with high hopes for the result their son is reading.
+ACTION: Wit's mother keeps her gentle waiting smile, eyes screen-left. Wit's father leans forward slightly, eager, eyes on the same point screen-left. Guard 1 stays still. All hold until the very end of the clip; the framing does not change.
+END STATE: the mother smiling and waiting; the father leaning slightly forward; both looking screen-left; Guard 1 still.
+CAMERA: locked-off, the framing never changes.
+VISUAL CONTINUITY: Preserve the starting image's faces, hair, wardrobe, set geometry, lighting character and color treatment. Allow only the specified actions and camera movement. No unplanned cuts, added people, identity swaps or prop teleportation.
+AUDIO MODE: no dialogue.
+No intelligible speech or speech-like lip-sync.
+AMBIENCE/SFX: quiet hall ambience; no music, no chatter.

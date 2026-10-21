@@ -1,0 +1,43 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP29-S002 | Clip: A002 (A-roll) | SC01 ห้องนอนโรงแรม (L02) กลางวัน
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 4 วิ | เสียงโหมด A
+#
+# ตัวละครในเฟรม (รวม 2 คน):
+# - วิทย์ C05-W09 สเวตเตอร์เทา+เชิ้ตลายทาง ไม่ใส่แจ็กเก็ต (ไม่มีภาพชุด ใช้ Face.webp) | ครึ่งตัว (MS) นั่ง หันเฉียงขวาเล็กน้อย มือขวาถือสมาร์ตโฟนขาวแนบหูขวา มือซ้ายบนต้นขาซ้าย | ซ้ายเฟรม
+# - ไอริน C04-W18 แจ็กเก็ตทวีดกรมท่าโบว์ขาว (ภาพ ไอริน W17) | ครึ่งตัว (MS) นั่ง หันซ้ายมองวิทย์ มือประสานบนตัก | ขวาเฟรม
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - ไม่มี
+#
+# แนบใน Grok: ภาพที่เลือกจาก EP29_A002_image
+# ผู้พูด: วิทย์ ON | คนในเฟรมที่ไม่พูด: ไอริน
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+EP29_A002 SHOT EP29-S002. One continuous cinematic live-action medium shot, vertical 9:16.
+TARGET DURATION: 4 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
+SCENE GEOGRAPHY: a daytime hotel bedroom. Wit and Irin sit side by side on the edge of the foot of a white bed with a mustard-gold runner, Wit on the left and Irin on the right. Behind them: the cream padded headboard, the bedside table and warm floor lamp at screen-left, a plain beige wall, and the edge of a sheer-curtained window at the far screen-right edge.
+VISIBLE CAST: exactly two people. Wit, a young Thai man in his late twenties, wearing a heather gray wool crew-neck sweater over a pale blue-and-white fine-striped button-down shirt with the collar showing, black slim straight trousers, no jacket; tousled black hair parted in the middle; seated at screen-left, body slightly toward screen-right, phone at his right ear, eyes on the middle distance. Irin, a young Thai woman in her mid-twenties, wearing a cropped collarless navy boucle tweed jacket flecked with silver and multicolor threads, worn open, with silver buttons, over an ivory satin blouse with a large soft pussy-bow tied at the neck, a delicate thin pendant necklace, a charcoal gray knife-pleated midi skirt; long dark brown wavy hair worn loose; seated at screen-right, hands clasped in her lap, looking screen-left at Wit. FRAME ORDER from screen-left to screen-right: Wit, Irin.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: centered in front of the couple on the side of the room opposite the headboard, looking straight at them and the headboard; seated eye level; medium shot cut just below the waist; 50mm full-frame equivalent.
+FOREGROUND / VISIBLE BACKGROUND: no foreground object or person; headboard, lamp and beige wall slightly soft behind them.
+OFF-FRAME: nothing is needed off-frame. No one else enters the frame at any time.
+LIGHTING / COLOR: soft warm daytime interior light: a soft frontal key from camera-left motivated by the room's ceiling cove light, sheer-curtained window daylight from the window side on camera-right as gentle fill, a warm floor lamp glowing beside the headboard, approximately 4000K, soft natural contrast. Both faces are evenly lit by the camera-left key; window light comes from screen-right; the floor lamp glows warm at screen-left behind Wit. Grade: warm neutral daytime interior with cream, beige and soft gold tones, soft contrast, natural warm skin tones.
+PROP STATE: a white smartphone held to Wit's right ear in his right hand; Wit's left hand rests on his left thigh; Irin's hands are empty and clasped in her lap.
+START STATE: Wit on the phone, serious and calm, lips closed; Irin looking at him, curious and attentive, lips closed.
+PERFORMANCE CONTEXT: Wit gives a brief, confident instruction on the phone; Irin listens with growing curiosity.
+ACTION: Wit speaks the assigned line into the phone, nodding slightly as he finishes, his shoulders relaxing; the phone stays at his ear. Irin keeps looking at Wit with interest, blinking naturally, hands still clasped.
+END STATE: Wit lips closed, phone still at his ear, shoulders relaxed; Irin still looking at him, curious, lips closed. Both stay in place until the very end of the clip; the framing does not change.
+CAMERA: locked-off, the framing never changes.
+VISUAL CONTINUITY: Preserve the starting image's faces, hair, wardrobe, set geometry, lighting character and color treatment. Allow only the specified actions. No unplanned cuts, added people, identity swaps or prop teleportation.
+AUDIO MODE: generated dialogue.
+SPEECH EVENT 1:
+SPEAKER: Wit, visible on screen (ON), the man on the left holding the white phone
+EXACT THAI DIALOGUE: "โอเค ผมจะส่งที่อยู่ให้คุณ คุณเอามาให้หน่อย"
+VOICE IDENTITY: young Thai male voice, firm low-mid register, clean resonant timbre, standard Thai accent
+DELIVERY: brisk, clear and confident, an instruction given on the phone.
+Lip-sync only Wit to the assigned line.
+NON-SPEAKERS: Irin; no speech-like lip movements.
+Speak only the assigned dialogue exactly once, without paraphrasing or added words.
+Do not stretch speech to fill the clip. No unassigned voices.
+AFTER SPEECH: lips closed, a small nod, still hold until the cut.
+AMBIENCE/SFX: faint quiet hotel room tone; no music.

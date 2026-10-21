@@ -1,0 +1,45 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP29-S042 | Clip: A061 (A-roll) | SC03 โถงงานเลี้ยงผนังกระจก L04 กลางคืน
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 4 วิ | เสียงโหมด A
+#
+# ตัวละครในเฟรม (รวม 1 คน):
+# - เลขาเจต C13-W01 สูทดำเนกไทแดง | หน้า (CU ถึงอกบน) เฉียง 3/4 หันขวา มือขวาถือซองมุมขวาล่าง | กลางเฟรม
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - วิทย์ C05-W10 | นอกขวา เป็นคนที่เลขาเจตพูดด้วยและยื่นซองให้
+# - ไอริน C04-W18 | นอกขวา
+# - ริต้า C06-W07 | นอกซ้าย
+# - บท D025 มีป้าย [ตรวจเสียง: ในภาพพูดกับวิทย์ ไม่ใช่พ่อวิทย์ ฟังยืนยันว่า "ประธาน" หมายถึงใคร] — ป้ายไม่ใช่ข้อความพูด ไม่ใส่ใน prompt
+#
+# แนบใน Grok: ภาพที่เลือกจาก EP29_A061_image
+# ผู้พูด: เลขาเจต ON | คนในเฟรมที่ไม่พูด: ไม่มี
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+EP29_A061 SHOT EP29-S042. One continuous cinematic live-action close-up, vertical 9:16.
+TARGET DURATION: 4 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
+SCENE GEOGRAPHY: a night banquet hall; Secretary Jet stands behind a round white-clothed table with a tall black steel-framed glass wall behind him.
+VISIBLE CAST: exactly 1 person: Secretary Jet, a tall slim Thai man in his early thirties, wearing a charcoal-black suit jacket, a crisp white shirt, a dark burgundy-red silk tie, thin rectangular metal-rimmed glasses, and short black hair with a soft fringe. He stands at the center of the frame, three-quarter toward the camera, head turned screen-right.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: camera on the hall interior side in front of Jet at a three-quarter angle; standing eye level; close-up from the top of the head to the upper chest; 85mm.
+FOREGROUND / VISIBLE BACKGROUND: foreground: blurred pink and white flowers along the bottom-left edge. Background: softly defocused black steel-framed glass wall with warm reflections.
+OFF-FRAME: the person Jet addresses is beyond the right frame edge; his eyes stay there, the camera does not follow his gaze. No hand or body of another person appears. No one else enters the frame at any time.
+LIGHTING / COLOR: warm overhead ceiling light, soft warm fill, approximately 3200K; warm night banquet palette of white, cream and black steel with soft pink floral accents, medium-low contrast, warm natural skin tones.
+PROP STATE: Jet's right hand holds a plain white A4 document envelope with no readable logo or text at the lower-right corner of the frame; it never leaves his hand during this clip. The envelope and paper are plain white with no readable text, logo, letters or numbers anywhere.
+START STATE: Jet looks screen-right with a composed neutral face, lips closed, the envelope low at the lower-right corner.
+PERFORMANCE CONTEXT: Jet formally hands over the report while hiding his feelings; he is polite and flat, and avoids holding eye contact.
+ACTION: Jet speaks the assigned line politely while extending his right arm so the envelope moves outward toward the lower-right frame edge; on the last word he dips his head slightly and his eyes drop away briefly. The envelope stays in his own hand. Then he holds still until the very end of the clip; the framing does not change.
+END STATE: right arm extended toward the lower-right edge with the envelope still in his hand, head slightly bowed, eyes lowered, lips closed.
+CAMERA: locked-off, the framing never changes.
+VISUAL CONTINUITY: Preserve the starting image's faces, hair, wardrobe, set geometry, lighting character and color treatment. Allow only the specified actions and camera movement. No unplanned cuts, added people, identity swaps or prop teleportation.
+AUDIO MODE: generated dialogue.
+SPEECH EVENT 1:
+SPEAKER: Secretary Jet, visible on screen (ON), the only speaker.
+EXACT THAI DIALOGUE: "ประธานวรเทพครับ นี่คือรายงานผลตรวจครับ"
+VOICE IDENTITY: adult Thai male voice, calm polite mid register, smooth even timbre, standard Thai accent
+DELIVERY: polite, flat and formal, even pace, no visible emotion, a tiny pause after the first polite ending, before the second phrase.
+Lip-sync only Secretary Jet to the assigned line.
+NON-SPEAKERS: none visible; no speech-like lip movements.
+Speak only the assigned dialogue exactly once, without paraphrasing or added words.
+Do not stretch speech to fill the clip. No unassigned voices.
+AFTER SPEECH: lips closed, head slightly bowed, holding the extended envelope for the cut.
+AMBIENCE/SFX: quiet hall ambience, a faint rustle of the paper envelope; no music, no chatter.

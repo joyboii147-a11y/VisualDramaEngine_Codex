@@ -1,0 +1,27 @@
+{
+  "clip": "B021",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Image/EP29_B021_T01.png",
+        "job": "01a159d0-b613-7ee1-b73e-3f376041232d",
+        "result": "ok",
+        "qc": "เจตเดินเข้าหากล้อง ถือซองขาวมือขวา(ซ้ายเฟรม) ไม่มีตัวหนังสือ ภาพกว้างกว่า MS เล็กน้อย (ถึงต้นขา)",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP29/Image/EP29_B021_T01.png",
+    "prompt_sha": "9694dfbd6aa6",
+    "flag": null,
+    "facts": "Jet alone at center, walking straight toward camera, frontal, glasses, black suit and dark red tie, framed head to mid-thigh. His right hand at screen-left holds a plain white envelope at hip level; his left hand hangs empty at screen-right. Corridor with wood slats, blue-lit slatted panel behind and a beige sofa at right."
+  },
+  "video": {
+    "status": "todo",
+    "takes": [],
+    "selected": null,
+    "prompt_sha": "03cd59cce7d8"
+  },
+  "notes": []
+}

@@ -1,0 +1,35 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP29-S046 | Clip: A063 (A-roll) | SC03 โถงงานเลี้ยงผนังกระจก L04 กลางคืน
+# ไฟล์นี้: Image Prompt → GPT Image 2 (9:16) ผ่าน fal.ai
+#
+# ตัวละครในเฟรม (รวม 1 คน):
+# - แม่วิทย์ C01-W08 โค้ทเฟอร์ครีม | หน้า (CU) เฉียง 3/4 หันซ้าย | กลางค่อนขวา ช่องว่างซ้าย
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - วิทย์ C05-W10 | นอกซ้าย เป็นคนที่แม่วิทย์พูดด้วย
+# - ไอริน | นอกซ้าย
+# - หมายเหตุ: Out ใน Shot ให้ยกมือขวาระดับเอว แต่ CU ไม่เห็นมือ — prompt ใช้การพยักศีรษะสั้นแทน ไม่สั่งให้มือเข้าเฟรม
+#
+# แนบใน OpenArt: 1) input/characters/แม่วิทย์/Face.webp
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+Create one standalone starting-frame image for SHOT EP29-S046.
+Vertical 9:16. Cinematic live-action still, photorealistic.
+REFERENCE IMAGES:
+Image 1: Wit's mother — use only for face, skin tone and hairstyle. The outfit comes from the text below. Do not copy the outfit, background, lighting or camera angle.
+CHARACTERS: Wit's mother, an elegant Thai woman in her mid-fifties, face and hair from the reference image; outfit: "a knee-length collarless oat-beige mink-style fur coat worn open, a white button-front blouse, a brown-and-white striped silk scarf tied loosely at the collar, a crystal floral brooch on the left chest of the coat, small pearl stud earrings, charcoal gray straight-leg trousers, taupe low block-heel pumps with a small metal buckle, and dark brown hair in a low twisted chignon".
+CAST COUNT: exactly 1 person visible: Wit's mother.
+SCENE GEOGRAPHY: a night banquet hall. Wit's mother stands at the right end of the group on the far side of a round standing table, with a tall black steel-framed glass wall behind her and the entrance opening farther to the right.
+FRAME ORDER: from screen-left to screen-right: Wit's mother.
+CAMERA POSITION: on the hall interior side, in front of the right part of the table, facing her at a three-quarter angle; standing eye level.
+VIEW DIRECTION: toward Wit's mother, with the glass wall and the edge of the entrance opening beyond her.
+SET IN FRAME: a softly defocused black steel-framed glass wall with warm reflections behind her; at the far screen-right edge, a sliver of the entrance opening with a warmly lit beige wall. Keep this layout; do not move or mirror it.
+BETWEEN CAMERA AND SUBJECT: nothing; clear view of her face.
+VISIBLE BACKGROUND: softly defocused black steel-framed glass wall with warm reflections; at the far right edge, a sliver of a warmly lit beige wall at the entrance opening.
+OFF-FRAME: the person she speaks to is outside the left frame edge. No other person or any part of another person appears in the frame.
+START STATE: Wit's mother's face is slightly right of center with open space on the left, three-quarter toward the camera, head turned screen-left, a calm composed face, lips closed.
+CAMERA: TIGHT CLOSE-UP. The face fills about 60% of the frame height; the frame top cuts through the top of the hair and the frame bottom cuts just below the chin at the collarbones. No chest, waist or hands visible. 85mm, about 1 meter away, standing eye level, three-quarter view.
+FOCUS: her eyes sharp; background softly defocused.
+LIGHTING: warm overhead ceiling light from above and front, soft warm fill on her face, approximately 3200K, medium-low contrast.
+GRADE: warm night banquet palette of white, cream and black steel tones, medium-low contrast, warm natural skin tones.
+Show only the starting moment, before any planned movement begins.
+No captions, subtitles, labels, watermarks, panels or collage.
