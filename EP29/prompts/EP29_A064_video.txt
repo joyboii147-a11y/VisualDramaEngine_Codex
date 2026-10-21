@@ -1,0 +1,48 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP29-S051 | Clip: A064 (A-roll) | SC03 โถงงานเลี้ยงผนังกระจก L04 กลางคืน
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 4 วิ | เสียงโหมด A
+#
+# ตัวละครในเฟรม (รวม 3 คน):
+# - การ์ด 1 C14-W01 สูทดำ (ไม่มีภาพอ้างอิง) | เบลอฉากหลัง ยืนนิ่ง | ซ้ายหลัง
+# - พ่อวิทย์ C12-W01 โค้ทยาวดำ | หน้า (CU) เฉียง 3/4 หันขวา | กลางค่อนซ้าย
+# - วิทย์ C05-W10 แจ็กเก็ตหนังกลับน้ำตาล (ใส่แจ็กเก็ต) | เห็นแค่ไหล่ซ้ายแจ็กเก็ต หันหลัง | ขอบขวาล่าง (ฉากหน้า)
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - การ์ด 2 | นอกขวาหลัง
+# - ไอริน แม่วิทย์ ริต้า เลขาเจต | นอกกรอบ
+# - หมายเหตุ: ใส่การ์ด 1 เบลอหลังซ้ายตาม reviewer (ต่อเนื่องกับ B049 Setup เดียวกัน) รายชื่อใน Shot S051 รวมการ์ด 1 แล้ว
+# - หมายเหตุ: Out ใน Shot ให้โบกมือขวาไปทางซอง แต่ CU ไม่เห็นมือ — prompt ใช้การพยักศีรษะเร่งไปทางขวาล่างแทน
+#
+# แนบใน Grok: ภาพที่เลือกจาก EP29_A064_image
+# ผู้พูด: พ่อวิทย์ ON | คนในเฟรมที่ไม่พูด: วิทย์ (เห็นแค่ไหล่ ไม่พูด), การ์ด 1
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+EP29_A064 SHOT EP29-S051. One continuous cinematic live-action close-up, vertical 9:16.
+TARGET DURATION: 4 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
+SCENE GEOGRAPHY: near the entrance opening of a night banquet hall; behind Wit's father, softly defocused beige corridor walls with warm wall lights; Guard 1 blurred behind him on the left.
+VISIBLE CAST: exactly 3 people including one partial foreground figure. FRAME ORDER from screen-left to screen-right: (Guard 1 blurred in the background) · Wit's father · (Wit's shoulder at the lower-right edge). Wit's father, a distinguished Thai man in his late fifties, wearing the lapels of a black wool overcoat over a black suit, a crisp white shirt, a silver-gray patterned tie, thin metal-rimmed glasses, and salt-and-pepper hair swept back, three-quarter toward the camera, head turned screen-right. Guard 1, a young Thai male bodyguard in his late twenties with fair skin and short black hair with a soft fringe falling over the forehead, wearing a plain black suit jacket, a white shirt, a narrow black tie, and short black hair with a soft fringe, standing still, blurred. Wit: only his left shoulder in the back of a camel-brown suede jacket, lower-right corner, seen from behind; his head and face are not in frame.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: camera on the glass-wall side just behind Wit's left shoulder, aimed diagonally toward the entrance opening; standing eye level; tight close-up of the father; 85mm.
+FOREGROUND / VISIBLE BACKGROUND: foreground: Wit's camel-brown suede shoulder in the lower-right corner, softly defocused, still. Background: softly defocused beige corridor walls and warm wall lights; Guard 1 blurred behind on the left.
+OFF-FRAME: none needed; the father speaks to Wit, whose shoulder is in frame. No one else enters the frame at any time.
+LIGHTING / COLOR: warm rim from the corridor lights behind, warm overhead fill on his face, approximately 3200K; warm night banquet palette of white, cream and black steel tones, medium-low contrast, warm natural skin tones.
+PROP STATE: no handheld object in frame.
+FOREGROUND SHOULDER: the shoulder in the lower-right corner is Wit's camel-brown suede jacket seen from behind; preserve it; he is not an additional person.
+START STATE: the father stares screen-right at Wit, eyebrows raised, bright eager eyes, lips closed; Wit's shoulder is still.
+PERFORMANCE CONTEXT: Wit's father is impatient and hopeful, urging his son to open the report right now; he is eager, not angry.
+ACTION: The father says the assigned line quickly and urgently, with a small impatient nod toward the lower right on the first phrase; his eyes stay bright on Wit. After the line he closes his lips and keeps the eager look until the very end of the clip. Guard 1 stays still. Wit's shoulder does not move; the framing does not change.
+END STATE: lips closed, eyebrows raised, bright eager eyes on Wit; Guard 1 still behind; Wit's shoulder unchanged.
+CAMERA: locked-off, the framing never changes.
+VISUAL CONTINUITY: Preserve the starting image's faces, hair, wardrobe, set geometry, lighting character and color treatment. Allow only the specified actions and camera movement. No unplanned cuts, added people, identity swaps or prop teleportation.
+AUDIO MODE: generated dialogue.
+SPEECH EVENT 1:
+SPEAKER: Wit's father, visible on screen (ON), the only speaker.
+EXACT THAI DIALOGUE: "รีบเปิดดูสิ พ่อรอจนใจจะขาดแล้ว"
+VOICE IDENTITY: mature Thai male voice, authoritative low register, slightly gravelly warm timbre, standard Thai accent
+DELIVERY: quick and urgent, low and hopeful, eager rather than angry, a short breath between the two phrases.
+Lip-sync only Wit's father to the assigned line.
+NON-SPEAKERS: Wit (only his shoulder is visible; he does not speak) and Guard 1; no speech-like lip movements.
+Speak only the assigned dialogue exactly once, without paraphrasing or added words.
+Do not stretch speech to fill the clip. No unassigned voices.
+AFTER SPEECH: lips closed, eager eyes held on Wit for the cut.
+AMBIENCE/SFX: quiet hall ambience; no music, no chatter.

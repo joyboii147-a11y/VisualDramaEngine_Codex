@@ -1,0 +1,16 @@
+{
+  "clip": "A066",
+  "endpoint": "openai/gpt-image-2/edit",
+  "refs": [
+    "input/characters/ริต้า/Face.jpeg"
+  ],
+  "out_file": "EP29/Image/EP29_A066_T01.png",
+  "prompt_chars": 2912,
+  "status": "failed",
+  "request_id": "01a159d1-af6f-7851-8f5e-d12fecfae74b",
+  "status_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a159d1-af6f-7851-8f5e-d12fecfae74b/status",
+  "response_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a159d1-af6f-7851-8f5e-d12fecfae74b",
+  "submitted": "2026-10-20 21:57:55",
+  "error": "HTTP 403: {\"detail\":\"User is locked. Reason: TOP_UP.\"}",
+  "finished": "2026-10-20 21:59:47"
+}

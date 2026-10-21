@@ -1,0 +1,27 @@
+{
+  "clip": "A044",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Image/EP29_A044_T01.png",
+        "job": "01a159d1-2662-7ff2-a195-f93af958eb03",
+        "result": "ok",
+        "qc": "เจตกลาง ก้มหน้ามองต่ำ ปากแง้ม ขนเฟอร์ขาวเบลอแถบล่าง",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP29/Image/EP29_A044_T01.png",
+    "prompt_sha": "cc5dac0a9c62",
+    "flag": null,
+    "facts": "Jet at center, chest-up from slightly below, head bowed with eyes lowered toward below the bottom edge, lips slightly parted. A blurred band of Rita's white fur runs across the bottom edge. No hands or card visible."
+  },
+  "video": {
+    "status": "todo",
+    "takes": [],
+    "selected": null,
+    "prompt_sha": "14d134edfb9a"
+  },
+  "notes": []
+}

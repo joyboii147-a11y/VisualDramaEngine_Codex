@@ -1,0 +1,38 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP29-S048 | Clip: B048 (B-roll) | SC03 โถงงานเลี้ยงผนังกระจก L04 กลางคืน
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 4 วิ | เสียงโหมด C
+#
+# ตัวละครในเฟรม (รวม 4 คน):
+# - การ์ด 1 C14-W01 สูทดำ (ไม่มีภาพอ้างอิง) | ครึ่งตัว เดินตาม เบลอเล็กน้อย | ซ้าย หลังพ่อ
+# - พ่อวิทย์ C12-W01 โค้ทยาวดำ | ครึ่งตัว (ศีรษะถึงเอว) เดินเข้าหากล้อง | กลาง
+# - การ์ด 2 C15-W01 สูทดำ (ไม่มีภาพอ้างอิง) | ครึ่งตัว เดินตาม เบลอเล็กน้อย | ขวา หลังพ่อ
+# - วิทย์ C05-W10 แจ็กเก็ตหนังกลับน้ำตาล (ใส่แจ็กเก็ต) | เห็นแค่ไหล่ซ้ายแจ็กเก็ต หันหลัง | ขอบขวาล่าง (ฉากหน้า)
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - ไอริน แม่วิทย์ | นอกขอบซ้าย ห้ามดึงเข้าเฟรม
+# - ริต้า เลขาเจต | นอกกรอบ
+#
+# แนบใน Grok: ภาพที่เลือกจาก EP29_B048_image
+# ผู้พูด: ไม่มี | คนในเฟรมที่ไม่พูด: พ่อวิทย์, การ์ด 1, การ์ด 2 (วิทย์เห็นแค่ไหล่)
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+EP29_B048 SHOT EP29-S048. One continuous cinematic live-action medium shot, vertical 9:16.
+TARGET DURATION: 4 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom; the only camera movement is the slight pan described under CAMERA.
+SCENE GEOGRAPHY: the right side of a night banquet hall: an entrance opening from a corridor with beige walls and warm wall lights; Wit's father walks in through it toward the round table where Wit stands with his back to the camera.
+VISIBLE CAST: exactly 4 people including one partial foreground figure. FRAME ORDER from screen-left to screen-right: Guard 1 · Wit's father · Guard 2 · (Wit's shoulder at the lower-right edge). Wit's father, a distinguished Thai man in his late fifties, wearing a black wool overcoat with notch lapels worn open over a black three-piece suit with a buttoned waistcoat, a crisp white shirt, a silver-gray tie with a small diagonal geometric pattern, thin metal-rimmed glasses, and salt-and-pepper hair swept back, center, walking toward the camera. Guard 1, a young Thai male bodyguard in his late twenties with fair skin and short black hair with a soft fringe falling over the forehead, wearing a plain black suit jacket, a white shirt, a narrow black tie, and short black hair with a soft fringe, behind him on screen-left. Guard 2, a Thai male bodyguard in his early thirties with medium skin and neat short black hair combed to the side, wearing a plain black suit jacket, a white shirt, a narrow black tie, and neat short black hair combed to the side, behind him on screen-right. Wit: only his left shoulder and upper arm in the back of a camel-brown suede jacket, in the lower-right corner, seen from behind.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: camera on the glass-wall side just behind Wit's left shoulder, aimed diagonally toward the entrance opening; standing eye level; medium shot of the father from the waist up; 50mm.
+FOREGROUND / VISIBLE BACKGROUND: foreground: Wit's camel-brown suede left shoulder in the lower-right corner, softly defocused, still. Background: entrance opening and corridor, beige walls, warm wall lights, softly defocused.
+OFF-FRAME: none needed; the father looks at Wit, whose shoulder is in frame. No one else enters the frame at any time.
+LIGHTING / COLOR: warm corridor wall lights behind the father as a rim, warm overhead hall light as fill on his face, approximately 3200K; warm night banquet palette of white, cream and black steel tones, medium-low contrast, warm natural skin tones.
+PROP STATE: No handheld props: the father and both guards have empty hands; Wit's hands are not in frame.
+FOREGROUND SHOULDER: the shoulder in the lower-right corner is Wit's camel-brown suede jacket seen from behind; preserve it; he is not an additional person.
+START STATE: the father is mid-stride toward the camera, coat hem swinging, eager impatient face, eyes on Wit; the two guards walk about 1.5 meters behind him; Wit's shoulder is still in the lower-right corner.
+PERFORMANCE CONTEXT: Wit's father arrives with authority and impatience; he has been waiting anxiously for this report.
+ACTION: Wit's father strides quickly toward Wit, coat hem swinging, then slows to almost a stop, staring at Wit toward the lower-right foreground. The two guards slow down behind him and nearly stop on either side. Wit's shoulder stays still. The clip ends just as the father is about to stop; nothing else changes.
+END STATE: the father almost stopped, staring screen-right at Wit with an eager face; the guards nearly stopped behind him on either side; Wit's shoulder unchanged.
+CAMERA: one slow, slight pan following the father as he approaches, ending when he slows down; no cut, no zoom, no reframing beyond this small pan.
+VISUAL CONTINUITY: Preserve the starting image's faces, hair, wardrobe, set geometry, lighting character and color treatment. Allow only the specified actions and camera movement. No unplanned cuts, added people, identity swaps or prop teleportation.
+AUDIO MODE: no dialogue.
+No intelligible speech or speech-like lip-sync.
+AMBIENCE/SFX: several pairs of firm footsteps on the marble floor, quiet hall ambience; no music, no chatter.

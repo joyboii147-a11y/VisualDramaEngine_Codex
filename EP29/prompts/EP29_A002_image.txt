@@ -1,0 +1,36 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP29-S002 | Clip: A002 (A-roll) | SC01 ห้องนอนโรงแรม (L02) กลางวัน
+# ไฟล์นี้: Image Prompt → GPT Image 2 (9:16) ผ่าน fal.ai หรือ OpenArt
+#
+# ตัวละครในเฟรม (รวม 2 คน):
+# - วิทย์ C05-W09 สเวตเตอร์เทา+เชิ้ตลายทาง ไม่ใส่แจ็กเก็ต (ไม่มีภาพชุด ใช้ Face.webp) | ครึ่งตัว (MS) นั่ง หันเฉียงขวาเล็กน้อย มือขวาถือสมาร์ตโฟนขาวแนบหูขวา มือซ้ายบนต้นขาซ้าย | ซ้ายเฟรม
+# - ไอริน C04-W18 แจ็กเก็ตทวีดกรมท่าโบว์ขาว (ภาพ ไอริน W17) | ครึ่งตัว (MS) นั่ง หันซ้ายมองวิทย์ มือประสานบนตัก | ขวาเฟรม
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - ไม่มี
+#
+# แนบใน OpenArt: 1) input/characters/ไอริน/ไอริน W17 แจ็กเก็ตทวีดกรมท่าโบว์ขาว.png
+#                2) input/characters/วิทย์/Face.webp
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+Create one standalone starting-frame image for SHOT EP29-S002.
+Vertical 9:16. Cinematic live-action still, photorealistic.
+REFERENCE IMAGES:
+Image 1: Irin — an outfit sheet showing the same woman from the front, side and back; use for face, skin tone, hairstyle, body shape and this exact outfit. Render her only once. Do not copy the background, lighting, pose, camera angle or multi-view layout from this image.
+Image 2: Wit — use only for face, skin tone and hairstyle. The outfit comes from the text below. Do not copy the outfit, background, lighting or camera angle.
+CHARACTERS: Irin, a young Thai woman in her mid-twenties, from Image 1, wearing a cropped collarless navy boucle tweed jacket flecked with silver and multicolor threads, worn open, with silver buttons and patch pockets, over an ivory satin blouse with a large soft pussy-bow tied at the neck, a delicate thin pendant necklace, a charcoal gray knife-pleated midi skirt, black leather Mary Jane flats with a buckled strap, and long dark brown wavy hair worn loose. Wit, a young Thai man in his late twenties, face and hair from Image 2, wearing a heather gray wool crew-neck sweater over a pale blue-and-white fine-striped button-down shirt with the collar showing, black slim straight trousers, black leather penny loafers, no jacket, and tousled black hair parted in the middle.
+CAST COUNT: exactly two people visible: Wit and Irin.
+SCENE GEOGRAPHY: a hotel bedroom in daytime. A large double bed with crisp white sheets and a mustard-gold bed runner across its foot stands with its cream padded upholstered headboard against a plain warm beige wall; a small bedside table and a tall floor lamp with a warm glowing fabric shade stand on the left side of the headboard. A sheer-curtained window is in the right-hand wall beside the bed. Wit and Irin sit side by side on the edge of the foot of the bed, about half a shoulder-width apart, facing away from the headboard toward the room: Wit on the left, Irin on the right.
+FRAME ORDER: from screen-left to screen-right: Wit, Irin.
+CAMERA POSITION: on the side of the room opposite the headboard, centered in front of the couple at the foot of the bed, at seated eye level.
+VIEW DIRECTION: straight toward the couple, past them to the cream padded headboard and the beige wall behind it.
+SET IN FRAME: the cream padded headboard centered behind the couple; the bedside table and the tall floor lamp with a warm glowing shade at screen-left behind Wit; the white bed with the mustard-gold runner across its foot beneath the couple in the lower frame; the edge of the sheer-curtained window at the far screen-right edge. Keep this layout; do not move or mirror it.
+BETWEEN CAMERA AND SUBJECT: nothing; open floor.
+VISIBLE BACKGROUND: the cream padded headboard, the bedside table and warm floor lamp at screen-left, the plain beige wall, and the edge of the sheer-curtained window at the far screen-right edge, all slightly soft.
+OFF-FRAME: No other person or any part of another person appears in the frame.
+START STATE: Wit, on the left, holds a white smartphone to his right ear with his right hand, his left hand resting on his left thigh, body turned slightly toward screen-right, eyes on the middle distance, serious and calm, lips closed. Irin, on the right, sits with her hands clasped in her lap, head turned to screen-left looking at Wit, curious and attentive, lips closed.
+CAMERA: MEDIUM SHOT. The frame bottom cuts just below the waist at the top of the thighs, so the hands resting on the laps are visible; the heads sit in the upper third. 50mm full-frame equivalent, about 2.5 meters away, seated eye level, straight-on.
+FOCUS: both faces sharp; background slightly soft.
+LIGHTING: soft warm daytime interior light: a soft frontal key from camera-left motivated by the room's ceiling cove light, sheer-curtained window daylight from the window side on camera-right as gentle fill, a warm floor lamp glowing beside the headboard, approximately 4000K, soft natural contrast. Both faces are evenly lit by the camera-left key; window light comes from screen-right; the floor lamp glows warm at screen-left behind Wit.
+GRADE: warm neutral daytime interior with cream, beige and soft gold tones, soft contrast, natural warm skin tones.
+Show only the starting moment, before any planned movement begins.
+No captions, subtitles, labels, watermarks, panels or collage.

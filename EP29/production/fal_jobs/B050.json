@@ -1,0 +1,16 @@
+{
+  "clip": "B050",
+  "endpoint": "openai/gpt-image-2/edit",
+  "refs": [
+    "input/characters/วิทย์/Face.webp"
+  ],
+  "out_file": "EP29/Image/EP29_B050_T01.png",
+  "prompt_chars": 2563,
+  "status": "failed",
+  "request_id": "01a159d1-842c-7a41-a8b1-8c59e9951109",
+  "status_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a159d1-842c-7a41-a8b1-8c59e9951109/status",
+  "response_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a159d1-842c-7a41-a8b1-8c59e9951109",
+  "submitted": "2026-10-20 21:57:44",
+  "error": "HTTP 403: {\"detail\":\"User is locked. Reason: TOP_UP.\"}",
+  "finished": "2026-10-20 22:00:33"
+}

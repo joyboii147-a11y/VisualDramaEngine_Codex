@@ -1,0 +1,37 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP29-S047 | Clip: B047 (B-roll) | SC03 โถงงานเลี้ยงผนังกระจก L04 กลางคืน
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 4 วิ | เสียงโหมด C
+#
+# ตัวละครในเฟรม (รวม 5 คน):
+# - ริต้า C06-W07 แจ็กเก็ตขนนกขาว | เต็มตัว หน้านิ่ง มองวิทย์ | ซ้ายสุด
+# - เลขาเจต C13-W01 สูทดำเนกไทแดง | เต็มตัว มือว่าง ก้มสายตา | ถัดขวาริต้า ซ้ายของแจกัน
+# - วิทย์ C05-W10 แจ็กเก็ตหนังกลับน้ำตาล (ใส่แจ็กเก็ต) | เต็มตัว ถือซองสองมือระดับอก | กลาง ขวาของแจกัน
+# - ไอริน C04-W18 แจ็กเก็ตทวีดกรมท่าโบว์ขาว | เต็มตัว มองวิทย์ | ถัดขวาวิทย์
+# - แม่วิทย์ C01-W08 โค้ทเฟอร์ครีม | เต็มตัว มือข้างตัว หน้าสงบ | ขวาสุด
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - พ่อวิทย์ การ์ด 1 การ์ด 2 — ยังไม่เข้าโถง
+#
+# แนบใน Grok: ภาพที่เลือกจาก EP29_B047_image
+# ผู้พูด: ไม่มี | คนในเฟรมที่ไม่พูด: ริต้า, เลขาเจต, วิทย์, ไอริน, แม่วิทย์
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+EP29_B047 SHOT EP29-S047. One continuous cinematic live-action long shot, vertical 9:16.
+TARGET DURATION: 4 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
+SCENE GEOGRAPHY: a night banquet hall with a cream marble floor. A waist-high round standing table with a floor-length white tablecloth stands in the middle; on it a turned black vase holds pink and white flowers with pale green sprigs. Along the far side of the hall, behind the table, runs a tall black steel-framed glass wall with a tall glass door; outside is dark night, with warm reflections on the glass. On the left side of the hall is a white wall with sheer white curtains and a small potted plant. On the right side, where the glass wall meets the side wall, is the entrance opening from a corridor with beige walls and warm wall lights. People stand in a shallow arc on the far side of the table, between the table and the glass wall, facing the table and the camera.
+VISIBLE CAST: exactly 5 people. FRAME ORDER from screen-left to screen-right: Rita · Secretary Jet · Wit · Irin · Wit's mother. Rita wears "a cropped shaggy long-hair white faux-fur jacket worn open, over a silver-gray satin button-front mini shirt dress, several long strands of dark beaded necklaces layered at different lengths, gold cluster earrings, an ivory quilted mini shoulder bag on a gold chain strap worn on the left shoulder, nude patent pointed-toe stiletto pumps, and dark brown hair in a high top-knot bun". Secretary Jet wears "a charcoal-black two-button single-breasted suit, a crisp white shirt, a dark burgundy-red silk tie, a white pocket square, black leather cap-toe oxford shoes, thin rectangular metal-rimmed glasses, and short black hair with a soft fringe". Wit wears "a camel-brown suede trucker jacket worn open, with a point collar, silver snap buttons and two chest flap pockets, over a heather gray wool crew-neck sweater and a pale blue-and-white fine-striped button-down shirt with the collar showing, black slim straight trousers, black leather penny loafers, and tousled black hair parted in the middle". Irin wears "a cropped collarless navy boucle tweed jacket flecked with silver and multicolor threads, worn open, with silver buttons and patch pockets, over an ivory satin blouse with a large soft pussy-bow tied at the neck, a delicate thin pendant necklace, a charcoal gray knife-pleated midi skirt, black leather Mary Jane flats with a buckled strap, and long dark brown wavy hair worn loose". Wit's mother wears "a knee-length collarless oat-beige mink-style fur coat worn open, a white button-front blouse, a brown-and-white striped silk scarf tied loosely at the collar, a crystal floral brooch on the left chest of the coat, small pearl stud earrings, charcoal gray straight-leg trousers, taupe low block-heel pumps with a small metal buckle, and dark brown hair in a low twisted chignon".
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: camera on the hall interior side in front of the round table at the reference position, looking straight across the table toward the people and the glass wall beyond; standing eye level; long shot with full bodies, 35mm.
+FOREGROUND / VISIBLE BACKGROUND: foreground: the round white-clothed table with the black vase of pink and white flowers at lower center, between Jet and Wit, hiding no face. Background: the tall black steel-framed glass wall with a tall glass door across the back, dark night outside with warm reflections; the white wall with sheer white curtains and a small potted plant on the left; the corner of the glass wall and the warmly lit beige entrance opening at the far right.
+OFF-FRAME: none needed; all five people are in frame. No one else enters the frame at any time.
+LIGHTING / COLOR: warm white overhead linear ceiling lights and warm wall sconces, soft warm fill on faces, dark night beyond the tall black steel-framed glass wall with warm reflections on the glass, approximately 3200K, medium-low contrast; warm night banquet palette of white, cream and black steel with soft pink floral accents, medium-low contrast, warm natural skin tones.
+PROP STATE: Wit holds a plain white A4 document envelope with no readable logo or text in both hands at chest height for the whole clip. Everyone else has empty hands. The envelope and paper are plain white with no readable text, logo, letters or numbers anywhere.
+START STATE: Wit's mother stands calm, hands relaxed at her sides; Wit holds the envelope at chest height; Irin and Rita look at Wit; Jet's eyes are lowered.
+PERFORMANCE CONTEXT: Everyone waits around the table for one more person; the tension quietly builds.
+ACTION: All five stand still and wait, with only small natural breaths; Irin keeps looking at Wit, Rita keeps looking at Wit, Jet keeps his eyes lowered, Wit keeps the envelope at chest height. Everyone holds until the very end of the clip; the framing does not change.
+END STATE: all five standing still in the same positions, waiting.
+CAMERA: locked-off, the framing never changes.
+VISUAL CONTINUITY: Preserve the starting image's faces, hair, wardrobe, set geometry, lighting character and color treatment. Allow only the specified actions and camera movement. No unplanned cuts, added people, identity swaps or prop teleportation.
+AUDIO MODE: no dialogue.
+No intelligible speech or speech-like lip-sync.
+AMBIENCE/SFX: quiet hall ambience, near silence; no music, no chatter.

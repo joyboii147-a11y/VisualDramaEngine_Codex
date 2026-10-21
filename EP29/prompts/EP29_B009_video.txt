@@ -1,0 +1,35 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP29-S009 | Clip: B009 (B-roll) | SC01 ห้องนอนโรงแรม (L02) กลางวัน
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 3 วิ | เสียงโหมด C
+#
+# ตัวละครในเฟรม (รวม 2 คน):
+# - วิทย์ C05-W09 สเวตเตอร์เทา+เชิ้ตลายทาง ไม่ใส่แจ็กเก็ต (ไม่แนบภาพ ใช้คำบรรยาย) | เห็นแค่มือซ้าย ข้อมือสเวตเตอร์เทา และต้นขากางเกงดำ | ซ้ายเฟรม
+# - ไอริน C04-W18 แจ็กเก็ตทวีดกรมท่าโบว์ขาว (ภาพ ไอริน W17) | เห็นแค่มือขวา ปลายแขนเสื้อทวีดกรมท่า และกระโปรงพลีทเทาเข้ม | ขวาเฟรม
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - ใบหน้าวิทย์และไอริน | นอกกรอบด้านบน
+# - สมาร์ตโฟนขาว P14 ในมือขวาวิทย์บนต้นขาขวา นอกขอบซ้าย — prompt ไม่เอ่ยถึง
+#
+# แนบใน Grok: ภาพที่เลือกจาก EP29_B009_image
+# ผู้พูด: ไม่มี | คนในเฟรมที่ไม่พูด: วิทย์ (เห็นแค่มือ), ไอริน (เห็นแค่มือ)
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+EP29_B009 SHOT EP29-S009. One continuous cinematic live-action insert, vertical 9:16.
+TARGET DURATION: 3 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
+SCENE GEOGRAPHY: two people seated side by side on the edge of a bed, seen from above: Wit's lap in black trousers on screen-left, Irin's lap in a charcoal gray knife-pleated skirt on screen-right, a strip of mustard-gold bed runner along the bottom edge.
+VISIBLE CAST: exactly two people represented by hands and laps only, exactly two hands. Wit: his left hand and forearm in a heather gray wool sweater sleeve with a pale blue-and-white striped shirt cuff at the wrist, no jacket, black trousers. Irin: her right hand and the cuff of her navy boucle tweed jacket flecked with silver threads, charcoal gray pleated skirt. FRAME ORDER from screen-left to screen-right: Wit's hand, Irin's hand.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: above and slightly in front of their laps, looking steeply down; high-angle insert framing only hands, cuffs and laps; 50mm full-frame equivalent.
+FOREGROUND / VISIBLE BACKGROUND: no foreground object; laps and the gold runner strip softly out of focus around the hands.
+OFF-FRAME: both faces are above the frame. No one else enters the frame at any time.
+LIGHTING / COLOR: soft warm overhead light from the room's ceiling falling on the hands and laps, with gentle window fill from screen-right, approximately 4000K, soft natural contrast. Grade: warm neutral daytime interior with cream, beige and soft gold tones, soft contrast, natural warm skin tones.
+PROP STATE: no props in frame.
+START STATE: Irin's right hand resting palm-down on her right thigh; Wit's left hand resting on his left thigh just beside it.
+PERFORMANCE CONTEXT: a quiet gesture of closeness and encouragement.
+ACTION: Wit's left hand moves across and settles over the back of Irin's right hand, covering it; his fingers then tighten gently around her hand once. Irin's hand stays relaxed beneath his.
+END STATE: Wit's left hand holding the back of Irin's right hand on her lap, fingers gently closed. Hold still until the very end of the clip; the framing does not change.
+CAMERA: locked-off, the framing never changes. Do not tilt up to the faces.
+VISUAL CONTINUITY: Preserve the starting image's hands, sleeves, fabrics, lighting character and color treatment. Exactly two hands at all times; no extra hands or fingers. No unplanned cuts, added people or prop teleportation.
+AUDIO MODE: no dialogue.
+No intelligible speech or speech-like lip-sync.
+AMBIENCE/SFX: faint quiet hotel room tone and a soft fabric rustle; no music, no voices.

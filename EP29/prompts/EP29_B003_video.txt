@@ -1,0 +1,33 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP29-S003 | Clip: B003 (B-roll) | SC01 ห้องนอนโรงแรม (L02) กลางวัน
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 3 วิ | เสียงโหมด C
+#
+# ตัวละครในเฟรม (รวม 1 คน):
+# - ไอริน C04-W18 แจ็กเก็ตทวีดกรมท่าโบว์ขาว (ภาพ ไอริน W17) | หน้า (CU) ศีรษะถึงไหล่ หันซ้ายมองวิทย์ | กลางเฟรม
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - วิทย์ C05-W09 | นั่งติดซ้ายของไอริน นอกขอบซ้าย ยังถือโทรศัพท์แนบหู — เป้าสายตาของไอริน (prompt เอ่ยแค่ว่าคนที่เธอมองอยู่นอกขอบซ้าย)
+#
+# แนบใน Grok: ภาพที่เลือกจาก EP29_B003_image
+# ผู้พูด: ไม่มี | คนในเฟรมที่ไม่พูด: ไอริน
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+EP29_B003 SHOT EP29-S003. One continuous cinematic live-action close-up, vertical 9:16.
+TARGET DURATION: 3 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
+SCENE GEOGRAPHY: a daytime hotel bedroom; Irin sits on the edge of the foot of a bed. Behind her: the softly blurred right part of a cream padded headboard and beige wall, with a bright sheer-curtain window glow at upper screen-right.
+VISIBLE CAST: exactly one person: Irin, a young Thai woman in her mid-twenties, wearing an ivory satin blouse with a large soft pussy-bow tied at the neck under an open collarless navy boucle tweed jacket flecked with silver threads, a delicate thin pendant necklace; long dark brown wavy hair worn loose. Seated, head turned three-quarters toward screen-left, eyes on someone just beyond the left frame edge. FRAME ORDER from screen-left to screen-right: Irin alone, centered.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: in front of Irin, slightly left of her center line, on the side of the room opposite the headboard, looking toward her and the headboard behind her; seated eye level; tight close-up from the top of the hair to the collarbones; 85mm full-frame equivalent.
+FOREGROUND / VISIBLE BACKGROUND: no foreground object or person; softly defocused headboard and wall, window glow at upper screen-right.
+OFF-FRAME: the person she watches is beyond the left frame edge. No one else enters the frame at any time.
+LIGHTING / COLOR: soft warm daytime interior light: a soft frontal key from camera-left motivated by the room's ceiling cove light, sheer-curtained window daylight from the window side on camera-right as gentle fill, a warm floor lamp glowing beside the headboard, approximately 4000K, soft natural contrast. The camera-left key lights Irin's whole face; the window glow behind her at screen-right brightens the edge of her hair. Grade: warm neutral daytime interior with cream, beige and soft gold tones, soft contrast, natural warm skin tones.
+PROP STATE: no props in frame.
+START STATE: Irin looking screen-left, curious and attentive, lips closed.
+PERFORMANCE CONTEXT: Irin realizes the call is about the results; quiet surprise and interest.
+ACTION: Irin keeps looking screen-left; after about half a second her eyes open slightly wider and her brows lift a little. Only her eyes and brows move; the camera does not follow her gaze.
+END STATE: eyes slightly wider, still looking screen-left, lips closed. She stays still until the very end of the clip; the framing does not change.
+CAMERA: locked-off, the framing never changes. Do not pull back and do not bring anyone else into frame.
+VISUAL CONTINUITY: Preserve the starting image's faces, hair, wardrobe, set geometry, lighting character and color treatment. Allow only the specified actions. No unplanned cuts, added people, identity swaps or prop teleportation.
+AUDIO MODE: no dialogue.
+No intelligible speech or speech-like lip-sync.
+AMBIENCE/SFX: faint quiet hotel room tone; no music, no voices.

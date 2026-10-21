@@ -1,0 +1,38 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP29-S052 | Clip: A065 (A-roll) | SC03 โถงงานเลี้ยงผนังกระจก L04 กลางคืน
+# ไฟล์นี้: Image Prompt → GPT Image 2 (9:16) ผ่าน fal.ai
+#
+# ตัวละครในเฟรม (รวม 2 คน):
+# - วิทย์ C05-W10 แจ็กเก็ตหนังกลับน้ำตาล (ใส่แจ็กเก็ต) | ครึ่งตัว (ศีรษะถึงเอว) หน้าตรง ถือซองสองมือระดับอก | กลางซ้าย
+# - ไอริน C04-W18 แจ็กเก็ตทวีดกรมท่าโบว์ขาว | ครึ่งตัว (ศีรษะถึงเอว) มองวิทย์ | ขวา
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - พ่อวิทย์ C12-W01 | นอกเฟรม เป็นคนที่วิทย์ตอบรับ (วิทย์เพิ่งหันกลับจากซ้ายเฟรม)
+# - แม่วิทย์ การ์ด | นอกขวา
+# - ริต้า เลขาเจต | นอกซ้าย
+#
+# แนบใน OpenArt: 1) input/characters/วิทย์/วิทย์ W08 แจ็กเก็ตหนังกลับน้ำตาล.png
+#                2) input/characters/ไอริน/ไอริน W17 แจ็กเก็ตทวีดกรมท่าโบว์ขาว.png
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+Create one standalone starting-frame image for SHOT EP29-S052.
+Vertical 9:16. Cinematic live-action still, photorealistic.
+REFERENCE IMAGES:
+Image 1: Wit — this image is a three-view sheet (front, side, back) of one person; use it for face, skin tone, hairstyle, body shape and this exact outfit. Show this person only once. Do not copy the white background, lighting, pose or camera angle from this image.
+Image 2: Irin — this image is a three-view sheet (front, side, back) of one person; use it for face, skin tone, hairstyle, body shape and this exact outfit. Show this person only once. Do not copy the white background, lighting, pose or camera angle from this image.
+CHARACTERS: Wit, a tall young Thai man in his late twenties, bound to the reference image; exact outfit: "a camel-brown suede trucker jacket worn open, with a point collar, silver snap buttons and two chest flap pockets, over a heather gray wool crew-neck sweater and a pale blue-and-white fine-striped button-down shirt with the collar showing, black slim straight trousers, black leather penny loafers, and tousled black hair parted in the middle". Irin, a young Thai woman in her mid-twenties, bound to the reference image; exact outfit: "a cropped collarless navy boucle tweed jacket flecked with silver and multicolor threads, worn open, with silver buttons and patch pockets, over an ivory satin blouse with a large soft pussy-bow tied at the neck, a delicate thin pendant necklace, a charcoal gray knife-pleated midi skirt, black leather Mary Jane flats with a buckled strap, and long dark brown wavy hair worn loose".
+CAST COUNT: exactly 2 people visible: Wit and Irin.
+SCENE GEOGRAPHY: a night banquet hall. Wit and Irin stand side by side on the far side of a round white-clothed standing table, between the table and a tall black steel-framed glass wall with a tall glass door; Wit on the left, Irin to his right.
+FRAME ORDER: from screen-left to screen-right: Wit · Irin.
+CAMERA POSITION: on the hall interior side across the table, directly in front of Wit and Irin, straight-on; standing eye level.
+VIEW DIRECTION: toward Wit and Irin, with the glass wall and glass door beyond them.
+SET IN FRAME: a softly defocused black steel-framed glass wall with a tall glass door and small warm wall lights filling the background. Keep this layout; do not move or mirror it.
+BETWEEN CAMERA AND SUBJECT: only the top of the flower arrangement, softly blurred along the bottom edge; it hides no hands or faces.
+VISIBLE BACKGROUND: softly defocused black steel-framed glass wall with a tall glass door and small warm wall lights.
+OFF-FRAME: No other person or any part of another person appears in the frame.
+START STATE: Wit faces the camera, his head just turning back from screen-left to the front, attentive, lips closed, holding a plain white A4 document envelope with no readable logo or text in both hands at chest height. Irin stands at his right looking at Wit, her smile gone, anxious anticipation beginning, hands empty and relaxed in front of her.
+CAMERA: MEDIUM SHOT. The frame bottom cuts at the waist; the head sits in the upper third. 50mm, about 2.5 meters away, standing eye level, straight-on.
+FOCUS: Wit and Irin sharp; background softly defocused.
+LIGHTING: warm overhead ceiling light from the front and above, soft warm fill on faces, approximately 3200K, medium-low contrast.
+GRADE: warm night banquet palette of white, cream and black steel with soft pink floral accents, medium-low contrast, warm natural skin tones.
+Show only the starting moment, before any planned movement begins.
+No captions, subtitles, labels, watermarks, panels or collage.

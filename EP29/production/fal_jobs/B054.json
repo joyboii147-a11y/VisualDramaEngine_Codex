@@ -1,0 +1,18 @@
+{
+  "clip": "B054",
+  "endpoint": "openai/gpt-image-2/edit",
+  "refs": [
+    "input/characters/แม่วิทย์/แม่วิทย์ W07 โค้ทเฟอร์ครีม.png",
+    "input/characters/พ่อวิทย์/พ่อวิทย์ W03 โค้ทยาวดำ.png",
+    "input/characters/การ์ด 1/การ์ด 1 W01 สูทดำเนกไทดำ.png"
+  ],
+  "out_file": "EP29/Image/EP29_B054_T01.png",
+  "prompt_chars": 4918,
+  "status": "failed",
+  "request_id": "01a159d1-a90b-7023-8d04-93b7ea66b512",
+  "status_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a159d1-a90b-7023-8d04-93b7ea66b512/status",
+  "response_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a159d1-a90b-7023-8d04-93b7ea66b512",
+  "submitted": "2026-10-20 21:57:54",
+  "error": "HTTP 403: {\"detail\":\"User is locked. Reason: TOP_UP.\"}",
+  "finished": "2026-10-20 22:00:38"
+}

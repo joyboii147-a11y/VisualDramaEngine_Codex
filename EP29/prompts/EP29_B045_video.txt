@@ -1,0 +1,36 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP29-S044 | Clip: B045 (B-roll) | SC03 โถงงานเลี้ยงผนังกระจก L04 กลางคืน
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 3 วิ | เสียงโหมด C
+#
+# ตัวละครในเฟรม (รวม 3 คน):
+# - เลขาเจต C13-W01 สูทดำเนกไทแดง | เห็นแค่ไหล่ขวาและแขนขวา (ยื่นซองเข้ามา) ไม่เห็นหน้า | ขอบซ้าย
+# - วิทย์ C05-W10 แจ็กเก็ตหนังกลับน้ำตาล (ใส่แจ็กเก็ต) | ครึ่งตัว (ศีรษะถึงเอว) หน้าตรง ยกสองมือรับซอง | กลางซ้าย
+# - ไอริน C04-W18 แจ็กเก็ตทวีดกรมท่าโบว์ขาว | ครึ่งตัว (ศีรษะถึงเอว) มองวิทย์ ยิ้มบาง | ขวา
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - ริต้า C06-W07 | นอกซ้าย (หลังเลขาเจต)
+#
+# แนบใน Grok: ภาพที่เลือกจาก EP29_B045_image
+# ผู้พูด: ไม่มี | คนในเฟรมที่ไม่พูด: วิทย์, ไอริน (เลขาเจตเห็นแค่แขน)
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+EP29_B045 SHOT EP29-S044. One continuous cinematic live-action medium shot, vertical 9:16.
+TARGET DURATION: 3 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
+SCENE GEOGRAPHY: a night banquet hall; Wit and Irin stand side by side behind a round white-clothed table, a tall black steel-framed glass wall with a tall glass door behind them.
+VISIBLE CAST: exactly 3 people including one partial figure. FRAME ORDER from screen-left to screen-right: (Secretary Jet's right shoulder and arm at the left edge) · Wit · Irin. Secretary Jet: only his right arm and shoulder in a charcoal-black single-breasted suit jacket with a white shirt cuff, entering from the left edge; his face is never shown. Wit, a tall young Thai man in his late twenties, wearing a camel-brown suede trucker jacket worn open, with a point collar, silver snap buttons and two chest flap pockets, over a heather gray wool crew-neck sweater and a pale blue-and-white fine-striped button-down shirt with the collar showing, and tousled black hair parted in the middle, center-left, facing the camera. Irin, a young Thai woman in her mid-twenties, wearing a cropped collarless navy boucle tweed jacket flecked with silver and multicolor threads, worn open, with silver buttons, over an ivory satin blouse with a large soft pussy-bow tied at the neck, a delicate thin pendant necklace, and long dark brown wavy hair worn loose, on Wit's right, looking at him.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: camera on the hall interior side across the table, straight-on to Wit and Irin; standing eye level; medium shot from head to waist; 50mm.
+FOREGROUND / VISIBLE BACKGROUND: foreground: blurred pink and white flowers along the bottom edge. Background: softly defocused black steel-framed glass wall, tall glass door and small warm wall lights.
+OFF-FRAME: the rest of Secretary Jet stays beyond the left frame edge. No one else enters the frame at any time.
+LIGHTING / COLOR: warm overhead light from the front and above, soft warm fill, approximately 3200K; warm night banquet palette of white, cream and black steel with soft pink floral accents, medium-low contrast, warm natural skin tones.
+PROP STATE: At the start Secretary Jet's right hand holds a plain white A4 document envelope with no readable logo or text out at Wit's chest height, with Wit's fingertips touching it. Irin's hands are empty. The envelope and paper are plain white with no readable text, logo, letters or numbers anywhere.
+PARTIAL FIGURE: the arm at the left edge is Secretary Jet's; preserve his charcoal-black sleeve and white cuff; he is not an additional person.
+START STATE: Jet's hand extends the envelope from the left edge; Wit's hands are raised to receive it, calm and attentive; Irin watches Wit with a faint smile.
+PERFORMANCE CONTEXT: Wit receives the report with careful attention; Irin is hopeful beside him.
+ACTION: Wit takes the envelope firmly in both hands. Jet's hand lets go and withdraws out of the left frame edge, empty. Wit brings the envelope to chest height and looks down at it. Irin keeps watching Wit with a faint smile. Then both hold still until the very end of the clip; the framing does not change.
+END STATE: Wit holds the envelope in both hands at chest height, looking down at it; Jet's arm is gone from the frame; Irin looks at Wit with a faint smile.
+CAMERA: locked-off, the framing never changes.
+VISUAL CONTINUITY: Preserve the starting image's faces, hair, wardrobe, set geometry, lighting character and color treatment. Allow only the specified actions and camera movement. No unplanned cuts, added people, identity swaps or prop teleportation.
+AUDIO MODE: no dialogue.
+No intelligible speech or speech-like lip-sync.
+AMBIENCE/SFX: a soft paper rustle of the envelope changing hands, quiet hall ambience; no music, no chatter.

@@ -1,0 +1,42 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP29-S032 | Clip: B025 (B-roll) | SC02 โถงทางเดินระแนงไม้ L03 กลางคืน | Setup SC02-C
+# ไฟล์นี้: Image Prompt → GPT Image 2 (fal.ai / OpenArt) (9:16)
+#
+# ตัวละครในเฟรม (รวม 2 คน):
+# - เลขาเจต C13-W01 เลขาเจต W02 สูทดำเนกไทแดง | หน้า (MCU) หน้าตรงเกือบเต็ม กลางเฟรม มองขวาเฟรมใกล้เลนส์
+# - ริต้า   C06-W07 ริต้า W07 แจ็กเก็ตขนนกขาว | เห็นแค่ไหล่ซ้ายขนเฟอร์ขาว+สายโซ่กระเป๋า+ท้ายทอยมวย หันหลังเฉียง ขอบขวาล่าง เบลอ (OTS)
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - ไม่มี (ทั้งสองคนอยู่ในเฟรม; ริต้าส่วนใหญ่นอกขวา)
+# แนบใน OpenArt: 1) input/characters/เลขาเจต/เลขาเจต Face.webp ; 2) input/characters/ริต้า/ริต้า W07 แจ็กเก็ตขนนกขาว.png
+# หน้าที่ภาพแนบ: 1) เลขาเจต หน้า/ผม/แว่น (ชุดจากข้อความ — ภาพ Face เนกไทสีเข้ม ข้อความสั่งแดงเลือดหมู) · 2) ริต้า เจ้าของไหล่ ใช้มุมหลัง ขนเฟอร์+มวย+สายโซ่
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+Create one standalone starting-frame image for SHOT EP29-S032.
+Vertical 9:16. Cinematic live-action still, photorealistic.
+REFERENCE IMAGES:
+Image 1: Jet — use only for face, skin tone, hairstyle and glasses. The outfit comes from the text below: his tie is dark burgundy-red, not the dark tie in this image. Do not copy the outfit, background, lighting or camera angle.
+Image 2: Rita — an outfit sheet showing front, side and back views; use its back view for her high top-knot bun seen from behind, the white shaggy faux-fur jacket seen from behind and the gold chain bag strap on her left shoulder. Do not copy the background, lighting, pose, camera angle or the multi-view layout.
+CHARACTERS: Jet, a tall slim Thai man in his early thirties (Image 1: face, hair and glasses), wearing "a charcoal-black two-button single-breasted suit, a crisp white shirt, a dark burgundy-red silk tie, a white pocket square, black leather cap-toe oxford shoes, thin rectangular metal-rimmed glasses, and short black hair with a soft fringe". Rita, a young Thai woman (Image 2: back view of hair and outfit), wearing "a cropped shaggy long-hair white faux-fur jacket worn open, over a silver-gray satin button-front mini shirt dress, several long strands of dark beaded necklaces layered at different lengths, gold cluster earrings, an ivory quilted mini shoulder bag on a gold chain strap worn on the left shoulder, nude patent pointed-toe stiletto pumps, and dark brown hair in a high top-knot bun"; only her back and shoulder are seen here.
+CAST COUNT: exactly two people visible, Jet and Rita, including Rita's partial foreground shoulder.
+FOREGROUND OWNER: Rita, standing in the middle of the corridor about 0.8 meters in front of Jet and facing him, seen from three-quarter rear.
+VISIBLE FOREGROUND IDENTITY: the back of her dark brown hair gathered in a high top-knot bun, the shaggy long-hair white faux fur of her cropped jacket over her left shoulder, and the thin gold chain strap of her shoulder bag on that shoulder. The visible shoulder is white shaggy fur, not satin.
+CAMERA RELATION: camera behind Rita's anatomical left shoulder, with that fur shoulder and the lower part of her bun occupying the lower-right corner, about the right fifth of the frame.
+OCCLUSION: Rita's face is not visible. Her shoulder and bun do not cover any part of Jet's face.
+The foreground person is Rita, not an additional person or a generic stand-in.
+FOCUS SUBJECT: Jet, nearly frontal at frame center, eyes directed slightly screen-right toward Rita near the lens.
+SCENE GEOGRAPHY: A long, wide night-time interior corridor. At its far west end stands a horizontal wood-slat panel backlit in cool blue. Along the north side runs a warm gray horizontal stacked-stone wall with small warm decorative wall lights, with a beige fabric sofa-and-armchair seating nook further east along it. The south side is a light honey-toned wood-slat wall. Wood-slat ceiling with long linear lights; cream glossy tile floor. The corridor is otherwise empty. Jet stands in the middle of the corridor facing east toward Rita; Rita stands about 0.8 meters in front of him facing west. Neither changes position.
+FRAME ORDER: from screen-left to screen-right: Jet at center · Rita's left shoulder and bun at the lower-right edge.
+CAMERA POSITION: behind Rita, offset slightly toward the light wood-slat wall on the south side, at standing eye level, on the same side of the conversation axis as every other angle in this scene.
+VIEW DIRECTION: west past Rita's left shoulder toward Jet and the backlit wood-slat panel at the far west end of the corridor.
+SET IN FRAME: the blue-backlit horizontal wood-slat panel at the far end of the corridor fills the softly blurred background behind Jet; a blurred sliver of warm gray stacked stone at the screen-right edge; Rita's white fur shoulder and top-knot bun in the lower-right foreground. Keep this layout; do not move or mirror it.
+BETWEEN CAMERA AND SUBJECT: only Rita's left shoulder and bun in the lower-right foreground, then open air to Jet.
+VISIBLE BACKGROUND: the blue-backlit wood-slat end panel, defocused into soft cool blue lines filling the background, and a blurred sliver of warm gray stone wall at the screen-right edge.
+OFF-FRAME: the remaining part of Rita is outside the lower-right frame edge, close to the lens. No other person or any part of another person appears in the frame.
+START STATE: Jet faces Rita nearly frontal, eyes on her near the lens at screen-right, polite but tense, brows knit, lips closed. No hands are visible.
+CAMERA: MEDIUM CLOSE-UP over-the-shoulder. Framed from mid-chest up; Jet's face fills about 35% of the frame height. 65mm full-frame equivalent, about 1.4 meters from Jet, standing eye level, Jet nearly frontal.
+FOCUS: Jet's eyes and glasses sharp; Rita softly defocused while the white fur and dark top-knot bun remain recognizable; background softly blurred.
+LIGHTING: warm key from the overhead linear ceiling lights on Jet's face; the backlit wood-slat panel behind him gives a cool blue background glow and a thin cool blue rim on his hair and shoulders; mixed 3200K warm key with cool blue background, medium contrast.
+GRADE: night corridor mixed grade: cool teal-blue accents in the background behind Jet, warm amber light on skin, medium contrast, restrained saturation, natural skin tones.
+Show only the starting moment, before any planned movement begins.
+No readable text anywhere in the image.
+No captions, subtitles, labels, watermarks, panels or collage.

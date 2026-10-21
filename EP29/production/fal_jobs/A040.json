@@ -1,0 +1,17 @@
+{
+  "clip": "A040",
+  "endpoint": "openai/gpt-image-2/edit",
+  "refs": [
+    "input/characters/ริต้า/ริต้า W07 แจ็กเก็ตขนนกขาว.png"
+  ],
+  "out_file": "EP29/Image/EP29_A040_T01.png",
+  "prompt_chars": 3876,
+  "status": "done",
+  "request_id": "01a159d1-072e-7cc3-8c3b-aef791f071df",
+  "status_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a159d1-072e-7cc3-8c3b-aef791f071df/status",
+  "response_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a159d1-072e-7cc3-8c3b-aef791f071df",
+  "submitted": "2026-10-20 21:57:12",
+  "width": null,
+  "height": null,
+  "finished": "2026-10-20 21:59:24"
+}

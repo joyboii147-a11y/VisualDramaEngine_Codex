@@ -1,0 +1,34 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP29-S055 | Clip: B053 (B-roll) | SC03 โถงงานเลี้ยงผนังกระจก L04 กลางคืน
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 4 วิ | เสียงโหมด C
+#
+# ตัวละครในเฟรม (รวม 1 คน):
+# - วิทย์ C05-W10 แจ็กเก็ตหนังกลับน้ำตาล (ใส่แจ็กเก็ต) | หน้าก้ม (CU ถึงอก) มุมสูง เห็นมือ ซอง กระดาษ | กลาง
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - ไอริน C04-W18 | นอกขวา
+# - คนอื่นตาม Presence Ledger | นอกกรอบ
+#
+# แนบใน Grok: ภาพที่เลือกจาก EP29_B053_image
+# ผู้พูด: ไม่มี | คนในเฟรมที่ไม่พูด: วิทย์
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+EP29_B053 SHOT EP29-S055. One continuous cinematic live-action high-angle close-up, vertical 9:16.
+TARGET DURATION: 4 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
+SCENE GEOGRAPHY: a night banquet hall; behind Wit a softly defocused black steel-framed glass wall with small warm wall lights.
+VISIBLE CAST: exactly 1 person: Wit, a tall young Thai man in his late twenties, wearing a camel-brown suede trucker jacket worn open, with a point collar, silver snap buttons and two chest flap pockets, over a heather gray wool crew-neck sweater and a pale blue-and-white fine-striped button-down shirt with the collar showing, and tousled black hair parted in the middle. He is centered, head bowed over the open envelope in his hands.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: camera on the hall interior side across the table in front of Wit, raised and looking down at about 30 degrees; close-up from head to mid-chest; 50mm.
+FOREGROUND / VISIBLE BACKGROUND: foreground: blurred flower tips along the bottom edge. Background: softly defocused black steel-framed glass wall with small warm wall lights.
+OFF-FRAME: none needed. No one else enters the frame at any time.
+LIGHTING / COLOR: warm overhead light from the front and above, soft bounce from the white paper onto his face, approximately 3200K; warm night banquet palette of white, cream and black steel with soft pink floral accents, medium-low contrast, warm natural skin tones.
+PROP STATE: Wit holds a plain white A4 document envelope with no readable logo or text, flap open, in both hands at chest height; one folded plain white sheet is inside. The envelope and paper are plain white with no readable text, logo, letters or numbers anywhere.
+START STATE: Wit, head bowed, intensely focused on the open envelope in both hands.
+PERFORMANCE CONTEXT: This is the moment of highest concentration: Wit takes out the result.
+ACTION: With his right hand Wit slides the folded plain white sheet out of the envelope and partly unfolds it; the empty envelope stays in his left hand. His eyes move onto the sheet as he begins to read. He holds that reading pose until the very end of the clip; the framing does not change.
+END STATE: the partly unfolded blank-backed sheet in his right hand, the empty envelope in his left hand, eyes beginning to read, lips closed.
+CAMERA: locked-off, the framing never changes.
+VISUAL CONTINUITY: Preserve the starting image's faces, hair, wardrobe, set geometry, lighting character and color treatment. Allow only the specified actions and camera movement. No unplanned cuts, added people, identity swaps or prop teleportation.
+AUDIO MODE: no dialogue.
+No intelligible speech or speech-like lip-sync.
+AMBIENCE/SFX: paper sliding out of an envelope and a soft unfold, quiet hall ambience; no music, no chatter.

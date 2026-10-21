@@ -1,0 +1,27 @@
+{
+  "clip": "A036",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Image/EP29_A036_T01.png",
+        "job": "01a159d0-e7e0-7aa2-b9ea-3192759a1205",
+        "result": "ok",
+        "qc": "OTS เจตซ้าย ริต้ากลางยิ้ม ถือการ์ดสีโรสโกลด์มือขวาระดับอก มีตราสลักเล็ก ไม่มีตัวหนังสือ",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP29/Image/EP29_A036_T01.png",
+    "prompt_sha": "e49e3b42cee0",
+    "flag": null,
+    "facts": "Over-the-shoulder: Jet's blurred head and suit back on screen-left; Rita at center, three-quarter view looking screen-left at him with a soft smile. Her right hand holds a pale rose-gold metal card with a small round emblem at chest level, left of center; framed to mid-thigh, bag at her right hip."
+  },
+  "video": {
+    "status": "todo",
+    "takes": [],
+    "selected": null,
+    "prompt_sha": "a6aebeadf898"
+  },
+  "notes": []
+}

@@ -1,0 +1,27 @@
+{
+  "clip": "A040",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Image/EP29_A040_T01.png",
+        "job": "01a159d1-072e-7cc3-8c3b-aef791f071df",
+        "result": "ok",
+        "qc": "ริต้าคนเดียว CU เฉียงซ้าย เชิดคาง มุมปากดูแคลน ปากปิด",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP29/Image/EP29_A040_T01.png",
+    "prompt_sha": "eed4af38a601",
+    "flag": null,
+    "facts": "Rita alone, close-up chest-up, three-quarter view facing screen-left, chin raised, eyes cutting left, disdainful mouth, lips closed. Fur jacket, grey satin shirt, beaded necklaces and bag chain visible; no hands visible."
+  },
+  "video": {
+    "status": "todo",
+    "takes": [],
+    "selected": null,
+    "prompt_sha": "5b668d3bcc57"
+  },
+  "notes": []
+}

@@ -1,0 +1,44 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP29-S046 | Clip: A063 (A-roll) | SC03 โถงงานเลี้ยงผนังกระจก L04 กลางคืน
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 4 วิ | เสียงโหมด A
+#
+# ตัวละครในเฟรม (รวม 1 คน):
+# - แม่วิทย์ C01-W08 โค้ทเฟอร์ครีม | หน้า (CU) เฉียง 3/4 หันซ้าย | กลางค่อนขวา ช่องว่างซ้าย
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - วิทย์ C05-W10 | นอกซ้าย เป็นคนที่แม่วิทย์พูดด้วย
+# - ไอริน | นอกซ้าย
+# - หมายเหตุ: Out ใน Shot ให้ยกมือขวาระดับเอว แต่ CU ไม่เห็นมือ — prompt ใช้การพยักศีรษะสั้นแทน ไม่สั่งให้มือเข้าเฟรม
+#
+# แนบใน Grok: ภาพที่เลือกจาก EP29_A063_image
+# ผู้พูด: แม่วิทย์ ON | คนในเฟรมที่ไม่พูด: ไม่มี
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+EP29_A063 SHOT EP29-S046. One continuous cinematic live-action close-up, vertical 9:16.
+TARGET DURATION: 4 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
+SCENE GEOGRAPHY: a night banquet hall; behind Wit's mother a tall black steel-framed glass wall with warm reflections, a sliver of a lit beige wall at the far right edge.
+VISIBLE CAST: exactly 1 person: Wit's mother, an elegant Thai woman in her mid-fifties, wearing the collar of an oat-beige fur coat over a white blouse, a brown-and-white striped silk scarf tied loosely at the collar, small pearl stud earrings, and dark brown hair in a low twisted chignon. Her face is slightly right of center, three-quarter toward the camera, head turned screen-left.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: camera on the hall interior side in front of the right part of the table, facing her at a three-quarter angle; standing eye level; tight close-up; 85mm.
+FOREGROUND / VISIBLE BACKGROUND: no foreground. Background: softly defocused black steel-framed glass wall; sliver of lit beige entrance wall at far right.
+OFF-FRAME: the person she speaks to is beyond the left frame edge; only her eyes hold there, the camera does not follow her gaze. No one else enters the frame at any time.
+LIGHTING / COLOR: warm overhead light, soft warm fill, approximately 3200K; warm night banquet palette of white, cream and black steel tones, medium-low contrast, warm natural skin tones.
+PROP STATE: no handheld object in frame.
+START STATE: calm composed face, lips closed, eyes screen-left.
+PERFORMANCE CONTEXT: Wit's mother gently but firmly stops them from opening the report yet; someone important is still missing.
+ACTION: She says the assigned line calmly and firmly, with a small decisive nod on the first words, eyes steady screen-left. After the line she holds a calm, firm expression until the very end of the clip; the framing does not change.
+END STATE: calm firm expression, lips closed, eyes screen-left.
+CAMERA: locked-off, the framing never changes.
+VISUAL CONTINUITY: Preserve the starting image's faces, hair, wardrobe, set geometry, lighting character and color treatment. Allow only the specified actions and camera movement. No unplanned cuts, added people, identity swaps or prop teleportation.
+AUDIO MODE: generated dialogue.
+SPEECH EVENT 1:
+SPEAKER: Wit's mother, visible on screen (ON), the only speaker.
+EXACT THAI DIALOGUE: "เดี๋ยวก่อน ยังขาดอีกคนนึง"
+VOICE IDENTITY: mature Thai female voice, poised mid-low register, clear warm timbre, standard Thai accent
+DELIVERY: calm and firm, gentle authority, unhurried, a short pause after the first phrase.
+Lip-sync only Wit's mother to the assigned line.
+NON-SPEAKERS: none visible; no speech-like lip movements.
+Speak only the assigned dialogue exactly once, without paraphrasing or added words.
+Do not stretch speech to fill the clip. No unassigned voices.
+AFTER SPEECH: lips closed, steady gaze screen-left, a brief hold for the cut.
+AMBIENCE/SFX: quiet hall ambience; no music, no chatter.

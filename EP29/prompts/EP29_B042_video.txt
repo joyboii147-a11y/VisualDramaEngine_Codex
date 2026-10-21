@@ -1,0 +1,33 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP29-S040 | Clip: B042 (B-roll) | SC03 โถงงานเลี้ยงผนังกระจก L04 กลางคืน
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 3 วิ | เสียงโหมด C
+#
+# ตัวละครในเฟรม (รวม 1 คน):
+# - ริต้า C06-W07 แจ็กเก็ตขนนกขาว | ครึ่งตัว (ศีรษะถึงเอว) เฉียง 3/4 หันขวา ยิ้มบาง | กลางค่อนซ้าย ช่องว่างขวา
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - เลขาเจต C13-W01 | นอกขวา เป็นคนที่ริต้ามอง
+#
+# แนบใน Grok: ภาพที่เลือกจาก EP29_B042_image
+# ผู้พูด: ไม่มี | คนในเฟรมที่ไม่พูด: ริต้า
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+EP29_B042 SHOT EP29-S040. One continuous cinematic live-action medium shot, vertical 9:16.
+TARGET DURATION: 3 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
+SCENE GEOGRAPHY: a night banquet hall; Rita stands behind the left end of a round white-clothed table, a tall black steel-framed glass wall behind her, the edge of a white sheer curtain at the far left.
+VISIBLE CAST: exactly 1 person: Rita, a young Thai woman in her mid-twenties, wearing a cropped shaggy long-hair white faux-fur jacket worn open over a silver-gray satin button-front shirt dress, several long strands of dark beaded necklaces, gold cluster earrings, the gold chain strap of her ivory quilted mini shoulder bag on her left shoulder, and dark brown hair in a high top-knot bun. She stands slightly left of center, three-quarter toward the camera, head turned screen-right.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: camera on the hall interior side in front of the left part of the table, facing Rita at a slight three-quarter angle; standing eye level; medium shot from head to waist; 50mm.
+FOREGROUND / VISIBLE BACKGROUND: foreground: blurred pink and white flowers along the bottom edge. Background: softly defocused black steel-framed glass wall with warm reflections and the edge of a white sheer curtain at far left.
+OFF-FRAME: the person Rita looks at is beyond the right frame edge; only her eyes hold there, the camera does not follow her gaze. No one else enters the frame at any time.
+LIGHTING / COLOR: warm overhead key from slightly front-right, soft warm fill, approximately 3200K; warm night banquet palette of white, cream and black steel with soft pink floral accents, medium-low contrast, warm natural skin tones.
+PROP STATE: Rita's hands are empty; the gold chain strap of her bag rests on her left shoulder.
+START STATE: Rita stands still, faint confident smile, lips closed, eyes screen-right.
+PERFORMANCE CONTEXT: Rita waits with quiet confidence; she already knows what the secretary has agreed to do.
+ACTION: Rita takes one small breath and keeps the faint smile, eyes steady screen-right. She stays still until the very end of the clip; the framing does not change.
+END STATE: faint smile held, lips closed, eyes screen-right, hands at her sides.
+CAMERA: locked-off, the framing never changes.
+VISUAL CONTINUITY: Preserve the starting image's faces, hair, wardrobe, set geometry, lighting character and color treatment. Allow only the specified actions and camera movement. No unplanned cuts, added people, identity swaps or prop teleportation.
+AUDIO MODE: no dialogue.
+No intelligible speech or speech-like lip-sync.
+AMBIENCE/SFX: quiet hall ambience only; no music, no chatter.

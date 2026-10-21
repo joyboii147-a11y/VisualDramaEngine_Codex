@@ -1,0 +1,16 @@
+{
+  "clip": "A061",
+  "endpoint": "openai/gpt-image-2/edit",
+  "refs": [
+    "input/characters/เลขาเจต/เลขาเจต Face.webp"
+  ],
+  "out_file": "EP29/Image/EP29_A061_T01.png",
+  "prompt_chars": 2863,
+  "status": "failed",
+  "request_id": "01a159d1-45c3-7242-9bd2-9f4bc408353d",
+  "status_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a159d1-45c3-7242-9bd2-9f4bc408353d/status",
+  "response_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a159d1-45c3-7242-9bd2-9f4bc408353d",
+  "submitted": "2026-10-20 21:57:28",
+  "error": "HTTP 403: {\"detail\":\"User is locked. Reason: TOP_UP.\"}",
+  "finished": "2026-10-20 21:59:40"
+}

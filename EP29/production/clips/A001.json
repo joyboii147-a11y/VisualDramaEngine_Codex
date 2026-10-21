@@ -1,0 +1,27 @@
+{
+  "clip": "A001",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Image/EP29_A001_T01.png",
+        "job": "01a159d0-7a56-7e10-848e-55427eff4dea",
+        "result": "ok",
+        "qc": "ผ่าน 9:16 คนเดียว ชุดสเวตเตอร์เทา+เชิ้ตลายทางถูก มือขวาถือโทรศัพท์ขาวแนบหูขวา ไฟโคมโบเก้ซ้ายบน; ข้อสังเกตเล็ก: ลำตัวค่อนข้างตรงกล้อง สายตาเกือบมองเลนส์ (เบนขวาเล็กน้อย)",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP29/Image/EP29_A001_T01.png",
+    "prompt_sha": "d2bf3213c561",
+    "flag": null,
+    "facts": "Close-up of Wit alone, centered, body nearly facing camera, eyes almost toward the lens drifting slightly screen-right. His right hand holds a white smartphone to his right ear on the screen-left side of his face; it is the only hand visible. Gray crew-neck sweater over striped collar, frame bottom at mid-chest; blurred cream headboard and warm lamp bokeh at upper screen-left."
+  },
+  "video": {
+    "status": "todo",
+    "takes": [],
+    "selected": null,
+    "prompt_sha": "f2f66c0b1acf"
+  },
+  "notes": []
+}

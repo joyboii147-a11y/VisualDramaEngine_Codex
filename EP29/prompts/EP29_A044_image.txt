@@ -1,0 +1,43 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP29-S035 (+ใช้ซ้ำ S037) | Clip: A044 (A-roll) | SC02 โถงทางเดินระแนงไม้ L03 กลางคืน | Setup SC02-C2
+# ไฟล์นี้: Image Prompt → GPT Image 2 (fal.ai / OpenArt) (9:16)
+#
+# ตัวละครในเฟรม (รวม 2 คน):
+# - ริต้า   C06-W07 ริต้า W07 แจ็กเก็ตขนนกขาว | เห็นแค่ขนเฟอร์ขาวแถบล่าง เบลอ ขอบล่าง
+# - เลขาเจต C13-W01 เลขาเจต W02 สูทดำเนกไทแดง | หน้า (MCU มุมต่ำ) กลางเฟรม
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - ไม่มี (ทั้งสองคนอยู่ในเฟรม; ริต้าส่วนใหญ่นอกขวา)
+# เสี่ยง: มุมต่ำ+หน้าก้มลดความแม่นหน้า; ขนเฟอร์ฉากหน้าอาจกลายเป็นสัตว์/วัตถุ ต้องตรวจ
+# แนบใน OpenArt: 1) input/characters/เลขาเจต/เลขาเจต Face.webp ; 2) input/characters/ริต้า/ริต้า W07 แจ็กเก็ตขนนกขาว.png
+# หน้าที่ภาพแนบ: 1) เลขาเจต หน้า/ผม/แว่น (ชุดจากข้อความ — ภาพ Face เนกไทสีเข้ม ข้อความสั่งแดงเลือดหมู) · 2) ริต้า เจ้าของไหล่ ใช้มุมหลัง ขนเฟอร์+มวย+สายโซ่
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+Create one standalone starting-frame image for SHOT EP29-S035.
+Vertical 9:16. Cinematic live-action still, photorealistic.
+REFERENCE IMAGES:
+Image 1: Jet — use only for face, skin tone, hairstyle and glasses. The outfit comes from the text below: his tie is dark burgundy-red, not the dark tie in this image. Do not copy the outfit, background, lighting or camera angle.
+Image 2: Rita — an outfit sheet showing front, side and back views; use its back view for her high top-knot bun seen from behind, the white shaggy faux-fur jacket seen from behind and the gold chain bag strap on her left shoulder. Do not copy the background, lighting, pose, camera angle or the multi-view layout.
+CHARACTERS: Jet, a tall slim Thai man in his early thirties (Image 1: face, hair and glasses), wearing "a charcoal-black two-button single-breasted suit, a crisp white shirt, a dark burgundy-red silk tie, a white pocket square, black leather cap-toe oxford shoes, thin rectangular metal-rimmed glasses, and short black hair with a soft fringe". Rita, a young Thai woman (Image 2: back view of hair and outfit), wearing "a cropped shaggy long-hair white faux-fur jacket worn open, over a silver-gray satin button-front mini shirt dress, several long strands of dark beaded necklaces layered at different lengths, gold cluster earrings, an ivory quilted mini shoulder bag on a gold chain strap worn on the left shoulder, nude patent pointed-toe stiletto pumps, and dark brown hair in a high top-knot bun"; only her back and shoulder are seen here.
+CAST COUNT: exactly two people visible, Jet and Rita, where Rita appears only as the white fur band at the bottom edge.
+FOREGROUND OWNER: Rita, standing about 0.8 meters in front of Jet and facing him, seen from behind at chest height.
+VISIBLE FOREGROUND IDENTITY: only a soft, blurred band of the shaggy long-hair white faux fur of her jacket along the bottom edge, about the bottom eighth of the frame. Her head, face and hands are not visible.
+CAMERA RELATION: camera just behind Rita's left side at her chest height.
+OCCLUSION: the fur covers only the bottom edge; Jet's face, glasses and tie knot are fully visible.
+The white fur belongs to Rita, not an additional person, animal or object.
+FOCUS SUBJECT: Jet at frame center, seen from slightly below.
+SCENE GEOGRAPHY: A long, wide night-time interior corridor. At its far west end stands a horizontal wood-slat panel backlit in cool blue. Along the north side runs a warm gray horizontal stacked-stone wall with small warm decorative wall lights, with a beige fabric sofa-and-armchair seating nook further east along it. The south side is a light honey-toned wood-slat wall. Wood-slat ceiling with long linear lights; cream glossy tile floor. The corridor is otherwise empty. Jet stands in the middle of the corridor facing east toward Rita; Rita stands about 0.8 meters in front of him facing west. Neither changes position.
+FRAME ORDER: from screen-left to screen-right: Rita's white fur along the bottom edge · Jet at center.
+CAMERA POSITION: behind Rita, offset slightly toward the light wood-slat wall on the south side, lowered to Rita's chest height and tilted up, on the same side of the conversation axis as every other angle in this scene.
+VIEW DIRECTION: west and slightly upward past the white fur of Rita's jacket toward Jet's face, with the blue-backlit wood-slat end panel and the wood-slat ceiling behind and above him.
+SET IN FRAME: the blurred blue-backlit wood-slat end panel behind Jet and the wood-slat ceiling with linear lights above him; a soft band of Rita's white shaggy fur along the bottom edge. Keep this layout; do not move or mirror it.
+BETWEEN CAMERA AND SUBJECT: only a soft band of Rita's white fur at the bottom edge, then open air to Jet.
+VISIBLE BACKGROUND: the blurred blue-backlit wood-slat end panel and the wood-slat ceiling with warm linear lights above.
+OFF-FRAME: the rest of Rita is below and outside the bottom frame edge. No other person or any part of another person appears in the frame.
+START STATE: Jet, having just looked back at Rita, now looks down: his head is slightly bowed and his eyes are lowered toward a point just below the bottom frame edge in front of his chest, lips slightly parted, face still. No hands are visible.
+CAMERA: MEDIUM CLOSE-UP, gentle low angle. Framed from mid-chest up; Jet's face fills about 35% of the frame height. 65mm full-frame equivalent, about 1.4 meters from Jet, camera at Rita's chest height looking slightly up at him.
+FOCUS: Jet's eyes and glasses sharp; the white fur at the bottom edge strongly defocused; background softly blurred.
+LIGHTING: warm key from the overhead linear ceiling lights on Jet's face; the backlit wood-slat panel behind him gives a cool blue background glow and a thin cool blue rim on his hair and shoulders; mixed 3200K warm key with cool blue background, medium contrast.
+GRADE: night corridor mixed grade: cool teal-blue accents in the background behind Jet, warm amber light on skin, medium contrast, restrained saturation, natural skin tones.
+Show only the starting moment, before any planned movement begins.
+No readable text anywhere in the image.
+No captions, subtitles, labels, watermarks, panels or collage.

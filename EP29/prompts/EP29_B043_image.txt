@@ -1,0 +1,42 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP29-S041 | Clip: B043 (B-roll) | SC03 โถงงานเลี้ยงผนังกระจก L04 กลางคืน
+# ไฟล์นี้: Image Prompt → GPT Image 2 (9:16) ผ่าน fal.ai
+#
+# ตัวละครในเฟรม (รวม 4 คน):
+# - ริต้า C06-W07 แจ็กเก็ตขนนกขาว | เต็มตัว ยิ้มบาง หันขวา | ซ้ายสุด
+# - เลขาเจต C13-W01 สูทดำเนกไทแดง | เต็มตัว ถือซองมือขวา หันขวา | ถัดขวาริต้า ซ้ายของแจกัน
+# - วิทย์ C05-W10 แจ็กเก็ตหนังกลับน้ำตาล (ใส่แจ็กเก็ต) | เต็มตัว เดินเข้า มือว่าง | ขอบขวา → หยุดกลางขวาของแจกัน
+# - ไอริน C04-W18 แจ็กเก็ตทวีดกรมท่าโบว์ขาว | เต็มตัว เดินเข้าเคียงวิทย์ ยิ้มบาง มือว่าง | ขอบขวา → หยุดถัดขวาวิทย์
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - แม่วิทย์ พ่อวิทย์ การ์ด — ยังไม่เข้าโถง
+#
+# แนบใน OpenArt: 1) input/characters/วิทย์/วิทย์ W08 แจ็กเก็ตหนังกลับน้ำตาล.png
+#                2) input/characters/ไอริน/ไอริน W17 แจ็กเก็ตทวีดกรมท่าโบว์ขาว.png
+#                3) input/characters/ริต้า/ริต้า W07 แจ็กเก็ตขนนกขาว.png
+#                4) input/characters/เลขาเจต/เลขาเจต W02 สูทดำเนกไทแดง.png
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+Create one standalone starting-frame image for SHOT EP29-S041.
+Vertical 9:16. Cinematic live-action still, photorealistic.
+REFERENCE IMAGES:
+Image 1: Wit — this image is a three-view sheet (front, side, back) of one person; use it for face, skin tone, hairstyle, body shape and this exact outfit. Show this person only once. Do not copy the white background, lighting, pose or camera angle from this image.
+Image 2: Irin — this image is a three-view sheet (front, side, back) of one person; use it for face, skin tone, hairstyle, body shape and this exact outfit. Show this person only once. Do not copy the white background, lighting, pose or camera angle from this image.
+Image 3: Rita — this image is a three-view sheet (front, side, back) of one person; use it for face, skin tone, hairstyle, body shape and this exact outfit. Show this person only once. Do not copy the white background, lighting, pose or camera angle from this image.
+Image 4: Secretary Jet — this image is a three-view sheet (front, side, back) of one person; use it for face, skin tone, hairstyle, body shape and this exact outfit. Show this person only once. Do not copy the white background, lighting, pose or camera angle from this image.
+CHARACTERS: Wit, a tall young Thai man in his late twenties, bound to the reference image; exact outfit: "a camel-brown suede trucker jacket worn open, with a point collar, silver snap buttons and two chest flap pockets, over a heather gray wool crew-neck sweater and a pale blue-and-white fine-striped button-down shirt with the collar showing, black slim straight trousers, black leather penny loafers, and tousled black hair parted in the middle". Irin, a young Thai woman in her mid-twenties, bound to the reference image; exact outfit: "a cropped collarless navy boucle tweed jacket flecked with silver and multicolor threads, worn open, with silver buttons and patch pockets, over an ivory satin blouse with a large soft pussy-bow tied at the neck, a delicate thin pendant necklace, a charcoal gray knife-pleated midi skirt, black leather Mary Jane flats with a buckled strap, and long dark brown wavy hair worn loose". Rita, a young Thai woman in her mid-twenties, bound to the reference image; exact outfit: "a cropped shaggy long-hair white faux-fur jacket worn open, over a silver-gray satin button-front mini shirt dress, several long strands of dark beaded necklaces layered at different lengths, gold cluster earrings, an ivory quilted mini shoulder bag on a gold chain strap worn on the left shoulder, nude patent pointed-toe stiletto pumps, and dark brown hair in a high top-knot bun". Secretary Jet, a tall slim Thai man in his early thirties, bound to the reference image; exact outfit: "a charcoal-black two-button single-breasted suit, a crisp white shirt, a dark burgundy-red silk tie, a white pocket square, black leather cap-toe oxford shoes, thin rectangular metal-rimmed glasses, and short black hair with a soft fringe".
+CAST COUNT: exactly 4 people visible: Rita, Secretary Jet, Wit and Irin.
+SCENE GEOGRAPHY: a night banquet hall with a cream marble floor. A waist-high round standing table with a floor-length white tablecloth stands in the middle; on it a turned black vase holds pink and white flowers with pale green sprigs. Along the far side of the hall, behind the table, runs a tall black steel-framed glass wall with a tall glass door; outside is dark night, with warm reflections on the glass. On the left side of the hall is a white wall with sheer white curtains and a small potted plant. On the right side, where the glass wall meets the side wall, is the entrance opening from a corridor with beige walls and warm wall lights. People stand in a shallow arc on the far side of the table, between the table and the glass wall, facing the table and the camera. Rita stands behind the left end of the table; Secretary Jet stands about one meter to her right, left of the flower vase. Wit and Irin have just come in through the entrance opening on the right and walk side by side along the far side of the table toward the center, Wit on the left of the pair and Irin on his right.
+FRAME ORDER: from screen-left to screen-right: Rita · Secretary Jet · Wit · Irin.
+CAMERA POSITION: on the hall interior side of the round table, in front of it at the reference position, standing eye level.
+VIEW DIRECTION: straight across the table toward the people behind it and the glass wall beyond them.
+SET IN FRAME: a white wall with sheer white curtains and a small potted plant along the screen-left side; the round white-clothed standing table with the black vase of pink and white flowers at the lower center foreground; the tall black steel-framed glass wall with a tall glass door across the center background, dark night outside with warm reflections; at the far screen-right, the corner where the glass wall meets the entrance opening, with a warmly lit beige corridor wall. Keep this layout; do not move or mirror it.
+BETWEEN CAMERA AND SUBJECT: only the round white-clothed table with its flower vase at the lower center, standing between Jet and Wit; it hides no face.
+VISIBLE BACKGROUND: the tall black steel-framed glass wall with a tall glass door across the back, dark night outside with warm reflections; the white wall with sheer white curtains and a small potted plant on the left; the corner of the glass wall and the warmly lit beige entrance opening at the far right.
+OFF-FRAME: nobody else is in the hall. No other person or any part of another person appears in the frame.
+START STATE: Rita stands behind the left end of the table with a faint smile, hands empty, bag on her left shoulder, head turned screen-right. Secretary Jet stands to her right, face neutral, holding a plain white A4 document envelope with no readable logo or text in his right hand down along his side. Near the right edge of the frame, Wit and Irin walk side by side screen-left, mid-stride, hands empty; Wit has a calm face, Irin a faint smile.
+CAMERA: LONG SHOT. Full bodies head to toe, each person about 35% of the frame height, floor visible below the feet; everyone listed fits side by side across the frame width. 35mm, about 6 meters away, standing eye level, straight-on.
+FOCUS: deep focus; all four people sharp.
+LIGHTING: warm white overhead linear ceiling lights and warm wall sconces, soft warm fill on faces, dark night beyond the tall black steel-framed glass wall with warm reflections on the glass, approximately 3200K, medium-low contrast.
+GRADE: warm night banquet palette of white, cream and black steel with soft pink floral accents, medium-low contrast, warm natural skin tones.
+Show only the starting moment, before any planned movement begins.
+No captions, subtitles, labels, watermarks, panels or collage.

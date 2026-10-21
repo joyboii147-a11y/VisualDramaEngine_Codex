@@ -1,0 +1,27 @@
+{
+  "clip": "A008",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Image/EP29_A008_T01.png",
+        "job": "01a159d0-a463-7b72-a234-c1888b9aa859",
+        "result": "ok",
+        "qc": "ผ่าน คนเดียว ไอริน CU ยิ้มบาง สายตาเหลือบซ้ายเฟรม ชุดถูก; ข้อสังเกต: หน้าเกือบตรงกล้อง หันน้อยกว่า 3/4",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP29/Image/EP29_A008_T01.png",
+    "prompt_sha": "c6881bfd8a39",
+    "flag": null,
+    "facts": "Close-up of Irin alone, centered, face nearly frontal with eyes glancing toward screen-left, soft hopeful closed-lip smile. Navy tweed jacket, ivory pussy-bow and pendant necklace visible to the chest; no hands. Blurred headboard behind, bright window glow at upper screen-right."
+  },
+  "video": {
+    "status": "todo",
+    "takes": [],
+    "selected": null,
+    "prompt_sha": "7d58dfc5ffc2"
+  },
+  "notes": []
+}

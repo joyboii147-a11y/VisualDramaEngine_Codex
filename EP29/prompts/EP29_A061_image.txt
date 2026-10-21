@@ -1,0 +1,36 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP29-S042 | Clip: A061 (A-roll) | SC03 โถงงานเลี้ยงผนังกระจก L04 กลางคืน
+# ไฟล์นี้: Image Prompt → GPT Image 2 (9:16) ผ่าน fal.ai
+#
+# ตัวละครในเฟรม (รวม 1 คน):
+# - เลขาเจต C13-W01 สูทดำเนกไทแดง | หน้า (CU ถึงอกบน) เฉียง 3/4 หันขวา มือขวาถือซองมุมขวาล่าง | กลางเฟรม
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - วิทย์ C05-W10 | นอกขวา เป็นคนที่เลขาเจตพูดด้วยและยื่นซองให้
+# - ไอริน C04-W18 | นอกขวา
+# - ริต้า C06-W07 | นอกซ้าย
+# - บท D025 มีป้าย [ตรวจเสียง: ในภาพพูดกับวิทย์ ไม่ใช่พ่อวิทย์ ฟังยืนยันว่า "ประธาน" หมายถึงใคร] — ป้ายไม่ใช่ข้อความพูด ไม่ใส่ใน prompt
+#
+# แนบใน OpenArt: 1) input/characters/เลขาเจต/เลขาเจต Face.webp
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+Create one standalone starting-frame image for SHOT EP29-S042.
+Vertical 9:16. Cinematic live-action still, photorealistic.
+REFERENCE IMAGES:
+Image 1: Secretary Jet — use only for face, skin tone and hairstyle. The outfit comes from the text below. Do not copy the outfit, background, lighting or camera angle.
+CHARACTERS: Secretary Jet, a tall slim Thai man in his early thirties, face and hair from the reference image; outfit: "a charcoal-black two-button single-breasted suit, a crisp white shirt, a dark burgundy-red silk tie, a white pocket square, black leather cap-toe oxford shoes, thin rectangular metal-rimmed glasses, and short black hair with a soft fringe".
+CAST COUNT: exactly 1 person visible: Secretary Jet.
+SCENE GEOGRAPHY: a night banquet hall. Secretary Jet stands on the far side of a round white-clothed standing table, between the table and a tall black steel-framed glass wall.
+FRAME ORDER: from screen-left to screen-right: Secretary Jet (his right hand with the envelope at the lower-right corner).
+CAMERA POSITION: on the hall interior side of the table, in front of Jet, at a three-quarter angle; standing eye level.
+VIEW DIRECTION: toward Jet, with the glass wall beyond him.
+SET IN FRAME: a softly defocused black steel-framed glass wall with warm reflections filling the background behind Jet. Keep this layout; do not move or mirror it.
+BETWEEN CAMERA AND SUBJECT: only the top of the flower arrangement, softly blurred along the bottom-left edge; nothing hides his face.
+VISIBLE BACKGROUND: softly defocused black steel-framed glass wall with warm reflections.
+OFF-FRAME: the person Jet addresses is outside the right frame edge. No other person or any part of another person appears in the frame.
+START STATE: Secretary Jet stands three-quarter toward the camera, head turned screen-right toward the person he addresses, a composed neutral face, lips closed. His right hand holds a plain white A4 document envelope with no readable logo or text low at the lower-right corner of the frame; only the upper part of the envelope is visible.
+CAMERA: CLOSE-UP. The face fills about 45% of the frame height; the frame top cuts through the top of the hair and the frame bottom cuts at the upper chest; his right hand holding the envelope shows only at the lower-right corner. 85mm, about 1.2 meters away, standing eye level, three-quarter view
+FOCUS: Jet's eyes sharp; background softly defocused.
+LIGHTING: warm overhead ceiling light from above and front, soft warm fill on his face, warm reflections on the glass behind, approximately 3200K, medium-low contrast.
+GRADE: warm night banquet palette of white, cream and black steel with soft pink floral accents, medium-low contrast, warm natural skin tones.
+Show only the starting moment, before any planned movement begins.
+No captions, subtitles, labels, watermarks, panels or collage.

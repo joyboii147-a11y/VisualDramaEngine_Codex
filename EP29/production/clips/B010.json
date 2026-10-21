@@ -1,0 +1,27 @@
+{
+  "clip": "B010",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Image/EP29_B010_T01.png",
+        "job": "01a159d0-b094-7f63-95a6-7899606dc5b8",
+        "result": "ok",
+        "qc": "ผ่าน 2 คน ลองช็อตเต็มตัว วิทย์ซ้าย ไอรินขวา จับมือกันตรงกลาง วิทย์ถือโทรศัพท์ขาวมือขวาบนต้นขา ยิ้มมองกัน เท้าบนพื้น ชุด/รองเท้าถูก โคมซ้าย หน้าต่างขวา",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP29/Image/EP29_B010_T01.png",
+    "prompt_sha": "a1c92f5ede40",
+    "flag": null,
+    "facts": "Long shot, screen-left to screen-right: Wit, Irin, seated full-body on the foot of the bed, feet on the wooden floor, smiling at each other. Wit's left hand holds Irin's right hand between them; Wit's right hand holds a white smartphone on his right thigh; Irin's left hand rests on her lap. Padded headboard behind, floor lamp at screen-left, sheer window at screen-right, mustard runner across the bed, open floor in the lower third."
+  },
+  "video": {
+    "status": "todo",
+    "takes": [],
+    "selected": null,
+    "prompt_sha": "fc04aecbaaa5"
+  },
+  "notes": []
+}

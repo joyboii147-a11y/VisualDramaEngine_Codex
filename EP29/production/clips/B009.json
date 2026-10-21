@@ -1,0 +1,27 @@
+{
+  "clip": "B009",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Image/EP29_B009_T01.png",
+        "job": "01a159d0-aa17-7e82-9f7c-80defcca39e4",
+        "result": "ok",
+        "qc": "ผ่าน มือ 2 มือพอดี มือซ้ายวิทย์ (แขนสเวตเตอร์เทา+ปลายเชิ้ต กางเกงดำ) ซ้าย มือขวาไอริน (แขนทวีดกรมท่า กระโปรงพลีทเทา) ขวา แยกกัน นิ้วครบ แถบผ้ารองเตียงมัสตาร์ดล่าง",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP29/Image/EP29_B009_T01.png",
+    "prompt_sha": "fa0abcf1700c",
+    "flag": null,
+    "facts": "High-angle insert of two laps: Wit's left hand palm-down on his black trousers at screen-left (gray sweater cuff with striped shirt cuff), Irin's right hand palm-down on her charcoal pleated skirt at screen-right (navy tweed sleeve with ivory cuff); exactly two hands, separate, fingers pointing toward the frame bottom. No faces or phone visible; a mustard-gold fabric band fills the bottom third of the frame."
+  },
+  "video": {
+    "status": "todo",
+    "takes": [],
+    "selected": null,
+    "prompt_sha": "1622f0cd7d7c"
+  },
+  "notes": []
+}

@@ -1,0 +1,16 @@
+{
+  "clip": "B052",
+  "endpoint": "openai/gpt-image-2/edit",
+  "refs": [
+    "input/characters/ไอริน/Face.png"
+  ],
+  "out_file": "EP29/Image/EP29_B052_T01.png",
+  "prompt_chars": 2588,
+  "status": "failed",
+  "request_id": "01a159d1-9d5a-7460-b966-eb1ea36fc0dc",
+  "status_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a159d1-9d5a-7460-b966-eb1ea36fc0dc/status",
+  "response_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a159d1-9d5a-7460-b966-eb1ea36fc0dc",
+  "submitted": "2026-10-20 21:57:51",
+  "error": "HTTP 403: {\"detail\":\"User is locked. Reason: TOP_UP.\"}",
+  "finished": "2026-10-20 22:00:35"
+}

@@ -1,0 +1,34 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP29-S058 | Clip: B055 (B-roll) | SC03 โถงงานเลี้ยงผนังกระจก L04 กลางคืน
+# ไฟล์นี้: Image Prompt → GPT Image 2 (9:16) ผ่าน fal.ai
+#
+# ตัวละครในเฟรม (รวม 1 คน):
+# - ไอริน C04-W18 แจ็กเก็ตทวีดกรมท่าโบว์ขาว | หน้า (CU) เฉียง 3/4 หันซ้าย | กลางค่อนขวา ช่องว่างซ้าย
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - วิทย์ C05-W10 | นอกซ้าย เป็นคนที่ไอรินมอง
+# - แม่วิทย์ | นอกขวา
+#
+# แนบใน OpenArt: 1) input/characters/ไอริน/Face.png
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+Create one standalone starting-frame image for SHOT EP29-S058.
+Vertical 9:16. Cinematic live-action still, photorealistic.
+REFERENCE IMAGES:
+Image 1: Irin — use only for face, skin tone and hairstyle. The outfit comes from the text below. Do not copy the outfit, background, lighting or camera angle.
+CHARACTERS: Irin, a young Thai woman in her mid-twenties, face and hair from the reference image; outfit: "a cropped collarless navy boucle tweed jacket flecked with silver and multicolor threads, worn open, with silver buttons and patch pockets, over an ivory satin blouse with a large soft pussy-bow tied at the neck, a delicate thin pendant necklace, a charcoal gray knife-pleated midi skirt, black leather Mary Jane flats with a buckled strap, and long dark brown wavy hair worn loose".
+CAST COUNT: exactly 1 person visible: Irin.
+SCENE GEOGRAPHY: a night banquet hall. Irin stands on the far side of a round standing table, between the table and a tall black steel-framed glass wall.
+FRAME ORDER: from screen-left to screen-right: Irin.
+CAMERA POSITION: on the hall interior side across the table, in front of Irin at a three-quarter angle; standing eye level.
+VIEW DIRECTION: toward Irin, with the glass wall beyond her.
+SET IN FRAME: a softly defocused black steel-framed glass wall with warm reflections filling the background behind Irin. Keep this layout; do not move or mirror it.
+BETWEEN CAMERA AND SUBJECT: nothing; clear view of her face.
+VISIBLE BACKGROUND: softly defocused black steel-framed glass wall with warm reflections.
+OFF-FRAME: the person Irin looks at is outside the left frame edge. No other person or any part of another person appears in the frame.
+START STATE: Irin's face is slightly right of center with open space on the left, three-quarter toward the camera, head turned screen-left, holding her breath, lips pressed together.
+CAMERA: TIGHT CLOSE-UP. The face fills about 60% of the frame height; the frame top cuts through the top of the hair and the frame bottom cuts just below the chin at the collarbones. No chest, waist or hands visible. 85mm, about 1 meter away, standing eye level, three-quarter view.
+FOCUS: Irin's eyes sharp; background softly defocused.
+LIGHTING: warm overhead ceiling light from above and front, soft warm fill on her face, approximately 3200K, medium-low contrast.
+GRADE: warm night banquet palette of white, cream and black steel tones, medium-low contrast, warm natural skin tones.
+Show only the starting moment, before any planned movement begins.
+No captions, subtitles, labels, watermarks, panels or collage.

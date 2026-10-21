@@ -1,0 +1,17 @@
+{
+  "clip": "A065",
+  "endpoint": "openai/gpt-image-2/edit",
+  "refs": [
+    "input/characters/วิทย์/วิทย์ W08 แจ็กเก็ตหนังกลับน้ำตาล.png",
+    "input/characters/ไอริน/ไอริน W17 แจ็กเก็ตทวีดกรมท่าโบว์ขาว.png"
+  ],
+  "out_file": "EP29/Image/EP29_A065_T01.png",
+  "prompt_chars": 3647,
+  "status": "failed",
+  "request_id": "01a159d1-91d4-7cf0-8c97-8ef8c97309b1",
+  "status_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a159d1-91d4-7cf0-8c97-8ef8c97309b1/status",
+  "response_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a159d1-91d4-7cf0-8c97-8ef8c97309b1",
+  "submitted": "2026-10-20 21:57:48",
+  "error": "HTTP 403: {\"detail\":\"User is locked. Reason: TOP_UP.\"}",
+  "finished": "2026-10-20 21:59:46"
+}
