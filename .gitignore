@@ -35,3 +35,6 @@ Edit/
 
 # ไฟล์บีบอัด (เช่น EP11.zip)
 *.zip
+
+# ไฟล์ระบบ macOS (ไว้ท้ายไฟล์ เพื่อชนะข้อยกเว้น !input/characters/**)
+.DS_Store
