@@ -1,0 +1,37 @@
+{
+  "clip": "A008",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_A008_T01.png",
+        "job": "01a15c7a-85f8-7053-b9df-5ffe6ad97d0b",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_A008_T01.png",
+    "prompt_sha": "69a9f4e9411b",
+    "flag": null,
+    "facts": "Wit alone, medium close-up, looking down with a soft smile; cream jacket with black collar; bokeh lights and greenery behind."
+  },
+  "video": {
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_A008_T01.mp4",
+        "job": "a344fc7e-5851-957d-ab65-c9c6b32216f3",
+        "result": "ok",
+        "qc": "3.04s มีเสียง วิทพูดสั้นแล้วยิ้ม drift 0.023",
+        "cost": 0.24
+      }
+    ],
+    "selected": "EP28/Video/EP28_A008_T01.mp4",
+    "prompt_sha": "a443edfd7878",
+    "flag": "ต้องฟังลิปซิงก์"
+  },
+  "notes": []
+}

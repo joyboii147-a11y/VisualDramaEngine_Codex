@@ -1,0 +1,37 @@
+{
+  "clip": "B011",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_B011_T01.png",
+        "job": "01a15c7a-970c-7793-869b-c7d67a7d18e3",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_B011_T01.png",
+    "prompt_sha": "8148a166eab2",
+    "flag": null,
+    "facts": "Irin medium close-up looking down with a shy smile; cream shoulder blurred at left edge; teal wall behind."
+  },
+  "video": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_B011_T01.mp4",
+        "job": "3f309b24-9ae1-90b9-97c6-cb30912635c4",
+        "result": "ok",
+        "qc": "3.04s Irin ยิ้มก้มหน้า ไหล่วิทคงที่ drift 0.018",
+        "cost": 0.24
+      }
+    ],
+    "selected": "EP28/Video/EP28_B011_T01.mp4",
+    "prompt_sha": "42e842f11062",
+    "flag": null
+  },
+  "notes": []
+}

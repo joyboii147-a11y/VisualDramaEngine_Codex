@@ -1,0 +1,37 @@
+{
+  "clip": "B133",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_B133_T01.png",
+        "job": "01a15c7c-7bae-7622-aef0-0fd1c85ca316",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_B133_T01.png",
+    "prompt_sha": "4c0be31c841e",
+    "flag": null,
+    "facts": "Wit alone standing, medium shot, cold steady stare at camera."
+  },
+  "video": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_B133_T01.mp4",
+        "job": "bd1d77b8-d212-98e5-94da-f13e6dff4d74",
+        "result": "ok",
+        "qc": "planned slow push-in to Wit's face, cold stare held, no cut (drift 0.16 = the push)",
+        "cost": 0.08
+      }
+    ],
+    "selected": "EP28/Video/EP28_B133_T01.mp4",
+    "prompt_sha": "cc8f0b84f9a5",
+    "flag": null
+  },
+  "notes": []
+}

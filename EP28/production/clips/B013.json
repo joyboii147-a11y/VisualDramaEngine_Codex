@@ -1,0 +1,37 @@
+{
+  "clip": "B013",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_B013_T01.png",
+        "job": "01a15c7a-cbe4-7c03-bc9a-ecd7cb16ee7f",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_B013_T01.png",
+    "prompt_sha": "6f42cc45eab0",
+    "flag": null,
+    "facts": "Irin alone, medium close-up, pleased smile looking screen-right; white flowers at lower-left."
+  },
+  "video": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_B013_T01.mp4",
+        "job": "51381236-3cff-95ef-af33-67f470d4137c",
+        "result": "ok",
+        "qc": "3.04s Irin หันไปยิ้มทางซ้าย กล้องนิ่ง drift 0.084",
+        "cost": 0.24
+      }
+    ],
+    "selected": "EP28/Video/EP28_B013_T01.mp4",
+    "prompt_sha": "4999e955520e",
+    "flag": null
+  },
+  "notes": []
+}

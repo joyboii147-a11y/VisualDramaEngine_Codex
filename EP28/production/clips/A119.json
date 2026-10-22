@@ -1,0 +1,37 @@
+{
+  "clip": "A119",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_A119_T01.png",
+        "job": "01a15c7c-303a-7981-ba18-5a327b240e81",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_A119_T01.png",
+    "prompt_sha": "0a350f891ce6",
+    "flag": null,
+    "facts": "Head guard alone, medium close-up, black suit and tie, head slightly lowered looking up screen-left, apprehensive."
+  },
+  "video": {
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_A119_T01.mp4",
+        "job": "e0f2e01b-6eba-9a1d-827a-1fce4be0f82c",
+        "result": "ok",
+        "qc": "9.0s มีเสียง หัวหน้าการ์ดขอโทษ กล้องนิ่ง",
+        "cost": 0.72
+      }
+    ],
+    "selected": "EP28/Video/EP28_A119_T01.mp4",
+    "prompt_sha": "8694d35b2bcf",
+    "flag": "ต้องฟังลิปซิงก์"
+  },
+  "notes": []
+}

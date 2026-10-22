@@ -1,0 +1,37 @@
+{
+  "clip": "B113",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_B113_T01.png",
+        "job": "01a15c7b-7911-7792-b3aa-9e25ac6d1f2e",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_B113_T01.png",
+    "prompt_sha": "ad5dfc4bd0b6",
+    "flag": null,
+    "facts": "Wit alone standing, medium shot, tense face looking at camera; sofa, lamp and flowers behind."
+  },
+  "video": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_B113_T01.mp4",
+        "job": "c51336c1-6c2c-947a-828e-b3cb985297b2",
+        "result": "ok",
+        "qc": "Wit closes mouth, turns head slightly right, locked (drift 0.09)",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Video/EP28_B113_T01.mp4",
+    "prompt_sha": "7ad7a807a392",
+    "flag": null
+  },
+  "notes": []
+}

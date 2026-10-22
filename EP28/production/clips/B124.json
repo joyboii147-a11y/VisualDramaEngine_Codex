@@ -1,0 +1,37 @@
+{
+  "clip": "B124",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_B124_T01.png",
+        "job": "01a15c7c-05ef-77b3-9f3b-a0dc5d80c007",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_B124_T01.png",
+    "prompt_sha": "503d60201564",
+    "flag": null,
+    "facts": "Wit's mother seated, medium close-up, steady cold expression."
+  },
+  "video": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_B124_T01.mp4",
+        "job": "f1fcface-a81d-9e32-b1ae-37b4827fd75d",
+        "result": "ok",
+        "qc": "Mother seated, small eye shift, cold, locked (drift 0.06)",
+        "cost": 0.04
+      }
+    ],
+    "selected": "EP28/Video/EP28_B124_T01.mp4",
+    "prompt_sha": "4f60c2807bcd",
+    "flag": null
+  },
+  "notes": []
+}

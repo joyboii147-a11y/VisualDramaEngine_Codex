@@ -1,0 +1,17 @@
+{
+  "clip": "A113",
+  "endpoint": "openai/gpt-image-2/edit",
+  "refs": [
+    "input/characters/ไอริน/Face.png"
+  ],
+  "out_file": "EP28/Image/EP28_A113_T01.png",
+  "prompt_chars": 3721,
+  "status": "done",
+  "request_id": "01a15c7b-ad0a-72d0-b6fb-1afa7401abfa",
+  "status_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a15c7b-ad0a-72d0-b6fb-1afa7401abfa/status",
+  "response_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a15c7b-ad0a-72d0-b6fb-1afa7401abfa",
+  "submitted": "2026-10-21 10:22:51",
+  "width": null,
+  "height": null,
+  "finished": "2026-10-21 10:25:52"
+}

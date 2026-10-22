@@ -1,0 +1,37 @@
+{
+  "clip": "B007",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_B007_T01.png",
+        "job": "01a15c7a-7000-7812-ac16-79a2f8f521cb",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_B007_T01.png",
+    "prompt_sha": "735d7737d616",
+    "flag": null,
+    "facts": "Hand insert: Wit's cream cuff from left, his right hand touching Irin's left hand at center; her gray cuff from right."
+  },
+  "video": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_B007_T01.mp4",
+        "job": "6e648f28-85c8-9c53-9d6a-449a8d75186f",
+        "result": "ok",
+        "qc": "3.04s วิทกุมมือ Irin ข้างถูก drift 0.059",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Video/EP28_B007_T01.mp4",
+    "prompt_sha": "5981a2308cf8",
+    "flag": null
+  },
+  "notes": []
+}

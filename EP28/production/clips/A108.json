@@ -1,0 +1,37 @@
+{
+  "clip": "A108",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_A108_T01.png",
+        "job": "01a15c7b-67a4-7472-b7cf-5067ab411567",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_A108_T01.png",
+    "prompt_sha": "b8fcd4519fee",
+    "flag": null,
+    "facts": "Sila alone standing, waist-up, at left looking screen-right, hand in pocket; doors and sofa behind."
+  },
+  "video": {
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_A108_T01.mp4",
+        "job": "3ed68959-2fe9-96d6-9dbd-a1e296edb4d0",
+        "result": "ok",
+        "qc": "13.0s มีเสียง ศิลาพูดยาว กล้องเงยขึ้นเล็กน้อยเห็นโคมระย้าช่วงกลาง แสดงอ้าปากกว้างเกิน",
+        "cost": 1.04
+      }
+    ],
+    "selected": "EP28/Video/EP28_A108_T01.mp4",
+    "prompt_sha": "acecddccc330",
+    "flag": "ต้องฟังลิปซิงก์; กล้องขยับขึ้นเล็กน้อย"
+  },
+  "notes": []
+}

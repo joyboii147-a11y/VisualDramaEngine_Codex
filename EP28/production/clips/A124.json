@@ -1,0 +1,45 @@
+{
+  "clip": "A124",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_A124_T01.png",
+        "job": "01a15c7c-640c-7071-807c-59eafa8e41e2",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_A124_T01.png",
+    "prompt_sha": "79175c04b567",
+    "flag": null,
+    "facts": "High-angle wide: five guards standing in a line at upper-left behind Sila (center) and Rita; Wit and Irin standing at right; Wit's mother seated at lower-right; coffee table with flowers lower-left."
+  },
+  "video": {
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_A124_T01.mp4",
+        "job": "68785d9c-58fd-995e-9490-9ded663d45bc",
+        "result": "ok",
+        "qc": "3.0s มีเสียง ภาพมุมสูงครบ 10 คน แต่ศิลาเดินมาข้างหน้า การ์ดขยับน้อย",
+        "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP28/Video/EP28_A124_T02.mp4",
+        "job": "44259aa7-5247-9b7f-b9f1-2db9e398b522",
+        "result": "ok",
+        "qc": "3.0s มีเสียง ครบ 10 คน การ์ดเดินเข้าหาศิลาตามสั่ง ศิลาก้าวมาข้างหน้าด้วย",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Video/EP28_A124_T02.mp4",
+    "prompt_sha": "5ddb1a183ef9",
+    "flag": "ต้องฟังเสียงพร้อมกัน; ศิลาก้าวเดินมาข้างหน้าเล็กน้อย"
+  },
+  "notes": []
+}

@@ -1,0 +1,37 @@
+{
+  "clip": "B107",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_B107_T01.png",
+        "job": "01a15c7b-3cf3-70b3-b97b-330f7a49665e",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_B107_T01.png",
+    "prompt_sha": "c89933e34dfd",
+    "flag": null,
+    "facts": "Rita alone standing, waist-up, chin raised looking screen-left; chandelier and doors behind."
+  },
+  "video": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_B107_T01.mp4",
+        "job": "dbb4bac5-15a0-911b-b1f1-b3c16571628c",
+        "result": "ok",
+        "qc": "Rita aloof, small eye movement, locked (drift 0.09)",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Video/EP28_B107_T01.mp4",
+    "prompt_sha": "94edc0f89364",
+    "flag": null
+  },
+  "notes": []
+}

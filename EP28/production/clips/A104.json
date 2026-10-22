@@ -1,0 +1,37 @@
+{
+  "clip": "A104",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_A104_T01.png",
+        "job": "01a15c7b-12b0-7dd0-9006-49faa033d830",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_A104_T01.png",
+    "prompt_sha": "6c878099a0e2",
+    "flag": null,
+    "facts": "Sila walking in from the open double door at center-left, full body, navy polo and beige trousers; housemaid in black dress holding the door at right behind him; sofa and coffee table with flowers at right foreground."
+  },
+  "video": {
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_A104_T01.mp4",
+        "job": "7701a7f9-4de7-9ded-9515-663958dd8626",
+        "result": "ok",
+        "qc": "3.0s มีเสียง ศิลาเดินเข้ามา แม่บ้านถือประตู กล้องตามเล็กน้อย",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Video/EP28_A104_T01.mp4",
+    "prompt_sha": "8741b5f5333a",
+    "flag": "ต้องฟังลิปซิงก์; กล้องขยับตามเล็กน้อย (สั่ง locked-off)"
+  },
+  "notes": []
+}

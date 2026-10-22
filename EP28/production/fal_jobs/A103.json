@@ -1,0 +1,18 @@
+{
+  "clip": "A103",
+  "endpoint": "openai/gpt-image-2/edit",
+  "refs": [
+    "input/characters/วิทย์/วิทย์ W06 ชุดแจ็กเก็ตครีมปกดำ.png",
+    "input/characters/ไอริน/ไอริน W12 ชุดคลุมท้อง.png"
+  ],
+  "out_file": "EP28/Image/EP28_A103_T01.png",
+  "prompt_chars": 5527,
+  "status": "done",
+  "request_id": "01a15c7b-0a88-7032-aaa1-5c15c667fc92",
+  "status_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a15c7b-0a88-7032-aaa1-5c15c667fc92/status",
+  "response_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a15c7b-0a88-7032-aaa1-5c15c667fc92",
+  "submitted": "2026-10-21 10:22:09",
+  "width": null,
+  "height": null,
+  "finished": "2026-10-21 10:25:09"
+}

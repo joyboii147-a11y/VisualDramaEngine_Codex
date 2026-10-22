@@ -1,0 +1,37 @@
+{
+  "clip": "B127",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_B127_T01.png",
+        "job": "01a15c7c-291b-7531-b8d1-982477197f1c",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_B127_T01.png",
+    "prompt_sha": "6c20dc2a11b0",
+    "flag": null,
+    "facts": "High-angle wide from near the chandelier: five guards in black suits entering through the double door at upper-left; Sila center and Rita center-right standing; Wit and Irin standing at right; Wit's mother seated at lower-right; glass coffee table with flowers at lower-left."
+  },
+  "video": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_B127_T01.mp4",
+        "job": "7be1e1ed-913e-9732-9e7b-f54fa853dd18",
+        "result": "ok",
+        "qc": "5 guards walk in and line up behind Sila/Rita, family in place, door closes behind them, framing locked (drift 0.13)",
+        "cost": 0.12
+      }
+    ],
+    "selected": "EP28/Video/EP28_B127_T01.mp4",
+    "prompt_sha": "965b5aa9668a",
+    "flag": null
+  },
+  "notes": []
+}

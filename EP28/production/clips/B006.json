@@ -1,0 +1,37 @@
+{
+  "clip": "B006",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_B006_T01.png",
+        "job": "01a15c7a-674a-7ac3-b938-e881772779dd",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_B006_T01.png",
+    "prompt_sha": "abeaa04bc032",
+    "flag": null,
+    "facts": "Hand insert: Wit's cream sleeve and right hand at upper-left reaching; Irin's gray cardigan cuff and left hand hanging at right beside her cream dress; white tablecloth curve at lower-left."
+  },
+  "video": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_B006_T01.mp4",
+        "job": "6766c6fd-655a-9cb3-ae76-af636deb803b",
+        "result": "ok",
+        "qc": "3.04s มือวิทเข้าแตะมือ Irin ข้างถูก drift 0.046",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Video/EP28_B006_T01.mp4",
+    "prompt_sha": "a4c3c2934e58",
+    "flag": null
+  },
+  "notes": []
+}

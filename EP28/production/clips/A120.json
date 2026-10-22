@@ -1,0 +1,37 @@
+{
+  "clip": "A120",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_A120_T01.png",
+        "job": "01a15c7c-3700-7702-bc04-5bc3fe5e56d9",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_A120_T01.png",
+    "prompt_sha": "5ce7c1805512",
+    "flag": null,
+    "facts": "Wit standing at left facing screen-left, stern; Wit's mother blurred seated at rear-right."
+  },
+  "video": {
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_A120_T01.mp4",
+        "job": "5f2fe64a-d06a-98cb-826e-882e6554d1ad",
+        "result": "ok",
+        "qc": "5.0s มีเสียง วิทย์พูดเตือน แม่เบลอหลังขวา กล้องนิ่ง",
+        "cost": 0.1
+      }
+    ],
+    "selected": "EP28/Video/EP28_A120_T01.mp4",
+    "prompt_sha": "214cb22eb4d3",
+    "flag": "ต้องฟังลิปซิงก์"
+  },
+  "notes": []
+}

@@ -1,0 +1,45 @@
+{
+  "clip": "A110",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_A110_T01.png",
+        "job": "01a15c7b-87e7-7e52-b2bc-a9c1ed67f22f",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_A110_T01.png",
+    "prompt_sha": "3cad18b38e02",
+    "flag": null,
+    "facts": "Irin tight close-up, head tilted, sideways glance screen-right with a knowing smile."
+  },
+  "video": {
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_A110_T01.mp4",
+        "job": "f37cb967-17f5-996e-b5e1-dd50a146d91c",
+        "result": "ok",
+        "qc": "6.0s มีเสียง VO แต่ปากเผยอช่วงกลาง อาจขยับปาก",
+        "cost": 0.12
+      },
+      {
+        "take": 2,
+        "file": "EP28/Video/EP28_A110_T02.mp4",
+        "job": "9939a989-2e89-94e7-bfbd-cab93d76b46b",
+        "result": "ok",
+        "qc": "6.0s มีเสียง VO ปากปิดตลอด เหลือบตาขวา กล้องนิ่ง",
+        "cost": 0.12
+      }
+    ],
+    "selected": "EP28/Video/EP28_A110_T02.mp4",
+    "prompt_sha": "a86dd00b8e71",
+    "flag": "ต้องฟังเสียง VO ว่าปากไม่ขยับ"
+  },
+  "notes": []
+}

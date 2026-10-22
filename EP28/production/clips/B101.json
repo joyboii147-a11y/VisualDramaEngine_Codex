@@ -1,0 +1,37 @@
+{
+  "clip": "B101",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_B101_T01.png",
+        "job": "01a15c7a-e98e-74a3-9f8f-30c584198d62",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_B101_T01.png",
+    "prompt_sha": "085d4937c163",
+    "flag": null,
+    "facts": "Exterior of a cream European-style mansion at night seen from a low angle; wrought-iron balcony and lit windows; dark navy sky; no people."
+  },
+  "video": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_B101_T01.mp4",
+        "job": "6b4bc977-cbc9-9a0b-8064-4c11d02fa548",
+        "result": "ok",
+        "qc": "static exterior held, no people, no reframe (drift 0.04)",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Video/EP28_B101_T01.mp4",
+    "prompt_sha": "61ca00b8ee9e",
+    "flag": null
+  },
+  "notes": []
+}

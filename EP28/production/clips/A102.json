@@ -1,0 +1,37 @@
+{
+  "clip": "A102",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_A102_T01.png",
+        "job": "01a15c7a-f992-7c90-8533-79ea6b5abe1a",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_A102_T01.png",
+    "prompt_sha": "606d5aca887a",
+    "flag": null,
+    "facts": "Wit's mother seated, medium close-up, gentle smile looking screen-left; Irin's dark hair blurred at left foreground edge."
+  },
+  "video": {
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_A102_T01.mp4",
+        "job": "309502c3-aadc-993b-87b6-c615f6f0c255",
+        "result": "ok",
+        "qc": "11.0s มีเสียง แม่พูด ผมอิรินเบลอซ้ายคงที่ กล้องนิ่ง",
+        "cost": 0.88
+      }
+    ],
+    "selected": "EP28/Video/EP28_A102_T01.mp4",
+    "prompt_sha": "5cd955be75d2",
+    "flag": "ต้องฟังลิปซิงก์"
+  },
+  "notes": []
+}

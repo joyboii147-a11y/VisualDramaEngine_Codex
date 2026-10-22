@@ -1,0 +1,37 @@
+{
+  "clip": "A103",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_A103_T01.png",
+        "job": "01a15c7b-0a88-7032-aaa1-5c15c667fc92",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_A103_T01.png",
+    "prompt_sha": "d3432cc2ec9e",
+    "flag": null,
+    "facts": "Wit at left seated with his hand on Irin's belly, Irin beside him; peach flowers lower-left; Wit's mother's white shoulder blurred at right edge."
+  },
+  "video": {
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_A103_T01.mp4",
+        "job": "d827727c-226f-914c-a0ff-753fa0bcee57",
+        "result": "ok",
+        "qc": "6.0s มีเสียง วิทย์ลูบท้อง อิรินยิ้มก้มหน้า ไหล่แม่เบลอขวาคงที่ กล้องนิ่ง",
+        "cost": 0.12
+      }
+    ],
+    "selected": "EP28/Video/EP28_A103_T01.mp4",
+    "prompt_sha": "2f36bc52d121",
+    "flag": "ต้องฟังลิปซิงก์"
+  },
+  "notes": []
+}

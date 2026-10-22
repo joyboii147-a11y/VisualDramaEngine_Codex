@@ -1,0 +1,37 @@
+{
+  "clip": "B012",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_B012_T01.png",
+        "job": "01a15c7a-b244-7b62-b9c9-e17a8180287e",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_B012_T01.png",
+    "prompt_sha": "1baf448ce009",
+    "flag": null,
+    "facts": "Irin smiling toward screen-right; rear of Wit's mother's head and white shoulder at right foreground; white table at lower-right."
+  },
+  "video": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_B012_T01.mp4",
+        "job": "1ad94a76-70e4-9d0f-b1f2-cfbe3f3b2a4a",
+        "result": "ok",
+        "qc": "3.04s Irin ก้มหน้ายิ้ม แม่ด้านหน้าคงที่ drift 0.054",
+        "cost": 0.24
+      }
+    ],
+    "selected": "EP28/Video/EP28_B012_T01.mp4",
+    "prompt_sha": "df2b6d0db00c",
+    "flag": null
+  },
+  "notes": []
+}

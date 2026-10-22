@@ -1,0 +1,37 @@
+{
+  "clip": "B105",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_B105_T01.png",
+        "job": "01a15c7b-2c84-7371-ace0-a98c3e454ec0",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_B105_T01.png",
+    "prompt_sha": "0fbfff768d2a",
+    "flag": null,
+    "facts": "Irin standing, medium close-up, wide-eyed slight smile; Sila's navy polo blurred at left foreground edge."
+  },
+  "video": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_B105_T01.mp4",
+        "job": "bf9d382c-6f8f-9321-a397-aa321c925d6a",
+        "result": "ok",
+        "qc": "Irin MCU, smile settles to guarded look, navy torso FG kept, locked (drift 0.10)",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Video/EP28_B105_T01.mp4",
+    "prompt_sha": "df8e84d467ac",
+    "flag": null
+  },
+  "notes": []
+}

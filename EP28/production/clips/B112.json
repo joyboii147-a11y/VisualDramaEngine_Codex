@@ -1,0 +1,37 @@
+{
+  "clip": "B112",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_B112_T01.png",
+        "job": "01a15c7b-73c6-77f0-b575-0432e6f68c2e",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_B112_T01.png",
+    "prompt_sha": "ae657dae3116",
+    "flag": null,
+    "facts": "Rita alone standing, waist-up, cool look slightly screen-left; chandelier behind."
+  },
+  "video": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_B112_T01.mp4",
+        "job": "d0c5bcf8-a182-97f1-957e-d4d0d438d95c",
+        "result": "ok",
+        "qc": "Rita cool, blinks once, locked (drift 0.07)",
+        "cost": 0.12
+      }
+    ],
+    "selected": "EP28/Video/EP28_B112_T01.mp4",
+    "prompt_sha": "3e1c145e5c64",
+    "flag": null
+  },
+  "notes": []
+}

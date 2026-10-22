@@ -1,0 +1,37 @@
+{
+  "clip": "B003",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_B003_T01.png",
+        "job": "01a15c7a-50f1-7600-827a-f3d7d996cb6c",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_B003_T01.png",
+    "prompt_sha": "40945d3f6504",
+    "flag": null,
+    "facts": "Irin medium close-up smiling toward screen-right; Wit's cream sleeve blurred at left edge and Wit's mother's rear head and white shoulder blurred at right foreground."
+  },
+  "video": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_B003_T01.mp4",
+        "job": "87c3b028-37a2-937d-8292-974aa8a5cf6b",
+        "result": "ok",
+        "qc": "3.04s Irin ก้มหน้ายิ้ม ไหล่แม่คงที่ drift 0.042",
+        "cost": 0.24
+      }
+    ],
+    "selected": "EP28/Video/EP28_B003_T01.mp4",
+    "prompt_sha": "870ceca37c7a",
+    "flag": null
+  },
+  "notes": []
+}

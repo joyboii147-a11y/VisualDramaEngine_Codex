@@ -1,0 +1,37 @@
+{
+  "clip": "A011",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_A011_T01.png",
+        "job": "01a15c7a-aa85-7813-a529-a7408ebaba90",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_A011_T01.png",
+    "prompt_sha": "9af61dfdcecf",
+    "flag": null,
+    "facts": "Wit's mother alone, waist-up, warm smile looking screen-left, hands clasped; night windows and pillar behind."
+  },
+  "video": {
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_A011_T01.mp4",
+        "job": "8e9a14a1-fd33-93e0-a3dd-71ba2337baa9",
+        "result": "ok",
+        "qc": "6.04s มีเสียง แม่พูดแล้วยิ้ม drift 0.065",
+        "cost": 0.48
+      }
+    ],
+    "selected": "EP28/Video/EP28_A011_T01.mp4",
+    "prompt_sha": "821e13e9336c",
+    "flag": "ต้องฟังลิปซิงก์"
+  },
+  "notes": []
+}

@@ -1,0 +1,37 @@
+{
+  "clip": "A111",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_A111_T01.png",
+        "job": "01a15c7b-9044-7b20-ab8d-ab65a3603015",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_A111_T01.png",
+    "prompt_sha": "10670ec62a2d",
+    "flag": null,
+    "facts": "Rita center facing camera with raised chin; Sila blurred behind her at upper-left."
+  },
+  "video": {
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_A111_T01.mp4",
+        "job": "3b53314b-5cbc-93c2-8f35-107c09e75893",
+        "result": "ok",
+        "qc": "12.0s มีเสียง ริต้าพูดคำขาด ศิลายืนหลังซ้าย กล้องนิ่ง",
+        "cost": 0.96
+      }
+    ],
+    "selected": "EP28/Video/EP28_A111_T01.mp4",
+    "prompt_sha": "57f5f1d8cd5e",
+    "flag": "ต้องฟังลิปซิงก์"
+  },
+  "notes": []
+}

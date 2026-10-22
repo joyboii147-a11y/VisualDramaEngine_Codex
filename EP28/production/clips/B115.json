@@ -1,0 +1,37 @@
+{
+  "clip": "B115",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_B115_T01.png",
+        "job": "01a15c7b-9d57-76f2-b697-7ed341ccb054",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_B115_T01.png",
+    "prompt_sha": "880faf135e5a",
+    "flag": null,
+    "facts": "Irin tight close-up, head tilted, sideways glance screen-right, faint smile."
+  },
+  "video": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_B115_T01.mp4",
+        "job": "6c64db7a-a610-9e1f-91a5-bfaba60d07ae",
+        "result": "ok",
+        "qc": "Irin tight CU sideways glance, knowing smile, locked (drift 0.07)",
+        "cost": 0.08
+      }
+    ],
+    "selected": "EP28/Video/EP28_B115_T01.mp4",
+    "prompt_sha": "087129eaf5bd",
+    "flag": null
+  },
+  "notes": []
+}

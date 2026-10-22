@@ -1,0 +1,37 @@
+{
+  "clip": "B130",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_B130_T01.png",
+        "job": "01a15c7c-48e5-7ff2-be3e-6dfe3315c7a2",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_B130_T01.png",
+    "prompt_sha": "cd3a8786fde0",
+    "flag": null,
+    "facts": "Irin standing center, waist-up, eyes lowered, hands clasped; Wit's cream sleeve blurred at left foreground edge."
+  },
+  "video": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_B130_T01.mp4",
+        "job": "507d05ec-4890-9e7f-83ba-0864da0825ed",
+        "result": "ok",
+        "qc": "Irin lifts eyes to neutral forward look, sleeve FG kept, locked (drift 0.11)",
+        "cost": 0.08
+      }
+    ],
+    "selected": "EP28/Video/EP28_B130_T01.mp4",
+    "prompt_sha": "6527044b80ce",
+    "flag": null
+  },
+  "notes": []
+}

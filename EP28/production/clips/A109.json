@@ -1,0 +1,37 @@
+{
+  "clip": "A109",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_A109_T01.png",
+        "job": "01a15c7b-804c-7eb0-876f-5271e3702175",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_A109_T01.png",
+    "prompt_sha": "b63c69abad75",
+    "flag": null,
+    "facts": "Irin alone standing, medium close-up, eyes lowered with a guarded look."
+  },
+  "video": {
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_A109_T01.mp4",
+        "job": "0b5d1fab-4ae5-90aa-a7e6-29e538213d40",
+        "result": "ok",
+        "qc": "4.0s มีเสียง VO อิรินปากนิ่ง เหลือบตา กล้องนิ่ง",
+        "cost": 0.08
+      }
+    ],
+    "selected": "EP28/Video/EP28_A109_T01.mp4",
+    "prompt_sha": "3f672ea6ee50",
+    "flag": "ต้องฟังเสียง VO ว่าปากไม่ขยับ"
+  },
+  "notes": []
+}

@@ -1,0 +1,18 @@
+{
+  "clip": "A007",
+  "endpoint": "openai/gpt-image-2/edit",
+  "refs": [
+    "input/characters/ไอริน/ไอริน W12 ชุดคลุมท้อง.png",
+    "input/characters/แม่วิทย์/แม่วิทย์ W04.png"
+  ],
+  "out_file": "EP28/Image/EP28_A007_T01.png",
+  "prompt_chars": 6094,
+  "status": "done",
+  "request_id": "01a15c7a-397b-7d01-8d89-ac6cd0ee549f",
+  "status_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a15c7a-397b-7d01-8d89-ac6cd0ee549f/status",
+  "response_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a15c7a-397b-7d01-8d89-ac6cd0ee549f",
+  "submitted": "2026-10-21 10:21:16",
+  "width": null,
+  "height": null,
+  "finished": "2026-10-21 10:24:18"
+}

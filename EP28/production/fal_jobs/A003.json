@@ -1,0 +1,17 @@
+{
+  "clip": "A003",
+  "endpoint": "openai/gpt-image-2/edit",
+  "refs": [
+    "input/characters/พ่อวิทย์/พ่อวิทย์ Face.webp"
+  ],
+  "out_file": "EP28/Image/EP28_A003_T01.png",
+  "prompt_chars": 3342,
+  "status": "done",
+  "request_id": "01a15c7a-1ad0-7401-84de-31cddedaf60b",
+  "status_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a15c7a-1ad0-7401-84de-31cddedaf60b/status",
+  "response_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a15c7a-1ad0-7401-84de-31cddedaf60b",
+  "submitted": "2026-10-21 10:21:08",
+  "width": null,
+  "height": null,
+  "finished": "2026-10-21 10:24:01"
+}

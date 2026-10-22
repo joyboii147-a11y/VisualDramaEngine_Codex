@@ -1,0 +1,37 @@
+{
+  "clip": "A107",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_A107_T01.png",
+        "job": "01a15c7b-5aa0-7540-b2da-b2b8c90f228b",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_A107_T01.png",
+    "prompt_sha": "92d04b763dd1",
+    "flag": null,
+    "facts": "Sila at center-left facing screen-right; Rita in left-facing profile at the right edge."
+  },
+  "video": {
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_A107_T01.mp4",
+        "job": "712eab0b-bf24-907b-a658-1a4ac1abf2ba",
+        "result": "ok",
+        "qc": "7.0s มีเสียง แพนขวาจากศิลาไปริต้าตามสั่ง drift สูงเพราะแพนตั้งใจ จบริต้ามองหน้าตรง",
+        "cost": 0.56
+      }
+    ],
+    "selected": "EP28/Video/EP28_A107_T01.mp4",
+    "prompt_sha": "6aac3ffcc608",
+    "flag": "ต้องฟังลิปซิงก์; ตรวจจังหวะแพน"
+  },
+  "notes": []
+}

@@ -1,0 +1,37 @@
+{
+  "clip": "B110",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_B110_T01.png",
+        "job": "01a15c7b-6006-7c02-bfec-e82cb9ed9f65",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_B110_T01.png",
+    "prompt_sha": "f7a9b7155ec7",
+    "flag": null,
+    "facts": "Wit's mother seated, medium close-up, faint cool smile facing slightly right."
+  },
+  "video": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_B110_T01.mp4",
+        "job": "364aa0e0-070f-9bc6-9b96-8f3cdd30a0fd",
+        "result": "ok",
+        "qc": "Mother develops faint smile, locked (drift 0.08)",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Video/EP28_B110_T01.mp4",
+    "prompt_sha": "7a2836130d39",
+    "flag": null
+  },
+  "notes": []
+}
