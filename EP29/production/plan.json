@@ -12,8 +12,7 @@
         "D001"
       ],
       "dialogue": [
-        "ประธานวรเทพครับ ผลตรวจออกมาแล้วครับ",
-        "ประธาน"
+        "ประธานวิทย์ครับ ผลตรวจออกมาแล้วครับ"
       ],
       "audio_mode": "A",
       "mute": false,
@@ -209,7 +208,7 @@
         "D008"
       ],
       "dialogue": [
-        "คุณเลขาเจต"
+        "สวัสดี"
       ],
       "audio_mode": "A",
       "mute": false,
@@ -227,7 +226,7 @@
         "D009"
       ],
       "dialogue": [
-        "คุณหนูจองฮียอน มีเรื่องอะไรหรอครับ?"
+        "คุณหนูริต้า มีเรื่องอะไรหรอครับ?"
       ],
       "audio_mode": "A",
       "mute": false,
@@ -249,7 +248,7 @@
       ],
       "dialogue": [
         "เลขาเจต",
-        "ในการ์ดใบนี้"
+        "ในบัตรใบนี้"
       ],
       "audio_mode": "A",
       "mute": false,
@@ -268,7 +267,7 @@
       "audio_mode": "C",
       "mute": true,
       "overlay": false,
-      "cut_note": "~0.8 วิ (ช่วง 0.5–1.3 วิของคลิป) | In: ใบหน้าสุภาพนิ่ง ระวังตัว (ต่อจาก Out S014) → Out: นิ่ง ไม่กะพริบตา กรามตึงเล็กน้อย | ตัดกลับ A033 | ภาพใหม่ในฉากเดิม | Blocking: SC02-B03–B04"
+      "cut_note": "~0.8 วิ (ช่วง 0.5–1.3 วิของคลิป) | In: นิ่ง หรี่ตาระแวง ระวังตัว (ต่อจาก Out S014) (ต่อจาก Out S014) → Out: นิ่ง ไม่กะพริบตา กรามตึงเล็กน้อย | ตัดกลับ A033 | ภาพใหม่ในฉากเดิม | Blocking: SC02-B03–B04"
     },
     {
       "id": "EP29-S017",
@@ -281,12 +280,12 @@
         "D011"
       ],
       "dialogue": [
-        "ในการ์ดใบนี้"
+        "ในบัตรใบนี้"
       ],
       "audio_mode": null,
       "mute": false,
       "overlay": false,
-      "cut_note": "~1.3 วิ | เข้าที่ช่วงบัตรกำลังยกถึงระดับใบหน้า ก่อนคำว่า \"ในการ์ด\" ออกหลังจบ \"ใบนี้\" | In: ยิ้มหายครึ่งหนึ่ง สบตาตรง มือขวายกบัตร → Out: บัตร P12 ชูมือขวาระดับใบหน้า หันหน้าบัตรเข้าหาเลขาเจต ยิ้มมั่นใจ ยกคิ้ว | กลับ A033 ตามเวลาเดิม ไม่เริ่มใหม่ | Blocking: SC02-B05"
+      "cut_note": "~1.3 วิ | เข้าที่ช่วงบัตรกำลังยกถึงระดับใบหน้า ก่อนคำว่า \"ในบัตร\" ออกหลังจบ \"ใบนี้\" | In: ยิ้มหายครึ่งหนึ่ง สบตาตรง มือขวายกบัตร → Out: บัตร P12 ชูมือขวาระดับใบหน้า หันหน้าบัตรเข้าหาเลขาเจต ยิ้มมั่นใจ ยกคิ้ว | กลับ A033 ตามเวลาเดิม ไม่เริ่มใหม่ | Blocking: SC02-B05"
     },
     {
       "id": "EP29-S018",
@@ -490,18 +489,18 @@
       "scene": "SC02",
       "clip": "A039",
       "reuse": false,
-      "gen_sec": 4.0,
-      "use_sec": 2.8,
+      "gen_sec": 5.0,
+      "use_sec": 3.3,
       "dialogue_ids": [
         "D019"
       ],
       "dialogue": [
-        "แบจีอาไม่มีสิทธิ์เป็นลูกสะใภ้ของคึมอินกรุ๊ปหรอก"
+        "ยัยไอรินนั้นไม่มีสิทธิ์เป็นลูกสะใภ้ของธนากรุ๊ปหรอก"
       ],
       "audio_mode": "A",
       "mute": false,
       "overlay": false,
-      "cut_note": "~2.8 วิ | In: ยิ้มมุมปากค้าง สายตานิ่ง (ต่อจาก Out S027) → Out: เชิดคางขึ้น มุมปากบิดดูแคลน เสียงเย็น ปากปิด | ตัดหลังจบ \"หรอก\" | ภาพใหม่ในฉากเดิม | Blocking: SC02-B06–B12"
+      "cut_note": "~3.3 วิ | In: ยิ้มมุมปากค้าง สายตานิ่ง (ต่อจาก Out S027) → Out: เชิดคางขึ้น มุมปากบิดดูแคลน เสียงเย็น ปากปิด | ตัดหลังจบ \"หรอก\" | ภาพใหม่ในฉากเดิม | Blocking: SC02-B06–B12"
     },
     {
       "id": "EP29-S030",
@@ -509,17 +508,17 @@
       "clip": "A040",
       "reuse": false,
       "gen_sec": 4.0,
-      "use_sec": 2.2,
+      "use_sec": 2.7,
       "dialogue_ids": [
         "D020"
       ],
       "dialogue": [
-        "มีแค่ฉันที่คู่ควร กับพี่มินฮยอก"
+        "มีแค่ฉันเท่านั้นแหละ ที่คู่ควรกับพี่วิทย์"
       ],
       "audio_mode": "A",
       "mute": false,
       "overlay": false,
-      "cut_note": "~2.2 วิ | In: เชิดคาง มุมปากดูแคลน (ต่อจาก Out S029) → Out: ภาคภูมิ มือซ้ายแตะหน้าอกตัวเองเบาๆ ตอน \"มีแค่ฉัน\" แล้วค้างไว้ ปากปิด | ตัดหลังจบ \"มินฮยอก\" | ต่อการกระทำจาก A039 — ตัดจาก MCU OTS เป็น CU มุมต่ำ | Blocking: SC02-B06–B12"
+      "cut_note": "~2.7 วิ | In: เชิดคาง มุมปากดูแคลน (ต่อจาก Out S029) → Out: ภาคภูมิ มือซ้ายแตะหน้าอกตัวเองเบาๆ ตอน \"มีแค่ฉัน\" แล้วค้างไว้ ปากปิด | ตัดหลังจบ \"วิทย์\" | ต่อการกระทำจาก A039 — ตัดจาก MCU OTS เป็น CU มุมต่ำ | Blocking: SC02-B06–B12"
     },
     {
       "id": "EP29-S031",
@@ -667,7 +666,7 @@
       "audio_mode": "C",
       "mute": false,
       "overlay": false,
-      "cut_note": "ประมาณ 3.5 วิ | In: ริต้ายืนนิ่งหลังโต๊ะฝั่งซ้าย มือว่าง กระเป๋าไหล่ซ้าย ยิ้มบาง หันขวา; เลขาเจตเพิ่งก้าวเข้าจากขอบขวาเฟรม ถือ P13 มือขวาแนบลำตัว หน้าเรียบ → Out: เลขาเจตหยุดหลังโต๊ะทางขวาของริต้า ห่าง ~1 ม. หันซ้ายสบตาริต้าสั้นๆ หน้าเรียบ; ริต้ายิ้มบางมองเลขาเจต | ตัดหลังเลขาเจตหยุดเท้า | ภาพใหม่ ฉากใหม่ (ข้ามจาก SC02 โถงทางเดิน — ข้ามเวลาสั้น) | Blocking: SC03-B01"
+      "cut_note": "ประมาณ 3.5 วิ | In: ริต้ายืนนิ่งหลังโต๊ะฝั่งซ้าย มือว่าง กระเป๋าไหล่ซ้าย ยิ้มบาง หันขวา; เลขาเจตกลางก้าวหลังโต๊ะ ชิดขวาของแจกัน ห่างริต้า ~2 ม. ถือ P13 มือขวาแนบลำตัว หน้าเรียบ (แก้ตามคำสั่ง 2026-10-21: เดินสั้นลงเหลือ 2 ก้าวขนานผนังกระจก เพราะ 3 take เดินเข้าหากล้องและหยุดผิดที่) → Out: เลขาเจตหยุดหลังโต๊ะทางขวาของริต้า ห่าง ~1 ม. ซ้ายของแจกัน หันซ้ายสบตาริต้าสั้นๆ หน้าเรียบ; ริต้ายิ้มบางมองเลขาเจต | ตัดหลังเลขาเจตหยุดเท้า | ภาพใหม่ ฉากใหม่ (ข้ามจาก SC02 โถงทางเดิน — ข้ามเวลาสั้น) | Blocking: SC03-B01"
     },
     {
       "id": "EP29-S040",
@@ -708,8 +707,7 @@
         "D025"
       ],
       "dialogue": [
-        "ประธานวรเทพครับ นี่คือรายงานผลตรวจครับ",
-        "ประธาน"
+        "ประธานวิทย์ครับ นี่คือรายงานผลตรวจครับ"
       ],
       "audio_mode": "A",
       "mute": false,
@@ -776,7 +774,7 @@
       "audio_mode": "C",
       "mute": false,
       "overlay": false,
-      "cut_note": "ประมาณ 2.5 วิ | In: สี่คนยืนตามแนวเดิม วิทย์ถือ P13 สองมือระดับอก ไอรินยิ้ม มองซอง (ตาม Out S045) เลขาเจตมือว่าง ริต้าหน้านิ่งมองวิทย์; แม่วิทย์ก้าวเข้าจากขอบขวาเฟรม หน้าสงบ มือว่าง → Out: แม่วิทย์หยุดหลังโต๊ะขวาสุดถัดไอริน มองไปทางวิทย์; คนอื่นนิ่งที่เดิม | ตัดเมื่อแม่หยุดเท้า | ภาพใหม่ในฉากเดิม | Blocking: SC03-B06"
+      "cut_note": "ประมาณ 2.5 วิ | In: วิทย์ถือ P13 สองมือระดับอก ไอรินยิ้ม มองซอง (ตาม Out S045); แม่วิทย์อยู่ในเฟรมขวาแล้ว กลางก้าว ห่างไอริน ~1.5 ม. หน้าสงบ มือว่าง → Out: แม่วิทย์ก้าวสั้นสองก้าวขนานผนังกระจก หยุดขวาของไอริน มองซ้ายไปทางวิทย์; วิทย์ ไอรินนิ่งที่เดิม | ตัดเมื่อแม่หยุดเท้า | ภาพใหม่ในฉากเดิม | Blocking: SC03-B06"
     },
     {
       "id": "EP29-S046",
@@ -955,7 +953,7 @@
         "D030"
       ],
       "dialogue": [
-        "แบจีอา เธอรอโดนไล่ออกจากบ้านได้เลย"
+        "หึ! ยัยไอริน แกรอโดนไล่ออกจากบ้านได้เลย"
       ],
       "audio_mode": "A",
       "mute": false,
@@ -1006,7 +1004,7 @@
       "video_prompt": "EP29/prompts/EP29_A001_video.txt",
       "video_sec": 4,
       "image_sha": "d2bf3213c561",
-      "video_sha": "f2f66c0b1acf"
+      "video_sha": "fa825ea7ce75"
     },
     "A002": {
       "clip": "A002",
@@ -1168,8 +1166,8 @@
       "image_prompt": "EP29/prompts/EP29_B021_image.txt",
       "video_prompt": "EP29/prompts/EP29_B021_video.txt",
       "video_sec": 4,
-      "image_sha": "9694dfbd6aa6",
-      "video_sha": "03cd59cce7d8"
+      "image_sha": "3c6f5a5fba0f",
+      "video_sha": "a32a943426d0"
     },
     "B022": {
       "clip": "B022",
@@ -1185,8 +1183,8 @@
       "image_prompt": "EP29/prompts/EP29_B022_image.txt",
       "video_prompt": "EP29/prompts/EP29_B022_video.txt",
       "video_sec": 4,
-      "image_sha": "bc06a858445b",
-      "video_sha": "470d2e63f107"
+      "image_sha": "60550a869bb1",
+      "video_sha": "7515ffc5e27d"
     },
     "A031": {
       "clip": "A031",
@@ -1202,8 +1200,8 @@
       "image_prompt": "EP29/prompts/EP29_A031_image.txt",
       "video_prompt": "EP29/prompts/EP29_A031_video.txt",
       "video_sec": 3,
-      "image_sha": "d46f7bc0cc00",
-      "video_sha": "cf4d50e04176"
+      "image_sha": "2c655e8ecb4b",
+      "video_sha": "b6e6a90e3a78"
     },
     "A032": {
       "clip": "A032",
@@ -1219,8 +1217,8 @@
       "image_prompt": "EP29/prompts/EP29_A032_image.txt",
       "video_prompt": "EP29/prompts/EP29_A032_video.txt",
       "video_sec": 4,
-      "image_sha": "4b48544ee936",
-      "video_sha": "afea232acded"
+      "image_sha": "0f16b0703059",
+      "video_sha": "1aec96e757e6"
     },
     "A033": {
       "clip": "A033",
@@ -1237,8 +1235,8 @@
       "image_prompt": "EP29/prompts/EP29_A033_image.txt",
       "video_prompt": "EP29/prompts/EP29_A033_video.txt",
       "video_sec": 4,
-      "image_sha": "1afe2955de1d",
-      "video_sha": "e6c17056644f"
+      "image_sha": "67da38d23b59",
+      "video_sha": "16b557ddd39c"
     },
     "B023": {
       "clip": "B023",
@@ -1256,8 +1254,8 @@
       "image_prompt": "EP29/prompts/EP29_B023_image.txt",
       "video_prompt": "EP29/prompts/EP29_B023_video.txt",
       "video_sec": 6,
-      "image_sha": "00ba0ac9c0db",
-      "video_sha": "5d915f5ba5fa"
+      "image_sha": "22e781bee041",
+      "video_sha": "1f410b115fe5"
     },
     "A034": {
       "clip": "A034",
@@ -1273,8 +1271,8 @@
       "image_prompt": "EP29/prompts/EP29_A034_image.txt",
       "video_prompt": "EP29/prompts/EP29_A034_video.txt",
       "video_sec": 6,
-      "image_sha": "c8efd5fef413",
-      "video_sha": "6065906a3817"
+      "image_sha": "e7250581750c",
+      "video_sha": "61d2c958fd5f"
     },
     "A035": {
       "clip": "A035",
@@ -1290,8 +1288,8 @@
       "image_prompt": "EP29/prompts/EP29_A035_image.txt",
       "video_prompt": "EP29/prompts/EP29_A035_video.txt",
       "video_sec": 3,
-      "image_sha": "f0d4ba3c2517",
-      "video_sha": "fc12805fa3c6"
+      "image_sha": "19d7444aea1e",
+      "video_sha": "a53907661918"
     },
     "A036": {
       "clip": "A036",
@@ -1307,8 +1305,8 @@
       "image_prompt": "EP29/prompts/EP29_A036_image.txt",
       "video_prompt": "EP29/prompts/EP29_A036_video.txt",
       "video_sec": 4,
-      "image_sha": "e49e3b42cee0",
-      "video_sha": "a6aebeadf898"
+      "image_sha": "07b5d54c4900",
+      "video_sha": "3954627fb3d9"
     },
     "A037": {
       "clip": "A037",
@@ -1323,8 +1321,8 @@
       "image_prompt": "EP29/prompts/EP29_A037_image.txt",
       "video_prompt": "EP29/prompts/EP29_A037_video.txt",
       "video_sec": 3,
-      "image_sha": "39a8f6bf00ef",
-      "video_sha": "7ed1b4353cf6"
+      "image_sha": "0ac15f407b96",
+      "video_sha": "104c40c5e598"
     },
     "B024": {
       "clip": "B024",
@@ -1341,8 +1339,8 @@
       "image_prompt": "EP29/prompts/EP29_B024_image.txt",
       "video_prompt": "EP29/prompts/EP29_B024_video.txt",
       "video_sec": 5,
-      "image_sha": "513d3c6c5685",
-      "video_sha": "fd52ff1acdae"
+      "image_sha": "e89544cb77ec",
+      "video_sha": "61e19d2b69b7"
     },
     "A038": {
       "clip": "A038",
@@ -1359,8 +1357,8 @@
       "image_prompt": "EP29/prompts/EP29_A038_image.txt",
       "video_prompt": "EP29/prompts/EP29_A038_video.txt",
       "video_sec": 6,
-      "image_sha": "15be5cf78918",
-      "video_sha": "64cd6dc30371"
+      "image_sha": "ea1e33074806",
+      "video_sha": "851e22294b65"
     },
     "A039": {
       "clip": "A039",
@@ -1375,9 +1373,9 @@
       ],
       "image_prompt": "EP29/prompts/EP29_A039_image.txt",
       "video_prompt": "EP29/prompts/EP29_A039_video.txt",
-      "video_sec": 4,
-      "image_sha": "6ace50ea16fc",
-      "video_sha": "ca155cf04cda"
+      "video_sec": 5,
+      "image_sha": "5dcd19fe46b8",
+      "video_sha": "22019187107c"
     },
     "A040": {
       "clip": "A040",
@@ -1392,8 +1390,8 @@
       "image_prompt": "EP29/prompts/EP29_A040_image.txt",
       "video_prompt": "EP29/prompts/EP29_A040_video.txt",
       "video_sec": 4,
-      "image_sha": "eed4af38a601",
-      "video_sha": "5b668d3bcc57"
+      "image_sha": "9851b9b8dd51",
+      "video_sha": "bc0433d60ae8"
     },
     "A041": {
       "clip": "A041",
@@ -1409,8 +1407,8 @@
       "image_prompt": "EP29/prompts/EP29_A041_image.txt",
       "video_prompt": "EP29/prompts/EP29_A041_video.txt",
       "video_sec": 3,
-      "image_sha": "5bc7e9d0a420",
-      "video_sha": "bf8ea6acd76a"
+      "image_sha": "fc56956bb970",
+      "video_sha": "a673a3cda61d"
     },
     "B025": {
       "clip": "B025",
@@ -1426,8 +1424,8 @@
       "image_prompt": "EP29/prompts/EP29_B025_image.txt",
       "video_prompt": "EP29/prompts/EP29_B025_video.txt",
       "video_sec": 4,
-      "image_sha": "c6889cb26d56",
-      "video_sha": "2f451f693ccb"
+      "image_sha": "892c055b6d81",
+      "video_sha": "b98deaced2cf"
     },
     "A042": {
       "clip": "A042",
@@ -1442,8 +1440,8 @@
       "image_prompt": "EP29/prompts/EP29_A042_image.txt",
       "video_prompt": "EP29/prompts/EP29_A042_video.txt",
       "video_sec": 3,
-      "image_sha": "2ce4c808fb20",
-      "video_sha": "36a57a072410"
+      "image_sha": "de2f857dae98",
+      "video_sha": "dc3a2074dbd3"
     },
     "A043": {
       "clip": "A043",
@@ -1459,8 +1457,8 @@
       "image_prompt": "EP29/prompts/EP29_A043_image.txt",
       "video_prompt": "EP29/prompts/EP29_A043_video.txt",
       "video_sec": 5,
-      "image_sha": "80bb7715fac6",
-      "video_sha": "4a3f4bd6e4fe"
+      "image_sha": "fa5179a96607",
+      "video_sha": "601c750bccf6"
     },
     "A044": {
       "clip": "A044",
@@ -1477,8 +1475,8 @@
       "image_prompt": "EP29/prompts/EP29_A044_image.txt",
       "video_prompt": "EP29/prompts/EP29_A044_video.txt",
       "video_sec": 6,
-      "image_sha": "cc5dac0a9c62",
-      "video_sha": "14d134edfb9a"
+      "image_sha": "2691b1701221",
+      "video_sha": "9e29a8edf474"
     },
     "B026": {
       "clip": "B026",
@@ -1495,8 +1493,8 @@
       "image_prompt": "EP29/prompts/EP29_B026_image.txt",
       "video_prompt": "EP29/prompts/EP29_B026_video.txt",
       "video_sec": 5,
-      "image_sha": "903505a248ec",
-      "video_sha": "1560421ad014"
+      "image_sha": "b52518dea715",
+      "video_sha": "8a8a2900bfcd"
     },
     "B041": {
       "clip": "B041",
@@ -1512,8 +1510,8 @@
       "image_prompt": "EP29/prompts/EP29_B041_image.txt",
       "video_prompt": "EP29/prompts/EP29_B041_video.txt",
       "video_sec": 5,
-      "image_sha": "fe46ebdca534",
-      "video_sha": "34d7ce7632ca"
+      "image_sha": "c77257fc846f",
+      "video_sha": "caa27f6e271c"
     },
     "B042": {
       "clip": "B042",
@@ -1528,8 +1526,8 @@
       "image_prompt": "EP29/prompts/EP29_B042_image.txt",
       "video_prompt": "EP29/prompts/EP29_B042_video.txt",
       "video_sec": 3,
-      "image_sha": "f67901965cbf",
-      "video_sha": "73b49b4be668"
+      "image_sha": "88c639d56eab",
+      "video_sha": "25d464741ef1"
     },
     "B043": {
       "clip": "B043",
@@ -1547,8 +1545,8 @@
       "image_prompt": "EP29/prompts/EP29_B043_image.txt",
       "video_prompt": "EP29/prompts/EP29_B043_video.txt",
       "video_sec": 5,
-      "image_sha": "52a260dc7921",
-      "video_sha": "92a72ce1aaaf"
+      "image_sha": "59e95e42d2ac",
+      "video_sha": "801fd9dbc80b"
     },
     "A061": {
       "clip": "A061",
@@ -1563,8 +1561,8 @@
       "image_prompt": "EP29/prompts/EP29_A061_image.txt",
       "video_prompt": "EP29/prompts/EP29_A061_video.txt",
       "video_sec": 4,
-      "image_sha": "25f83d3a1e73",
-      "video_sha": "090921faef9d"
+      "image_sha": "aba7914495db",
+      "video_sha": "197353ffc775"
     },
     "B044": {
       "clip": "B044",
@@ -1579,8 +1577,8 @@
       "image_prompt": "EP29/prompts/EP29_B044_image.txt",
       "video_prompt": "EP29/prompts/EP29_B044_video.txt",
       "video_sec": 3,
-      "image_sha": "c0ce608b59e6",
-      "video_sha": "99348d41b96a"
+      "image_sha": "e83d011edfdd",
+      "video_sha": "69813f50c3b6"
     },
     "B045": {
       "clip": "B045",
@@ -1597,8 +1595,8 @@
       "image_prompt": "EP29/prompts/EP29_B045_image.txt",
       "video_prompt": "EP29/prompts/EP29_B045_video.txt",
       "video_sec": 3,
-      "image_sha": "e1d92fd54782",
-      "video_sha": "befcb4478ce2"
+      "image_sha": "5f1609fd29f9",
+      "video_sha": "8df7be758399"
     },
     "A062": {
       "clip": "A062",
@@ -1625,16 +1623,14 @@
       ],
       "refs": [
         "input/characters/แม่วิทย์/แม่วิทย์ W07 โค้ทเฟอร์ครีม.png",
-        "input/characters/วิทย์/วิทย์ W08 แจ็กเก็ตหนังกลับน้ำตาล.png",
         "input/characters/ไอริน/ไอริน W17 แจ็กเก็ตทวีดกรมท่าโบว์ขาว.png",
-        "input/characters/ริต้า/ริต้า W07 แจ็กเก็ตขนนกขาว.png",
-        "input/characters/เลขาเจต/เลขาเจต W02 สูทดำเนกไทแดง.png"
+        "input/characters/วิทย์/วิทย์ W08 แจ็กเก็ตหนังกลับน้ำตาล.png"
       ],
       "image_prompt": "EP29/prompts/EP29_B046_image.txt",
       "video_prompt": "EP29/prompts/EP29_B046_video.txt",
       "video_sec": 4,
-      "image_sha": "ab0f55b2a294",
-      "video_sha": "bb042ae0fa8c"
+      "image_sha": "df21c790d5cb",
+      "video_sha": "b059aeb6c8cb"
     },
     "A063": {
       "clip": "A063",
@@ -1669,8 +1665,8 @@
       "image_prompt": "EP29/prompts/EP29_B047_image.txt",
       "video_prompt": "EP29/prompts/EP29_B047_video.txt",
       "video_sec": 4,
-      "image_sha": "7fbfb0435b61",
-      "video_sha": "9b49b2416fd5"
+      "image_sha": "d6bcfc3af0ac",
+      "video_sha": "c5d6b886df96"
     },
     "B048": {
       "clip": "B048",
@@ -1688,8 +1684,8 @@
       "image_prompt": "EP29/prompts/EP29_B048_image.txt",
       "video_prompt": "EP29/prompts/EP29_B048_video.txt",
       "video_sec": 4,
-      "image_sha": "0128d82b40b9",
-      "video_sha": "51b6c0408433"
+      "image_sha": "a478e0bf8c8d",
+      "video_sha": "d1b57221d256"
     },
     "B049": {
       "clip": "B049",
@@ -1705,8 +1701,8 @@
       "image_prompt": "EP29/prompts/EP29_B049_image.txt",
       "video_prompt": "EP29/prompts/EP29_B049_video.txt",
       "video_sec": 3,
-      "image_sha": "0a2e6a42a139",
-      "video_sha": "167d97baefe1"
+      "image_sha": "e5e1658f1e59",
+      "video_sha": "cb338ecfdb80"
     },
     "B050": {
       "clip": "B050",
@@ -1739,8 +1735,8 @@
       "image_prompt": "EP29/prompts/EP29_A064_image.txt",
       "video_prompt": "EP29/prompts/EP29_A064_video.txt",
       "video_sec": 4,
-      "image_sha": "42c18cb12456",
-      "video_sha": "87b497244e87"
+      "image_sha": "3382d997cc01",
+      "video_sha": "8a1fa77d5dee"
     },
     "A065": {
       "clip": "A065",
@@ -1822,8 +1818,8 @@
       "image_prompt": "EP29/prompts/EP29_B054_image.txt",
       "video_prompt": "EP29/prompts/EP29_B054_video.txt",
       "video_sec": 3,
-      "image_sha": "9c1351ba5a27",
-      "video_sha": "3c56ef4a8b38"
+      "image_sha": "67c86c824bbd",
+      "video_sha": "1ff9002b9d9a"
     },
     "A066": {
       "clip": "A066",
@@ -1838,8 +1834,8 @@
       "image_prompt": "EP29/prompts/EP29_A066_image.txt",
       "video_prompt": "EP29/prompts/EP29_A066_video.txt",
       "video_sec": 5,
-      "image_sha": "8339b162ce99",
-      "video_sha": "65c5c01cc38e"
+      "image_sha": "514ffeadded0",
+      "video_sha": "0f03de8d018c"
     },
     "B055": {
       "clip": "B055",

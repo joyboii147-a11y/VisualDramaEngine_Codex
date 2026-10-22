@@ -3,40 +3,41 @@
 # ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 5 วิ | เสียงโหมด A
 #
 # ตัวละครในเฟรม (รวม 1 คน):
-# - ริต้า C06-W07 แจ็กเก็ตขนนกขาว | หน้า (CU) เฉียง 3/4 หันขวา ปากปิด | กลางค่อนซ้าย ช่องว่างขวา
+# - ริต้า C06-W07 แจ็กเก็ตขนนกขาว (ผมยาวลอนปล่อย แสกกลาง) | หน้า (CU) เฉียง 3/4 หันศีรษะไปทางซ้ายของตัวเอง = ขวาเฟรม ปากปิด สายโซ่กระเป๋าบนไหล่ซ้ายของเธอ = ไหล่ฝั่งขวาเฟรม | กลางค่อนซ้าย ช่องว่างขวา
 #
 # เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
 # - วิทย์ C05-W10 | นอกขวา เป็นคนที่ริต้ามอง
 # - เลขาเจต ไอริน แม่วิทย์ พ่อวิทย์ การ์ด | นอกขวา
-# - D030 เป็นเสียงในใจ — ห้ามลิปซิงก์
+# - D030 เป็นเสียงในใจ — ห้ามลิปซิงก์ | "หึ!" ใส่เป็น SOUND EVENT (เสียงขึ้นจมูก ปากปิด) ไม่อยู่ใน EXACT THAI DIALOGUE; Ledger/ซับใช้บทเต็ม "หึ! ยัยไอริน แกรอโดนไล่ออกจากบ้านได้เลย"
 #
 # แนบใน Grok: ภาพที่เลือกจาก EP29_A066_image
-# ผู้พูด: ริต้า VO (เสียงในใจ ปากปิดตลอด) | คนในเฟรมที่ไม่พูด: ริต้า (ปากปิด เสียงในใจ)
+# ผู้พูด: ริต้า — SOUND EVENT "หึ" ขึ้นจมูกปากปิด แล้ว VO เสียงในใจ (ปากปิดตลอด) | คนในเฟรมที่ไม่พูด: ริต้า (ปากปิด เสียงในใจ)
 # ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
 EP29_A066 SHOT EP29-S057. One continuous cinematic live-action close-up, vertical 9:16.
 TARGET DURATION: 5 seconds including handles.
 Animate the supplied starting image. Use only this request's image and instructions.
 One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
-SCENE GEOGRAPHY: a night banquet hall; behind Rita a tall black steel-framed glass wall with warm reflections and the edge of a white sheer curtain at far left.
-VISIBLE CAST: exactly 1 person: Rita, a young Thai woman in her mid-twenties, wearing a shaggy long-hair white faux-fur jacket collar over a silver-gray satin shirt dress, dark beaded necklaces, gold cluster earrings, and dark brown hair in a high top-knot bun. Her face is slightly left of center, three-quarter toward the camera, eyes screen-right.
+SCENE GEOGRAPHY: a night banquet hall; behind Rita a tall black steel-framed glass wall with warm reflections and the edge of a white sheer curtain at the far screen-left edge only; no curtain on the screen-right side.
+VISIBLE CAST: exactly 1 person: Rita, a young Thai woman in her mid-twenties, wearing a shaggy long-hair white faux-fur jacket collar over a silver-gray satin shirt dress, dark beaded necklaces, gold cluster earrings, and long dark brown wavy hair worn down past the shoulders with a center part. Her face is slightly left of center, her body three-quarter toward the camera, her head turned to her own left, which is toward the screen-right side of the frame: her nose and both eyes point screen-right, and the camera sees more of her right cheek, on the screen-left side of her face. Only a short piece of the thin gold chain strap of her bag shows at the very bottom edge, resting on her LEFT shoulder, which is the shoulder on the screen-right side of the frame; her right shoulder, on the screen-left side, has no strap.
 CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: camera on the hall interior side in front of the left part of the table, facing Rita at a slight three-quarter angle; standing eye level; tight close-up; 85mm.
 FOREGROUND / VISIBLE BACKGROUND: no foreground. Background: softly defocused black steel-framed glass wall with warm reflections; edge of a white sheer curtain at far left.
 OFF-FRAME: the person Rita watches is beyond the right frame edge; only her eyes hold there, the camera does not follow her gaze. No one else enters the frame at any time.
 LIGHTING / COLOR: warm overhead key from slightly front-right, soft warm fill, approximately 3200K; warm night banquet palette of white, cream and black steel tones, medium-low contrast, warm natural skin tones.
 PROP STATE: no handheld object in frame.
-START STATE: Rita has a still neutral face, lips fully closed, eyes screen-right.
+START STATE: Rita has a still neutral face, lips fully closed, head turned toward screen-right with her nose and eyes pointing screen-right.
 PERFORMANCE CONTEXT: Rita is privately gloating; she believes her plan has worked. Her thought is heard only as an inner voice.
-ACTION: While her inner voice is heard, Rita's lips stay fully closed and do not move. Slowly, one corner of her mouth curls into a one-sided mocking smirk and her eyes narrow slightly, still fixed screen-right. She holds the closed-mouth smirk until the very end of the clip; the framing does not change.
-END STATE: one-sided smirk, eyes slightly narrowed, lips fully closed, eyes screen-right.
+ACTION: Near the start, with lips closed, Rita gives one short scoff through her nose and one corner of her mouth curls into a one-sided mocking smirk. While her inner voice is then heard, her lips stay fully closed and do not form any words; her eyes narrow slightly, still fixed screen-right. Her head does not turn; it keeps pointing screen-right for the whole clip. She holds the closed-mouth smirk until the very end of the clip; the framing does not change.
+END STATE: one-sided smirk, eyes slightly narrowed, lips fully closed, head and eyes still pointing screen-right; the bag strap still on her left shoulder (screen-right side).
 CAMERA: locked-off, the framing never changes.
 VISUAL CONTINUITY: Preserve the starting image's faces, hair, wardrobe, set geometry, lighting character and color treatment. Allow only the specified actions and camera movement. No unplanned cuts, added people, identity swaps or prop teleportation.
 AUDIO MODE: generated dialogue.
-SPEECH EVENT 1:
+SOUND EVENT 1 (NOT SPEECH): at the start, Rita makes one short, soft, contemptuous scoff through the nose with her lips closed, about 0.3 seconds, as the smirk begins; no words, no syllables, no consonants.
+SPEECH EVENT 1 (after the scoff):
 SPEAKER: Rita, inner voice (VO). She is on screen but her lips stay fully closed and never move.
-EXACT THAI DIALOGUE: "แบจีอา เธอรอโดนไล่ออกจากบ้านได้เลย"
+EXACT THAI DIALOGUE: "ยัยไอริน แกรอโดนไล่ออกจากบ้านได้เลย"
 VOICE IDENTITY: young Thai female voice, crisp mid register, cool bright timbre, standard Thai accent
 DELIVERY: inner voice heard as an intimate voiceover: cold, mocking and slow, quietly satisfied.
-This is an inner voice: no visible person lip-syncs to this voice; Rita's mouth stays closed for the whole clip.
+This is an inner voice: no visible person lip-syncs to this voice; Rita's mouth stays closed for the whole clip and never forms words.
 NON-SPEAKERS: Rita herself (inner voice only); no speech-like lip movements.
 Speak only the assigned dialogue exactly once, without paraphrasing or added words.
 Do not stretch speech to fill the clip. No unassigned voices.

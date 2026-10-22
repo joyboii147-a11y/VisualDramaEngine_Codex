@@ -18,12 +18,37 @@
         "result": "ok",
         "qc": "ผ่าน การ์ด 1 ซ้าย การ์ด 2 ขวา ตรงภาพอ้างอิง (มีขอบโต๊ะขาว+เทียนฉากหน้าล่าง ซึ่ง prompt ให้พื้นว่าง — ยอมรับ โต๊ะขาวตรงฉาก)",
         "cost": 0.06
+      },
+      {
+        "take": 3,
+        "file": "EP29/Image/EP29_B048_T03.png",
+        "job": "01a15e5d-530a-7931-b542-cd4bb9603011",
+        "result": "fail",
+        "qc": "ข้อ8: โต๊ะผ้าปูดำในฉากหน้า (โต๊ะในฉากเป็นผ้าขาว)",
+        "cost": 0.06
+      },
+      {
+        "take": 4,
+        "file": "EP29/Image/EP29_B048_T04.png",
+        "job": "01a15e5e-a6c9-7da2-a817-5ae9788d7210",
+        "result": "fail",
+        "qc": "ข้อ8: โต๊ะผ้าปูดำ+เทียนในฉากหน้าซ้ายล่างอีก (พ่อไม่ใส่แว่นถูก การ์ดสองข้างถูก)",
+        "cost": 0.06
+      },
+      {
+        "take": 5,
+        "file": "EP29/Image/EP29_B048_T05.png",
+        "job": "01a15e5f-a002-7a61-b495-8502396f15e7",
+        "result": "ok",
+        "qc": "ผ่าน พ่อไม่ใส่แว่น การ์ด 1 ซ้าย การ์ด 2 ขวา ไหล่วิทย์ขวา ขอบโต๊ะขาวล่าง (พื้นทางเดินเป็นพรมเข้ม)",
+        "cost": 0.06
       }
     ],
-    "selected": "EP29/Image/EP29_B048_T02.png",
-    "prompt_sha": "0128d82b40b9",
+    "selected": "EP29/Image/EP29_B048_T05.png",
+    "prompt_sha": "a478e0bf8c8d",
     "flag": null,
-    "facts": "Medium-wide: Wit's father strides toward camera at center through the entrance from a warm beige corridor, open black overcoat, glasses; Guard 1 (young, soft fringe) behind at screen-left and Guard 2 (older, side-combed) behind at screen-right; Wit's blurred camel suede shoulder fills the right edge foreground; the edge of a white-clothed round table with a small glass candle holder sits in the lower foreground."
+    "facts": "Medium-wide: Wit's father without glasses strides toward camera at center from the warm beige entrance corridor, open black overcoat; Guard 1 (young, soft fringe) behind at screen-left and Guard 2 (older, side-combed) behind at screen-right; Wit's blurred camel suede shoulder fills the right edge foreground; a sliver of white table edge at the bottom; dark carpet floor.",
+    "reset_at": 2
   },
   "video": {
     "status": "done",
@@ -35,11 +60,22 @@
         "result": "ok",
         "qc": "ผ่าน พ่อเดินเข้าแล้วหยุด การ์ดสองข้าง กล้องดันเข้าเล็กน้อย",
         "cost": 0.08
+      },
+      {
+        "take": 2,
+        "file": "EP29/Video/EP29_B048_T02.mp4",
+        "job": "1d046db4-b1c9-9030-bc3e-4cde097037dc",
+        "result": "ok",
+        "qc": "ผ่าน พ่อไม่ใส่แว่น เดินเข้าแล้วชะลอ การ์ดสองข้าง กล้องดันเข้าเล็กน้อยท้ายคลิป",
+        "cost": 0.08
       }
     ],
-    "selected": "EP29/Video/EP29_B048_T01.mp4",
-    "prompt_sha": "51b6c0408433",
-    "flag": null
+    "selected": "EP29/Video/EP29_B048_T02.mp4",
+    "prompt_sha": "d1b57221d256",
+    "flag": null,
+    "reset_at": 1
   },
-  "notes": []
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
 }

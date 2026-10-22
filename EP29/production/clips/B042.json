@@ -10,12 +10,21 @@
         "result": "ok",
         "qc": "ผ่าน",
         "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP29/Image/EP29_B042_T02.png",
+        "job": "01a15e5d-1dd9-72b0-b46d-cfb94416ea9e",
+        "result": "ok",
+        "qc": "ผ่าน ผมยาวปล่อย มองขวา",
+        "cost": 0.06
       }
     ],
-    "selected": "EP29/Image/EP29_B042_T01.png",
-    "prompt_sha": "f67901965cbf",
+    "selected": "EP29/Image/EP29_B042_T02.png",
+    "prompt_sha": "88c639d56eab",
     "flag": null,
-    "facts": "Rita framed from head to upper thighs, slightly left of center, looking screen-right with a faint smile, bag chain on her left shoulder; blurred pink flowers fill the bottom foreground and the table edge at right. Her hands are visible at her sides."
+    "facts": "Rita from head to upper thighs slightly left of center, long loose wavy hair, looking screen-right with a faint smile, bag chain on her left shoulder (screen-right); blurred pink flowers along the bottom and white table edge at lower right; curtain at left, glass wall right.",
+    "reset_at": 1
   },
   "video": {
     "status": "done",
@@ -27,11 +36,22 @@
         "result": "ok",
         "qc": "ผ่าน นิ่งตามสั่ง",
         "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP29/Video/EP29_B042_T02.mp4",
+        "job": "4e82ead5-9e8e-952f-8aa3-9e894e36fb6a",
+        "result": "ok",
+        "qc": "ผ่าน ผมปล่อย ยืนนิ่งมองขวา",
+        "cost": 0.06
       }
     ],
-    "selected": "EP29/Video/EP29_B042_T01.mp4",
-    "prompt_sha": "73b49b4be668",
-    "flag": null
+    "selected": "EP29/Video/EP29_B042_T02.mp4",
+    "prompt_sha": "25d464741ef1",
+    "flag": null,
+    "reset_at": 1
   },
-  "notes": []
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
 }

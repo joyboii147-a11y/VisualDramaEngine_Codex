@@ -3,7 +3,7 @@
 # ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 3 วิ | เสียงโหมด C
 #
 # ตัวละครในเฟรม (รวม 2 คน):
-# - การ์ด 1 C14-W01 สูทดำ (ไม่มีภาพอ้างอิง) | เบลอฉากหลัง ยืนนิ่ง | ซ้ายหลัง
+# - การ์ด 1 C14-W01 สูทดำ | เบลอฉากหลัง ยืนนิ่ง | ซ้ายหลัง
 # - พ่อวิทย์ C12-W01 โค้ทยาวดำ | หน้า (CU) เฉียง 3/4 หันขวา | กลางค่อนซ้าย ช่องว่างขวา
 #
 # เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
@@ -19,7 +19,7 @@ TARGET DURATION: 3 seconds including handles.
 Animate the supplied starting image. Use only this request's image and instructions.
 One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
 SCENE GEOGRAPHY: near the entrance opening of a night banquet hall; behind Wit's father, softly defocused beige corridor walls with warm wall lights; Guard 1 blurred behind him on the left.
-VISIBLE CAST: exactly 2 people. FRAME ORDER from screen-left to screen-right: (Guard 1 blurred in the background) · Wit's father. Wit's father, a distinguished Thai man in his late fifties, wearing the lapels of a black wool overcoat over a black suit, a crisp white shirt, a silver-gray patterned tie, thin metal-rimmed glasses, and salt-and-pepper hair swept back, three-quarter toward the camera, head turned screen-right. Guard 1, a young Thai male bodyguard in his late twenties with fair skin and short black hair with a soft fringe falling over the forehead, wearing a plain black suit jacket, a white shirt, a narrow black tie, and short black hair with a soft fringe, standing still, blurred.
+VISIBLE CAST: exactly 2 people. FRAME ORDER from screen-left to screen-right: (Guard 1 blurred in the background) · Wit's father. Wit's father, a distinguished Thai man in his late fifties who wears no glasses, wearing the lapels of a black wool overcoat over a black suit, a crisp white shirt, a silver-gray patterned tie, no glasses, and short salt-and-pepper hair swept back, three-quarter toward the camera, head turned screen-right. Guard 1, a young Thai male bodyguard in his late twenties with fair skin and short black hair with a soft fringe falling over the forehead, wearing a plain black suit jacket, a white shirt, a narrow black tie, and short black hair with a soft fringe, standing still, blurred. Exactly 2 faces: Guard 1 (small and blurred, behind on the left) and Wit's father (sharp); no extra, duplicated or merged faces.
 CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: camera on the glass-wall side near Wit, aimed diagonally toward the entrance opening; standing eye level; tight close-up; 85mm.
 FOREGROUND / VISIBLE BACKGROUND: no foreground. Background: softly defocused beige corridor walls and warm wall lights; Guard 1 blurred behind on the left.
 OFF-FRAME: the person the father stares at is beyond the right frame edge, near the lens; the camera does not follow his gaze. No one else enters the frame at any time.

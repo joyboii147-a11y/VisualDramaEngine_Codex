@@ -10,15 +10,24 @@
         "result": "ok",
         "qc": "สองคนครบ เจตซ้ายด้านข้างหันขวา ถือซองขาว ริต้าขวาก้าวเข้าหา ด้านข้างหันซ้าย ชุดตรง",
         "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP29/Image/EP29_B022_T02.png",
+        "job": "01a15e59-8348-7512-bccd-30d4823a68f9",
+        "result": "ok",
+        "qc": "สองคนด้านข้าง เจตซ้ายถือซอง ริต้าขวาก้าวเข้ามา ผมยาวลอนปล่อยตามภาพอ้างอิงใหม่ low-key ฉาก/ชุด/ลำดับถูก ไม่มีตัวหนังสือ",
+        "cost": 0.06
       }
     ],
-    "selected": "EP29/Image/EP29_B022_T01.png",
-    "prompt_sha": "bc06a858445b",
+    "selected": "EP29/Image/EP29_B022_T02.png",
+    "prompt_sha": "60550a869bb1",
     "flag": null,
-    "facts": "Full-length profile two-shot: Jet at screen-left standing facing right holding a white envelope at his side; Rita at screen-right mid-step facing left toward him, right hand on her quilted bag. Both full bodies down to the shoes are visible, sofas along the right wall."
+    "facts": "Full-length profile two-shot in a dim corridor: Jet at screen-left standing facing right, white envelope in his hand at his side; Rita at screen-right mid-stride facing left toward him, long wavy hair down, bag on her near shoulder. Stone wall with sconces behind, sofas on the right.",
+    "reset_at": 1
   },
   "video": {
-    "status": "todo",
+    "status": "flagged",
     "takes": [
       {
         "take": 1,
@@ -43,15 +52,40 @@
         "result": "fail",
         "qc": "ซ้ำ T01/T02: ทั้งสองหันหน้าเข้ากล้องหลังริต้าหยุด",
         "cost": 0.08
+      },
+      {
+        "take": 4,
+        "file": "EP29/Video/EP29_B022_T04.mp4",
+        "job": "4a9ca98c-d8d8-9583-b4da-9214aa82bd26",
+        "result": "fail",
+        "qc": "ดีขึ้น: ริต้าคงด้านข้างมองเจต แต่เจตยังหมุนตัวเฉียงเข้ากล้องกลางคลิป และริต้าไม่เดินเข้าใกล้ถึง 0.8 ม.",
+        "cost": 0.08
+      },
+      {
+        "take": 5,
+        "file": "EP29/Video/EP29_B022_T05.mp4",
+        "job": "3f4599bb-cc04-90a0-8d91-12e3a5e18410",
+        "result": "ok",
+        "qc": "ถึง ~2.2 วิ ริต้าเดินเข้ามาหยุดหันข้างมองเจต เจตหันเฉียงเล็กน้อย; หลังจากนั้นทั้งสองหมุนเข้ากล้อง",
+        "cost": 0.08
+      },
+      {
+        "take": 6,
+        "file": "EP29/Video/EP29_B022_T06.mp4",
+        "job": "d523443b-f46a-93dd-ad1a-964607b4a84a",
+        "result": "ok",
+        "qc": "ถึง ~2.2 วิ ริต้าเดินเข้ามาหยุดหันหาเจต; ท้ายคลิปริต้าหมุนหน้าเข้ากล้อง",
+        "cost": 0.08
       }
     ],
-    "selected": null,
-    "prompt_sha": "470d2e63f107",
-    "flag": "ครบ 3 take: หลัง ~1.6 วิ ทั้งสองหมุนหันหน้าเข้ากล้องแทนหันหากัน ใช้ได้ถึง 1.6 วิ (แผนใช้ ~2.0 วิ) ควรตรวจหรือแก้ prompt",
-    "usable_until": 1.6,
-    "reset_at": 3
+    "selected": "EP29/Video/EP29_B022_T06.mp4",
+    "prompt_sha": "7515ffc5e27d",
+    "flag": "หลัง ~2.2 วิ ริต้าหมุนหน้าเข้ากล้อง ใช้ได้ถึง 2.2 วิ (แผน ~2.0 วิ)",
+    "reset_at": 5,
+    "usable_until": 2.2
   },
   "notes": [
-    "video prompt เปลี่ยน — รีเซ็ตเป็น todo"
+    "video prompt เปลี่ยน — รีเซ็ตเป็น todo",
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
   ]
 }

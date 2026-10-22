@@ -10,12 +10,21 @@
         "result": "ok",
         "qc": "OTS เจตซ้าย ริต้ากลางยิ้มบาง เอียงหัวเล็กน้อย ไม่เห็นมือ",
         "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP29/Image/EP29_A033_T02.png",
+        "job": "01a15e59-9779-74a3-9f02-8cf2a43e6e90",
+        "result": "ok",
+        "qc": "OTS ริต้ากลาง สายตาเจ้าเล่ห์ ผมยาวลอนปล่อยตามภาพอ้างอิงใหม่ low-key ฉาก/ชุด/ลำดับถูก ไม่มีตัวหนังสือ",
+        "cost": 0.06
       }
     ],
-    "selected": "EP29/Image/EP29_A033_T01.png",
-    "prompt_sha": "1afe2955de1d",
+    "selected": "EP29/Image/EP29_A033_T02.png",
+    "prompt_sha": "67da38d23b59",
     "flag": null,
-    "facts": "Over-the-shoulder: Jet's blurred head and suit shoulder at screen-left; Rita at center, three-quarter view looking screen-left at him with a thin smile, lips closed. Framed to her hips; her bag hangs at lower right; no hands visible."
+    "facts": "Over-the-shoulder: Jet's blurred head and suit shoulder at screen-left; Rita at center-right, three-quarter view looking screen-left at him with a sly half smile, lips closed, long wavy hair down. Framed to the hips; no hands visible; bag hangs at her left hip on screen-right.",
+    "reset_at": 1
   },
   "video": {
     "status": "flagged",
@@ -27,11 +36,23 @@
         "result": "ok",
         "qc": "พูดแล้วยกการ์ดด้วยมือขวา (ซ้ายเฟรม) ถึงระดับหน้า การ์ดสีเงินอ่อนมีตราเล็ก ไม่มีตัวหนังสือ ฉาก/หน้าคงที่",
         "cost": 0.32
+      },
+      {
+        "take": 2,
+        "file": "EP29/Video/EP29_A033_T02.mp4",
+        "job": "8475ee41-f256-9266-9439-af2e9a31c318",
+        "result": "ok",
+        "qc": "พูดแล้วยกบัตรมือขวาขึ้นระดับหน้าฝั่งซ้ายเฟรม (บัตรสีอ่อนกว่า rose-gold เล็กน้อย) ฉากคงที่",
+        "cost": 0.32
       }
     ],
-    "selected": "EP29/Video/EP29_A033_T01.mp4",
-    "prompt_sha": "e6c17056644f",
-    "flag": "ต้องฟังลิปซิงก์"
+    "selected": "EP29/Video/EP29_A033_T02.mp4",
+    "prompt_sha": "16b557ddd39c",
+    "flag": "ต้องฟังลิปซิงก์",
+    "reset_at": 1
   },
-  "notes": []
+  "notes": [
+    "video prompt เปลี่ยน — รีเซ็ตเป็น todo",
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
 }

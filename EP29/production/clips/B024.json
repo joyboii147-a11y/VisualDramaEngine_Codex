@@ -10,12 +10,21 @@
         "result": "ok",
         "qc": "OTS เจตซ้าย ริต้ากลางยิ้มเย็น ถือการ์ดมือขวาระดับอก การ์ดเรียบไม่เห็นตราสลัก(มีแต่แสงสะท้อน) ไม่มีตัวหนังสือ",
         "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP29/Image/EP29_B024_T02.png",
+        "job": "01a15e59-be40-7e62-8857-c8a0e78e8087",
+        "result": "ok",
+        "qc": "OTS ริต้ากลาง บัตร rose-gold มือขวา (ซ้ายเฟรม) ผมยาวลอนปล่อยตามภาพอ้างอิงใหม่ low-key ฉาก/ชุด/ลำดับถูก ไม่มีตัวหนังสือ",
+        "cost": 0.06
       }
     ],
-    "selected": "EP29/Image/EP29_B024_T01.png",
-    "prompt_sha": "513d3c6c5685",
+    "selected": "EP29/Image/EP29_B024_T02.png",
+    "prompt_sha": "e89544cb77ec",
     "flag": null,
-    "facts": "Over-the-shoulder: Jet's blurred head and suit back on screen-left; Rita at center, three-quarter view looking screen-left at him, cool expression. Her right hand holds a plain pale rose-silver card at chest level left of center (no emblem visible); framed to upper thigh, bag at her right hip."
+    "facts": "Over-the-shoulder: Jet's blurred head and suit back on screen-left; Rita at center, three-quarter view looking screen-left at him with a faint sly smile. Her right hand at screen-left holds a thin pale rose-gold card at chest level; long wavy hair down; bag at her left hip on screen-right.",
+    "reset_at": 1
   },
   "video": {
     "status": "done",
@@ -27,11 +36,22 @@
         "result": "ok",
         "qc": "เงียบ จ้องแล้วยิ้มมุมปาก การ์ดมือขวาระดับอกคงที่ ฉากคงที่",
         "cost": 0.4
+      },
+      {
+        "take": 2,
+        "file": "EP29/Video/EP29_B024_T02.mp4",
+        "job": "33c29949-0464-93ee-8832-ec24a1cc58c9",
+        "result": "ok",
+        "qc": "เงียบ จ้องแล้วยิ้มมุมปาก บัตรมือขวาระดับอกคงที่",
+        "cost": 0.4
       }
     ],
-    "selected": "EP29/Video/EP29_B024_T01.mp4",
-    "prompt_sha": "fd52ff1acdae",
-    "flag": null
+    "selected": "EP29/Video/EP29_B024_T02.mp4",
+    "prompt_sha": "61e19d2b69b7",
+    "flag": null,
+    "reset_at": 1
   },
-  "notes": []
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
 }

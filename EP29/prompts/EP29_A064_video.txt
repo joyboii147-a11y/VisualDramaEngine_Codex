@@ -3,7 +3,7 @@
 # ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 4 วิ | เสียงโหมด A
 #
 # ตัวละครในเฟรม (รวม 3 คน):
-# - การ์ด 1 C14-W01 สูทดำ (ไม่มีภาพอ้างอิง) | เบลอฉากหลัง ยืนนิ่ง | ซ้ายหลัง
+# - การ์ด 1 C14-W01 สูทดำ | เบลอฉากหลัง ยืนนิ่ง | ซ้ายหลัง
 # - พ่อวิทย์ C12-W01 โค้ทยาวดำ | หน้า (CU) เฉียง 3/4 หันขวา | กลางค่อนซ้าย
 # - วิทย์ C05-W10 แจ็กเก็ตหนังกลับน้ำตาล (ใส่แจ็กเก็ต) | เห็นแค่ไหล่ซ้ายแจ็กเก็ต หันหลัง | ขอบขวาล่าง (ฉากหน้า)
 #
@@ -21,7 +21,7 @@ TARGET DURATION: 4 seconds including handles.
 Animate the supplied starting image. Use only this request's image and instructions.
 One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
 SCENE GEOGRAPHY: near the entrance opening of a night banquet hall; behind Wit's father, softly defocused beige corridor walls with warm wall lights; Guard 1 blurred behind him on the left.
-VISIBLE CAST: exactly 3 people including one partial foreground figure. FRAME ORDER from screen-left to screen-right: (Guard 1 blurred in the background) · Wit's father · (Wit's shoulder at the lower-right edge). Wit's father, a distinguished Thai man in his late fifties, wearing the lapels of a black wool overcoat over a black suit, a crisp white shirt, a silver-gray patterned tie, thin metal-rimmed glasses, and salt-and-pepper hair swept back, three-quarter toward the camera, head turned screen-right. Guard 1, a young Thai male bodyguard in his late twenties with fair skin and short black hair with a soft fringe falling over the forehead, wearing a plain black suit jacket, a white shirt, a narrow black tie, and short black hair with a soft fringe, standing still, blurred. Wit: only his left shoulder in the back of a camel-brown suede jacket, lower-right corner, seen from behind; his head and face are not in frame.
+VISIBLE CAST: exactly 3 people including one partial foreground figure. FRAME ORDER from screen-left to screen-right: (Guard 1 blurred in the background) · Wit's father · (Wit's shoulder at the lower-right edge). Wit's father, a distinguished Thai man in his late fifties who wears no glasses, wearing the lapels of a black wool overcoat over a black suit, a crisp white shirt, a silver-gray patterned tie, no glasses, and short salt-and-pepper hair swept back, three-quarter toward the camera, head turned screen-right. Guard 1, a young Thai male bodyguard in his late twenties with fair skin and short black hair with a soft fringe falling over the forehead, wearing a plain black suit jacket, a white shirt, a narrow black tie, and short black hair with a soft fringe, standing still, blurred. Wit: only his left shoulder in the back of a camel-brown suede jacket, lower-right corner, seen from behind; his head and face are not in frame. Exactly 2 faces: Guard 1 (small and blurred, behind on the left) and Wit's father (sharp, center); Wit shows only as a shoulder, no face; no extra, duplicated or merged faces.
 CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: camera on the glass-wall side just behind Wit's left shoulder, aimed diagonally toward the entrance opening; standing eye level; tight close-up of the father; 85mm.
 FOREGROUND / VISIBLE BACKGROUND: foreground: Wit's camel-brown suede shoulder in the lower-right corner, softly defocused, still. Background: softly defocused beige corridor walls and warm wall lights; Guard 1 blurred behind on the left.
 OFF-FRAME: none needed; the father speaks to Wit, whose shoulder is in frame. No one else enters the frame at any time.

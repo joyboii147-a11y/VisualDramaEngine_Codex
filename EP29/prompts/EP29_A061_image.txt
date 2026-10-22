@@ -9,7 +9,7 @@
 # - วิทย์ C05-W10 | นอกขวา เป็นคนที่เลขาเจตพูดด้วยและยื่นซองให้
 # - ไอริน C04-W18 | นอกขวา
 # - ริต้า C06-W07 | นอกซ้าย
-# - บท D025 มีป้าย [ตรวจเสียง: ในภาพพูดกับวิทย์ ไม่ใช่พ่อวิทย์ ฟังยืนยันว่า "ประธาน" หมายถึงใคร] — ป้ายไม่ใช่ข้อความพูด ไม่ใส่ใน prompt
+# - บท D025 แก้ตามคำสั่ง 2026-10-21: "ประธานวิทย์" = วิทย์ (ผู้ใช้ยืนยัน) เลขาเจตพูดกับวิทย์ที่ยืนข้างกัน ไม่ใช่พ่อวิทย์ (พ่อยังไม่เข้าโถง)
 #
 # แนบใน OpenArt: 1) input/characters/เลขาเจต/เลขาเจต Face.webp
 # ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
@@ -26,8 +26,8 @@ VIEW DIRECTION: toward Jet, with the glass wall beyond him.
 SET IN FRAME: a softly defocused black steel-framed glass wall with warm reflections filling the background behind Jet. Keep this layout; do not move or mirror it.
 BETWEEN CAMERA AND SUBJECT: only the top of the flower arrangement, softly blurred along the bottom-left edge; nothing hides his face.
 VISIBLE BACKGROUND: softly defocused black steel-framed glass wall with warm reflections.
-OFF-FRAME: the person Jet addresses is outside the right frame edge. No other person or any part of another person appears in the frame.
-START STATE: Secretary Jet stands three-quarter toward the camera, head turned screen-right toward the person he addresses, a composed neutral face, lips closed. His right hand holds a plain white A4 document envelope with no readable logo or text low at the lower-right corner of the frame; only the upper part of the envelope is visible.
+OFF-FRAME: the person Jet addresses, Wit, a young man of the same height standing close beside him, is just outside the right frame edge. No other person or any part of another person appears in the frame.
+START STATE: Secretary Jet stands three-quarter toward the camera, head turned screen-right toward the person he addresses, eye line level and close, not upward, a composed neutral face, lips closed. His right hand holds a plain white A4 document envelope with no readable logo or text low at the lower-right corner of the frame; only the upper part of the envelope is visible.
 CAMERA: CLOSE-UP. The face fills about 45% of the frame height; the frame top cuts through the top of the hair and the frame bottom cuts at the upper chest; his right hand holding the envelope shows only at the lower-right corner. 85mm, about 1.2 meters away, standing eye level, three-quarter view
 FOCUS: Jet's eyes sharp; background softly defocused.
 LIGHTING: warm overhead ceiling light from above and front, soft warm fill on his face, warm reflections on the glass behind, approximately 3200K, medium-low contrast.

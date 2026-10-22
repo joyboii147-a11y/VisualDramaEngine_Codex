@@ -10,15 +10,24 @@
         "result": "ok",
         "qc": "ผ่าน ลำดับ 4 คนถูก",
         "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP29/Image/EP29_B043_T02.png",
+        "job": "01a15e5d-267b-7b10-b9ae-38c3f3935e4e",
+        "result": "ok",
+        "qc": "ผ่าน 4 คนลำดับถูก ริต้าผมปล่อย (ซองมีรอยเล็กอ่านไม่ออก)",
+        "cost": 0.06
       }
     ],
-    "selected": "EP29/Image/EP29_B043_T01.png",
-    "prompt_sha": "52a260dc7921",
+    "selected": "EP29/Image/EP29_B043_T02.png",
+    "prompt_sha": "59e95e42d2ac",
     "flag": null,
-    "facts": "Long shot: left to right Rita, Secretary Jet (white envelope in his right hand), Wit, Irin standing behind the round white table with the flower vase; Wit has one hand near his trouser pocket. Glass wall behind, entrance corridor with warm lights at the right edge."
+    "facts": "Long shot: left to right Rita (long loose hair), Secretary Jet (white envelope in his right hand), Wit and Irin walking in at screen-right, all on the far side of the round white table with the flower vase; glass wall behind, curtain at left, entrance and sconce at right.",
+    "reset_at": 1
   },
   "video": {
-    "status": "done",
+    "status": "flagged",
     "takes": [
       {
         "take": 1,
@@ -27,11 +36,39 @@
         "result": "ok",
         "qc": "ผ่าน วิทย์+ไอรินเดินเข้าหยุดขวาแจกัน ลำดับคงเดิม (เดินเฉียงเข้าหากล้องเล็กน้อย)",
         "cost": 0.1
+      },
+      {
+        "take": 2,
+        "file": "EP29/Video/EP29_B043_T02.mp4",
+        "job": "265430c2-b8b6-9451-8023-9746c9838b6b",
+        "result": "fail",
+        "qc": "ทุกคนเดินเข้าหากล้อง ริต้าเดินออกมาหน้าโต๊ะ เจตถูกบังบางส่วนท้ายคลิป",
+        "cost": 0.1
+      },
+      {
+        "take": 3,
+        "file": "EP29/Video/EP29_B043_T03.mp4",
+        "job": "78ab4c6f-3b29-946c-8119-9bbb31d5c88a",
+        "result": "fail",
+        "qc": "ทุกคนเดินเข้าหากล้อง+กล้องดันเข้า ริต้าออกมาหน้าโต๊ะ",
+        "cost": 0.1
+      },
+      {
+        "take": 4,
+        "file": "EP29/Video/EP29_B043_T04.mp4",
+        "job": "a155b1cf-5620-9164-88a3-39d15cfd3af5",
+        "result": "ok",
+        "qc": "ดีที่สุด: ทุกคนเดินเข้าหากล้อง เจตถูกริต้าบังท้ายคลิป",
+        "cost": 0.1
       }
     ],
-    "selected": "EP29/Video/EP29_B043_T01.mp4",
-    "prompt_sha": "92a72ce1aaaf",
-    "flag": null
+    "selected": "EP29/Video/EP29_B043_T04.mp4",
+    "prompt_sha": "801fd9dbc80b",
+    "flag": "ครบ 3 take: กลุ่มเดินเข้าหากล้อง/ริต้าออกหน้าโต๊ะ เจตถูกบังท้ายคลิป — ใช้ถึง 3.75 วิ",
+    "reset_at": 1,
+    "usable_until": 3.75
   },
-  "notes": []
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
 }

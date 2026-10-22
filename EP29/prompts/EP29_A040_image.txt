@@ -9,13 +9,13 @@
 # - เลขาเจต C13-W01 | นอกเฟรมซ้ายใกล้เลนส์ เป็นคนที่ริต้ามองและพูดด้วย
 # เสี่ยง: กรอบล่างต่ำกว่า CU ปกติเล็กน้อยเพื่อให้มือซ้ายแตะอกเห็นได้; มุมต่ำ
 # แนบใน OpenArt: 1) input/characters/ริต้า/ริต้า W07 แจ็กเก็ตขนนกขาว.png
-# หน้าที่ภาพแนบ: 1) ริต้า หน้า/ผมมวยสูง/ชุด W07 (ใช้แทน Face.jpeg ตามสมมติฐานข้อ 26)
+# หน้าที่ภาพแนบ: 1) ริต้า หน้า/ผมยาวลอนปล่อยแสกกลาง/ชุด W07 (ใช้แทน Face.jpeg ตามสมมติฐานข้อ 26)
 # ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
 Create one standalone starting-frame image for SHOT EP29-S030.
 Vertical 9:16. Cinematic live-action still, photorealistic.
 REFERENCE IMAGES:
-Image 1: Rita — an outfit sheet showing her front, side and back views; use it for her face, skin tone, high top-knot bun hairstyle, body shape and this exact outfit. Generate only one Rita. Do not copy the background, lighting, pose, camera angle or the multi-view layout from this image.
-CHARACTERS: Rita, a young Thai woman (Image 1: face, hair, body and this exact outfit), wearing "a cropped shaggy long-hair white faux-fur jacket worn open, over a silver-gray satin button-front mini shirt dress, several long strands of dark beaded necklaces layered at different lengths, gold cluster earrings, an ivory quilted mini shoulder bag on a gold chain strap worn on the left shoulder, nude patent pointed-toe stiletto pumps, and dark brown hair in a high top-knot bun". A few fine loose strands frame her face; the bun stays high on the crown.
+Image 1: Rita — an outfit sheet showing her front, side and back views; use it for her face, skin tone, hair (long dark brown wavy hair worn down past the shoulders with a center part), body shape and this exact outfit. Generate only one Rita. Do not copy the background, lighting, pose, camera angle or the multi-view layout from this image.
+CHARACTERS: Rita, a young Thai woman (Image 1: face, hair, body and this exact outfit), wearing "a cropped shaggy long-hair white faux-fur jacket worn open, over a silver-gray satin button-front mini shirt dress, several long strands of dark beaded necklaces layered at different lengths, gold cluster earrings, an ivory quilted mini shoulder bag on a gold chain strap worn on the left shoulder, nude patent pointed-toe stiletto pumps, and long dark brown wavy hair worn down past the shoulders with a center part". Her long wavy hair falls loose past her shoulders over the white fur, parted in the center.
 CAST COUNT: exactly one person visible, Rita.
 SCENE GEOGRAPHY: A long, wide night-time interior corridor. At its far west end stands a horizontal wood-slat panel backlit in cool blue. Along the north side runs a warm gray horizontal stacked-stone wall with small warm decorative wall lights, with a beige fabric sofa-and-armchair seating nook further east along it. The south side is a light honey-toned wood-slat wall. Wood-slat ceiling with long linear lights; cream glossy tile floor. The corridor is otherwise empty. Rita stands in the middle of the corridor facing west toward the man she is talking to. She does not change position.
 FRAME ORDER: from screen-left to screen-right: Rita alone at center.
@@ -26,10 +26,10 @@ BETWEEN CAMERA AND SUBJECT: nothing; open air between the camera and Rita.
 VISIBLE BACKGROUND: the warm gray horizontal stacked-stone wall with warm decorative wall lights blurred into amber bokeh, and the corridor fading into the far distance on the right.
 OFF-FRAME: the man Rita is talking to stands just beyond the screen-left frame edge, close to the lens. No other person or any part of another person appears in the frame.
 START STATE: Rita faces screen-left in three-quarter view, seen from slightly below, chin raised, the corner of her mouth twisted in disdain, lips closed. No hands are visible.
-CAMERA: TIGHT CLOSE-UP, gentle low angle. The face fills about 55% of the frame height; the frame top cuts through the top-knot bun and the frame bottom cuts at the upper chest just below the collarbones. No waist visible. 85mm full-frame equivalent, about 1 meter away, camera slightly below her eye level tilted up a little; Rita in three-quarter view.
+CAMERA: TIGHT CLOSE-UP, gentle low angle. The face fills about 55% of the frame height; the frame top cuts across the top of her head and the frame bottom cuts at the upper chest just below the collarbones. No waist visible. 85mm full-frame equivalent, about 1 meter away, camera slightly below her eye level tilted up a little; Rita in three-quarter view.
 FOCUS: Rita's eyes sharp; background softly blurred.
-LIGHTING: warm overhead linear ceiling lights and warm decorative lights on the stone wall light Rita's face and white fur; a faint cool blue edge reflection on the fur and hair; mixed 3200K warm light with a cool blue accent, medium contrast.
-GRADE: night corridor mixed grade: warm amber stone-wall light behind Rita with subtle cool teal-blue edge accents, medium contrast, restrained saturation, natural skin tones.
+LIGHTING: low-key, moody night lighting: the overhead linear ceiling lights are dimmed to isolated pools; one warm overhead pool lights Rita's face from above and slightly to the side, leaving the far side of her face and part of the white fur in soft shadow; the warm decorative lights on the stone wall glow as small amber points within deep shadow behind her; a cool blue-teal spill from the corridor's backlit slat panels edges her hair and fur; warm 3200K practicals against cool blue-teal, high contrast with deep shadows.
+GRADE: moody night-corridor grade: deep shadows with a cool teal-green tint in the shadows and background, warm amber stone-wall light points behind Rita, high contrast, restrained saturation, natural skin tones; an uneasy, secretive, untrustworthy atmosphere.
 Show only the starting moment, before any planned movement begins.
 No readable text anywhere in the image.
 No captions, subtitles, labels, watermarks, panels or collage.

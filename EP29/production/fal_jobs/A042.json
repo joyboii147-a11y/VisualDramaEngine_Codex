@@ -4,14 +4,14 @@
   "refs": [
     "input/characters/ริต้า/ริต้า W07 แจ็กเก็ตขนนกขาว.png"
   ],
-  "out_file": "EP29/Image/EP29_A042_T01.png",
-  "prompt_chars": 3893,
+  "out_file": "EP29/Image/EP29_A042_T02.png",
+  "prompt_chars": 4371,
   "status": "done",
-  "request_id": "01a159d1-1910-7240-ae88-6b8dba207f39",
-  "status_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a159d1-1910-7240-ae88-6b8dba207f39/status",
-  "response_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a159d1-1910-7240-ae88-6b8dba207f39",
-  "submitted": "2026-10-20 21:57:17",
+  "request_id": "01a15e59-e32c-7792-ba06-22eae014ec4c",
+  "status_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a15e59-e32c-7792-ba06-22eae014ec4c/status",
+  "response_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a15e59-e32c-7792-ba06-22eae014ec4c",
+  "submitted": "2026-10-21 19:05:08",
   "width": null,
   "height": null,
-  "finished": "2026-10-20 21:59:32"
+  "finished": "2026-10-21 19:06:09"
 }

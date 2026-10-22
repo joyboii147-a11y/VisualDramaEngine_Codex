@@ -9,8 +9,8 @@
 # - ไอริน C04-W18 | นั่งติดขวาของวิทย์ นอกขอบขวา (ไม่ได้เป็นเป้าสายตาในช็อตนี้ prompt ไม่เอ่ยถึง)
 #
 # แนบใน Grok: ภาพที่เลือกจาก EP29_A001_image
-# ผู้พูด: วิทย์ ON | คนในเฟรมที่ไม่พูด: ไม่มี
-# [ตรวจเสียง] ประโยคนี้อาจเป็นเสียงปลายสาย (เลขาเจต) — คง ON ตามไฟล์เรื่องจนกว่าผู้ใช้ยืนยัน ถ้าเปลี่ยนต้องสร้างใหม่ให้วิทย์ฟังเงียบ
+# ผู้พูด: เลขาเจต OS (เสียงปลายสายผ่านโทรศัพท์) | คนในเฟรมที่ไม่พูด: วิทย์ (ฟังเงียบ ปากปิด)
+# แก้ตามคำสั่งผู้ใช้ 2026-10-21: D001 เป็นเสียงปลายสาย ไม่ใช่วิทย์พูด
 # ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
 EP29_A001 SHOT EP29-S001. One continuous cinematic live-action close-up, vertical 9:16.
 TARGET DURATION: 4 seconds including handles.
@@ -24,20 +24,20 @@ OFF-FRAME: nothing is needed off-frame. No one else enters the frame at any time
 LIGHTING / COLOR: soft warm daytime interior light: a soft frontal key from camera-left motivated by the room's ceiling cove light, sheer-curtained window daylight from the window side on camera-right as gentle fill, a warm floor lamp glowing beside the headboard, approximately 4000K, soft natural contrast. The key falls on the screen-left cheek of Wit's face; the window light adds a soft rim on the screen-right edge of his hair and shoulder. Grade: warm neutral daytime interior with cream, beige and soft gold tones, soft contrast, natural warm skin tones.
 PROP STATE: a white smartphone held to Wit's right ear in his right hand.
 START STATE: Wit sits upright, phone at his right ear, gaze on the middle distance past the right side of the lens, serious but calm, lips closed.
-PERFORMANCE CONTEXT: Wit is on a phone call about results that have just come out; he is attentive, serious and calm.
-ACTION: Wit holds still for half a second, then speaks the assigned line into the phone in a level voice; his brows lift slightly as he finishes. The phone stays at his ear and his eyes keep the same distant direction.
-END STATE: lips closed, phone still at his right ear, brows slightly raised, same distant gaze. He stays still until the very end of the clip; the framing does not change.
+PERFORMANCE CONTEXT: Wit is listening to a phone call telling him the results have just come out; he is attentive, serious and calm, and he does not speak.
+ACTION: Wit listens silently with his lips closed the whole clip while a small voice comes from the phone; as the caller finishes, his brows lift slightly and he gives one tiny nod. The phone stays at his ear and his eyes keep the same distant direction. His mouth never moves.
+END STATE: lips closed, phone still at his right ear, brows slightly raised after the small nod, same distant gaze. He stays still until the very end of the clip; the framing does not change.
 CAMERA: locked-off, the framing never changes. Do not pull back, pan or cut to anyone else.
 VISUAL CONTINUITY: Preserve the starting image's faces, hair, wardrobe, set geometry, lighting character and color treatment. Allow only the specified actions. No unplanned cuts, added people, identity swaps or prop teleportation.
 AUDIO MODE: generated dialogue.
 SPEECH EVENT 1:
-SPEAKER: Wit, visible on screen (ON), the man holding the white phone to his ear
-EXACT THAI DIALOGUE: "ประธานวรเทพครับ ผลตรวจออกมาแล้วครับ"
-VOICE IDENTITY: young Thai male voice, firm low-mid register, clean resonant timbre, standard Thai accent
-DELIVERY: even and polite at phone-call volume, serious but calm, unhurried.
-Lip-sync only Wit to the assigned line.
-NON-SPEAKERS: none visible. No voice comes out of the phone.
+SPEAKER: Secretary Jet, off-screen (OS), heard only as a small voice through the phone's earpiece
+EXACT THAI DIALOGUE: "ประธานวิทย์ครับ ผลตรวจออกมาแล้วครับ"
+VOICE IDENTITY: adult Thai male voice, calm polite mid register, smooth even timbre, standard Thai accent
+DELIVERY: polite and formal, slightly thin and compressed like a voice heard through a phone speaker, unhurried.
+The speaker is not visible; no visible person lip-syncs to this voice.
+NON-SPEAKERS: Wit; his lips stay closed, no speech-like lip movements.
 Speak only the assigned dialogue exactly once, without paraphrasing or added words.
 Do not stretch speech to fill the clip. No unassigned voices.
-AFTER SPEECH: lips closed, phone at his ear, a still hold until the cut.
+AFTER SPEECH: Wit, lips closed, phone at his ear, a still hold until the cut.
 AMBIENCE/SFX: faint quiet hotel room tone; no music.

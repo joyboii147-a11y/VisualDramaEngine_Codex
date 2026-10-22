@@ -10,15 +10,24 @@
         "result": "ok",
         "qc": "เจตกลางหน้าตรง สุภาพแต่ตึง ไหล่ริต้าขวาล่าง",
         "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP29/Image/EP29_B025_T02.png",
+        "job": "01a15e59-dd90-72d1-9763-2c070f97a9e3",
+        "result": "ok",
+        "qc": "เจต MCU ลังเล ผมยาวลอนปล่อยตามภาพอ้างอิงใหม่ low-key ฉาก/ชุด/ลำดับถูก ไม่มีตัวหนังสือ",
+        "cost": 0.06
       }
     ],
-    "selected": "EP29/Image/EP29_B025_T01.png",
-    "prompt_sha": "c6889cb26d56",
+    "selected": "EP29/Image/EP29_B025_T02.png",
+    "prompt_sha": "892c055b6d81",
     "flag": null,
-    "facts": "Jet at center-left, nearly frontal, looking screen-right toward Rita, polite but tense, framed chest-up. Rita's blurred bun, ear and white fur shoulder with gold chain fill the right foreground. No hands visible."
+    "facts": "Jet at center-left, nearly frontal, looking screen-right toward Rita, tense hesitant face, framed chest-up. Rita's blurred long wavy hair and white fur shoulder with gold chain fill the right foreground. No hands visible.",
+    "reset_at": 1
   },
   "video": {
-    "status": "done",
+    "status": "flagged",
     "takes": [
       {
         "take": 1,
@@ -27,11 +36,22 @@
         "result": "ok",
         "qc": "หายใจลึก ตาเลื่อนออกแล้วกลับ ปากปิด ฉากคงที่",
         "cost": 0.32
+      },
+      {
+        "take": 2,
+        "file": "EP29/Video/EP29_B025_T02.mp4",
+        "job": "4c926b77-79a0-9525-bc50-507e22d10663",
+        "result": "ok",
+        "qc": "หายใจ ตาเลื่อนออก แต่ท้ายคลิปเจตก้มมองลงไม่กลับมามองริต้าตาม END STATE ฉากคงที่",
+        "cost": 0.32
       }
     ],
-    "selected": "EP29/Video/EP29_B025_T01.mp4",
-    "prompt_sha": "2f451f693ccb",
-    "flag": null
+    "selected": "EP29/Video/EP29_B025_T02.mp4",
+    "prompt_sha": "b98deaced2cf",
+    "flag": "ท้ายคลิปเจตก้มมองลง ไม่กลับมามองริต้า (ตัดใช้ช่วงต้น-กลาง); ไม่ถ่ายซ้ำเพราะเพดานเงิน",
+    "reset_at": 1
   },
-  "notes": []
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
 }

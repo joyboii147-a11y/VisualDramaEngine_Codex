@@ -10,12 +10,29 @@
         "result": "ok",
         "qc": "ผ่าน หน้าตรงภาพอ้างอิง Face",
         "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP29/Image/EP29_B044_T02.png",
+        "job": "01a15e5d-30d4-76b3-95ec-2cd10fb0aabe",
+        "result": "fail",
+        "qc": "ข้อ5: สายตามองซ้ายเฟรม (ต้องขวาเฟรม)",
+        "cost": 0.06
+      },
+      {
+        "take": 3,
+        "file": "EP29/Image/EP29_B044_T03.png",
+        "job": "01a15e5e-5b27-7fa2-92c1-60bf4d6a8f91",
+        "result": "ok",
+        "qc": "ผ่าน ผมยาวปล่อย สายตาขวาเฟรม",
+        "cost": 0.06
       }
     ],
-    "selected": "EP29/Image/EP29_B044_T01.png",
-    "prompt_sha": "c0ce608b59e6",
+    "selected": "EP29/Image/EP29_B044_T03.png",
+    "prompt_sha": "e83d011edfdd",
     "flag": null,
-    "facts": "Tight close-up of Rita, face near center, eyes glancing screen-right, faint closed-lip smile, white shaggy fur collar and grey satin shirt with long beaded necklaces; dark glass wall bokeh behind."
+    "facts": "Tight close-up of Rita with long loose wavy dark hair parted in the middle, face near center, eyes glancing screen-right, lips closed, neutral faint smile; white shaggy fur jacket, grey satin shirt, dark beaded necklace; sheer curtain at left, dark glass wall with warm bokeh behind.",
+    "reset_at": 1
   },
   "video": {
     "status": "done",
@@ -27,11 +44,22 @@
         "result": "ok",
         "qc": "ผ่าน ยิ้มแล้วเก็บหน้านิ่ง มองขวา",
         "cost": 0.24
+      },
+      {
+        "take": 2,
+        "file": "EP29/Video/EP29_B044_T02.mp4",
+        "job": "4533e2a6-f777-9625-b6fe-b5372ebd7b9f",
+        "result": "ok",
+        "qc": "ผ่าน ผมปล่อย มองขวา ยิ้มแล้วเก็บหน้า",
+        "cost": 0.24
       }
     ],
-    "selected": "EP29/Video/EP29_B044_T01.mp4",
-    "prompt_sha": "99348d41b96a",
-    "flag": null
+    "selected": "EP29/Video/EP29_B044_T02.mp4",
+    "prompt_sha": "69813f50c3b6",
+    "flag": null,
+    "reset_at": 1
   },
-  "notes": []
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
 }

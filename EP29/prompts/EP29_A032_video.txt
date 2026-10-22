@@ -4,35 +4,35 @@
 #
 # ตัวละครในเฟรม (รวม 2 คน):
 # - เลขาเจต C13-W01 เลขาเจต W02 สูทดำเนกไทแดง | หน้า (MCU) หน้าตรงเกือบเต็ม กลางเฟรม มองขวาเฟรมใกล้เลนส์
-# - ริต้า   C06-W07 ริต้า W07 แจ็กเก็ตขนนกขาว | เห็นแค่ไหล่ซ้ายขนเฟอร์ขาว+สายโซ่กระเป๋า+ท้ายทอยมวย หันหลังเฉียง ขอบขวาล่าง เบลอ (OTS)
+# - ริต้า   C06-W07 ริต้า W07 แจ็กเก็ตขนนกขาว | เห็นแค่ไหล่ซ้ายขนเฟอร์ขาว+สายโซ่กระเป๋า+ผมยาวลอนปล่อยด้านหลัง หันหลังเฉียง ขอบขวาล่าง เบลอ (OTS)
 #
 # เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
 # - ไม่มี (ทั้งสองคนอยู่ในเฟรม; ริต้าส่วนใหญ่นอกขวา)
 # แนบใน Grok: ภาพที่เลือกจาก EP29_A032_image
-# ผู้พูด: Jet ON | คนในเฟรมที่ไม่พูด: Rita (เห็นแค่ไหล่/มวย)
+# ผู้พูด: Jet ON | คนในเฟรมที่ไม่พูด: Rita (เห็นแค่ไหล่/ผมยาว)
 # ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
 EP29_A032 SHOT EP29-S014. One continuous cinematic live-action shot, vertical 9:16.
 TARGET DURATION: 4 seconds including handles.
 Animate the supplied starting image. Use only this request's image and instructions.
 One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
 SCENE GEOGRAPHY: Night interior corridor seen toward its west end: a horizontal wood-slat panel backlit in cool blue fills the background behind Jet, with a sliver of warm gray stacked-stone wall at the screen-right edge. Jet stands in the middle of the corridor facing Rita, who stands about 0.8 meters in front of him with her back three-quarters to the camera.
-VISIBLE CAST: exactly two people. Jet, a tall slim Thai man in his early thirties with short black hair with a soft fringe and thin rectangular metal-rimmed glasses, wearing a charcoal-black suit jacket, a crisp white shirt, a dark burgundy-red silk tie and a white pocket square; he stands at frame center, nearly frontal, eyes directed slightly screen-right toward Rita near the lens. Rita (foreground, seen from three-quarter rear): the back of her dark brown high top-knot bun, the shaggy long-hair white faux fur over her left shoulder and the thin gold chain strap of her shoulder bag on that shoulder; her face is not visible; lower-right foreground. FRAME ORDER from screen-left to screen-right: Jet at center · Rita's shoulder and bun at the lower-right edge.
-CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: Camera behind Rita, offset slightly toward the light wood-slat wall on the south side, at standing eye level, on the same side of the conversation axis as every other angle in this scene; looking west past Rita's left shoulder toward Jet and the backlit wood-slat panel at the far west end of the corridor. MEDIUM CLOSE-UP over-the-shoulder. Framed from mid-chest up; Jet's face fills about 35% of the frame height. 65mm full-frame equivalent, about 1.4 meters from Jet, standing eye level, Jet nearly frontal. Set in frame: the blue-backlit horizontal wood-slat panel at the far end of the corridor fills the softly blurred background behind Jet; a blurred sliver of warm gray stacked stone at the screen-right edge; Rita's white fur shoulder and top-knot bun in the lower-right foreground. Keep this layout; do not move or mirror it.
-FOREGROUND / VISIBLE BACKGROUND: Foreground owner is Rita: her white fur left shoulder, gold chain strap and the back of her top-knot bun at the lower-right edge, softly defocused. Background: the blue-backlit wood-slat end panel, defocused into soft cool blue lines filling the background, and a blurred sliver of warm gray stone wall at the screen-right edge.
+VISIBLE CAST: exactly two people. Jet, a tall slim Thai man in his early thirties with short black hair with a soft fringe and thin rectangular metal-rimmed glasses, wearing a charcoal-black suit jacket, a crisp white shirt, a dark burgundy-red silk tie and a white pocket square; he stands at frame center, nearly frontal, eyes directed slightly screen-right toward Rita near the lens. Rita (foreground, seen from three-quarter rear): the back of her long dark brown wavy hair falling past her shoulders, the shaggy long-hair white faux fur over her left shoulder and the thin gold chain strap of her shoulder bag on that shoulder; her face is not visible; lower-right foreground. FRAME ORDER from screen-left to screen-right: Jet at center · Rita's shoulder and long hair at the lower-right edge.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: Camera behind Rita, offset slightly toward the light wood-slat wall on the south side, at standing eye level, on the same side of the conversation axis as every other angle in this scene; looking west past Rita's left shoulder toward Jet and the backlit wood-slat panel at the far west end of the corridor. MEDIUM CLOSE-UP over-the-shoulder. Framed from mid-chest up; Jet's face fills about 35% of the frame height. 65mm full-frame equivalent, about 1.4 meters from Jet, standing eye level, Jet nearly frontal. Set in frame: the blue-backlit horizontal wood-slat panel at the far end of the corridor fills the softly blurred background behind Jet; a blurred sliver of warm gray stacked stone at the screen-right edge; Rita's white fur shoulder and long dark wavy hair in the lower-right foreground. Keep this layout; do not move or mirror it.
+FOREGROUND / VISIBLE BACKGROUND: Foreground owner is Rita: her white fur left shoulder, gold chain strap and the back of her long dark brown wavy hair at the lower-right edge, softly defocused. Background: the blue-backlit wood-slat end panel, defocused into soft cool blue lines filling the background, and a blurred sliver of warm gray stone wall at the screen-right edge.
 OFF-FRAME: Rita's eyes are the eyeline target, just beyond the right frame edge near the lens. No one else enters the frame at any time.
-LIGHTING / COLOR: warm key from the overhead linear ceiling lights on Jet's face; the backlit wood-slat panel behind him gives a cool blue background glow and a thin cool blue rim on his hair and shoulders; mixed 3200K warm key with cool blue background, medium contrast. GRADE: night corridor mixed grade: cool teal-blue accents in the background behind Jet, warm amber light on skin, medium contrast, restrained saturation, natural skin tones.
+LIGHTING / COLOR: low-key, moody night lighting: a single warm overhead pool from the dimmed linear ceiling lights falls on Jet's face from above, leaving the far side of his face in soft shadow; the backlit wood-slat panel behind him glows cool blue-teal and gives a thin cool blue-teal rim on his hair and shoulders; the rest of the corridor falls into deep shadow; warm 3200K key against a cool blue-teal background, high contrast. GRADE: moody night-corridor grade: deep shadows with a cool teal-green tint in the background behind Jet, warm amber light on skin, high contrast, restrained saturation, natural skin tones; an uneasy, secretive, untrustworthy atmosphere.
 PROP STATE: no hand-held objects are visible.
-OTS: foreground owner Rita (white fur shoulder, gold chain strap, dark top-knot bun, face unseen); focused subject Jet. Preserve both identities throughout the clip.
+OTS: foreground owner Rita (white fur shoulder, gold chain strap, long dark brown wavy hair, face unseen); focused subject Jet. Preserve both identities throughout the clip.
 START STATE: Jet stands upright facing Rita, nearly frontal, eyes on her near the lens at screen-right, brows slightly raised in surprise, lips closed. No hands are visible.
-PERFORMANCE CONTEXT: Jet answers politely and formally, but he is on guard about why she has stopped him.
-ACTION: Jet speaks the assigned line politely at a measured mid pace; his raised brows settle as he speaks and his face becomes composed and wary, eyes steady on Rita. Rita's shoulder and bun stay still in the foreground.
+PERFORMANCE CONTEXT: Jet answers politely and formally, but he is wary and on guard about why she has stopped him in the empty corridor.
+ACTION: Jet speaks the assigned line politely at a measured mid pace; his raised brows settle as he speaks and his face becomes composed and wary, eyes steady on Rita. Rita's shoulder and long hair stay still in the foreground.
 END STATE: Jet's face polite, still and guarded, lips closed, eyes steady on Rita; he holds this until the very end of the clip and the framing does not change.
 CAMERA: locked-off, the framing never changes.
 VISUAL CONTINUITY: Preserve the starting image's faces, hair, glasses, wardrobe, set geometry, lighting character and color treatment. Allow only the specified actions. No unplanned cuts, added people, identity swaps or prop teleportation. No readable text appears anywhere.
 AUDIO MODE: generated dialogue.
 SPEECH EVENT 1:
 SPEAKER: Jet, visible on screen (ON), the only speaker.
-EXACT THAI DIALOGUE: "คุณหนูจองฮียอน มีเรื่องอะไรหรอครับ?"
+EXACT THAI DIALOGUE: "คุณหนูริต้า มีเรื่องอะไรหรอครับ?"
 VOICE IDENTITY: adult Thai male voice, calm polite mid register, smooth even timbre, standard Thai accent
 DELIVERY: polite, formal, mid-level energy, slightly cautious; a light question rise at the end.
 Lip-sync only Jet to the assigned line.

@@ -10,12 +10,21 @@
         "result": "ok",
         "qc": "ริต้าคนเดียว CU เฉียงซ้าย เอียงหัว สายตาแข็ง ปากแง้มเล็กน้อย",
         "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP29/Image/EP29_A042_T02.png",
+        "job": "01a15e59-e32c-7792-ba06-22eae014ec4c",
+        "result": "ok",
+        "qc": "ริต้า CU สายตาเกลี้ยกล่อมแข็ง ผมยาวลอนปล่อยตามภาพอ้างอิงใหม่ low-key ฉาก/ชุด/ลำดับถูก ไม่มีตัวหนังสือ",
+        "cost": 0.06
       }
     ],
-    "selected": "EP29/Image/EP29_A042_T01.png",
-    "prompt_sha": "2ce4c808fb20",
+    "selected": "EP29/Image/EP29_A042_T02.png",
+    "prompt_sha": "de2f857dae98",
     "flag": null,
-    "facts": "Rita alone, close-up chest-up, three-quarter view facing screen-left, head slightly tilted, hard coaxing gaze, lips nearly closed. Fur jacket, grey satin shirt, necklaces and bag chain visible; no hands visible."
+    "facts": "Rita alone, close-up chest-up, three-quarter view facing screen-left, head slightly tilted, hard coaxing gaze, lips closed, long wavy hair down. Fur jacket, grey satin shirt and necklaces visible; no hands visible.",
+    "reset_at": 1
   },
   "video": {
     "status": "flagged",
@@ -27,11 +36,22 @@
         "result": "ok",
         "qc": "พูดแล้วยิ้มกว้าง คิ้วยก หน้า/ฉากคงที่",
         "cost": 0.24
+      },
+      {
+        "take": 2,
+        "file": "EP29/Video/EP29_A042_T02.mp4",
+        "job": "3a36929d-5c0b-98eb-b72d-bfcada59a381",
+        "result": "ok",
+        "qc": "พูดแล้วยิ้มเจ้าเล่ห์กว้างขึ้น หน้า/ผมคงที่",
+        "cost": 0.24
       }
     ],
-    "selected": "EP29/Video/EP29_A042_T01.mp4",
-    "prompt_sha": "36a57a072410",
-    "flag": "ต้องฟังลิปซิงก์"
+    "selected": "EP29/Video/EP29_A042_T02.mp4",
+    "prompt_sha": "dc3a2074dbd3",
+    "flag": "ต้องฟังลิปซิงก์",
+    "reset_at": 1
   },
-  "notes": []
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
 }

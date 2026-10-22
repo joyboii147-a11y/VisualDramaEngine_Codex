@@ -6,14 +6,14 @@
     "input/characters/พ่อวิทย์/พ่อวิทย์ W03 โค้ทยาวดำ.png",
     "input/characters/การ์ด 1/การ์ด 1 W01 สูทดำเนกไทดำ.png"
   ],
-  "out_file": "EP29/Image/EP29_B054_T01.png",
-  "prompt_chars": 4918,
+  "out_file": "EP29/Image/EP29_B054_T02.png",
+  "prompt_chars": 5117,
   "status": "done",
-  "request_id": "01a15c73-d55f-7433-8bd4-5fd165140dcb",
-  "status_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a15c73-d55f-7433-8bd4-5fd165140dcb/status",
-  "response_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a15c73-d55f-7433-8bd4-5fd165140dcb",
-  "submitted": "2026-10-21 10:14:15",
+  "request_id": "01a15e5d-6956-72d3-83b1-109ab47964bb",
+  "status_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a15e5d-6956-72d3-83b1-109ab47964bb/status",
+  "response_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a15e5d-6956-72d3-83b1-109ab47964bb",
+  "submitted": "2026-10-21 19:08:59",
   "width": null,
   "height": null,
-  "finished": "2026-10-21 10:15:24"
+  "finished": "2026-10-21 19:09:43"
 }

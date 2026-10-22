@@ -3,19 +3,17 @@
   "endpoint": "openai/gpt-image-2/edit",
   "refs": [
     "input/characters/แม่วิทย์/แม่วิทย์ W07 โค้ทเฟอร์ครีม.png",
-    "input/characters/วิทย์/วิทย์ W08 แจ็กเก็ตหนังกลับน้ำตาล.png",
     "input/characters/ไอริน/ไอริน W17 แจ็กเก็ตทวีดกรมท่าโบว์ขาว.png",
-    "input/characters/ริต้า/ริต้า W07 แจ็กเก็ตขนนกขาว.png",
-    "input/characters/เลขาเจต/เลขาเจต W02 สูทดำเนกไทแดง.png"
+    "input/characters/วิทย์/วิทย์ W08 แจ็กเก็ตหนังกลับน้ำตาล.png"
   ],
-  "out_file": "EP29/Image/EP29_B046_T01.png",
-  "prompt_chars": 7512,
+  "out_file": "EP29/Image/EP29_B046_T02.png",
+  "prompt_chars": 6381,
   "status": "done",
-  "request_id": "01a15c73-92c5-7831-9efd-6a230d28e62a",
-  "status_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a15c73-92c5-7831-9efd-6a230d28e62a/status",
-  "response_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a15c73-92c5-7831-9efd-6a230d28e62a",
-  "submitted": "2026-10-21 10:13:58",
+  "request_id": "01a15e5d-4194-7932-8ebb-de382d276abc",
+  "status_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a15e5d-4194-7932-8ebb-de382d276abc/status",
+  "response_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a15e5d-4194-7932-8ebb-de382d276abc",
+  "submitted": "2026-10-21 19:08:49",
   "width": null,
   "height": null,
-  "finished": "2026-10-21 10:14:58"
+  "finished": "2026-10-21 19:09:30"
 }

@@ -4,14 +4,14 @@
   "refs": [
     "input/characters/ริต้า/Face.jpeg"
   ],
-  "out_file": "EP29/Image/EP29_A066_T03.png",
-  "prompt_chars": 2912,
+  "out_file": "EP29/Image/EP29_A066_T05.png",
+  "prompt_chars": 3747,
   "status": "done",
-  "request_id": "01a15c77-d8ad-7e30-9aba-4d5eac64266a",
-  "status_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a15c77-d8ad-7e30-9aba-4d5eac64266a/status",
-  "response_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a15c77-d8ad-7e30-9aba-4d5eac64266a",
-  "submitted": "2026-10-21 10:18:38",
+  "request_id": "01a15e5d-6fd0-72c1-b388-dfab4a770975",
+  "status_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a15e5d-6fd0-72c1-b388-dfab4a770975/status",
+  "response_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a15e5d-6fd0-72c1-b388-dfab4a770975",
+  "submitted": "2026-10-21 19:09:01",
   "width": null,
   "height": null,
-  "finished": "2026-10-21 10:19:14"
+  "finished": "2026-10-21 19:10:03"
 }

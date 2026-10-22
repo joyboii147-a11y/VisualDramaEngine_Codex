@@ -10,12 +10,21 @@
         "result": "ok",
         "qc": "ผ่าน การ์ด 1 เบลอซ้าย ไหล่วิทย์ขวาล่าง",
         "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP29/Image/EP29_A064_T02.png",
+        "job": "01a15e5d-60ad-7c40-8751-3e2b2998f46c",
+        "result": "ok",
+        "qc": "ผ่าน พ่อไม่ใส่แว่น การ์ด 1 เบลอซ้าย ไหล่วิทย์ขวาล่าง",
+        "cost": 0.06
       }
     ],
-    "selected": "EP29/Image/EP29_A064_T01.png",
-    "prompt_sha": "42c18cb12456",
+    "selected": "EP29/Image/EP29_A064_T02.png",
+    "prompt_sha": "3382d997cc01",
     "flag": null,
-    "facts": "Close-up of Wit's father slightly left of center in glasses, looking toward screen-right just past the lens; Guard 1 (young, soft fringe) blurred at the left background; Wit's camel suede shoulder blurred in the lower-right foreground; warm corridor wall lights behind."
+    "facts": "Close-up of Wit's father without glasses, slightly left of center, looking toward screen-right just past the lens; Guard 1 (young, soft fringe) blurred at the left background; Wit's camel suede shoulder blurred in the lower-right foreground; warm corridor wall lights behind.",
+    "reset_at": 1
   },
   "video": {
     "status": "flagged",
@@ -27,11 +36,22 @@
         "result": "ok",
         "qc": "ผ่านด้านภาพ พูดเร่ง การ์ด 1 นิ่ง ไหล่วิทย์คงที่",
         "cost": 0.32
+      },
+      {
+        "take": 2,
+        "file": "EP29/Video/EP29_A064_T02.mp4",
+        "job": "a4728d2e-bc69-9846-8b59-bd8f78f97474",
+        "result": "ok",
+        "qc": "ผ่านด้านภาพ พ่อไม่ใส่แว่นตลอด การ์ด 1 นิ่ง ไหล่วิทย์คงที่",
+        "cost": 0.32
       }
     ],
-    "selected": "EP29/Video/EP29_A064_T01.mp4",
-    "prompt_sha": "87b497244e87",
-    "flag": "ต้องฟังลิปซิงก์"
+    "selected": "EP29/Video/EP29_A064_T02.mp4",
+    "prompt_sha": "8a1fa77d5dee",
+    "flag": "ต้องฟังลิปซิงก์",
+    "reset_at": 1
   },
-  "notes": []
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
 }

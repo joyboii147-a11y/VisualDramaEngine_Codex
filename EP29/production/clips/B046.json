@@ -10,15 +10,24 @@
         "result": "ok",
         "qc": "ผ่าน ลำดับ 5 คนถูก",
         "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP29/Image/EP29_B046_T02.png",
+        "job": "01a15e5d-4194-7932-8ebb-de382d276abc",
+        "result": "ok",
+        "qc": "ผ่าน 3 คน วิทย์·ไอริน·แม่ ลำดับถูก โต๊ะตรงไม่บิด",
+        "cost": 0.06
       }
     ],
-    "selected": "EP29/Image/EP29_B046_T01.png",
-    "prompt_sha": "ab0f55b2a294",
+    "selected": "EP29/Image/EP29_B046_T02.png",
+    "prompt_sha": "df21c790d5cb",
     "flag": null,
-    "facts": "Long shot: left to right Rita, Secretary Jet, Wit (holding the white envelope flat in both hands at chest, looking down at it), Irin (hands clasped, looking down at it), Wit's mother walking in at the right edge. Round white table with flower vase in the foreground center, glass wall behind, entrance at right."
+    "facts": "Medium-wide: Wit at screen-left holding a white envelope in both hands looking down at it, Irin at center smiling at the envelope, Wit's mother at screen-right mid-step walking screen-left; the curved white-clothed table fills the lower-left third of the frame; glass wall behind, entrance with wall sconce at right.",
+    "reset_at": 1
   },
   "video": {
-    "status": "flagged",
+    "status": "done",
     "takes": [
       {
         "take": 1,
@@ -43,11 +52,30 @@
         "result": "ok",
         "qc": "ดีที่สุดใน 3 take: แม่วิทย์เดินเข้าหยุดขวาไอรินถูก แต่ขอบบนโต๊ะกลายเป็นวงใสกลางคลิป",
         "cost": 0.08
+      },
+      {
+        "take": 4,
+        "file": "EP29/Video/EP29_B046_T04.mp4",
+        "job": "fc6ca32b-8022-9db0-86a4-8974edbdc0e0",
+        "result": "fail",
+        "qc": "ขอบโต๊ะซ้ายบิดเป็นรูปเสา/ขาโต๊ะกลางคลิป (แม่เดินถูก)",
+        "cost": 0.08
+      },
+      {
+        "take": 5,
+        "file": "EP29/Video/EP29_B046_T05.mp4",
+        "job": "a00f1b38-e0c5-9551-a62e-442d4f248486",
+        "result": "ok",
+        "qc": "ผ่าน 3 คน โต๊ะนิ่งไม่บิด แม่เดินเข้ามาหยุดขวาไอรินแล้วมองวิทย์",
+        "cost": 0.08
       }
     ],
-    "selected": "EP29/Video/EP29_B046_T03.mp4",
-    "prompt_sha": "bb042ae0fa8c",
-    "flag": "ครบ 3 take: โต๊ะกลมบิดรูป (ขอบบนโต๊ะกลายเป็นวงใส) ตั้งแต่กลางคลิป — ใช้ช่วงต้นหรือตัดสั้น"
+    "selected": "EP29/Video/EP29_B046_T05.mp4",
+    "prompt_sha": "b059aeb6c8cb",
+    "flag": null,
+    "reset_at": 3
   },
-  "notes": []
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
 }

@@ -60,7 +60,8 @@ def parse_shot_file(path, ep):
             'gen_sec': first_num(field(b, 'เวลาสั่งสร้าง')),
             'use_sec': use_sec,
             'dialogue_ids': re.findall(r'D\d{3}', dlg_txt),
-            'dialogue': QUOTE.findall(dlg_txt),
+            # quotes inside [ตรวจเสียง: ...] notes are not spoken lines
+            'dialogue': QUOTE.findall(re.sub(r'\[[^\]]*\]', '', dlg_txt)),
             'audio_mode': mode.group(1) if mode else None,
             'mute': 'ปิดเสียง' in text and cm.group(2).startswith('B'),
             'overlay': 'ทับช่วง' in text,

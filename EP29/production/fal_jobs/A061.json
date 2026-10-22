@@ -4,14 +4,14 @@
   "refs": [
     "input/characters/เลขาเจต/เลขาเจต Face.webp"
   ],
-  "out_file": "EP29/Image/EP29_A061_T03.png",
-  "prompt_chars": 2863,
+  "out_file": "EP29/Image/EP29_A061_T04.png",
+  "prompt_chars": 2970,
   "status": "done",
-  "request_id": "01a15c76-fa12-7ed2-8064-24a2b6a1fe05",
-  "status_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a15c76-fa12-7ed2-8064-24a2b6a1fe05/status",
-  "response_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a15c76-fa12-7ed2-8064-24a2b6a1fe05",
-  "submitted": "2026-10-21 10:17:41",
+  "request_id": "01a15e5d-2a45-7722-9e62-f7d6f13d89e1",
+  "status_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a15e5d-2a45-7722-9e62-f7d6f13d89e1/status",
+  "response_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a15e5d-2a45-7722-9e62-f7d6f13d89e1",
+  "submitted": "2026-10-21 19:08:43",
   "width": null,
   "height": null,
-  "finished": "2026-10-21 10:18:13"
+  "finished": "2026-10-21 19:09:57"
 }

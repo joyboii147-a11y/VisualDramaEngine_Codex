@@ -10,12 +10,21 @@
         "result": "ok",
         "qc": "ผ่าน การ์ด 1 เบลอซ้ายตรงภาพอ้างอิง",
         "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP29/Image/EP29_B049_T02.png",
+        "job": "01a15e5d-59b9-7903-b47a-42337f99491e",
+        "result": "ok",
+        "qc": "ผ่าน พ่อไม่ใส่แว่น การ์ด 1 เบลอซ้าย มองขวา",
+        "cost": 0.06
       }
     ],
-    "selected": "EP29/Image/EP29_B049_T01.png",
-    "prompt_sha": "0a2e6a42a139",
+    "selected": "EP29/Image/EP29_B049_T02.png",
+    "prompt_sha": "e5e1658f1e59",
     "flag": null,
-    "facts": "Tight close-up of Wit's father in metal-rimmed glasses, face turned three-quarter toward screen-right, intense eager look; Guard 1 (young, soft fringe) stands blurred in the left background; warm corridor wall light behind."
+    "facts": "Tight close-up of Wit's father without glasses, salt-and-pepper hair swept back, face three-quarter toward screen-right with an intent eager look; Guard 1 (young, soft fringe) blurred in the left background; warm corridor wall lights behind.",
+    "reset_at": 1
   },
   "video": {
     "status": "done",
@@ -27,11 +36,22 @@
         "result": "ok",
         "qc": "ผ่าน จ้องขวา การ์ด 1 นิ่ง",
         "cost": 0.24
+      },
+      {
+        "take": 2,
+        "file": "EP29/Video/EP29_B049_T02.mp4",
+        "job": "5efaa483-d56b-9d30-8279-f5e0f6733e8a",
+        "result": "ok",
+        "qc": "ผ่าน พ่อไม่ใส่แว่น จ้องใกล้เลนส์ค่อนขวา การ์ด 1 นิ่ง",
+        "cost": 0.24
       }
     ],
-    "selected": "EP29/Video/EP29_B049_T01.mp4",
-    "prompt_sha": "167d97baefe1",
-    "flag": null
+    "selected": "EP29/Video/EP29_B049_T02.mp4",
+    "prompt_sha": "cb338ecfdb80",
+    "flag": null,
+    "reset_at": 1
   },
-  "notes": []
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
 }

@@ -6,14 +6,14 @@
     "input/characters/วิทย์/วิทย์ W08 แจ็กเก็ตหนังกลับน้ำตาล.png",
     "input/characters/การ์ด 1/การ์ด 1 W01 สูทดำเนกไทดำ.png"
   ],
-  "out_file": "EP29/Image/EP29_A064_T01.png",
-  "prompt_chars": 5167,
+  "out_file": "EP29/Image/EP29_A064_T02.png",
+  "prompt_chars": 5355,
   "status": "done",
-  "request_id": "01a15c73-b8b6-7cd1-b8dc-4c24e00c5664",
-  "status_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a15c73-b8b6-7cd1-b8dc-4c24e00c5664/status",
-  "response_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a15c73-b8b6-7cd1-b8dc-4c24e00c5664",
-  "submitted": "2026-10-21 10:14:08",
+  "request_id": "01a15e5d-60ad-7c40-8751-3e2b2998f46c",
+  "status_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a15e5d-60ad-7c40-8751-3e2b2998f46c/status",
+  "response_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a15e5d-60ad-7c40-8751-3e2b2998f46c",
+  "submitted": "2026-10-21 19:08:57",
   "width": null,
   "height": null,
-  "finished": "2026-10-21 10:15:45"
+  "finished": "2026-10-21 19:10:00"
 }

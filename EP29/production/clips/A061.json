@@ -26,12 +26,21 @@
         "result": "ok",
         "qc": "ผ่าน หันขวาเฟรม ซองขวาล่าง",
         "cost": 0.06
+      },
+      {
+        "take": 4,
+        "file": "EP29/Image/EP29_A061_T04.png",
+        "job": "01a15e5d-2a45-7722-9e62-f7d6f13d89e1",
+        "result": "ok",
+        "qc": "ผ่าน หันขวาเล็กน้อย ซองมุมขวาล่าง",
+        "cost": 0.06
       }
     ],
-    "selected": "EP29/Image/EP29_A061_T03.png",
-    "prompt_sha": "25f83d3a1e73",
+    "selected": "EP29/Image/EP29_A061_T04.png",
+    "prompt_sha": "aba7914495db",
     "flag": null,
-    "facts": "Close-up of Secretary Jet in glasses, black suit and burgundy tie, face turned slightly screen-right with eyes toward the right; his right hand holds a plain white envelope at the lower-right corner; blurred pink flowers at lower-left, white table edge at bottom; glass wall bokeh behind."
+    "facts": "Close-up of Secretary Jet in glasses, black suit and burgundy tie, face slightly three-quarter with eyes toward screen-right at a level eye line; his right hand holds a plain white envelope at the lower-right corner; blurred pink flowers lower-left, white table edge at bottom; glass wall bokeh behind.",
+    "reset_at": 3
   },
   "video": {
     "status": "flagged",
@@ -43,11 +52,23 @@
         "result": "ok",
         "qc": "ผ่านด้านภาพ พูดแล้วก้มตา ซองยื่นไปขวา",
         "cost": 0.32
+      },
+      {
+        "take": 2,
+        "file": "EP29/Video/EP29_A061_T02.mp4",
+        "job": "d93583ad-0fda-99bf-8320-b55e071cc00e",
+        "result": "ok",
+        "qc": "ผ่านด้านภาพ พูดแล้วยื่นซองไปขวา (สายตาค่อนมาทางกล้องช่วงพูด)",
+        "cost": 0.32
       }
     ],
-    "selected": "EP29/Video/EP29_A061_T01.mp4",
-    "prompt_sha": "090921faef9d",
-    "flag": "ต้องฟังลิปซิงก์"
+    "selected": "EP29/Video/EP29_A061_T02.mp4",
+    "prompt_sha": "197353ffc775",
+    "flag": "ต้องฟังลิปซิงก์ (บทใหม่ ประธานวิทย์ครับ...)",
+    "reset_at": 1
   },
-  "notes": []
+  "notes": [
+    "video prompt เปลี่ยน — รีเซ็ตเป็น todo",
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
 }
