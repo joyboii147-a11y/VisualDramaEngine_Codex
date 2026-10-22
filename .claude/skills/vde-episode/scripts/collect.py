@@ -11,6 +11,27 @@ QUOTE = re.compile(r'[“"]([^”"]+)[”"]')
 CFG = load_json(os.path.join(os.path.dirname(__file__), '..', 'config.json'), {})
 # fal takes up to fal_max_refs; OpenArt accepts 4
 MAX_REFS = CFG.get('fal_max_refs', 8) if CFG.get('image_provider') == 'fal' else 4
+# image quality per clip: high for crowded or wide frames (small faces warp at medium), else the default
+Q_DEFAULT = CFG.get('fal_quality', 'medium')
+Q_HIGH = CFG.get('fal_quality_high', 'high')
+Q_HIGH_MIN_PEOPLE = CFG.get('fal_quality_high_min_people', 3)
+WIDE = re.compile(r'(?<![A-Z])(?:FS|LS|ELS|XLS|WS|EWS)(?![A-Z])|ไกล')
+
+
+def image_quality(header, sizes):
+    """(quality, reason) — '# คุณภาพ: x' in the prompt header overrides the rule."""
+    for line in header:
+        m = re.match(r'^#\s*คุณภาพ\s*:\s*(low|medium|high)', line)
+        if m:
+            return m.group(1), 'กำหนดในหัวไฟล์'
+    people = next((int(m.group(1)) for line in header
+                   for m in [re.search(r'ตัวละครในเฟรม\s*\(รวม\s*(\d+)\s*คน', line)] if m), 0)
+    if people >= Q_HIGH_MIN_PEOPLE:
+        return Q_HIGH, f'{people} คนในเฟรม'
+    wide = [s for s in sizes if WIDE.search(s)]
+    if wide:
+        return Q_HIGH, f'ช็อตไกล ({wide[0]})'
+    return Q_DEFAULT, ''
 
 
 def field(block, key):
@@ -66,6 +87,7 @@ def parse_shot_file(path, ep):
             'mute': 'ปิดเสียง' in text and cm.group(2).startswith('B'),
             'overlay': 'ทับช่วง' in text,
             'cut_note': use_txt,
+            'size': (field(b, 'กล้องและผัง').split('|') + ['', ''])[1].strip(),
         })
     return out
 
@@ -121,6 +143,10 @@ def main():
             clips[s['clip']]['shots'].append(s['id'])
         elif s['reuse']:
             problems.append(f'{s["id"]}: REUSE {s["clip"]} แต่ไม่มีคลิปต้นทาง')
+    for c, info in clips.items():
+        sizes = [s['size'] for s in shots if s['clip'] == c and not s['reuse']]
+        hdr = read_prompt(os.path.join(ROOT, info['image_prompt']))[0] if info['image_prompt'] else []
+        info['image_quality'], info['quality_reason'] = image_quality(hdr, sizes)
 
     pdir = prod_dir(ep)
     save_json(os.path.join(pdir, 'plan.json'), {'episode': ep, 'shots': shots, 'clips': clips, 'problems': problems})

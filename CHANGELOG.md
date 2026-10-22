@@ -1,5 +1,16 @@
 # CHANGELOG — Visual Drama Engine
 
+## v68.3 — 2026-10-22 · เลือกคุณภาพภาพตามช็อต
+
+ที่มา: ผู้ใช้สั่งให้ภาพคนเยอะหรือช็อตไกลใช้คุณภาพสูงขึ้น เพราะหน้าเล็กเพี้ยนง่าย เดิมทุกคลิปใช้ `fal_quality` ค่าเดียว
+
+| ไฟล์ | สิ่งที่เปลี่ยน |
+|---|---|
+| `collect.py` | ตั้ง `image_quality` + `quality_reason` ต่อคลิป: high เมื่อในเฟรม ≥ 3 คน หรือ Shot เป็นช็อตไกล (FS/LS/WS/EWS/ไกล) นอกนั้น medium · `# คุณภาพ: x` ในหัวไฟล์ prompt บังคับได้ |
+| `fal_image.py` | ส่ง quality ตามคลิป แสดงใน dry-run/ผล submit · ประมาณราคาแยก medium/high |
+| `config.json` | `fal_quality_high`, `fal_quality_high_min_people` (3), `fal_usd_per_image_high` (0.25 ประมาณ) |
+| `vde-images` | หัวข้อคุณภาพภาพต่อคลิป · OpenArt ใช้ quality ตามคลิป |
+
 ## v68.2 — 2026-10-21 · สาย Scene และการใช้ sub-agent
 
 ที่มา: เดิมทุกขั้นรอครบทุก Scene ก่อนไปต่อ และ agent หลักตรวจ contact sheet ทั้งตอนเอง EP29 จึงต้องรอ SC03 ทั้งที่ SC01–SC02 พร้อมส่งวิดีโอ

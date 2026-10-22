@@ -8,13 +8,16 @@ description: สร้างภาพตั้งต้นของทุกค�
 อาร์กิวเมนต์: `EPxx` และถ้ามี `SCxx` (ทำเฉพาะ Scene นั้น) ทุกคำสั่งรันจากโฟลเดอร์โปรเจกต์
 `S=.claude/skills/vde-episode/scripts` · ค่าตั้งอยู่ใน `.claude/skills/vde-episode/config.json`
 
+## คุณภาพภาพต่อคลิป (v68.3)
+`collect.py` ตั้ง `image_quality` ของแต่ละคลิปใน plan.json: **high** ถ้าในเฟรมมีตั้งแต่ `fal_quality_high_min_people` (3) คนขึ้นไป (จาก `# ตัวละครในเฟรม (รวม N คน)`) หรือขนาดภาพในช่อง "กล้องและผัง" ของ Shot เป็นช็อตไกล (FS / LS / WS / EWS / คำว่า ไกล) นอกนั้นใช้ `fal_quality` (medium) · บังคับเองได้ด้วยบรรทัด `# คุณภาพ: high|medium|low` ในหัวไฟล์ image prompt (แล้วรัน collect.py ใหม่)
+
 ## ช่องทางสร้างภาพ: ดู `image_provider` ใน config.json
 - `"openart"` (ค่าเริ่มต้น) → ทำข้อ 0–2 ตามปกติผ่าน OpenArt MCP (ใช้ภาพอ้างอิงได้จริงแค่ 2 รูปแรก)
 - `"fal"` → **ข้ามข้อ 0–2 ทั้งหมด** ไม่ต้องอัปโหลด ref ไม่ใช้ OpenArt MCP แล้วทำแทนด้วย:
   1. `python $S/fal_image.py check` — ถ้าไม่พบ key ให้หยุดและรายงาน: "ตั้ง fal key ด้วย `! pwsh -File ~/.claude/secrets/set-fal-key.ps1`"
   2. `python $S/fal_image.py EPxx submit [--scene SCxx]` — ส่งทุกคลิป todo พร้อมกัน (prompt ตรงตัว + ภาพอ้างอิงสูงสุด `fal_max_refs` รูปจากหัวไฟล์) ถ้าผลมี `error` เรื่อง 401/403/เครดิต → หยุดและรายงาน
   3. `python $S/fal_image.py EPxx collect [--scene SCxx] --wait 600` — รอและดาวน์โหลดลง out_file (ทำเฉพาะ Scene ให้ใส่ `--scene` เสมอ เพื่อไม่ดึงงานของสายอื่น); บรรทัด `failed` → `state.py take ... --result fail --qc "<error>"`
-  4. ไปข้อ 3 (ตรวจภาพ) ตามปกติ บันทึก `--job <request_id> --cost <fal_usd_per_image>` (หน่วย USD ไม่ใช่เครดิต)
+  4. ไปข้อ 3 (ตรวจภาพ) ตามปกติ บันทึก `--job <request_id> --cost <fal_usd_per_image หรือ fal_usd_per_image_high ตาม quality ในผล submit>` (หน่วย USD ไม่ใช่เครดิต)
   5. ถ่ายซ้ำ: `fal_image.py EPxx submit --clips <clip>` (ส่งซ้ำได้หลังบันทึก take ก่อนหน้าแล้วเท่านั้น สคริปต์กันส่งซ้ำซ้อนให้)
   - ถูก safety checker ปฏิเสธ (error มีคำว่า safety/content) → บันทึก fail; ซ้ำ 2 ครั้ง → `give-up` พร้อมเหตุผล
 
@@ -31,7 +34,7 @@ description: สร้างภาพตั้งต้นของทุกค�
 `python $S/state.py EPxx todo image [--scene SCxx]` → ทุกรายการ:
 - `python $S/state.py EPxx prompt <clip> image` → ข้อความ prompt (ใช้ตรงตัว ห้ามแก้ ห้ามย่อ)
 - ถ้า `refs` มีรายการ → `openart_generate_image` model `gpt-image-2` mode `image2image`, params:
-  `{prompt, visualReferences:[visualReference ตามลำดับใน refs], aspectRatio:"9:16", resolutionTier:"2k", quality:"medium", imageCount:1, autoEnhancePrompt:false}`
+  `{prompt, visualReferences:[visualReference ตามลำดับใน refs], aspectRatio:"9:16", resolutionTier:"2k", quality:<image_quality ของคลิปใน plan.json>, imageCount:1, autoEnhancePrompt:false}`
 - ถ้า refs ว่าง → mode `text2image` params เดียวกันแต่ไม่มี visualReferences
 - ถ้า ref ตัวไหน visualReference เป็น null → ข้าม ref นั้น และจดใน qc ว่า "ขาดภาพอ้างอิง <path>"
 - จด historyId ของแต่ละคลิปไว้

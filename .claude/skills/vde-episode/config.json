@@ -4,9 +4,12 @@
   "fal_text_endpoint": "openai/gpt-image-2",
   "fal_image_size": {"width": 1152, "height": 2048},
   "fal_quality": "medium",
+  "fal_quality_high": "high",
+  "fal_quality_high_min_people": 3,
   "fal_max_refs": 8,
   "fal_ref_max_edge": 1536,
   "fal_usd_per_image": 0.06,
+  "fal_usd_per_image_high": 0.25,
 
   "image_model": "gpt-image-2",
   "image_quality": "medium",

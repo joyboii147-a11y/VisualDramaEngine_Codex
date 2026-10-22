@@ -28,6 +28,7 @@ QUALITY = CFG.get('fal_quality', 'medium')
 MAX_REFS = CFG.get('fal_max_refs', 8)
 REF_EDGE = CFG.get('fal_ref_max_edge', 1536)
 USD = CFG.get('fal_usd_per_image', 0.06)
+USD_HIGH = CFG.get('fal_usd_per_image_high', 0.25)
 MAX_TAKES = CFG.get('max_image_takes', 3)
 DONE = ('done', 'flagged', 'gave_up')
 KEY_FILE = os.path.join(os.path.expanduser('~'), '.claude', 'secrets', 'fal_key.dpapi')
@@ -104,6 +105,7 @@ def todo(ep, scene, clips):
             print(f'! {c}: ครบ {MAX_TAKES} take แล้ว — ข้าม (ใช้ state.py reset ถ้าจะทำต่อ)', file=sys.stderr)
             continue
         out.append({'clip': c, 'scene': info['scene'], 'prompt_file': info['image_prompt'], 'refs': info['refs'],
+                    'quality': info.get('image_quality') or QUALITY,
                     'out_file': f"{ep}/Image/{ep}_{c}_T{len(im['takes']) + 1:02d}.png"})
     return out
 
@@ -134,13 +136,13 @@ def cmd_submit(ep, a):
         prompt = read_prompt(os.path.join(ROOT, it['prompt_file']))[1]
         refs = [r for r in it['refs'] if os.path.exists(os.path.join(ROOT, r))][:MAX_REFS]
         missing = [r for r in it['refs'] if not os.path.exists(os.path.join(ROOT, r))]
-        body = {'prompt': prompt, 'image_size': SIZE, 'quality': QUALITY, 'num_images': 1, 'output_format': 'png'}
+        body = {'prompt': prompt, 'image_size': SIZE, 'quality': it['quality'], 'num_images': 1, 'output_format': 'png'}
         endpoint = TEXT
         if refs:
             endpoint = EDIT
             body['image_urls'] = [ref_data_uri(os.path.join(ROOT, r)) for r in refs]
-        row = {'clip': it['clip'], 'endpoint': endpoint, 'refs': refs, 'out_file': it['out_file'],
-               'prompt_chars': len(prompt)}
+        row = {'clip': it['clip'], 'endpoint': endpoint, 'quality': it['quality'], 'refs': refs,
+               'out_file': it['out_file'], 'prompt_chars': len(prompt)}
         if missing:
             row['missing_refs'] = missing
         if len(it['refs']) > MAX_REFS:
@@ -160,7 +162,8 @@ def cmd_submit(ep, a):
         save_json(jf, {**row, 'status': 'pending', 'request_id': r['request_id'], 'status_url': r['status_url'],
                        'response_url': r['response_url'], 'submitted': time.strftime('%Y-%m-%d %H:%M:%S')})
         sent.append({**row, 'request_id': r['request_id']})
-    print(json.dumps({'dry_run': a.dry_run, 'count': len(sent), 'usd_estimate': round(len(sent) * USD, 2),
+    usd = sum(USD_HIGH if r.get('quality') == 'high' else USD for r in sent)
+    print(json.dumps({'dry_run': a.dry_run, 'count': len(sent), 'usd_estimate': round(usd, 2),
                       'jobs': sent, 'skipped': skipped}, ensure_ascii=False, indent=1))
 
 
