@@ -18,10 +18,20 @@
     "facts": "Close-up of Wit alone, head and body turned three-quarters toward screen-right, eyes looking to screen-right, calm faint expression, lips closed. No hands or phone visible; gray sweater over striped collar fills the lower frame. Blurred cream headboard behind, warm lamp bokeh at upper screen-left."
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "d81ac2e68880"
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Video/EP29_A007_T01.mp4",
+        "job": "8d17c4dc-0afb-9efd-a84d-c39d04ee4277",
+        "result": "ok",
+        "qc": "4.04s มีเสียง มองขวาเฟรมตลอด ยิ้มบางท้ายคลิป ไม่มี drift",
+        "cost": 0.32
+      }
+    ],
+    "selected": "EP29/Video/EP29_A007_T01.mp4",
+    "prompt_sha": "d81ac2e68880",
+    "flag": "ต้องฟังลิปซิงก์"
   },
   "notes": []
 }

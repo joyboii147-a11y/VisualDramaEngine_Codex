@@ -4,13 +4,14 @@
   "refs": [
     "input/characters/ริต้า/Face.jpeg"
   ],
-  "out_file": "EP29/Image/EP29_B044_T01.png",
-  "prompt_chars": 2899,
-  "status": "failed",
-  "request_id": "01a159d1-4c3f-7800-b9c8-01c59970ec11",
-  "status_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a159d1-4c3f-7800-b9c8-01c59970ec11/status",
-  "response_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a159d1-4c3f-7800-b9c8-01c59970ec11",
-  "submitted": "2026-10-20 21:57:30",
-  "error": "HTTP 403: {\"detail\":\"User is locked. Reason: TOP_UP.\"}",
-  "finished": "2026-10-20 22:00:25"
+  "out_file": "EP29/Image/EP29_B044_T03.png",
+  "prompt_chars": 2934,
+  "status": "done",
+  "request_id": "01a15e5e-5b27-7fa2-92c1-60bf4d6a8f91",
+  "status_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a15e5e-5b27-7fa2-92c1-60bf4d6a8f91/status",
+  "response_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a15e5e-5b27-7fa2-92c1-60bf4d6a8f91",
+  "submitted": "2026-10-21 19:10:01",
+  "width": null,
+  "height": null,
+  "finished": "2026-10-21 19:10:40"
 }

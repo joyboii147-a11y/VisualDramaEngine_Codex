@@ -1,7 +1,7 @@
 {
   "clip": "A041",
   "image": {
-    "status": "retry",
+    "status": "done",
     "takes": [
       {
         "take": 1,
@@ -10,16 +10,73 @@
         "result": "fail",
         "qc": "การ์ดหนาคล้ายโทรศัพท์ และถือมือซ้าย (ขวาเฟรม) ผิดจากมือขวา สีหน้าดูนิ่งมากกว่าภูมิใจ",
         "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP29/Image/EP29_A041_T02.png",
+        "job": "01a15c72-4314-71b3-bc28-2b5f8c1a7a7c",
+        "result": "fail",
+        "qc": "ถือการ์ดมือซ้าย (ขวาเฟรม) อีกครั้ง ผิดจาก START STATE มือขวาและ A036; การ์ดสีเงินเรียบไม่มีตรา ไม่ใช่ rose-gold แบบ A036; เฟรมกว้างกว่า MCU (หน้าราว 15% ไม่ใช่ 35%); หน้า ชุด ฉาก ลำดับซ้ายขวาถูก ไม่มีตัวหนังสือ — ใช้สำรองได้ถ้าจำเป็น",
+        "cost": 0.06
+      },
+      {
+        "take": 3,
+        "file": "EP29/Image/EP29_A041_T03.png",
+        "job": "01a15c86-b953-7ff2-b29c-5f388e27d5be",
+        "result": "ok",
+        "qc": "การ์ดโลหะ rose-gold บาง มือขวา (ซ้ายเฟรม) ใกล้ไหล่เจต ไม่มีตัวหนังสือ ต่อกับ A036; หน้า ชุด ฉากถูก (เฟรมกว้างกว่า MCU เล็กน้อยเหมือนช็อต OTS อื่น)",
+        "cost": 0.06
+      },
+      {
+        "take": 4,
+        "file": "EP29/Image/EP29_A041_T04.png",
+        "job": "01a15e59-d719-7611-b800-063d87605c60",
+        "result": "fail",
+        "qc": "ถือบัตรมือซ้าย (ขวาเฟรม ฝั่งกระเป๋า) ไม่ใช่มือขวาฝั่งไหล่เจต",
+        "cost": 0.06
+      },
+      {
+        "take": 5,
+        "file": "EP29/Image/EP29_A041_T05.png",
+        "job": "01a15e5c-81f4-7163-aa67-1a0e82e4eb96",
+        "result": "ok",
+        "qc": "บัตรบางมือขวา (ซ้ายเฟรม) ระดับอกใกล้ไหล่เจต (บัตรเล็ก สีจางในเงา) ผมยาวลอน low-key",
+        "cost": 0.06
       }
     ],
-    "selected": null,
-    "prompt_sha": "8f497dff7ebc"
+    "selected": "EP29/Image/EP29_A041_T05.png",
+    "prompt_sha": "fc56956bb970",
+    "reset_at": 3,
+    "flag": null,
+    "facts": "Over-the-shoulder: Jet's blurred back of head and black suit shoulder fill the left third; Rita at center-right, three-quarter view looking screen-left at him, cool composed face, lips closed, long wavy hair down. Her right hand near Jet's shoulder at screen-left holds a thin pale rose-gold card at chest level, partly in shadow; bag at her left hip on screen-right."
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "bf8ea6acd76a"
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Video/EP29_A041_T01.mp4",
+        "job": "70f2621b-9fa5-906c-9ebc-2b0875c8da6a",
+        "result": "ok",
+        "qc": "พูดแล้วเอียงหัว การ์ดมือขวาระดับอกคงที่ ฉาก/หน้าคงที่",
+        "cost": 0.24
+      },
+      {
+        "take": 2,
+        "file": "EP29/Video/EP29_A041_T02.mp4",
+        "job": "9f6378d7-a874-9515-9f19-0288ac3cd137",
+        "result": "ok",
+        "qc": "พูดเกลี้ยกล่อม บัตรมือขวาระดับอก (บัตรเด่นขึ้นเป็นสีขาวอมชมพูกลางคลิป) ฉากคงที่",
+        "cost": 0.24
+      }
+    ],
+    "selected": "EP29/Video/EP29_A041_T02.mp4",
+    "prompt_sha": "a673a3cda61d",
+    "reset_at": 1,
+    "flag": "ต้องฟังลิปซิงก์"
   },
-  "notes": []
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo",
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
 }

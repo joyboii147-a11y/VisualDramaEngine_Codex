@@ -1,16 +1,65 @@
 {
   "clip": "B047",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "7fbfb0435b61"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Image/EP29_B047_T01.png",
+        "job": "01a15c73-a011-7970-a58f-759ca8be7409",
+        "result": "ok",
+        "qc": "ผ่าน ลำดับ 5 คนถูก ซองไม่มีตัวหนังสือ",
+        "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP29/Image/EP29_B047_T02.png",
+        "job": "01a15e5d-4a6a-7ac0-aef3-2c0214f34044",
+        "result": "ok",
+        "qc": "ผ่าน 5 คนลำดับถูก ริต้าผมปล่อย (ซองมีรอยเล็กอ่านไม่ออก)",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP29/Image/EP29_B047_T02.png",
+    "prompt_sha": "d6bcfc3af0ac",
+    "flag": null,
+    "facts": "Long shot: left to right Rita (long loose hair), Secretary Jet (eyes lowered), Wit (white envelope in both hands at chest), Irin (looking at Wit), Wit's mother, all standing behind the round white table with the flower vase in the center foreground; curtain and potted plant at left, glass wall behind, entrance with sconce at right.",
+    "reset_at": 1
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "9b49b2416fd5"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Video/EP29_B047_T01.mp4",
+        "job": "e9280219-0df1-9aa4-a51c-6b58ad0128c5",
+        "result": "ok",
+        "qc": "ผ่าน ทั้ง 5 ยืนนิ่ง ลำดับคงเดิม",
+        "cost": 0.08
+      },
+      {
+        "take": 2,
+        "file": "EP29/Video/EP29_B047_T02.mp4",
+        "job": "70522e21-6c3a-9eb6-9d47-d178facbd731",
+        "result": "fail",
+        "qc": "กล้องดันเข้า/ทุกคนขยับเข้าหากล้อง แจกันลอยแยกจากโต๊ะท้ายคลิป",
+        "cost": 0.08
+      },
+      {
+        "take": 3,
+        "file": "EP29/Video/EP29_B047_T03.mp4",
+        "job": "dbca160b-076f-9b9c-9477-3ecfd7fa8dee",
+        "result": "ok",
+        "qc": "ผ่าน 5 คนยืนนิ่ง ลำดับคงเดิม แจกันอยู่บนโต๊ะ (กล้องดันเข้าเล็กน้อย)",
+        "cost": 0.08
+      }
+    ],
+    "selected": "EP29/Video/EP29_B047_T03.mp4",
+    "prompt_sha": "c5d6b886df96",
+    "flag": null,
+    "reset_at": 1
   },
-  "notes": []
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
 }

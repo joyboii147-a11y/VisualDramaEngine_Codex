@@ -18,7 +18,7 @@ TARGET DURATION: 3 seconds including handles.
 Animate the supplied starting image. Use only this request's image and instructions.
 One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
 SCENE GEOGRAPHY: a night banquet hall; behind Rita a tall black steel-framed glass wall with warm reflections and the edge of a white sheer curtain at far left.
-VISIBLE CAST: exactly 1 person: Rita, a young Thai woman in her mid-twenties, wearing a shaggy long-hair white faux-fur jacket collar over a silver-gray satin shirt dress, dark beaded necklaces, gold cluster earrings, and dark brown hair in a high top-knot bun. Her face is slightly left of center, three-quarter toward the camera, eyes screen-right.
+VISIBLE CAST: exactly 1 person: Rita, a young Thai woman in her mid-twenties, wearing a shaggy long-hair white faux-fur jacket collar over a silver-gray satin shirt dress, dark beaded necklaces, gold cluster earrings, and long dark brown wavy hair worn down past the shoulders with a center part. Her face is slightly left of center, three-quarter toward the camera, eyes screen-right.
 CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: camera on the hall interior side in front of the left part of the table, facing Rita at a slight three-quarter angle; standing eye level; tight close-up; 85mm.
 FOREGROUND / VISIBLE BACKGROUND: no foreground. Background: softly defocused black steel-framed glass wall with warm reflections; edge of a white sheer curtain at far left.
 OFF-FRAME: the person Rita watches is beyond the right frame edge; only her eyes hold there, the camera does not follow her gaze. No one else enters the frame at any time.

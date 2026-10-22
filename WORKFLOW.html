@@ -1,0 +1,421 @@
+<!doctype html>
+<html lang="th">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>VDE Workflow v68.2</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai:wght@400;500;600;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#f5f3ee; --surface:#ffffff; --ink:#1b1d22; --muted:#5f6470; --line:#dcd8cf;
+  --accent:#c2410c; --accent-soft:#fde8dc;
+  --a:#2563eb; --a-soft:#dde8fd; --b:#7c3aed; --b-soft:#ece2fd;
+  --c:#0f8a5f; --c-soft:#d8f3e6; --d:#b45309; --d-soft:#fbead2;
+  --warn:#b91c1c; --warn-soft:#fde2e2;
+  --font:'IBM Plex Sans Thai','Leelawadee UI','Tahoma',sans-serif;
+  --mono:'JetBrains Mono','Consolas',monospace;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#15171c; --surface:#1e2128; --ink:#eceef2; --muted:#9aa1ad; --line:#323743;
+    --accent:#fb923c; --accent-soft:#3a2418;
+    --a:#7aa7ff; --a-soft:#1d2a45; --b:#b794ff; --b-soft:#2b2245;
+    --c:#4fd1a1; --c-soft:#163a2d; --d:#f5b65b; --d-soft:#3a2c16;
+    --warn:#f87171; --warn-soft:#3b1d1d;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#15171c; --surface:#1e2128; --ink:#eceef2; --muted:#9aa1ad; --line:#323743;
+  --accent:#fb923c; --accent-soft:#3a2418;
+  --a:#7aa7ff; --a-soft:#1d2a45; --b:#b794ff; --b-soft:#2b2245;
+  --c:#4fd1a1; --c-soft:#163a2d; --d:#f5b65b; --d-soft:#3a2c16;
+  --warn:#f87171; --warn-soft:#3b1d1d;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{height:100%}
+body{background:var(--bg);color:var(--ink);font-family:var(--font);overflow:hidden;line-height:1.55}
+.deck{position:relative;width:100vw;height:100vh}
+.slide{position:absolute;inset:0;display:none;align-items:center;justify-content:center;padding:3vh 4vw}
+.slide.on{display:flex}
+.frame{width:min(1280px,100%);max-height:100%;aspect-ratio:16/9;background:var(--surface);border:1px solid var(--line);
+  border-radius:18px;padding:clamp(20px,3.6vw,52px);display:flex;flex-direction:column;gap:clamp(10px,1.6vw,22px);overflow:hidden;position:relative}
+.kicker{font-size:clamp(11px,1vw,14px);letter-spacing:.12em;text-transform:uppercase;color:var(--accent);font-weight:600}
+h1{font-size:clamp(28px,4.4vw,60px);line-height:1.15;font-weight:700}
+h2{font-size:clamp(20px,2.6vw,36px);line-height:1.2;font-weight:700}
+h3{font-size:clamp(14px,1.35vw,19px);font-weight:600}
+p,li,td,th{font-size:clamp(12px,1.18vw,17px)}
+.muted{color:var(--muted)}
+.mono{font-family:var(--mono);font-size:.9em}
+code{font-family:var(--mono);font-size:.88em;background:var(--bg);border:1px solid var(--line);border-radius:5px;padding:0 .35em}
+.grow{flex:1;min-height:0}
+.grid{display:grid;gap:clamp(8px,1.2vw,16px)}
+.g2{grid-template-columns:1fr 1fr}.g3{grid-template-columns:repeat(3,1fr)}.g4{grid-template-columns:repeat(4,1fr)}
+.card{border:1px solid var(--line);border-radius:12px;padding:clamp(10px,1.2vw,18px);background:var(--surface)}
+.card ul{padding-left:1.1em}.card li{margin:.15em 0}
+.tag{display:inline-block;font-size:clamp(10px,.9vw,13px);font-weight:600;border-radius:999px;padding:.1em .7em;margin-right:.3em}
+.ta{background:var(--a-soft);color:var(--a)}.tb{background:var(--b-soft);color:var(--b)}
+.tc{background:var(--c-soft);color:var(--c)}.td{background:var(--d-soft);color:var(--d)}
+.tw{background:var(--warn-soft);color:var(--warn)}.tx{background:var(--accent-soft);color:var(--accent)}
+.phase{border-left:5px solid;border-radius:10px;padding:clamp(10px,1.1vw,16px);background:var(--surface);border-top:1px solid var(--line);border-right:1px solid var(--line);border-bottom:1px solid var(--line)}
+.pa{border-left-color:var(--a)}.pb{border-left-color:var(--b)}.pc{border-left-color:var(--c)}.pd{border-left-color:var(--d)}
+.phase .lbl{font-weight:700;font-size:clamp(12px,1.1vw,16px)}
+.arrow{color:var(--muted);text-align:center;font-size:clamp(14px,1.6vw,22px)}
+table{border-collapse:collapse;width:100%}
+th,td{text-align:left;padding:.42em .6em;border-bottom:1px solid var(--line);vertical-align:top}
+th{color:var(--muted);font-weight:600;font-size:clamp(11px,1vw,14px)}
+.ok{color:var(--c);font-weight:700}.no{color:var(--warn);font-weight:700}
+/* lanes */
+.lanes{display:flex;flex-direction:column;gap:clamp(6px,.8vw,10px)}
+.lane{display:grid;grid-template-columns:clamp(46px,5vw,70px) 1fr;align-items:center;gap:10px}
+.lane .sc{font-weight:700;font-family:var(--mono);color:var(--muted)}
+.steps{display:flex;gap:6px;align-items:center;flex-wrap:nowrap}
+.st{flex:1;text-align:center;border-radius:8px;padding:.45em .3em;font-size:clamp(11px,1.02vw,15px);font-weight:500;white-space:nowrap}
+.st.x{flex:.25;background:none;color:var(--muted);padding:0}
+.bar{border-radius:8px;padding:.45em .7em;text-align:center;font-size:clamp(11px,1.02vw,15px);font-weight:500}
+/* gantt */
+.gantt{display:flex;flex-direction:column;gap:6px}
+.grow-row{display:grid;grid-template-columns:clamp(46px,5vw,70px) 1fr;gap:10px;align-items:center}
+.track{position:relative;height:clamp(18px,2.2vw,28px);background:var(--bg);border-radius:6px}
+.seg{position:absolute;top:0;bottom:0;border-radius:6px;font-size:clamp(9px,.85vw,12px);display:flex;align-items:center;justify-content:center;font-weight:600;overflow:hidden;white-space:nowrap}
+.wait{background:repeating-linear-gradient(45deg,transparent 0 5px,var(--line) 5px 7px)}
+.big{font-size:clamp(30px,4.6vw,64px);font-weight:700;line-height:1}
+.note{border-left:4px solid var(--accent);background:var(--accent-soft);padding:.6em .9em;border-radius:8px}
+.foot{position:absolute;left:clamp(20px,3.6vw,52px);bottom:clamp(10px,1.4vw,18px);font-size:clamp(10px,.85vw,12px);color:var(--muted)}
+.tree{font-family:var(--mono);font-size:clamp(10px,1vw,14px);line-height:1.7;white-space:pre;background:var(--bg);border:1px solid var(--line);border-radius:10px;padding:1em;overflow:auto}
+.tree b{color:var(--accent);font-weight:600}
+/* nav */
+.nav{position:fixed;right:16px;bottom:12px;display:flex;gap:8px;align-items:center;z-index:5}
+.nav button{font-family:var(--font);background:var(--surface);color:var(--ink);border:1px solid var(--line);border-radius:8px;padding:6px 12px;cursor:pointer;font-size:14px}
+.nav button:hover{border-color:var(--accent)}
+.count{font-family:var(--mono);font-size:13px;color:var(--muted);min-width:56px;text-align:center}
+.progress{position:fixed;left:0;top:0;height:3px;background:var(--accent);transition:width .2s;z-index:5}
+@media (max-width:760px){
+  body{overflow:auto}
+  .slide{position:static;display:flex;padding:12px 16px}
+  .frame{aspect-ratio:auto}
+  .g2,.g3,.g4{grid-template-columns:1fr}
+  .steps{flex-wrap:wrap}.st{white-space:normal}
+  .nav,.progress{display:none}
+}
+@media print{
+  @page{size:1280px 720px;margin:0}
+  body{overflow:visible;background:#fff}
+  .slide{position:static;display:flex!important;page-break-after:always;width:1280px;height:720px;padding:0}
+  .frame{border:none;border-radius:0;width:1280px;height:720px}
+  .nav,.progress{display:none}
+}
+</style>
+</head>
+<body>
+<div class="progress" id="progress"></div>
+<div class="deck" id="deck">
+
+<!-- 1 -->
+<section class="slide">
+ <div class="frame" style="justify-content:center">
+  <div class="kicker">Visual Drama Engine · v68.2</div>
+  <h1>จากคลิปต้นฉบับ<br>สู่ไฟล์ตัดต่อ</h1>
+  <p class="muted" style="font-size:clamp(14px,1.6vw,22px);max-width:40em">ภาพรวมการทำงานของระบบผลิตละครสั้นแนวตั้ง 9:16 — ใครทำอะไร ทำขนานกันตรงไหน และสั่งงานด้วยคำสั่งอะไร</p>
+  <div style="display:flex;gap:8px;flex-wrap:wrap;margin-top:8px">
+   <span class="tag ta">A แกะคลิป</span><span class="tag tb">B เอกสาร + prompt</span><span class="tag tc">C ผลิต</span><span class="tag td">D ตัดต่อ</span>
+  </div>
+  <div class="foot">กด → / Space เพื่อไปต่อ · F เต็มจอ · อัปเดต 21 ต.ค. 2026</div>
+ </div>
+</section>
+
+<!-- 2 -->
+<section class="slide">
+ <div class="frame">
+  <div class="kicker">ภาพรวม</div>
+  <h2>4 ช่วงของหนึ่งตอน</h2>
+  <div class="grid g4 grow" style="align-content:center">
+   <div class="phase pa"><div class="lbl" style="color:var(--a)">A · แกะคลิป</div><p class="muted">Claude Code</p><p>คลิปใน <code>Source/</code> → เนื้อเรื่อง เหตุการณ์รายช็อต บทพูดถอดเสียง + ภาพอ้างอิง → เปลี่ยนชื่อ · ทำภาพชุด · ย้ายเข้า <code>input/</code></p></div>
+   <div class="phase pb"><div class="lbl" style="color:var(--b)">B · เอกสาร + prompt</div><p class="muted">Codex หรือ Claude Code</p><p>breakdown → bible → แตก Shot → prompt ภาพ/วิดีโอ → ตรวจ → ใบสถานะเรื่อง</p></div>
+   <div class="phase pc"><div class="lbl" style="color:var(--c)">C · ผลิต</div><p class="muted">Claude Code</p><p>ภาพตั้งต้น (GPT Image 2 ผ่าน fal) → ตรวจความต่อเนื่อง → วิดีโอ (Grok Imagine)</p></div>
+   <div class="phase pd"><div class="lbl" style="color:var(--d)">D · ตัดต่อ</div><p class="muted">Claude Code</p><p>ตัดตามไฟล์ Shot ซับไทยจากบทจริง → MP4 + XML ไทม์ไลน์ → รายงานผลิต</p></div>
+  </div>
+  <div class="note"><b>หลักใหม่ v68.2:</b> ภายในช่วง B และ C แต่ละ Scene เดินสายของตัวเอง ไม่รอ Scene อื่น</div>
+ </div>
+</section>
+
+<!-- 3 -->
+<section class="slide">
+ <div class="frame">
+  <div class="kicker">คำสั่ง</div>
+  <h2>สั่งงานด้วยประโยคเดียว</h2>
+  <div class="grow" style="overflow:auto">
+  <table>
+   <tr><th>ช่วง</th><th>พิมพ์สั่ง</th><th>Skill</th><th>ได้อะไร</th></tr>
+   <tr><td><span class="tag ta">A</span></td><td>แกะคลิป EPxx</td><td class="mono">vde-decode</td><td>EPxx.txt + frames/ (เนื้อเรื่อง เหตุการณ์ บทพูด)</td></tr>
+   <tr><td><span class="tag ta">A</span></td><td>แกะบทพูด EPxx</td><td class="mono">vde-decode</td><td>ถอดบทซ้ำแยกไฟล์ ไว้เทียบหาคำผิด</td></tr>
+   <tr><td><span class="tag ta">A</span></td><td>แก้ชื่อ X เป็น Y ใน EPxx</td><td class="mono">vde-rename</td><td>นับก่อน แล้วแทนทั้งเอกสารตามขอบเขต</td></tr>
+   <tr><td><span class="tag ta">A</span></td><td>ทำภาพชุด EPxx</td><td class="mono">vde-wardrobe</td><td>ภาพชุด 3 มุมที่ยังขาด</td></tr>
+   <tr><td><span class="tag ta">A</span></td><td>ย้าย EPxx เข้า input</td><td class="mono">vde-decode</td><td><code>input/story/EPxx.txt</code></td></tr>
+   <tr><td><span class="tag tb">B</span></td><td>ทำ EPxx ถึงแค่คำสั่งสร้างรูป</td><td class="mono">AGENTS.md</td><td>เอกสารครบ + prompt ทุกคลิป</td></tr>
+   <tr><td><span class="tag tc">C</span><span class="tag td">D</span></td><td>ทำ EPxx · ทำต่อ EPxx</td><td class="mono">vde-episode</td><td>ภาพ วิดีโอ ไฟล์ตัดต่อ รายงาน (ทำต่อจากจุดค้างได้)</td></tr>
+   <tr><td><span class="tag tc">C</span></td><td>สร้างรูป / สร้างวิดีโอ EPxx [SCxx]</td><td class="mono">vde-images · vde-videos</td><td>เฉพาะขั้นนั้น</td></tr>
+   <tr><td><span class="tag td">D</span></td><td>ตัดต่อ EPxx</td><td class="mono">vde-edit → vde-xml</td><td>MP4 ซับไทย + XML Premiere/Resolve</td></tr>
+  </table>
+  </div>
+  <p class="muted">“แกะคลิป EPxx แล้วทำต่อเลย” = ช่วง A ต่อช่วง B ทันที</p>
+ </div>
+</section>
+
+<!-- 4 -->
+<section class="slide">
+ <div class="frame">
+  <div class="kicker" style="color:var(--a)">ช่วง A</div>
+  <h2>แกะคลิป: ส่ง Gemini ครั้งเดียว ได้ครบ 3 อย่าง</h2>
+  <div class="steps">
+   <div class="st" style="background:var(--a-soft);color:var(--a)">prep<br><span class="muted" style="font-size:.85em">บีบ 540p · หาจุดตัด · รายชื่อตอนก่อน</span></div><div class="st x">→</div>
+   <div class="st" style="background:var(--a-soft);color:var(--a)">run<br><span class="muted" style="font-size:.85em">fal openrouter/router/video</span></div><div class="st x">→</div>
+   <div class="st" style="background:var(--a-soft);color:var(--a)">frames<br><span class="muted" style="font-size:.85em">ภาพกลางทุกช็อต</span></div><div class="st x">→</div>
+   <div class="st" style="background:var(--a-soft);color:var(--a)">check + แก้<br><span class="muted" style="font-size:.85em">เวลาทับ · ป้ายตรวจ</span></div><div class="st x">→</div>
+   <div class="st" style="background:var(--a-soft);color:var(--a)">promote<br><span class="muted" style="font-size:.85em">เข้า input/story</span></div>
+  </div>
+  <div class="grid g3 grow">
+   <div class="card"><h3>เนื้อเรื่อง</h3><ul><li>ผังฉาก ตำแหน่งคนในพื้นที่</li><li>ช่วงเรื่อง ใครอยู่ ใครทำอะไร</li></ul></div>
+   <div class="card"><h3>เหตุการณ์</h3><ul><li>ทุกช็อตต้นฉบับ ขนาดภาพ มุมกล้อง</li><li>องค์ประกอบในเฟรม ซ้าย→ขวา</li><li>การกระทำเฟรมแรก→สุดท้าย</li></ul></div>
+   <div class="card"><h3>บทพูด</h3><ul><li>ถอดจากเสียงคำต่อคำ</li><li>ติด <code>[ตรวจเสียง]</code> <code>[ฟังไม่ชัด]</code></li><li>ต้องให้คนฟังยืนยันเสมอ</li></ul></div>
+  </div>
+  <div class="grid g3">
+   <div><div class="big">$0.32</div><p class="muted">ค่าแกะ EP29 (คลิป 2:03, gemini-3.1-pro)</p></div>
+   <div><div class="big">59</div><p class="muted">ช็อตต้นฉบับ · 3 ฉาก ใน EP29</p></div>
+   <div><div class="big">7.2 MB</div><p class="muted">วิดีโอหลังบีบ (จาก 96 MB)</p></div>
+  </div>
+ </div>
+</section>
+
+<!-- 5 -->
+<section class="slide">
+ <div class="frame">
+  <div class="kicker">ทีม</div>
+  <h2>ใครทำอะไร</h2>
+  <div class="grid g2 grow">
+   <div class="card">
+    <h3>Agent หลัก — ผู้คุมงาน</h3>
+    <ul>
+     <li>แบ่งงาน กำหนดช่วงเลข Shot / Clip ต่อ Scene</li>
+     <li>รวมผล และเป็นคนเดียวที่เขียน <code>00_สมมติฐาน</code> <code>04_review</code> <code>05_สรุปตอน</code> <code>06_ผลิต</code></li>
+     <li>แก้แหล่งกลาง (Blocking Table, Bible) และแก้ prompt ตามผลตรวจความต่อเนื่อง</li>
+     <li>สั่งหยุดทุกสายเมื่อเงินหมด</li>
+    </ul>
+   </div>
+   <div class="card" style="overflow:auto">
+    <table>
+     <tr><th>Sub-agent</th><th>ระดับ</th><th>เขียน</th></tr>
+     <tr><td class="mono">breakdown</td><td>ทั้งตอน</td><td>01_breakdown</td></tr>
+     <tr><td class="mono">bible</td><td>ทั้งตอน</td><td>bible/ · 02 · 03</td></tr>
+     <tr><td class="mono">shot_planner</td><td><b>Scene ละตัว</b></td><td>shots/SCxx</td></tr>
+     <tr><td class="mono">prompt_writer</td><td><b>Scene ละตัว</b></td><td>prompts/ ของ Scene</td></tr>
+     <tr><td class="mono">reviewer</td><td><b>Scene ละตัว</b></td><td>— ส่งผลกลับ</td></tr>
+     <tr><td class="mono">state_keeper</td><td>ทั้งตอน</td><td>state/</td></tr>
+     <tr><td>สายผลิต</td><td><b>Scene ละตัว</b></td><td>ภาพ/วิดีโอของ Scene</td></tr>
+    </table>
+   </div>
+  </div>
+  <p class="muted">กฎกันชน: ห้ามสอง agent เขียนไฟล์เดียวกันพร้อมกัน · Bible มีผู้เขียนคนเดียว</p>
+ </div>
+</section>
+
+<!-- 6 -->
+<section class="slide">
+ <div class="frame">
+  <div class="kicker" style="color:var(--b)">ช่วง B · สาย Scene</div>
+  <h2>เอกสารและ prompt: แต่ละ Scene ไม่รอกัน</h2>
+  <div class="lanes">
+   <div class="lane"><div class="sc">ทั้งตอน</div><div class="steps">
+    <div class="bar" style="flex:1;background:var(--b-soft);color:var(--b)">Step 0 ตรวจ input</div><div class="st x">→</div>
+    <div class="bar" style="flex:1;background:var(--b-soft);color:var(--b)">1 breakdown</div><div class="st x">→</div>
+    <div class="bar" style="flex:1;background:var(--b-soft);color:var(--b)">2 bible</div><div class="st x">→</div>
+    <div class="bar" style="flex:1.3;background:var(--accent-soft);color:var(--accent)">กำหนดเลข Shot/Clip</div></div></div>
+  </div>
+  <div class="lanes grow" style="justify-content:center">
+   <div class="lane"><div class="sc">SC01</div><div class="steps"><div class="st" style="background:var(--b-soft);color:var(--b)">shot_planner</div><div class="st x">→</div><div class="st" style="background:var(--b-soft);color:var(--b)">prompt_writer</div><div class="st x">→</div><div class="st" style="background:var(--b-soft);color:var(--b)">reviewer</div><div class="st x">→</div><div class="st" style="background:var(--b-soft);color:var(--b)">แก้ (ตัวเดิม)</div></div></div>
+   <div class="lane"><div class="sc">SC02</div><div class="steps"><div class="st" style="background:var(--b-soft);color:var(--b)">shot_planner</div><div class="st x">→</div><div class="st" style="background:var(--b-soft);color:var(--b)">prompt_writer</div><div class="st x">→</div><div class="st" style="background:var(--b-soft);color:var(--b)">reviewer</div><div class="st x">→</div><div class="st" style="background:var(--b-soft);color:var(--b)">แก้ (ตัวเดิม)</div></div></div>
+   <div class="lane"><div class="sc">SC03</div><div class="steps"><div class="st" style="background:var(--b-soft);color:var(--b)">shot_planner</div><div class="st x">→</div><div class="st" style="background:var(--b-soft);color:var(--b)">prompt_writer</div><div class="st x">→</div><div class="st" style="background:var(--b-soft);color:var(--b)">reviewer</div><div class="st x">→</div><div class="st" style="background:var(--b-soft);color:var(--b)">แก้ (ตัวเดิม)</div></div></div>
+   <div class="lane"><div class="sc">ทั้งตอน</div><div class="steps"><div class="bar" style="flex:1;background:var(--b-soft);color:var(--b)">เมื่อทุกสายผ่าน → 7 state_keeper → 8 สรุป</div></div></div>
+  </div>
+  <div class="grid g3">
+   <p><b>Shot แรกของ Scene</b> เอาสีหน้าเริ่มจาก emotion map จึงไม่ต้องรอ Scene ก่อน</p>
+   <p><b>แก้ตามผลตรวจ</b> ส่งกลับ agent ตัวเดิม — รู้บริบทแล้ว ไม่ต้องอ่านกฎใหม่</p>
+   <p><b>แก้กระทบหลาย Scene</b> agent หลักแก้แหล่งกลางก่อน แล้วส่งให้สายที่กระทบ</p>
+  </div>
+ </div>
+</section>
+
+<!-- 7 -->
+<section class="slide">
+ <div class="frame">
+  <div class="kicker" style="color:var(--c)">ช่วง C · สาย Scene</div>
+  <h2>ผลิต: Scene ไหนภาพผ่าน ส่งวิดีโอได้เลย</h2>
+  <div class="lanes">
+   <div class="lane"><div class="sc">หลัก</div><div class="steps">
+    <div class="bar" style="flex:1;background:var(--c-soft);color:var(--c)">ดึง prompt (collect)</div><div class="st x">→</div>
+    <div class="bar" style="flex:1;background:var(--c-soft);color:var(--c)">ตรวจงบ / เครื่องมือ</div><div class="st x">→</div>
+    <div class="bar" style="flex:1.3;background:var(--accent-soft);color:var(--accent)">แบ่งเพดานเงินตามวินาที</div></div></div>
+  </div>
+  <div class="lanes grow" style="justify-content:center">
+   <div class="lane"><div class="sc">SC01</div><div class="steps"><div class="st" style="background:var(--c-soft);color:var(--c)">A ภาพ + ตรวจ</div><div class="st x">→</div><div class="st" style="background:var(--c-soft);color:var(--c)">B ความต่อเนื่อง</div><div class="st x">→</div><div class="st" style="background:var(--c-soft);color:var(--c)">C วิดีโอ + ตรวจซ้ำ</div></div></div>
+   <div class="lane"><div class="sc">SC02</div><div class="steps"><div class="st" style="background:var(--c-soft);color:var(--c)">A ภาพ + ตรวจ</div><div class="st x">→</div><div class="st" style="background:var(--c-soft);color:var(--c)">B ความต่อเนื่อง</div><div class="st x">→</div><div class="st" style="background:var(--c-soft);color:var(--c)">C วิดีโอ + ตรวจซ้ำ</div></div></div>
+   <div class="lane"><div class="sc">SC03</div><div class="steps"><div class="st" style="background:var(--c-soft);color:var(--c)">A ภาพ + ตรวจ</div><div class="st x">→</div><div class="st" style="background:var(--c-soft);color:var(--c)">B ความต่อเนื่อง</div><div class="st x">→</div><div class="st" style="background:var(--c-soft);color:var(--c)">C วิดีโอ + ตรวจซ้ำ</div></div></div>
+   <div class="lane"><div class="sc">หลัก</div><div class="steps"><div class="bar" style="flex:1;background:var(--d-soft);color:var(--d)">ครบทุกสาย → D ตัดต่อ → รายงาน 06_ผลิต</div></div></div>
+  </div>
+  <div class="grid g3">
+   <div class="card"><h3>hflip ได้</h3><p>ลำดับคนสลับทั้งเฟรม ไม่มีตัวหนังสือ → กลับภาพในสายเลย</p></div>
+   <div class="card"><h3>ต้นเหตุใน prompt</h3><p>สายรายงานกลับ → agent หลักแก้ prompt → collect รีเซ็ต → สายเดิมสร้างใหม่</p></div>
+   <div class="card"><h3>เงินหมด</h3><p>สายที่เจอแจ้ง → agent หลักสั่งหยุดทุกสายที่ใช้ช่องทางเดียวกัน</p></div>
+  </div>
+ </div>
+</section>
+
+<!-- 8 -->
+<section class="slide">
+ <div class="frame">
+  <div class="kicker">ก่อน / หลัง</div>
+  <h2>ทำไมสาย Scene ถึงเร็วกว่า</h2>
+  <p class="muted">แผนภาพแนวคิด ความยาวแถบไม่ใช่เวลาที่วัดจริง — แถบลายคือเวลาที่ Scene นั่งรอ Scene อื่น</p>
+  <div class="grid g2 grow" style="align-content:center">
+   <div>
+    <h3 style="margin-bottom:8px">เดิม — รอครบทุก Scene ทุกขั้น</h3>
+    <div class="gantt">
+     <div class="grow-row"><div class="sc mono muted">SC01</div><div class="track"><div class="seg" style="left:0;width:18%;background:var(--c-soft);color:var(--c)">ภาพ</div><div class="seg wait" style="left:18%;width:22%"></div><div class="seg" style="left:40%;width:12%;background:var(--accent-soft);color:var(--accent)">ตรวจรวม</div><div class="seg" style="left:52%;width:22%;background:var(--c-soft);color:var(--c)">วิดีโอ</div></div></div>
+     <div class="grow-row"><div class="sc mono muted">SC02</div><div class="track"><div class="seg" style="left:0;width:30%;background:var(--c-soft);color:var(--c)">ภาพ</div><div class="seg wait" style="left:30%;width:10%"></div><div class="seg" style="left:40%;width:12%;background:var(--accent-soft);color:var(--accent)">ตรวจรวม</div><div class="seg" style="left:52%;width:30%;background:var(--c-soft);color:var(--c)">วิดีโอ</div></div></div>
+     <div class="grow-row"><div class="sc mono muted">SC03</div><div class="track"><div class="seg" style="left:0;width:40%;background:var(--c-soft);color:var(--c)">ภาพ</div><div class="seg" style="left:40%;width:12%;background:var(--accent-soft);color:var(--accent)">ตรวจรวม</div><div class="seg" style="left:52%;width:48%;background:var(--c-soft);color:var(--c)">วิดีโอ</div></div></div>
+    </div>
+    <p class="muted" style="margin-top:8px">ตรวจความต่อเนื่องทั้งตอนโดย agent หลักคนเดียว เป็นคอขวดตรงกลาง</p>
+   </div>
+   <div>
+    <h3 style="margin-bottom:8px">v68.2 — แต่ละ Scene เดินเอง</h3>
+    <div class="gantt">
+     <div class="grow-row"><div class="sc mono muted">SC01</div><div class="track"><div class="seg" style="left:0;width:18%;background:var(--c-soft);color:var(--c)">ภาพ</div><div class="seg" style="left:18%;width:5%;background:var(--accent-soft);color:var(--accent)"></div><div class="seg" style="left:23%;width:22%;background:var(--c-soft);color:var(--c)">วิดีโอ</div></div></div>
+     <div class="grow-row"><div class="sc mono muted">SC02</div><div class="track"><div class="seg" style="left:0;width:30%;background:var(--c-soft);color:var(--c)">ภาพ</div><div class="seg" style="left:30%;width:5%;background:var(--accent-soft);color:var(--accent)"></div><div class="seg" style="left:35%;width:30%;background:var(--c-soft);color:var(--c)">วิดีโอ</div></div></div>
+     <div class="grow-row"><div class="sc mono muted">SC03</div><div class="track"><div class="seg" style="left:0;width:40%;background:var(--c-soft);color:var(--c)">ภาพ</div><div class="seg" style="left:40%;width:5%;background:var(--accent-soft);color:var(--accent)"></div><div class="seg" style="left:45%;width:50%;background:var(--c-soft);color:var(--c)">วิดีโอ</div></div></div>
+    </div>
+    <p class="muted" style="margin-top:8px">ตรวจความต่อเนื่องอยู่ในสายของแต่ละ Scene · เวลารวม = Scene ที่ยาวที่สุดเท่านั้น</p>
+   </div>
+  </div>
+  <div class="note"><b>EP29 จริง:</b> fal หมดเงินตอน SC03 — แบบสาย Scene, SC01 (10/10) และ SC02 (18/20) ที่ภาพผ่านแล้วจะได้วิดีโอระหว่างรอเติมเงิน</div>
+ </div>
+</section>
+
+<!-- 9 -->
+<section class="slide">
+ <div class="frame">
+  <div class="kicker">กติกา</div>
+  <h2>อะไรทำพร้อมกันได้ อะไรต้องเรียงลำดับ</h2>
+  <div class="grow" style="overflow:auto">
+  <table>
+   <tr><th>งาน</th><th>พร้อมกัน</th><th>เหตุผล</th></tr>
+   <tr><td>shot_planner / prompt_writer / reviewer คนละ Scene</td><td class="ok">ได้</td><td>เขียนคนละไฟล์ เลขกำหนดไว้แล้ว</td></tr>
+   <tr><td>ภาพ / ความต่อเนื่อง / วิดีโอ คนละ Scene</td><td class="ok">ได้</td><td>สถานะเป็นไฟล์รายคลิป เงินแบ่งเพดานแล้ว</td></tr>
+   <tr><td>ตรวจภาพนิ่งแกะคลิป คนละฉาก (ตอนยาว)</td><td class="ok">ได้</td><td>อ่านอย่างเดียว agent หลักแก้คนเดียว</td></tr>
+   <tr><td>แกะคลิปตอนถัดไป ระหว่างรอวิดีโอตอนนี้</td><td class="ok">ได้</td><td>ไม่แตะ Bible / ใบสถานะ</td></tr>
+   <tr><td>breakdown → bible → แตก Shot</td><td class="no">ไม่ได้</td><td>ขั้นถัดไปอ้างข้อมูลขั้นก่อน</td></tr>
+   <tr><td>เอกสารตอนถัดไป ก่อน state_keeper ตอนนี้เสร็จ</td><td class="no">ไม่ได้</td><td>ต้องใช้ Bible และใบสถานะล่าสุด</td></tr>
+   <tr><td>อัปโหลด ref เข้า OpenArt</td><td class="no">ไม่ได้</td><td>ref_cache.json เป็นไฟล์รวม (fal ไม่ต้อง)</td></tr>
+   <tr><td>เขียน 00 / 04 / 05 / 06 · ตัดต่อ</td><td class="no">ไม่ได้</td><td>agent หลักคนเดียว · ต้องมีวิดีโอครบ</td></tr>
+  </table>
+  </div>
+ </div>
+</section>
+
+<!-- 10 -->
+<section class="slide">
+ <div class="frame">
+  <div class="kicker">ต้นทุน</div>
+  <h2>แยก agent มีราคา — แยกแค่ระดับ Scene</h2>
+  <div class="grid g3 grow" style="align-content:center">
+   <div class="card"><div class="big">118k–155k</div><p class="muted">token ต่อ sub-agent หนึ่งตัวในงาน EP29 เพราะต้องเริ่มจากศูนย์และอ่านกฎใหม่ทุกครั้ง</p></div>
+   <div class="card"><div class="big">≤ 12</div><p class="muted">คลิป หรือ Scene เดียว → ไม่แยกสาย ให้ agent ตัวเดียวทำตามลำดับ</p></div>
+   <div class="card"><div class="big">6</div><p class="muted">sub-agent พร้อมกันสูงสุดใน Codex (<code>.codex/config.toml</code>) ตอน 3 Scene ใช้ไม่เกิน 3 ต่อช่วง</p></div>
+  </div>
+  <div class="grid g2">
+   <div class="card"><h3>ควรแยก</h3><ul><li>งานต่อ Scene ที่เขียนคนละไฟล์</li><li>งานที่ต้องเปิดภาพจำนวนมาก (ตรวจภาพ ตรวจ contact sheet)</li></ul></div>
+   <div class="card"><h3>ไม่ควรแยก</h3><ul><li>breakdown · bible · ไฟล์รวม · ตัดต่อ</li><li>งานแก้เล็กไม่กี่ไฟล์ — agent หลักทำเองเร็วกว่า</li></ul></div>
+  </div>
+ </div>
+</section>
+
+<!-- 11 -->
+<section class="slide">
+ <div class="frame">
+  <div class="kicker">ทำงานข้ามคืนได้</div>
+  <h2>หยุดถามเฉพาะ 3 กรณี</h2>
+  <div class="grid g3 grow" style="align-content:center">
+   <div class="card"><span class="tag tw">หยุด</span><h3 style="margin-top:6px">หา input ไม่เจอ</h3><p>ไม่มีไฟล์เรื่องหรือคลิปของตอนที่สั่ง หรือไฟล์ที่ผู้ใช้อ้างถึง</p></div>
+   <div class="card"><span class="tag tw">หยุด</span><h3 style="margin-top:6px">คลิปกำกวม</h3><p>ใน <code>Source/</code> เจอคลิปของตอนนั้นมากกว่าหนึ่งไฟล์ หรือไม่เจอ</p></div>
+   <div class="card"><span class="tag tw">หยุด</span><h3 style="margin-top:6px">เงินไม่พอ / หมด</h3><p>fal · OpenArt · xAI → หยุดขั้นนั้น เขียนรายงาน แล้วสั่ง “ทำต่อ EPxx” หลังเติมเงิน</p></div>
+  </div>
+  <div class="note">กรณีอื่นทั้งหมด (บทกำกวม ภาพไม่ผ่าน คลิปล้มเหลว) เลือกทางที่สมเหตุผลที่สุด ทำต่อ และบันทึกใน <code>00_สมมติฐาน.md</code> · บทพูดจากการแกะคลิปต้องให้คนฟังยืนยันเสมอ</div>
+ </div>
+</section>
+
+<!-- 12 -->
+<section class="slide">
+ <div class="frame">
+  <div class="kicker">ตัวอย่าง</div>
+  <h2>EP29 ตอนนี้อยู่ตรงไหน</h2>
+  <div class="grid g4">
+   <div class="card"><div class="big">60</div><p class="muted">Shot (3 Scene)</p></div>
+   <div class="card"><div class="big">52</div><p class="muted">คลิปต้องผลิต (A 27 · B 25)</p></div>
+   <div class="card"><div class="big">~128 วิ</div><p class="muted">ความยาวหนังโดยประมาณ</p></div>
+   <div class="card"><div class="big">28/52</div><p class="muted">ภาพตั้งต้นที่ใช้ได้</p></div>
+  </div>
+  <div class="lanes grow" style="justify-content:center">
+   <div class="lane"><div class="sc">A</div><div class="steps"><div class="bar" style="flex:1;background:var(--a-soft);color:var(--a)">แกะคลิปเสร็จ · ภาพชุดใหม่ 8 ชุด (รวมการ์ด 2 คน)</div></div></div>
+   <div class="lane"><div class="sc">B</div><div class="steps"><div class="bar" style="flex:1;background:var(--b-soft);color:var(--b)">เอกสาร + prompt 104 ไฟล์ครบ · ต้องแก้ค้าง 0</div></div></div>
+   <div class="lane"><div class="sc">C</div><div class="steps"><div class="bar" style="flex:1;background:var(--c-soft);color:var(--c)">SC01 ภาพผ่าน 10/10</div><div class="bar" style="flex:1;background:var(--c-soft);color:var(--c)">SC02 ผ่าน 18/20</div><div class="bar" style="flex:1;background:var(--warn-soft);color:var(--warn)">SC03 รอเติมเงิน fal</div></div></div>
+   <div class="lane"><div class="sc">D</div><div class="steps"><div class="bar" style="flex:1;background:var(--bg);color:var(--muted)">ยังไม่เริ่ม</div></div></div>
+  </div>
+  <p class="muted">รอผู้ใช้ตัดสิน: ฟังยืนยันบทพูด · ชื่อเกาหลีในบท · “ประธานวรเทพครับ” หมายถึงใคร · ประโยคซ้ำ A034 · ทำ EP28 ย้อนหลังหรือไม่</p>
+ </div>
+</section>
+
+<!-- 13 -->
+<section class="slide">
+ <div class="frame">
+  <div class="kicker">ไฟล์</div>
+  <h2>ทุกอย่างอยู่ที่ไหน</h2>
+  <div class="tree grow"><b>Source/</b>SRC EPxx.mp4                 คลิปต้นฉบับ
+<b>Source/EPxx_แกะคลิป/</b>               EPxx.txt (ก่อนย้าย) · EPxx_บทพูด.txt · frames/ · meta.json · usage_*.json
+<b>input/story/</b>EPxx.txt               ไฟล์เรื่องที่ใช้ทำเอกสาร
+<b>input/characters/</b>&lt;ชื่อ&gt;/            Face.* และภาพชุด "&lt;ชื่อ&gt; Wxx &lt;ชื่อชุด&gt;.png"
+<b>bible/</b>  <b>state/</b>                     ข้อมูลระดับซีรีส์ · ใบสถานะข้ามตอน
+<b>EPxx/</b>00–05 · shots/ · prompts/     เอกสารและ prompt ของตอน
+<b>EPxx/production/</b>                   แผนผลิต · สถานะรายคลิป · งาน fal · contact sheet
+<b>EPxx/</b>Image/ · Video/ · Edit/       ผลผลิต และไฟล์ตัดต่อ + XML
+<b>EPxx/</b>06_ผลิต.md                    รายงานผลิต</div>
+  <p class="muted">กฎละเอียด: <code>AGENTS.md</code> · <code>engine/</code> · <code>.claude/skills/*/SKILL.md</code> · ฉบับอ่าน: <code>WORKFLOW.md</code></p>
+ </div>
+</section>
+
+</div>
+<div class="nav"><button id="prev" aria-label="ก่อนหน้า">←</button><span class="count" id="count"></span><button id="next" aria-label="ถัดไป">→</button></div>
+<script>
+(function(){
+  var slides=[].slice.call(document.querySelectorAll('.slide')), i=0;
+  function store(k,v){try{v===undefined?0:localStorage.setItem(k,v);return localStorage.getItem(k)}catch(e){return null}}
+  var h=parseInt((location.hash||'').replace('#',''),10);
+  if(h>0&&h<=slides.length)i=h-1;else{var s=parseInt(store('vde-wf-slide'),10);if(s>=0&&s<slides.length)i=s}
+  function show(n){i=Math.max(0,Math.min(slides.length-1,n));
+    slides.forEach(function(s,k){s.classList.toggle('on',k===i)});
+    document.getElementById('count').textContent=(i+1)+' / '+slides.length;
+    document.getElementById('progress').style.width=((i+1)/slides.length*100)+'%';
+    history.replaceState(null,'','#'+(i+1)); store('vde-wf-slide',String(i));}
+  document.getElementById('prev').onclick=function(){show(i-1)};
+  document.getElementById('next').onclick=function(){show(i+1)};
+  document.addEventListener('keydown',function(e){
+    if(['ArrowRight','PageDown',' '].indexOf(e.key)>=0){e.preventDefault();show(i+1)}
+    else if(['ArrowLeft','PageUp'].indexOf(e.key)>=0){e.preventDefault();show(i-1)}
+    else if(e.key==='Home')show(0);else if(e.key==='End')show(slides.length-1);
+    else if(e.key==='f'||e.key==='F'){if(!document.fullscreenElement)document.documentElement.requestFullscreen&&document.documentElement.requestFullscreen();else document.exitFullscreen()}
+  });
+  var x0=null;document.addEventListener('touchstart',function(e){x0=e.touches[0].clientX},{passive:true});
+  document.addEventListener('touchend',function(e){if(x0===null)return;var d=e.changedTouches[0].clientX-x0;if(Math.abs(d)>50)show(i+(d<0?1:-1));x0=null});
+  show(i);
+})();
+</script>
+</body>
+</html>

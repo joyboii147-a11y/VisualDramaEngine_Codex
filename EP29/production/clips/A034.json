@@ -1,7 +1,7 @@
 {
   "clip": "A034",
   "image": {
-    "status": "flagged",
+    "status": "done",
     "takes": [
       {
         "take": 1,
@@ -10,18 +10,48 @@
         "result": "fail",
         "qc": "ริต้าคนเดียว CU เฉียงมองซ้าย ยิ้มมั่นใจ ปากปิด แต่มุมต่ำไม่ชัด(เกือบระดับสายตา) หน้าดูอายุมากกว่าภาพอ้างอิง",
         "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP29/Image/EP29_A034_T02.png",
+        "job": "01a15e59-a2d1-7f50-81cf-9a9fc18bac16",
+        "result": "ok",
+        "qc": "ริต้า CU 3/4 ยิ้มเจ้าเล่ห์ หน้าใกล้ภาพอ้างอิงขึ้น ผมยาวลอนปล่อยตามภาพอ้างอิงใหม่ low-key ฉาก/ชุด/ลำดับถูก ไม่มีตัวหนังสือ",
+        "cost": 0.06
       }
     ],
-    "selected": "EP29/Image/EP29_A034_T01.png",
-    "prompt_sha": "c8efd5fef413",
-    "flag": "ใบหน้าริต้าคล้ายภาพอ้างอิงน้อยกว่าช็อตอื่น (ดูอายุมากกว่า) และมุมต่ำไม่ชัด ให้คนตรวจหน้า",
-    "facts": "Rita alone, close-up from chest up, three-quarter view facing screen-left, confident smile with lips closed, camera nearly at eye level. Fur jacket, grey satin shirt, beaded necklaces and bag chain on her left shoulder visible; no hands visible."
+    "selected": "EP29/Image/EP29_A034_T02.png",
+    "prompt_sha": "e7250581750c",
+    "flag": null,
+    "facts": "Rita alone, close-up from chest up, three-quarter view facing screen-left, sly confident smile, lips closed, long wavy hair falling over both shoulders. Fur jacket, grey satin shirt, beaded necklaces and bag chain visible; no hands visible.",
+    "reset_at": 1
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "6065906a3817"
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Video/EP29_A034_T01.mp4",
+        "job": "0f570330-28ed-9d38-a430-6b4185ff7937",
+        "result": "ok",
+        "qc": "พูดสองช่วง โน้มเข้าเล็กน้อย จบยิ้มปิดปาก ฉากคงที่; หน้ายังดูอายุมากกว่าช็อตอื่นตามภาพตั้งต้น",
+        "cost": 0.48
+      },
+      {
+        "take": 2,
+        "file": "EP29/Video/EP29_A034_T02.mp4",
+        "job": "b8e0b274-df11-916d-899d-4627d6bc96d4",
+        "result": "ok",
+        "qc": "ริต้าพูดสองช่วง เหลือบตา แล้วโน้มเข้า ยิ้มเจ้าเล่ห์ ผม/หน้าคงที่",
+        "cost": 0.48
+      }
+    ],
+    "selected": "EP29/Video/EP29_A034_T02.mp4",
+    "prompt_sha": "61d2c958fd5f",
+    "flag": "ต้องฟังลิปซิงก์",
+    "reset_at": 1
   },
-  "notes": []
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
 }

@@ -1,16 +1,37 @@
 {
   "clip": "B056",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "59f6bf29c842"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Image/EP29_B056_T01.png",
+        "job": "01a15c73-e5aa-7370-93a2-e528d2c610e1",
+        "result": "ok",
+        "qc": "ผ่าน กระดาษเปล่าไม่มีตัวหนังสือ",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP29/Image/EP29_B056_T01.png",
+    "prompt_sha": "59f6bf29c842",
+    "flag": null,
+    "facts": "Tight close-up of Wit, face centered, eyes lowered reading; the plain blank back of a white sheet fills the bottom fifth of the frame as a horizontal band; camel suede jacket, grey sweater, striped shirt collar; dark glass wall with warm lights behind."
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "209fcec81dbf"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Video/EP29_B056_T01.mp4",
+        "job": "b212805d-200f-95ea-9610-e4d5472a7060",
+        "result": "ok",
+        "qc": "ผ่าน ตาโตอ้าปากเล็กน้อยค้าง ขอบกระดาษเปล่าล่าง",
+        "cost": 0.48
+      }
+    ],
+    "selected": "EP29/Video/EP29_B056_T01.mp4",
+    "prompt_sha": "209fcec81dbf",
+    "flag": null
   },
   "notes": []
 }

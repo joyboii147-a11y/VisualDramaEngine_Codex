@@ -10,18 +10,49 @@
         "result": "ok",
         "qc": "OTS ไหล่/ท้ายทอยเจตซ้ายใหญ่ ริต้ากลางเฟรมมองซ้าย ยิ้มมุมปาก ไม่เห็นมือ",
         "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP29/Image/EP29_A031_T02.png",
+        "job": "01a15e59-8a03-7861-8753-c1457ce04b8a",
+        "result": "ok",
+        "qc": "OTS ไหล่เจตซ้าย ริต้ากลาง ยิ้มเจ้าเล่ห์ ผมยาวลอนปล่อยตามภาพอ้างอิงใหม่ low-key ฉาก/ชุด/ลำดับถูก ไม่มีตัวหนังสือ",
+        "cost": 0.06
       }
     ],
-    "selected": "EP29/Image/EP29_A031_T01.png",
-    "prompt_sha": "d46f7bc0cc00",
+    "selected": "EP29/Image/EP29_A031_T02.png",
+    "prompt_sha": "2c655e8ecb4b",
     "flag": null,
-    "facts": "Over-the-shoulder: Jet's blurred back of head, glasses edge and black suit shoulder fill the left half; Rita at center-right, three-quarter view looking screen-left at him, faint smirk, lips closed. Framed to her waist; no hands visible, bag chain on her left shoulder."
+    "facts": "Over-the-shoulder: Jet's blurred back of head and black suit shoulder fill the left third; Rita at center-right, three-quarter view looking screen-left at him with a sly smile, lips closed, long wavy hair over her shoulders. Framed to mid-thigh; no hands visible; bag at her left hip.",
+    "reset_at": 1
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "cf4d50e04176"
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Video/EP29_A031_T01.mp4",
+        "job": "7855e093-0763-99c8-b280-0b7c833233b6",
+        "result": "ok",
+        "qc": "หน้า ชุด ฉากคงที่ ปากขยับพูดช่วงต้น จบยิ้มปิดปาก",
+        "cost": 0.24
+      },
+      {
+        "take": 2,
+        "file": "EP29/Video/EP29_A031_T02.mp4",
+        "job": "94e5f0cf-bed9-9039-9ca6-5f00a0d53720",
+        "result": "ok",
+        "qc": "ริต้าพูดยิ้มเจ้าเล่ห์ ผมยาวลอนคงที่ ฉากคงที่",
+        "cost": 0.24
+      }
+    ],
+    "selected": "EP29/Video/EP29_A031_T02.mp4",
+    "prompt_sha": "b6e6a90e3a78",
+    "flag": "ต้องฟังลิปซิงก์",
+    "reset_at": 1
   },
-  "notes": []
+  "notes": [
+    "video prompt เปลี่ยน — รีเซ็ตเป็น todo",
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
 }

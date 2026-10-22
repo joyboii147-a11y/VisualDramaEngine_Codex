@@ -3,7 +3,7 @@
 usage (from the project root):
   python .claude/skills/vde-episode/scripts/fal_image.py check
   python .claude/skills/vde-episode/scripts/fal_image.py EP28 submit [--scene SC01] [--clips A001,B002] [--dry-run]
-  python .claude/skills/vde-episode/scripts/fal_image.py EP28 collect [--wait 600]
+  python .claude/skills/vde-episode/scripts/fal_image.py EP28 collect [--scene SC01] [--wait 600]
 
 submit  : every todo image clip (or the ones named) is sent to the fal queue with its prompt verbatim and its
           reference images (from the prompt header) attached as data URIs — no upload step. Clips that already
@@ -167,12 +167,17 @@ def cmd_submit(ep, a):
 def cmd_collect(ep, a):
     jd = jobs_dir(ep)
     key = api_key()
+    # --scene: only this scene's jobs, so parallel scene workers do not wait on or download each other's
+    mine = None
+    if a.scene:
+        p = load_json(os.path.join(prod_dir(ep), 'plan.json')) or {'clips': {}}
+        mine = {c for c, info in p['clips'].items() if info['scene'] == a.scene}
     deadline = time.time() + a.wait
     while True:
         pending = []
         for f in sorted(os.listdir(jd)):
             j = load_json(os.path.join(jd, f))
-            if not j or j.get('status') != 'pending':
+            if not j or j.get('status') != 'pending' or (mine is not None and j['clip'] not in mine):
                 continue
             try:
                 s = http('GET', j['status_url'], key)
@@ -207,7 +212,7 @@ def main():
     ap.add_argument('ep')
     sub = ap.add_subparsers(dest='cmd', required=True)
     s = sub.add_parser('submit'); s.add_argument('--scene'); s.add_argument('--clips'); s.add_argument('--dry-run', action='store_true')
-    s = sub.add_parser('collect'); s.add_argument('--wait', type=int, default=600)
+    s = sub.add_parser('collect'); s.add_argument('--scene'); s.add_argument('--wait', type=int, default=600)
     a = ap.parse_args()
     {'submit': cmd_submit, 'collect': cmd_collect}[a.cmd](a.ep, a)
 

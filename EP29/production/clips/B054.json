@@ -1,16 +1,57 @@
 {
   "clip": "B054",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "9c1351ba5a27"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Image/EP29_B054_T01.png",
+        "job": "01a15c73-d55f-7433-8bd4-5fd165140dcb",
+        "result": "ok",
+        "qc": "ผ่าน แม่ซ้าย พ่อขวา การ์ด 1 เบลอกลางหลัง ตรงภาพอ้างอิง",
+        "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP29/Image/EP29_B054_T02.png",
+        "job": "01a15e5d-6956-72d3-83b1-109ab47964bb",
+        "result": "ok",
+        "qc": "ผ่าน แม่ซ้าย พ่อขวาไม่ใส่แว่น การ์ด 1 เบลอกลาง",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP29/Image/EP29_B054_T02.png",
+    "prompt_sha": "67c86c824bbd",
+    "flag": null,
+    "facts": "Medium shot: Wit's mother at screen-left (beige mink coat, striped scarf, brooch) and Wit's father at screen-right without glasses (black overcoat), both looking screen-left; Guard 1 (young, soft fringe) blurred between them in the background; white table edge with pink flowers and a small candle in the lower-left foreground.",
+    "reset_at": 1
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "3c56ef4a8b38"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Video/EP29_B054_T01.mp4",
+        "job": "1d7ee2be-8806-9bdb-a694-cd8dac1c748f",
+        "result": "ok",
+        "qc": "ผ่าน แม่ยิ้มรอ พ่อโน้มตัวไปซ้าย (โน้มมากกว่าที่สั่งเล็กน้อย)",
+        "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP29/Video/EP29_B054_T02.mp4",
+        "job": "e3d52a84-f6e1-9ba8-be1f-01855464fc28",
+        "result": "ok",
+        "qc": "ผ่าน พ่อไม่ใส่แว่นโน้มตัวไปซ้าย แม่ยิ้มรอ (การ์ด 1 ถูกพ่อบังท้ายคลิป)",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP29/Video/EP29_B054_T02.mp4",
+    "prompt_sha": "1ff9002b9d9a",
+    "flag": null,
+    "reset_at": 1
   },
-  "notes": []
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
 }

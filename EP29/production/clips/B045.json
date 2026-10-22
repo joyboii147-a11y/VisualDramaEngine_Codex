@@ -1,16 +1,73 @@
 {
   "clip": "B045",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "e1d92fd54782"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Image/EP29_B045_T01.png",
+        "job": "01a15c73-8388-7883-84e3-381fea399278",
+        "result": "ok",
+        "qc": "ผ่าน (ซองเล็กกว่า A4 เล็กน้อย มีรอยจางกลางซอง ไม่อ่านออก)",
+        "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP29/Image/EP29_B045_T02.png",
+        "job": "01a15e5d-38d7-7c70-9e78-dd529c749bea",
+        "result": "ok",
+        "qc": "ผ่าน แขนเจตเข้าจากซ้าย ส่งซองให้วิทย์ ไอรินขวามองวิทย์",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP29/Image/EP29_B045_T02.png",
+    "prompt_sha": "5f1609fd29f9",
+    "flag": null,
+    "facts": "Medium shot: Secretary Jet's black-suited arm enters from the left edge handing a plain white envelope to Wit at center-left, whose two hands take it; Irin at screen-right looks at Wit with a faint smile; blurred pink-white flowers on the white table across the bottom; another white-clothed table blurred at far left; glass doors behind.",
+    "reset_at": 1
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "befcb4478ce2"
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Video/EP29_B045_T01.mp4",
+        "job": "6fbcd020-0002-9ec7-98c4-da4ac6b5731c",
+        "result": "ok",
+        "qc": "ผ่าน รับซอง มือเลขาถอยออกซ้าย",
+        "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP29/Video/EP29_B045_T02.mp4",
+        "job": "005251b9-b7d4-92d9-8d39-89b380bfd4f9",
+        "result": "fail",
+        "qc": "แขนเจตถอยออกผิดทาง โผล่เป็นแขนดำระหว่างวิทย์กับไอรินกลางคลิป",
+        "cost": 0.06
+      },
+      {
+        "take": 3,
+        "file": "EP29/Video/EP29_B045_T03.mp4",
+        "job": "556dafce-1580-9241-8984-106a8405df4e",
+        "result": "fail",
+        "qc": "แขนเจตถอยไปโผล่หลังไอรินกลางคลิปอีก",
+        "cost": 0.06
+      },
+      {
+        "take": 4,
+        "file": "EP29/Video/EP29_B045_T04.mp4",
+        "job": "1603b7ca-a767-9a72-ae5f-720f7e9ebeda",
+        "result": "ok",
+        "qc": "ดีที่สุด: แขนเจตถอยออกแล้วโผล่ดำๆ ข้างไอรินช่วงกลาง",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP29/Video/EP29_B045_T04.mp4",
+    "prompt_sha": "8df7be758399",
+    "flag": "ครบ 3 take: แขนเจตถอยออกผิดทาง โผล่หลัง/ข้างไอรินช่วงกลางคลิป — ตัดใช้ช่วงต้นหรือท้าย",
+    "reset_at": 1
   },
-  "notes": []
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
 }

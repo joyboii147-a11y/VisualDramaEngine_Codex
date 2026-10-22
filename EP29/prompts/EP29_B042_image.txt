@@ -15,7 +15,7 @@ Create one standalone starting-frame image for SHOT EP29-S040.
 Vertical 9:16. Cinematic live-action still, photorealistic.
 REFERENCE IMAGES:
 Image 1: Rita — this image is a three-view sheet (front, side, back) of one person; use it for face, skin tone, hairstyle, body shape and this exact outfit. Show this person only once. Do not copy the white background, lighting, pose or camera angle from this image.
-CHARACTERS: Rita, a young Thai woman in her mid-twenties, bound to the reference image; exact outfit: "a cropped shaggy long-hair white faux-fur jacket worn open, over a silver-gray satin button-front mini shirt dress, several long strands of dark beaded necklaces layered at different lengths, gold cluster earrings, an ivory quilted mini shoulder bag on a gold chain strap worn on the left shoulder, nude patent pointed-toe stiletto pumps, and dark brown hair in a high top-knot bun".
+CHARACTERS: Rita, a young Thai woman in her mid-twenties, bound to the reference image; exact outfit: "a cropped shaggy long-hair white faux-fur jacket worn open, over a silver-gray satin button-front mini shirt dress, several long strands of dark beaded necklaces layered at different lengths, gold cluster earrings, an ivory quilted mini shoulder bag on a gold chain strap worn on the left shoulder, nude patent pointed-toe stiletto pumps, and long dark brown wavy hair worn down past the shoulders with a center part".
 CAST COUNT: exactly 1 person visible: Rita.
 SCENE GEOGRAPHY: a night banquet hall. Rita stands on the far side of a round white-clothed standing table at its left end, with a tall black steel-framed glass wall behind her and a white wall with sheer white curtains to the left of the hall.
 FRAME ORDER: from screen-left to screen-right: Rita.

@@ -10,18 +10,56 @@
         "result": "ok",
         "qc": "OTS เจตซ้าย ริต้ากลางยิ้ม ถือการ์ดสีโรสโกลด์มือขวาระดับอก มีตราสลักเล็ก ไม่มีตัวหนังสือ",
         "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP29/Image/EP29_A036_T02.png",
+        "job": "01a15e59-b1bb-7cd3-a1ce-6fc31740c4ec",
+        "result": "fail",
+        "qc": "ถือบัตรมือซ้าย (ขวาเฟรม ฝั่งกระเป๋า) ไม่ต่อกับช็อตอื่น",
+        "cost": 0.06
+      },
+      {
+        "take": 3,
+        "file": "EP29/Image/EP29_A036_T03.png",
+        "job": "01a15e5c-7b47-78d3-abb8-299fa34c01fb",
+        "result": "ok",
+        "qc": "บัตร rose-gold มือขวา (ซ้ายเฟรม) ระดับอก ผมยาวลอนปล่อย low-key ฉาก/ลำดับถูก",
+        "cost": 0.06
       }
     ],
-    "selected": "EP29/Image/EP29_A036_T01.png",
-    "prompt_sha": "e49e3b42cee0",
+    "selected": "EP29/Image/EP29_A036_T03.png",
+    "prompt_sha": "07b5d54c4900",
     "flag": null,
-    "facts": "Over-the-shoulder: Jet's blurred head and suit back on screen-left; Rita at center, three-quarter view looking screen-left at him with a soft smile. Her right hand holds a pale rose-gold metal card with a small round emblem at chest level, left of center; framed to mid-thigh, bag at her right hip."
+    "facts": "Over-the-shoulder: Jet's blurred back of head and black suit shoulder fill the left third; Rita at center, three-quarter view looking screen-left at him with a sly faint smile, lips closed, long wavy hair down. Her right hand at screen-left holds a thin pale rose-gold card at chest level; bag at her left hip on screen-right; dim corridor with blue-lit far end.",
+    "reset_at": 1
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "a6aebeadf898"
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Video/EP29_A036_T01.mp4",
+        "job": "eb111fd6-850b-9350-a226-c5bd628bfa6d",
+        "result": "ok",
+        "qc": "พูดแล้วยิ้มเย็น การ์ดคงอยู่มือขวาระดับอก ฉาก/หน้าคงที่",
+        "cost": 0.32
+      },
+      {
+        "take": 2,
+        "file": "EP29/Video/EP29_A036_T02.mp4",
+        "job": "78eb1ec4-1923-9dae-a495-a2e962562920",
+        "result": "ok",
+        "qc": "พูดแล้วยิ้มเย็น บัตรมือขวาระดับอกคงที่ ฉาก/ผมคงที่",
+        "cost": 0.32
+      }
+    ],
+    "selected": "EP29/Video/EP29_A036_T02.mp4",
+    "prompt_sha": "3954627fb3d9",
+    "flag": "ต้องฟังลิปซิงก์",
+    "reset_at": 1
   },
-  "notes": []
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
 }

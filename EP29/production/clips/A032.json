@@ -10,18 +10,49 @@
         "result": "ok",
         "qc": "เจตกลางเฟรมหน้าตรง คิ้วยกเล็กน้อย ไหล่ขนเฟอร์+มวยริต้าขวาล่าง เบลอ",
         "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP29/Image/EP29_A032_T02.png",
+        "job": "01a15e59-90a4-76e3-a7e1-e49aec56d0d4",
+        "result": "ok",
+        "qc": "OTS เจตกลาง มองระแวง หลังริต้าผมยาวขวาล่าง ผมยาวลอนปล่อยตามภาพอ้างอิงใหม่ low-key ฉาก/ชุด/ลำดับถูก ไม่มีตัวหนังสือ",
+        "cost": 0.06
       }
     ],
-    "selected": "EP29/Image/EP29_A032_T01.png",
-    "prompt_sha": "4b48544ee936",
+    "selected": "EP29/Image/EP29_A032_T02.png",
+    "prompt_sha": "0f16b0703059",
     "flag": null,
-    "facts": "Jet at center-left, nearly frontal, looking screen-right toward Rita, glasses, dark red tie, framed chest-up. Rita's blurred bun, ear and white fur shoulder with gold bag chain fill the right foreground. No hands visible."
+    "facts": "Jet at center-left, nearly frontal, looking screen-right toward Rita, wary guarded face, glasses, framed chest-up. Rita's blurred long wavy hair and white fur shoulder with gold chain fill the right foreground. No hands visible; blue slat panel behind.",
+    "reset_at": 1
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "afea232acded"
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Video/EP29_A032_T01.mp4",
+        "job": "fe45c87c-1ebd-9018-bbd6-237ef1ef90b4",
+        "result": "ok",
+        "qc": "เจตพูดช่วงต้นแล้วนิ่ง หน้า แว่น ชุด ฉากคงที่",
+        "cost": 0.32
+      },
+      {
+        "take": 2,
+        "file": "EP29/Video/EP29_A032_T02.mp4",
+        "job": "17cec78b-ee3d-9b27-85ed-a08bffb6453e",
+        "result": "ok",
+        "qc": "เจตพูดแล้วสีหน้าระแวง ฉาก/หน้าคงที่ ผมริต้าคงที่",
+        "cost": 0.32
+      }
+    ],
+    "selected": "EP29/Video/EP29_A032_T02.mp4",
+    "prompt_sha": "1aec96e757e6",
+    "flag": "ต้องฟังลิปซิงก์",
+    "reset_at": 1
   },
-  "notes": []
+  "notes": [
+    "video prompt เปลี่ยน — รีเซ็ตเป็น todo",
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
 }

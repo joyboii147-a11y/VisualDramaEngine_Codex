@@ -18,10 +18,31 @@
     "facts": "Close-up of Wit alone, centered, body nearly facing camera, eyes almost toward the lens drifting slightly screen-right. His right hand holds a white smartphone to his right ear on the screen-left side of his face; it is the only hand visible. Gray crew-neck sweater over striped collar, frame bottom at mid-chest; blurred cream headboard and warm lamp bokeh at upper screen-left."
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "f2f66c0b1acf"
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Video/EP29_A001_T01.mp4",
+        "job": "a1318dbb-bf5d-9f61-977f-2e5a66390746",
+        "result": "ok",
+        "qc": "4.04s มีเสียง หน้า/ชุด/โทรศัพท์มือขวาคงที่ ไม่มี drift",
+        "cost": 0.32
+      },
+      {
+        "take": 2,
+        "file": "EP29/Video/EP29_A001_T02.mp4",
+        "job": "b1191496-75f1-95c9-8a8a-7d25c8ff5da8",
+        "result": "ok",
+        "qc": "บทใหม่ (เสียงเลขาเจตจากโทรศัพท์): 4.04s มีเสียง ปากวิทย์ปิดตลอดคลิป (ตรวจ 3fps) โทรศัพท์แนบหูขวา ไม่ตัด/ไม่ถอยกล้อง drift 0.052 ไม่ suspect ท้ายคลิปพยักหน้าเล็กน้อย",
+        "cost": 0.32
+      }
+    ],
+    "selected": "EP29/Video/EP29_A001_T02.mp4",
+    "prompt_sha": "fa825ea7ce75",
+    "flag": "ต้องฟัง: เสียงเลขาเจตต้องเป็นเสียงจากโทรศัพท์ คำว่า 'ประธานวิทย์ครับ ผลตรวจออกมาแล้วครับ' ครบตรง และไม่มีเสียงวิทย์",
+    "reset_at": 1
   },
-  "notes": []
+  "notes": [
+    "video prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
 }

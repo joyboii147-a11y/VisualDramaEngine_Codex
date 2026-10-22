@@ -10,18 +10,48 @@
         "result": "ok",
         "qc": "เจตเดินเข้าหากล้อง ถือซองขาวมือขวา(ซ้ายเฟรม) ไม่มีตัวหนังสือ ภาพกว้างกว่า MS เล็กน้อย (ถึงต้นขา)",
         "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP29/Image/EP29_B021_T02.png",
+        "job": "01a15e59-7c28-7281-8ca6-b3f866a4a005",
+        "result": "ok",
+        "qc": "เจตเดินเข้าหากล้อง ซองขาวมือขวา low-key ฉากถูก",
+        "cost": 0.06
       }
     ],
-    "selected": "EP29/Image/EP29_B021_T01.png",
-    "prompt_sha": "9694dfbd6aa6",
+    "selected": "EP29/Image/EP29_B021_T02.png",
+    "prompt_sha": "3c6f5a5fba0f",
     "flag": null,
-    "facts": "Jet alone at center, walking straight toward camera, frontal, glasses, black suit and dark red tie, framed head to mid-thigh. His right hand at screen-left holds a plain white envelope at hip level; his left hand hangs empty at screen-right. Corridor with wood slats, blue-lit slatted panel behind and a beige sofa at right."
+    "facts": "Jet alone at center walking toward camera, frontal, glasses, black suit, dark red tie, framed head to knees. His right hand at screen-left holds a plain white envelope low at his side; blue-lit slat panel behind him, stone wall on the right, low-key light.",
+    "reset_at": 1
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "03cd59cce7d8"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Video/EP29_B021_T01.mp4",
+        "job": "a634190d-3f86-9729-b6c7-ba7bfb63d240",
+        "result": "ok",
+        "qc": "เดินเข้าหากล้อง ยกซองดูกลางคลิปแล้วลด ฉาก/หน้า/ชุดคงที่",
+        "cost": 0.08
+      },
+      {
+        "take": 2,
+        "file": "EP29/Video/EP29_B021_T02.mp4",
+        "job": "436b9795-1514-93ff-9dcb-96e85d1fdc16",
+        "result": "ok",
+        "qc": "เดินเข้าหากล้อง ยกซองดูแล้วลด low-key คงที่",
+        "cost": 0.08
+      }
+    ],
+    "selected": "EP29/Video/EP29_B021_T02.mp4",
+    "prompt_sha": "a32a943426d0",
+    "flag": null,
+    "reset_at": 1
   },
-  "notes": []
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
 }

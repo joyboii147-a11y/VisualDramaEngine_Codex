@@ -10,18 +10,48 @@
         "result": "ok",
         "qc": "เจตกลาง ก้มหน้ามองต่ำ ปากแง้ม ขนเฟอร์ขาวเบลอแถบล่าง",
         "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP29/Image/EP29_A044_T02.png",
+        "job": "01a15e59-efe3-7721-b0c9-1db613cf6f1c",
+        "result": "ok",
+        "qc": "เจต มุมต่ำ ก้มมอง ขนเฟอร์ขอบล่าง ผมยาวลอนปล่อยตามภาพอ้างอิงใหม่ low-key ฉาก/ชุด/ลำดับถูก ไม่มีตัวหนังสือ",
+        "cost": 0.06
       }
     ],
-    "selected": "EP29/Image/EP29_A044_T01.png",
-    "prompt_sha": "cc5dac0a9c62",
+    "selected": "EP29/Image/EP29_A044_T02.png",
+    "prompt_sha": "2691b1701221",
     "flag": null,
-    "facts": "Jet at center, chest-up from slightly below, head bowed with eyes lowered toward below the bottom edge, lips slightly parted. A blurred band of Rita's white fur runs across the bottom edge. No hands or card visible."
+    "facts": "Jet at center, chest-up from slightly below, head bowed with eyes lowered toward below the bottom edge, lips closed. A blurred band of Rita's white fur runs across the bottom edge. No hands or card visible; blue slat panel behind.",
+    "reset_at": 1
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "14d134edfb9a"
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Video/EP29_A044_T01.mp4",
+        "job": "eca2e9b4-88e1-96d3-b321-db0100a820f7",
+        "result": "ok",
+        "qc": "ก้มมองแล้วเงยขึ้นมองริต้า หน้านิ่ง ขนเฟอร์ขอบล่างคงที่ ฉากคงที่",
+        "cost": 0.48
+      },
+      {
+        "take": 2,
+        "file": "EP29/Video/EP29_A044_T02.mp4",
+        "job": "b3645138-e4ad-9ecf-801c-24e3430d114c",
+        "result": "ok",
+        "qc": "ก้มมองแล้วเงยขึ้นหน้านิ่ง ขนเฟอร์ขอบล่างคงที่",
+        "cost": 0.48
+      }
+    ],
+    "selected": "EP29/Video/EP29_A044_T02.mp4",
+    "prompt_sha": "9e29a8edf474",
+    "flag": "ต้องฟังลิปซิงก์",
+    "reset_at": 1
   },
-  "notes": []
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
 }

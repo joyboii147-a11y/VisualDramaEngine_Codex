@@ -5,13 +5,14 @@
     "input/characters/พ่อวิทย์/พ่อวิทย์ Face.webp",
     "input/characters/การ์ด 1/การ์ด 1 W01 สูทดำเนกไทดำ.png"
   ],
-  "out_file": "EP29/Image/EP29_B049_T01.png",
-  "prompt_chars": 3599,
-  "status": "failed",
-  "request_id": "01a159d1-807c-7f30-8dff-3e3e1ae4e6c0",
-  "status_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a159d1-807c-7f30-8dff-3e3e1ae4e6c0/status",
-  "response_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a159d1-807c-7f30-8dff-3e3e1ae4e6c0",
-  "submitted": "2026-10-20 21:57:43",
-  "error": "HTTP 403: {\"detail\":\"User is locked. Reason: TOP_UP.\"}",
-  "finished": "2026-10-20 22:00:31"
+  "out_file": "EP29/Image/EP29_B049_T02.png",
+  "prompt_chars": 3740,
+  "status": "done",
+  "request_id": "01a15e5d-59b9-7903-b47a-42337f99491e",
+  "status_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a15e5d-59b9-7903-b47a-42337f99491e/status",
+  "response_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a15e5d-59b9-7903-b47a-42337f99491e",
+  "submitted": "2026-10-21 19:08:55",
+  "width": null,
+  "height": null,
+  "finished": "2026-10-21 19:09:40"
 }

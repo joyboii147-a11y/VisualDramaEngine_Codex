@@ -10,18 +10,36 @@
         "result": "ok",
         "qc": "ผ่าน คนเดียว ไอริน CU ชุดทวีดกรมท่า+โบว์ขาว สร้อยจี้ สายตาเหลือบซ้ายเฟรม; ข้อสังเกต: หันศีรษะน้อยกว่า 3/4 ยิ้มบางกว่าที่สั่ง (ปิดปาก) มีแสงโคมเบลอซ้ายด้วย",
         "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP29/Image/EP29_B003_T02.png",
+        "job": "hflip",
+        "result": "ok",
+        "qc": "hflip แก้ลำดับ: T01 ไอรินเหลือบตามองขวาเฟรม (วิทย์อยู่นอกซ้าย) กลับภาพให้สายตามองซ้าย; ผลข้างเคียง โคม/หน้าต่างเบลอสลับข้าง",
+        "cost": 0.0
       }
     ],
-    "selected": "EP29/Image/EP29_B003_T01.png",
+    "selected": "EP29/Image/EP29_B003_T02.png",
     "prompt_sha": "f20c41a9fa82",
     "flag": null,
-    "facts": "Close-up of Irin alone, centered, head turned only slightly toward screen-left, eyes glancing to screen-left, faint closed-lip smile. Frame shows her face, the ivory pussy-bow and the navy tweed jacket down to the upper chest; no hands visible. Blurred headboard with a soft lamp glow at screen-left and bright window glow at upper screen-right."
+    "facts": "Close-up of Irin alone, centered, face nearly frontal, eyes glancing to screen-left, faint closed-lip smile. Frame shows her face, the ivory pussy-bow and the navy tweed jacket down to the upper chest; no hands visible. Blurred headboard with a soft warm lamp glow at screen-right and a bright sheer-window glow at upper screen-left."
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "7cd5df58da8e"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Video/EP29_B003_T01.mp4",
+        "job": "2528a2c0-0248-98ec-bf6a-f5df083bf010",
+        "result": "ok",
+        "qc": "3.04s ไอรินมองซ้ายเฟรมตลอด ตาเบิกขึ้นตาม ACTION ไม่มี drift (ภาพตั้งต้น hflip)",
+        "cost": 0.24
+      }
+    ],
+    "selected": "EP29/Video/EP29_B003_T01.mp4",
+    "prompt_sha": "7cd5df58da8e",
+    "flag": null
   },
   "notes": []
 }

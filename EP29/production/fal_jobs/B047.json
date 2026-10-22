@@ -8,13 +8,14 @@
     "input/characters/ริต้า/ริต้า W07 แจ็กเก็ตขนนกขาว.png",
     "input/characters/เลขาเจต/เลขาเจต W02 สูทดำเนกไทแดง.png"
   ],
-  "out_file": "EP29/Image/EP29_B047_T01.png",
-  "prompt_chars": 7370,
-  "status": "failed",
-  "request_id": "01a159d1-7196-7190-9879-7c7fe546dfe6",
-  "status_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a159d1-7196-7190-9879-7c7fe546dfe6/status",
-  "response_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a159d1-7196-7190-9879-7c7fe546dfe6",
-  "submitted": "2026-10-20 21:57:39",
-  "error": "HTTP 403: {\"detail\":\"User is locked. Reason: TOP_UP.\"}",
-  "finished": "2026-10-20 22:00:29"
+  "out_file": "EP29/Image/EP29_B047_T02.png",
+  "prompt_chars": 7655,
+  "status": "done",
+  "request_id": "01a15e5d-4a6a-7ac0-aef3-2c0214f34044",
+  "status_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a15e5d-4a6a-7ac0-aef3-2c0214f34044/status",
+  "response_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a15e5d-4a6a-7ac0-aef3-2c0214f34044",
+  "submitted": "2026-10-21 19:08:52",
+  "width": null,
+  "height": null,
+  "finished": "2026-10-21 19:09:33"
 }

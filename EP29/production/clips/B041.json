@@ -1,16 +1,89 @@
 {
   "clip": "B041",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "fe46ebdca534"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Image/EP29_B041_T01.png",
+        "job": "01a15c73-6128-7df3-b414-9758b58ae2c8",
+        "result": "ok",
+        "qc": "ผ่าน ลำดับ ริต้า·เลขาเจต ถูก ซองขาวไม่มีตัวหนังสือ",
+        "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP29/Image/EP29_B041_T02.png",
+        "job": "01a15e5d-183b-7ab1-9f79-cc0410f858de",
+        "result": "ok",
+        "qc": "ผ่าน ริต้าผมยาวลอนปล่อย เจตอยู่ขวาแจกัน ห่างริต้า ~2 ม. (ซองมีรอยเล็กอ่านไม่ออก)",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP29/Image/EP29_B041_T02.png",
+    "prompt_sha": "c77257fc846f",
+    "flag": null,
+    "facts": "Long shot: Rita (long loose wavy hair) stands at screen-left behind the round white table looking screen-right; Secretary Jet stands mid-step just right of the flower vase on the far side of the table, holding a white envelope in his right hand at his side, looking at Rita. Glass wall with glass doors behind, entrance and wall sconce at far right.",
+    "reset_at": 1
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "34d7ce7632ca"
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Video/EP29_B041_T01.mp4",
+        "job": "fbf18f31-de86-9b6d-a75d-abab95fc92af",
+        "result": "fail",
+        "qc": "เลขาเจตเดินเข้าหากล้องแล้วหยุดขวาของโต๊ะ ไม่ได้ไปหยุดข้างริต้าซ้ายของแจกัน (ไม่ต่อกับ B043)",
+        "cost": 0.1
+      },
+      {
+        "take": 2,
+        "file": "EP29/Video/EP29_B041_T02.mp4",
+        "job": "88b8cfed-f8fc-97a2-9962-0918d74f1cb3",
+        "result": "fail",
+        "qc": "เลขาเจตยังหยุดขวาของโต๊ะ ไม่ไปข้างริต้า และริต้าเดินออกมาข้างหน้า",
+        "cost": 0.1
+      },
+      {
+        "take": 3,
+        "file": "EP29/Video/EP29_B041_T03.mp4",
+        "job": "1d12fb16-c866-9dba-8f52-2d1041851d7e",
+        "result": "fail",
+        "qc": "เลขาเจตหยุดขวาของโต๊ะเหมือนเดิม และริต้าเดินออกมาข้างหน้า",
+        "cost": 0.1
+      },
+      {
+        "take": 4,
+        "file": "EP29/Video/EP29_B041_T04.mp4",
+        "job": "d46e5d56-b165-90c4-a9d0-6f6f96ce98cc",
+        "result": "fail",
+        "qc": "เจตเดินเข้าหากล้องและหยุดขวาของแจกันเหมือนเดิม ไม่ผ่านหลังแจกันไปข้างริต้า",
+        "cost": 0.1
+      },
+      {
+        "take": 5,
+        "file": "EP29/Video/EP29_B041_T05.mp4",
+        "job": "e714c24a-7aa3-9827-b6a1-d516766f3a21",
+        "result": "fail",
+        "qc": "เจตเดินเฉียงเข้าหากล้องหยุดข้างโต๊ะฝั่งขวาแจกัน ไม่ผ่านหลังแจกัน",
+        "cost": 0.1
+      },
+      {
+        "take": 6,
+        "file": "EP29/Video/EP29_B041_T06.mp4",
+        "job": "f0a42a5b-a3cd-9af1-9cc4-51415764753d",
+        "result": "ok",
+        "qc": "ดีที่สุด: เจตเดินเฉียงเข้าหากล้องหยุดขวาของโต๊ะ ไม่ผ่านหลังแจกัน",
+        "cost": 0.1
+      }
+    ],
+    "selected": "EP29/Video/EP29_B041_T06.mp4",
+    "prompt_sha": "caa27f6e271c",
+    "flag": "ครบ 3 take: เจตเดินเข้าหากล้องและหยุดข้างโต๊ะฝั่งขวาแจกัน ไม่ไปยืนซ้ายแจกันข้างริต้า — ไม่ต่อกับต้น B043",
+    "reset_at": 3
   },
-  "notes": []
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
 }

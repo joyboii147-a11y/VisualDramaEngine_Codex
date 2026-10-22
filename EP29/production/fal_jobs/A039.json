@@ -5,14 +5,14 @@
     "input/characters/ริต้า/ริต้า W07 แจ็กเก็ตขนนกขาว.png",
     "input/characters/เลขาเจต/เลขาเจต W02 สูทดำเนกไทแดง.png"
   ],
-  "out_file": "EP29/Image/EP29_A039_T01.png",
-  "prompt_chars": 5723,
+  "out_file": "EP29/Image/EP29_A039_T03.png",
+  "prompt_chars": 6202,
   "status": "done",
-  "request_id": "01a159d1-01a2-7e41-9bd3-6169e297acb2",
-  "status_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a159d1-01a2-7e41-9bd3-6169e297acb2/status",
-  "response_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a159d1-01a2-7e41-9bd3-6169e297acb2",
-  "submitted": "2026-10-20 21:57:11",
+  "request_id": "01a15e59-caaf-7e22-b85d-7e9bfb2dee42",
+  "status_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a15e59-caaf-7e22-b85d-7e9bfb2dee42/status",
+  "response_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a15e59-caaf-7e22-b85d-7e9bfb2dee42",
+  "submitted": "2026-10-21 19:05:02",
   "width": null,
   "height": null,
-  "finished": "2026-10-20 21:59:21"
+  "finished": "2026-10-21 19:06:00"
 }

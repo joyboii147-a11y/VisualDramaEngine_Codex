@@ -1,16 +1,37 @@
 {
   "clip": "B053",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "60a0da3d2f6f"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Image/EP29_B053_T01.png",
+        "job": "01a15c73-ce0e-7f30-9dc8-ce8eb6c8fcd4",
+        "result": "ok",
+        "qc": "ผ่าน ซองเปิด เห็นขอบกระดาษ",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP29/Image/EP29_B053_T01.png",
+    "prompt_sha": "60a0da3d2f6f",
+    "flag": null,
+    "facts": "Close-up of Wit from head to waist, head bowed, holding the open white envelope in both hands at chest with the edge of a folded plain white sheet sticking out of the top; blurred pink-white flowers on the white table across the bottom."
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "90b67fe03203"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Video/EP29_B053_T01.mp4",
+        "job": "22189a0b-19c6-9d84-aa7e-c958bed02097",
+        "result": "ok",
+        "qc": "ผ่าน ดึงกระดาษเปล่าออก ซองอยู่มือซ้าย ไม่มีตัวหนังสือ",
+        "cost": 0.32
+      }
+    ],
+    "selected": "EP29/Video/EP29_B053_T01.mp4",
+    "prompt_sha": "90b67fe03203",
+    "flag": null
   },
   "notes": []
 }

@@ -1,7 +1,7 @@
 {
   "clip": "A039",
   "image": {
-    "status": "flagged",
+    "status": "done",
     "takes": [
       {
         "take": 1,
@@ -10,18 +10,57 @@
         "result": "fail",
         "qc": "ถือการ์ดผิดมือ (มือซ้าย ขวาเฟรม แทนมือขวา) การ์ดดูเป็นกระดาษด้าน ไม่มีตรา ไม่ต่อเนื่องกับ A036/B024",
         "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP29/Image/EP29_A039_T02.png",
+        "job": "01a15c86-dc87-7a11-899b-3c2a0ed024cc",
+        "result": "ok",
+        "qc": "การ์ดโลหะ rose-gold บาง มือขวา (ซ้ายเฟรม) ระดับอก ต่อกับ A036; หน้า ชุด ฉาก ลำดับถูก ไม่มีตัวหนังสือ",
+        "cost": 0.06
+      },
+      {
+        "take": 3,
+        "file": "EP29/Image/EP29_A039_T03.png",
+        "job": "01a15e59-caaf-7e22-b85d-7e9bfb2dee42",
+        "result": "ok",
+        "qc": "OTS ริต้า บัตร rose-gold มือขวา (ซ้ายเฟรม) ผมยาวลอนปล่อยตามภาพอ้างอิงใหม่ low-key ฉาก/ชุด/ลำดับถูก ไม่มีตัวหนังสือ",
+        "cost": 0.06
       }
     ],
-    "selected": "EP29/Image/EP29_A039_T01.png",
-    "prompt_sha": "6ace50ea16fc",
-    "flag": "การ์ดอยู่มือซ้าย (ขวาเฟรม) และดูเป็นกระดาษไม่มีตรา ไม่ต่อเนื่องกับ A036/B024 ควรสร้างใหม่เมื่อเติมเงิน",
-    "facts": "Over-the-shoulder: Jet's blurred head and suit back on screen-left; Rita at center, three-quarter view looking screen-left at him, composed smirk. Her left hand (screen-right side of her body) holds a plain matte pale card at chest-waist level; framed to the thighs, quilted bag at lower right."
+    "selected": "EP29/Image/EP29_A039_T03.png",
+    "prompt_sha": "5dcd19fe46b8",
+    "flag": null,
+    "facts": "Over-the-shoulder: Jet's blurred back of head and black suit shoulder fill the left third; Rita at center, three-quarter view looking screen-left at him, sly cool expression, lips closed. Her right hand at screen-left holds a thin pale rose-gold card at chest level; long wavy hair down; bag at her left hip.",
+    "reset_at": 2
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "ca155cf04cda"
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Video/EP29_A039_T01.mp4",
+        "job": "2754770a-d9a5-9f28-a2b9-fd7ca9920291",
+        "result": "ok",
+        "qc": "พูดแล้วเชิดคาง การ์ด rose-gold มือขวาระดับอกคงที่ ฉาก/หน้าคงที่",
+        "cost": 0.32
+      },
+      {
+        "take": 2,
+        "file": "EP29/Video/EP29_A039_T02.mp4",
+        "job": "e6cfea23-9952-9629-8d9f-376a0b41650f",
+        "result": "ok",
+        "qc": "พูดดูแคลน บัตร rose-gold มือขวาระดับอกคงที่ ฉากคงที่",
+        "cost": 0.4
+      }
+    ],
+    "selected": "EP29/Video/EP29_A039_T02.mp4",
+    "prompt_sha": "22019187107c",
+    "flag": "ต้องฟังลิปซิงก์",
+    "reset_at": 1
   },
-  "notes": []
+  "notes": [
+    "video prompt เปลี่ยน — รีเซ็ตเป็น todo",
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
 }

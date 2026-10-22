@@ -1,16 +1,45 @@
 {
   "clip": "B050",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "eb1e04e6b975"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Image/EP29_B050_T01.png",
+        "job": "01a15c73-b1e4-7ca2-bd70-4849ded240b4",
+        "result": "ok",
+        "qc": "ผ่าน",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP29/Image/EP29_B050_T01.png",
+    "prompt_sha": "eb1e04e6b975",
+    "flag": null,
+    "facts": "Tight close-up of Wit, face centered, head slightly bowed, eyes lowered, lips closed; camel suede trucker jacket over grey sweater and striped shirt collar; dark glass wall with warm bokeh behind."
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "3e93acaf4f39"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Video/EP29_B050_T01.mp4",
+        "job": "890b2768-3c5a-930f-9628-0a94022f6ee2",
+        "result": "fail",
+        "qc": "วิทย์หันไปขวาเฟรม (ต้องหันซ้ายเฟรมหาพ่อ)",
+        "cost": 0.24
+      },
+      {
+        "take": 2,
+        "file": "EP29/Video/EP29_B050_T02.mp4",
+        "job": "a8c39fc9-25de-969d-bae1-ba082dcb1124",
+        "result": "ok",
+        "qc": "ผ่าน เงยหน้าหันซ้ายเฟรมหาพ่อ (ตรวจซ้ำแล้ว T01 ก็หันซ้ายเช่นกัน)",
+        "cost": 0.24
+      }
+    ],
+    "selected": "EP29/Video/EP29_B050_T02.mp4",
+    "prompt_sha": "3e93acaf4f39",
+    "flag": null
   },
   "notes": []
 }

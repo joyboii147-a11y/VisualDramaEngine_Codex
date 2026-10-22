@@ -10,18 +10,48 @@
         "result": "ok",
         "qc": "เจตกลางหน้าตรง ปากเม้ม ตึง ไหล่ริต้าขวาล่าง",
         "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP29/Image/EP29_A035_T02.png",
+        "job": "01a15e59-aa03-79b3-b789-ef4344031c73",
+        "result": "ok",
+        "qc": "เจต MCU ตึงเครียด ผมยาวลอนปล่อยตามภาพอ้างอิงใหม่ low-key ฉาก/ชุด/ลำดับถูก ไม่มีตัวหนังสือ",
+        "cost": 0.06
       }
     ],
-    "selected": "EP29/Image/EP29_A035_T01.png",
-    "prompt_sha": "f0d4ba3c2517",
+    "selected": "EP29/Image/EP29_A035_T02.png",
+    "prompt_sha": "19d7444aea1e",
     "flag": null,
-    "facts": "Jet at center, nearly frontal, looking screen-right toward Rita, lips pressed, tense face, framed chest-up. Rita's blurred bun, ear and white fur shoulder with gold chain fill the right foreground. No hands visible."
+    "facts": "Jet at center, nearly frontal, looking screen-right toward Rita, tense wary face, lips closed, framed chest-up. Rita's blurred long wavy hair and white fur shoulder fill the right foreground. No hands visible.",
+    "reset_at": 1
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "fc12805fa3c6"
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Video/EP29_A035_T01.mp4",
+        "job": "d8201c60-249e-9ac6-b1ba-9c0df86a50ed",
+        "result": "ok",
+        "qc": "เจตพูดแล้วคิ้วขมวด เอียงหัวเล็กน้อย ฉากคงที่",
+        "cost": 0.24
+      },
+      {
+        "take": 2,
+        "file": "EP29/Video/EP29_A035_T02.mp4",
+        "job": "390bb9a6-fd90-9552-b1cc-9d6e5306b7c7",
+        "result": "ok",
+        "qc": "เจตถามระแวง เอียงหัว คิ้วขมวด ฉากคงที่",
+        "cost": 0.24
+      }
+    ],
+    "selected": "EP29/Video/EP29_A035_T02.mp4",
+    "prompt_sha": "a53907661918",
+    "flag": "ต้องฟังลิปซิงก์",
+    "reset_at": 1
   },
-  "notes": []
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
 }

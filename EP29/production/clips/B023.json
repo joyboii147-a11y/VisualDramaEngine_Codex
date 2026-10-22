@@ -10,18 +10,48 @@
         "result": "ok",
         "qc": "เจตกลางหน้าตรง สงบระวังตัว ไหล่ขนเฟอร์+มวยริต้าขวาล่าง",
         "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP29/Image/EP29_B023_T02.png",
+        "job": "01a15e59-9d53-7b10-8388-0cf328c47293",
+        "result": "ok",
+        "qc": "เจต MCU มองระแวง หลังริต้าขวา ผมยาวลอนปล่อยตามภาพอ้างอิงใหม่ low-key ฉาก/ชุด/ลำดับถูก ไม่มีตัวหนังสือ",
+        "cost": 0.06
       }
     ],
-    "selected": "EP29/Image/EP29_B023_T01.png",
-    "prompt_sha": "00ba0ac9c0db",
+    "selected": "EP29/Image/EP29_B023_T02.png",
+    "prompt_sha": "22e781bee041",
     "flag": null,
-    "facts": "Jet at center-left, nearly frontal, looking screen-right toward Rita, still guarded face, framed chest-up. Rita's blurred bun and white fur shoulder with gold chain fill the right foreground. No hands visible."
+    "facts": "Jet at center-left, nearly frontal, looking screen-right toward Rita, wary still face, framed chest-up. Rita's blurred long wavy hair and white fur shoulder with gold chain fill the right foreground. No hands visible.",
+    "reset_at": 1
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "5d915f5ba5fa"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Video/EP29_B023_T01.mp4",
+        "job": "a603fd61-5254-99dd-87c7-38aca8e3ae5b",
+        "result": "ok",
+        "qc": "รีแอ็กชันเงียบ ตาเหลือบลงแล้วกลับ ปากปิด ฉาก/หน้าคงที่",
+        "cost": 0.48
+      },
+      {
+        "take": 2,
+        "file": "EP29/Video/EP29_B023_T02.mp4",
+        "job": "19489e3e-078c-933e-b481-769ddb3aba94",
+        "result": "ok",
+        "qc": "เจตเงียบ มองระแวง ตาเหลือบลงแล้วกลับ ปากปิด",
+        "cost": 0.48
+      }
+    ],
+    "selected": "EP29/Video/EP29_B023_T02.mp4",
+    "prompt_sha": "1f410b115fe5",
+    "flag": null,
+    "reset_at": 1
   },
-  "notes": []
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
 }

@@ -1,16 +1,37 @@
 {
   "clip": "A065",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "c9d13d206858"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Image/EP29_A065_T01.png",
+        "job": "01a15c73-bf70-7532-9e8e-4c57090c9175",
+        "result": "ok",
+        "qc": "ผ่าน",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP29/Image/EP29_A065_T01.png",
+    "prompt_sha": "c9d13d206858",
+    "flag": null,
+    "facts": "Medium shot: Wit at screen-left facing the camera holding a plain white envelope in both hands at chest height; Irin at screen-right turned toward him with an anxious face, hands clasped in front; blurred pink-white flowers on the white table across the bottom; glass doors behind."
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "799fc3d36118"
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Video/EP29_A065_T01.mp4",
+        "job": "5444f08c-d53c-93dc-a793-f4d1344eb8d5",
+        "result": "ok",
+        "qc": "ผ่านด้านภาพ พยักแล้วก้มดูซอง ไอรินก้มตาม",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP29/Video/EP29_A065_T01.mp4",
+    "prompt_sha": "799fc3d36118",
+    "flag": "ต้องฟังลิปซิงก์"
   },
   "notes": []
 }

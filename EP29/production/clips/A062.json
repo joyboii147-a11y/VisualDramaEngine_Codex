@@ -1,16 +1,53 @@
 {
   "clip": "A062",
   "image": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "338d7a9e41ab"
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Image/EP29_A062_T01.png",
+        "job": "01a15c73-89dc-7030-b46e-578703c85eda",
+        "result": "fail",
+        "qc": "ข้อ5: ไอรินมองตรงกล้อง ไม่หันซ้ายเฟรม",
+        "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP29/Image/EP29_A062_T02.png",
+        "job": "01a15c75-7d1f-7130-ae06-2b16d75115d7",
+        "result": "fail",
+        "qc": "ข้อ5: ไอรินมองขวาเฟรม (ต้องซ้ายเฟรม) — แก้ด้วย hflip เป็น T03",
+        "cost": 0.06
+      },
+      {
+        "take": 3,
+        "file": "EP29/Image/EP29_A062_T03.png",
+        "job": "hflip-T02",
+        "result": "ok",
+        "qc": "hflip แก้ทิศมอง",
+        "cost": 0.0
+      }
+    ],
+    "selected": "EP29/Image/EP29_A062_T03.png",
+    "prompt_sha": "338d7a9e41ab",
+    "flag": null,
+    "facts": "Tight close-up of Irin, face slightly right of center, eyes glancing screen-left, warm closed-lip smile; navy tweed jacket and cream satin bow blouse with a small pendant; blurred pink flowers along the bottom edge; dark glass wall bokeh behind."
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "e37437577275"
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Video/EP29_A062_T01.mp4",
+        "job": "a97d9c94-995a-947a-a472-80559b3f2196",
+        "result": "ok",
+        "qc": "ผ่านด้านภาพ พูดแล้วยิ้มก้มตาซ้ายล่าง",
+        "cost": 0.24
+      }
+    ],
+    "selected": "EP29/Video/EP29_A062_T01.mp4",
+    "prompt_sha": "e37437577275",
+    "flag": "ต้องฟังลิปซิงก์"
   },
   "notes": []
 }

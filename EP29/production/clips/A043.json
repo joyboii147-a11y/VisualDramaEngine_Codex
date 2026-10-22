@@ -1,7 +1,7 @@
 {
   "clip": "A043",
   "image": {
-    "status": "retry",
+    "status": "done",
     "takes": [
       {
         "take": 1,
@@ -10,16 +10,64 @@
         "result": "fail",
         "qc": "ถือการ์ดมือซ้าย (ขวาเฟรม) ผิดจากมือขวา การ์ดเป็นกระดาษพับสีเทา ลายตรามีเส้นคล้ายตัวอักษรเลือน (P12 ต้องไม่มีตัวหนังสือ)",
         "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP29/Image/EP29_A043_T02.png",
+        "job": "01a15c86-c024-7021-a060-2f8f427ce77b",
+        "result": "fail",
+        "qc": "การ์ด rose-gold มีตรา ถูกแบบ แต่ลอยอยู่กลางอก ไม่เห็นมือถือ (มือถูกไหล่เจตบังหมด) เสี่ยงพร็อพลอย/morph ในวิดีโอ",
+        "cost": 0.06
+      },
+      {
+        "take": 3,
+        "file": "EP29/Image/EP29_A043_T03.png",
+        "job": "01a15c88-20a8-7611-8220-5dc26e7416d0",
+        "result": "ok",
+        "qc": "การ์ดโลหะ rose-gold มีตราเล็ก ไม่มีตัวหนังสือ ถือมือขวา (ซ้ายเฟรม) เห็นนิ้ว ใกล้ไหล่เจต ต่อกับ A036/A039/A041; ยิ้มกว้าง หน้า ชุด ฉากถูก",
+        "cost": 0.06
+      },
+      {
+        "take": 4,
+        "file": "EP29/Image/EP29_A043_T04.png",
+        "job": "01a15e59-ea1e-7c02-b4f8-2546f0b85ffe",
+        "result": "ok",
+        "qc": "OTS ริต้ายิ้มกว้าง บัตร rose-gold มือขวา (ซ้ายเฟรม) ผมยาวลอนปล่อยตามภาพอ้างอิงใหม่ low-key ฉาก/ชุด/ลำดับถูก ไม่มีตัวหนังสือ",
+        "cost": 0.06
       }
     ],
-    "selected": null,
-    "prompt_sha": "80bb7715fac6"
+    "selected": "EP29/Image/EP29_A043_T04.png",
+    "prompt_sha": "fa5179a96607",
+    "flag": null,
+    "facts": "Over-the-shoulder: Jet's blurred back of head and black suit shoulder fill the left third; Rita at center, three-quarter view looking screen-left at him with a wide sly smile, lips closed. Her right hand at screen-left holds a thin pale rose-gold card at chest level; long wavy hair down; bag at her left hip.",
+    "reset_at": 3
   },
   "video": {
-    "status": "todo",
-    "takes": [],
-    "selected": null,
-    "prompt_sha": "4a3f4bd6e4fe"
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP29/Video/EP29_A043_T01.mp4",
+        "job": "86c18634-0b0c-981a-8c51-25fffc5de4a3",
+        "result": "ok",
+        "qc": "พูดแล้วยกการ์ด rose-gold มือขวาขึ้นระดับหน้าฝั่งซ้ายเฟรม ไม่มีตัวหนังสือ ฉาก/หน้าคงที่",
+        "cost": 0.4
+      },
+      {
+        "take": 2,
+        "file": "EP29/Video/EP29_A043_T02.mp4",
+        "job": "af1928ea-9920-9140-80de-648856e932c0",
+        "result": "ok",
+        "qc": "พูดแล้วยกบัตร rose-gold มือขวาขึ้นระดับหน้าฝั่งซ้ายเฟรม ฉากคงที่",
+        "cost": 0.4
+      }
+    ],
+    "selected": "EP29/Video/EP29_A043_T02.mp4",
+    "prompt_sha": "601c750bccf6",
+    "flag": "ต้องฟังลิปซิงก์",
+    "reset_at": 1
   },
-  "notes": []
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
 }
