@@ -13,7 +13,7 @@ import argparse, json, os, subprocess, sys
 from vde_common import ROOT, prod_dir, load_json, read_prompt, clip_state_path
 
 W, H, PER = 300, 534, 8
-FONT = 'C\\:/Windows/Fonts/tahoma.ttf'
+FONT = '/System/Library/Fonts/Supplemental/Tahoma.ttf' if sys.platform == 'darwin' else 'C\\:/Windows/Fonts/tahoma.ttf'
 
 
 def video_frame(src, out):

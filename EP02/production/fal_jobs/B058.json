@@ -1,0 +1,16 @@
+{
+  "clip": "B058",
+  "endpoint": "openai/gpt-image-2",
+  "quality": "high",
+  "refs": [],
+  "out_file": "EP02/Image/EP02_B058_T01.png",
+  "prompt_chars": 3386,
+  "status": "done",
+  "request_id": "01a16293-77a0-7500-bb2e-5c92f830fed3",
+  "status_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a16293-77a0-7500-bb2e-5c92f830fed3/status",
+  "response_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a16293-77a0-7500-bb2e-5c92f830fed3",
+  "submitted": "2026-10-22 14:46:33",
+  "width": null,
+  "height": null,
+  "finished": "2026-10-22 14:48:12"
+}

@@ -1,0 +1,38 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP02-S060 | Clip: B060 (B-roll) | SC06 โถงทางเดินโรงพยาบาล (L09) โซน A กลางวัน
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 5 วิ | เสียงโหมด C
+#
+# ตัวละครในเฟรม (รวม 5 คน):
+# - บอดี้การ์ด C18a C18-W01 (ไม่มีภาพอ้างอิง) สูทดำ เนกไทดำ | เต็มตัว เดินเข้าหากล้อง แถวหน้า | ซ้ายเฟรม
+# - บอดี้การ์ด C18c C18-W01 (ไม่มีภาพอ้างอิง) สูทดำ เนกไทดำ | เห็นบางส่วนระหว่างไหล่ แถวหลัง | ซ้าย-กลาง หลัง
+# - วิทย์ C05-W11 สูทดำ (วิทย์ W01) ไม่ใส่โค้ต | เต็มตัว เดินเร็วเข้าหากล้อง | กลางเฟรม
+# - บอดี้การ์ด C18d C18-W01 (ไม่มีภาพอ้างอิง) สูทดำ เนกไทดำ | เห็นบางส่วนระหว่างไหล่ แถวหลัง | ขวา-กลาง หลัง
+# - บอดี้การ์ด C18b C18-W01 (ไม่มีภาพอ้างอิง) สูทดำ เนกไทแดงเลือดหมู | เต็มตัว เดินเข้าหากล้อง แถวหน้า | ขวาเฟรม
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - ไม่มี
+#
+# แนบใน Grok: ภาพที่เลือกจาก EP02_B060_image
+# ผู้พูด: ไม่มี | คนในเฟรมที่ไม่พูด: วิทย์, บอดี้การ์ด 4 คน
+# กล้อง: ดอลลี่ถอยตามขบวน (Shot สั่ง) ช้ากว่าความเร็วเดินเล็กน้อย ขบวนใกล้ขึ้น — ห้ามตัดภาพ
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+EP02_B060 SHOT EP02-S060. One continuous cinematic live-action full shot, vertical 9:16.
+TARGET DURATION: 5 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
+SCENE GEOGRAPHY: a long, bright hospital corridor in daytime: white walls with white handrails, dark-gray-framed doors with small blank light-blue plaques on both sides, a framed picture high on the left wall near the camera, a black waiting bench farther down the left wall, fluorescent ceiling panels in a row, a glossy light-gray floor with a yellow guide line down the middle, and a strong daylight glow at the far end. Five men walk down the middle of the corridor on the yellow line toward the camera.
+VISIBLE CAST: exactly five people. Wit, a tall young Thai man with tousled short black hair and a soft fringe, wearing a black single-breasted suit, crisp white shirt, slim black necktie and black leather derby shoes, no overcoat, in the center of the front row. Four fit Thai male bodyguards with neat short black hair and stern neutral faces, in plain black suits, white shirts and black leather shoes: Bodyguard A with a black necktie at Wit's right side (screen-left), Bodyguard B with a dark burgundy-red necktie at Wit's left side (screen-right), level with Wit; Bodyguards C and D with black neckties one step behind, visible in the gaps between Wit and the front bodyguards. All hands are empty. FRAME ORDER from screen-left to screen-right: Bodyguard A · Bodyguard C (rear) · Wit (center) · Bodyguard D (rear) · Bodyguard B.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: in the middle of the corridor ahead of the group, very low, about 30 cm above the floor, looking up the corridor toward the group and the glowing far end, tilted slightly upward; full shot, each person about 55% of the frame height; 35mm full-frame equivalent.
+FOREGROUND / VISIBLE BACKGROUND: open glossy floor with the yellow line rushing toward the lens; corridor walls, doors, bench and ceiling panels on both sides; the glowing far end centered behind Wit's head. No readable text.
+OFF-FRAME: the men look straight ahead toward the near end of the corridor behind the camera. No one else enters the frame at any time.
+LIGHTING / COLOR: cool-white overhead fluorescent light, strong daylight glow from the far end rimming the five figures, glossy floor reflections, approximately 5500K, medium contrast; Wit's face stays clearly lit and readable; cool clinical white and pale gray with yellow floor-line accents.
+PROP STATE: no props; all hands empty.
+START STATE: mid-stride, the group in the middle-to-far part of the corridor; Wit with a long quick step, face straight to the camera, eyes straight ahead, determined and urgent, lips closed; the bodyguards in step beside and behind him.
+PERFORMANCE CONTEXT: Wit is storming into the hospital to reach someone; powerful, urgent, unstoppable.
+ACTION: Wit walks fast and straight toward the camera along the yellow line, long brisk strides, arms swinging only slightly, eyes fixed straight ahead, never slowing. Bodyguards A and B keep pace exactly level at his sides; Bodyguards C and D follow one step behind in the gaps between shoulders. All five step in unison, faces stern, hands empty. They do not stop and do not turn their heads.
+END STATE: the group is noticeably closer to the camera, still mid-stride in the same formation, Wit centered with the same determined expression, lips closed. They keep walking until the very end of the clip.
+CAMERA: one continuous low dolly backward along the corridor in front of the group, slightly slower than their walking speed, so the group grows a little larger in frame by the end; the camera stays 30 cm above the floor and keeps the same direction. No cut, no zoom.
+VISUAL CONTINUITY: Preserve the starting image's faces, hair, suits, neckties, formation order, corridor geometry, backlight and color treatment. Allow only the specified walking and camera movement. No unplanned cuts, added people, identity swaps or prop teleportation.
+AUDIO MODE: no dialogue.
+No intelligible speech or speech-like lip-sync.
+AMBIENCE/SFX: crisp synchronized footsteps of leather shoes on a glossy hospital floor, a faint fluorescent hum and soft corridor reverb; no music, no voices.

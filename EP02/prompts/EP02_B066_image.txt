@@ -1,0 +1,36 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP02-S066 | Clip: B066 (B-roll) | SC06 โถงทางเดินโรงพยาบาล (L09) โซน A กลางวัน — Hook ปิดตอน
+# ไฟล์นี้: Image Prompt → GPT Image 2 (9:16) ผ่าน fal.ai หรือ OpenArt
+#
+# ตัวละครในเฟรม (รวม 3 คน):
+# - บอดี้การ์ด C18c C18-W01 (ไม่มีภาพอ้างอิง) | เบลอฉากหลัง — เห็นแค่ศีรษะผมดำสั้นและบ่าสูทดำ ไม่เห็นหน้าชัด | ซ้ายหลัง
+# - วิทย์ C05-W11 สูทดำ (วิทย์ W01) ไม่ใส่โค้ต | ครึ่งตัว (MCU ศีรษะถึงอก) หน้าตรง สายตาตรงเลนส์ เดินเข้าหากล้อง | กลางเฟรม
+# - บอดี้การ์ด C18d C18-W01 (ไม่มีภาพอ้างอิง) | เบลอฉากหลัง — เห็นแค่ศีรษะผมดำสั้นและบ่าสูทดำ ไม่เห็นหน้าชัด | ขวาหลัง
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - ไม่มี (การ์ดหน้า C18a/C18b อยู่นอกขอบซ้าย/ขวาในระยะ MCU — ไม่เขียนลง prompt)
+#
+# แนบใน OpenArt: 1) input/characters/วิทย์/Face.webp
+# หมายเหตุภาพแนบ: Face.webp ใส่แจ็กเก็ตซิปดำ+เสื้อยืดขาว — ใช้เฉพาะหน้าและผม ชุดมาจากข้อความ (สูทดำ เชิ้ตขาว เนกไทดำ ไม่มีโค้ต)
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+Create one standalone starting-frame image for SHOT EP02-S066.
+Vertical 9:16. Cinematic live-action still, photorealistic.
+REFERENCE IMAGES:
+Image 1: Wit — use only for face, skin tone and hairstyle. The outfit comes from the text below. Do not copy the outfit, background, lighting or camera angle.
+CHARACTERS: Wit, a tall young Thai man in his mid-twenties, face and hair from Image 1, wearing a black two-button single-breasted suit with notch lapels, a crisp white dress shirt and a slim black necktie, with tousled short black hair with a soft fringe; no overcoat, no gray coat. Two bodyguards behind him, softly blurred: fit Thai men with neat short black hair, in plain black suits and white shirts.
+CAST COUNT: exactly three people visible: Wit, and two blurred bodyguards' heads and shoulders behind him.
+SCENE GEOGRAPHY: a bright hospital corridor in daytime with a white ceiling and a strong daylight glow at the far end. Wit walks down the middle of the corridor straight toward the camera; two bodyguards walk a step behind him, one behind each of his shoulders.
+FRAME ORDER: from screen-left to screen-right: blurred bodyguard's head and shoulders (left, behind) · Wit (center) · blurred bodyguard's head and shoulders (right, behind).
+CAMERA POSITION: in the middle of the corridor, ahead of Wit on his walking line, at standing eye level, about 1.5 meters in front of him.
+VIEW DIRECTION: straight back up the corridor toward Wit's face, with the bright ceiling and glowing far end beyond him.
+SET IN FRAME: Wit in the center; the two blurred bodyguards' heads and black-suited shoulders just behind him at the left and right; the bright white ceiling and the glowing far end of the corridor, blown softly toward white, filling the background. Keep this layout; do not move or mirror it.
+BETWEEN CAMERA AND SUBJECT: nothing; clear air between the lens and Wit.
+VISIBLE BACKGROUND: a softly defocused bright white ceiling and the glowing far end of the corridor. No signs, no text.
+OFF-FRAME: Wit looks straight into the lens. No other person or any part of another person appears in the frame.
+START STATE: Wit mid-stride about 1.5 meters from the camera, walking fast toward the camera, face straight to the lens, eyes locked on the lens, a grave, serious, determined expression, lips pressed firmly closed. The bodyguards behind him are blurred and stern.
+CAMERA: MEDIUM CLOSE-UP. Wit is framed from mid-chest up; his face fills about 35% of the frame height. 65mm full-frame equivalent, about 1.5 meters away, standing eye level, straight-on.
+FOCUS: Wit sharp; the bodyguards and background softly defocused.
+LIGHTING: bright hospital corridor: a strong daylight glow from the far end of the corridor rimming Wit's hair and shoulders from behind, cool-white overhead fluorescent light as fill keeping his face clearly lit and readable, approximately 5500K, medium contrast. The backlight does not wash out his face.
+GRADE: cool clinical white and pale gray, bright backlit glow from the corridor end, medium contrast, neutral skin tones.
+Show only the starting moment, before any planned movement begins.
+No captions, subtitles, labels, logos, watermarks, panels or collage. No readable text anywhere in the image.

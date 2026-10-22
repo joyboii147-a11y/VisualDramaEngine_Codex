@@ -1,0 +1,37 @@
+{
+  "clip": "B058",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Image/EP02_B058_T01.png",
+        "job": "01a16293-77a0-7500-bb2e-5c92f830fed3",
+        "result": "ok",
+        "qc": "ผ่าน: ไม่มีคน ซีดานดำกลาง รถเข้มไกลซ้าย ป้ายทะเบียนว่าง บ้านหลังคาส้มซ้าย เสาไฟขวา",
+        "cost": 0.25
+      }
+    ],
+    "selected": "EP02/Image/EP02_B058_T01.png",
+    "prompt_sha": "bee58efd2e70",
+    "flag": null,
+    "facts": "Wide shot: glossy black luxury sedan in the center-lower frame on the near lane, front three-quarter toward camera, heading toward screen-right; a smaller dark car far behind at the far left on the same lane. Double yellow line runs behind the sedan. Pine hills, orange-roofed house far left, utility poles on the right, clear blue sky in the upper half. No people visible, plates blank."
+  },
+  "video": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Video/EP02_B058_T01.mp4",
+        "job": "2d100a38-be47-9be3-85ac-812ea5335acd",
+        "result": "ok",
+        "qc": "4.04 วิ drift suspect=การแพนตามรถจริงตาม ACTION ไม่ใช่ตัด; ซีดานพ้นขอบขวาท้ายคลิป รถเทาตามซ้าย ไม่มีป้ายอ่านได้",
+        "cost": 0.08
+      }
+    ],
+    "selected": "EP02/Video/EP02_B058_T01.mp4",
+    "prompt_sha": "a03c31ce815d",
+    "flag": null
+  },
+  "notes": []
+}

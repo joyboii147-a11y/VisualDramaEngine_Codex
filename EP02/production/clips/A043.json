@@ -1,0 +1,37 @@
+{
+  "clip": "A043",
+  "image": {
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Image/EP02_A043_T01.png",
+        "job": "01a16293-70da-76f1-ac21-bf40496bfead",
+        "result": "ok",
+        "qc": "ผ่าน: CU สามส่วนสี่หันซ้ายเฟรม โทรศัพท์มือซ้ายขวาเฟรม สีหน้าเคร่ง; ผู้ใช้ควรเทียบหน้ากับ Face.png",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP02/Image/EP02_A043_T01.png",
+    "prompt_sha": "8d6d73c19604",
+    "flag": "หน้าเกือบโปรไฟล์ ต้องเทียบหน้ากับ Face.png",
+    "facts": "Irin alone in a tight close-up, three-quarter view turned toward screen-left, chin slightly raised, cream phone held in her left hand against her left ear on screen-right, gray hoodie cuff at lower right. Soft blurred off-white background. No other person."
+  },
+  "video": {
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Video/EP02_A043_T01.mp4",
+        "job": "82b16f23-60c3-9272-a8be-0508b9e51ec9",
+        "result": "ok",
+        "qc": "ผ่าน: 3.04s มีเสียง กรอบนิ่ง drift ok",
+        "cost": 0.24
+      }
+    ],
+    "selected": "EP02/Video/EP02_A043_T01.mp4",
+    "prompt_sha": "dd247deed8d6",
+    "flag": "ต้องฟังลิปซิงก์; หน้าเกือบโปรไฟล์เทียบ Face.png"
+  },
+  "notes": []
+}

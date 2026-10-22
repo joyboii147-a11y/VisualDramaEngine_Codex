@@ -1,0 +1,35 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP02-S009 | Clip: B009 (B-roll) | SC01 ห้องตรวจแพทย์ โรงพยาบาล (L05) กลางวัน
+# ไฟล์นี้: Image Prompt → GPT Image 2 (9:16) ผ่าน fal.ai หรือ OpenArt
+#
+# ตัวละครในเฟรม (รวม 1 คน):
+# - ไอริน C04-W19 ชุดนักศึกษา (ฮู้ดซิปเทา) | เห็นแค่มือขวาถือนามบัตร P16 และปลายแขนฮู้ดเทา ไม่เห็นหน้า | มือกลางเฟรม ปลายแขนเข้ามาจากขวาเฟรม
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - ไม่มี (มีอาและหมออยู่ในห้องนอกเฟรม — prompt ไม่เอ่ยถึง)
+#
+# แนบใน OpenArt: 1) input/characters/ไอริน/ไอริน W01 ชุดนักศึกษา.png
+# หมายเหตุภาพแนบ: ใช้เฉพาะสี/เนื้อผ้าปลายแขนฮู้ดเทาและสีผิวมือ · นามบัตรห้ามมีตัวอักษร ชื่อ ตัวเลข (ต้นฉบับเป็นอักษรเกาหลี ห้ามคัดลอก)
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+Create one standalone starting-frame image for SHOT EP02-S009.
+Vertical 9:16. Cinematic live-action still, photorealistic.
+REFERENCE IMAGES:
+Image 1: Irin — use only for her skin tone and the heather-gray hoodie fabric with its ribbed cuff, seen here only as her right hand and sleeve end. Do not copy her face, the backpack, the chest lettering, the pose, the background, lighting or camera angle.
+CHARACTERS: Irin, a young Thai woman in her early twenties, seen only as her right hand and forearm: a slim young woman's hand with natural short nails, no rings, no nail polish, and the end of the sleeve of a heather-gray oversized zip-up hoodie with a ribbed cuff. Nothing else of her is in the frame.
+CAST COUNT: exactly one person visible, only as a right hand and sleeve end.
+SCENE GEOGRAPHY: a bright, clean hospital consultation room in daytime. A long desk with a glossy black glass top and a polished silver metal edge frame stands in the middle of the room. Irin's right hand is held just above the black glass desktop near its patient-side edge. A large window with an off-white roller blind lights the room from beyond the top of this view.
+FRAME ORDER: from screen-left to screen-right: the business card in Irin's right hand (center) · her gray hoodie sleeve entering from the right edge.
+CAMERA POSITION: above Irin's right hand, high angle, close to the desk.
+VIEW DIRECTION: looking down onto the business card and the glossy black glass desktop beneath it.
+SET IN FRAME: glossy black glass desktop filling the whole background; a thin polished silver metal desk edge running horizontally across the lower part of the frame; the card and hand in the center; the gray hoodie sleeve entering from screen-right. Keep this layout; do not move or mirror it.
+BETWEEN CAMERA AND SUBJECT: nothing; clear open air down to the card.
+VISIBLE BACKGROUND: only the glossy black glass desktop with faint soft reflections of window light, and the silver metal edge near the bottom. No other objects on the visible glass.
+OFF-FRAME: nothing is needed off-frame. No other person or any part of another person appears in the frame.
+PROP STATE: one standard-size off-white matte business card with a thin vertical copper-gold stripe near the left edge and a small dark geometric emblem in the top-right corner, printed in crisp black Thai type with exactly two centered lines and nothing else: the company name "ธนากรุ๊ป" in larger bold letters, and directly below it the phone number "034-5577890" in smaller regular letters. Irin holds it in her right hand, face up and level, a few centimeters above the black glass, her thumb pressing on its near edge and her fingers supporting it underneath.
+START STATE: the card is held still and flat, face up, just above the glass, in the center of the frame; the hand is relaxed and steady, the sleeve cuff resting at the wrist.
+CAMERA: INSERT CLOSE-UP. The business card fills about the middle half of the frame width, the hand and sleeve end around it, the black glass all around. 50mm full-frame equivalent, about 40 centimeters above the card, high angle looking down.
+FOCUS: the card and thumb sharp; the black glass beyond softly defocused.
+LIGHTING: bright clean daytime interior: soft diffused daylight from a large roller-blind window beyond the top of the frame, cool-neutral white ceiling fill, approximately 5000K, soft low contrast with gentle reflections on the black glass desk.
+GRADE: bright clean clinic palette of off-white, pale gray and glossy black glass, soft low contrast, slightly cool-neutral whites, natural fair skin tones.
+Show only the starting moment, before any planned movement begins.
+No captions, subtitles, labels, logos, watermarks, panels or collage. The only text in the image is the two printed lines on the business card, "ธนากรุ๊ป" and "034-5577890", spelled exactly like this, sharp, straight and fully legible; the thumb does not cover them. No other text, letters or Korean characters anywhere in the image.

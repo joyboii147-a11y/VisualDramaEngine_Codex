@@ -1,0 +1,1481 @@
+{
+ "episode": "EP02",
+ "shots": [
+  {
+   "id": "EP02-S001",
+   "scene": "SC01",
+   "clip": "A001",
+   "reuse": false,
+   "gen_sec": 4.0,
+   "use_sec": 2.2,
+   "dialogue_ids": [
+    "D001"
+   ],
+   "dialogue": [
+    "คุณแน่ใจเหรอ ว่าจะทำแท้งน่ะ"
+   ],
+   "audio_mode": "A",
+   "mute": false,
+   "overlay": false,
+   "cut_note": "~2.2 วิ | In: มีอานั่ง มือวางบนตัก มองซ้ายเฟรม (ทางหมอนอกเฟรม) สีหน้าเฉย ริมฝีปากเผยอเล็กน้อย คางยกเล็กน้อย → Out: ท่าเดิม สายตาค้างที่หมอ สีหน้าร้อนใจรอให้จบ ปากปิด | ตัดหลังหมอพูดจบคำว่า \"น่ะ\" | ภาพใหม่ ฉากใหม่ (เปิดตอน) | Blocking: SC01-B01",
+   "size": "MCU (มีอาถึงอก)"
+  },
+  {
+   "id": "EP02-S002",
+   "scene": "SC01",
+   "clip": "A002",
+   "reuse": false,
+   "gen_sec": 4.0,
+   "use_sec": 1.8,
+   "dialogue_ids": [
+    "D002"
+   ],
+   "dialogue": [
+    "ต้องทำแท้งอยู่แล้ว"
+   ],
+   "audio_mode": "A",
+   "mute": false,
+   "overlay": false,
+   "cut_note": "~1.8 วิ | In: หมอนั่งตัวตรงบนเก้าอี้หนังดำ มือประสานบนโต๊ะกระจกดำ คิ้วขมวดเล็กน้อย มองซ้ายเฟรม (ทางไอริน) ปากปิด → Out: ฟังมีอาแล้วพยักหน้าช้าหนึ่งครั้ง สายตาค้างที่ไอริน มือประสานเดิม | ตัดหลังมีอาพูดจบคำว่า \"แล้ว\" | ภาพใหม่ในฉากเดิม | Blocking: SC01-B01",
+   "size": "MCU (หมอถึงอก)"
+  },
+  {
+   "id": "EP02-S003",
+   "scene": "SC01",
+   "clip": "A003",
+   "reuse": false,
+   "gen_sec": 4.0,
+   "use_sec": 2.5,
+   "dialogue_ids": [
+    "D003"
+   ],
+   "dialogue": [
+    "ใช่ไหมไอริน"
+   ],
+   "audio_mode": "A",
+   "mute": false,
+   "overlay": false,
+   "cut_note": "~2.5 วิ | In: มีอามองไปทางหมอ (ซ้ายเฟรมข้างกล้อง) สีหน้าร้อนใจ ปากปิด (= Out S001) → หันหน้าไปขวาเฟรมหาไอริน ยิ้มบาง เลิกคิ้ว เอียงศีรษะเล็กน้อย แล้วพูด → Out: ยิ้มบางค้าง คิ้วยก รอคำตอบ มองขวาเฟรม | ตัดหลังคำว่า \"ไอริน\" พักสั้น | ภาพใหม่ในฉากเดิม | Blocking: SC01-B02",
+   "size": "CU (มีอาถึงไหล่)"
+  },
+  {
+   "id": "EP02-S004",
+   "scene": "SC01",
+   "clip": "A004",
+   "reuse": false,
+   "gen_sec": 3.0,
+   "use_sec": 1.2,
+   "dialogue_ids": [
+    "D004"
+   ],
+   "dialogue": [
+    "ห้ะ",
+    "ห้ะ"
+   ],
+   "audio_mode": "A",
+   "mute": false,
+   "overlay": false,
+   "cut_note": "~1.2 วิ | In: ไอรินนั่งนิ่ง หน้า 3/4 มองไปทางมีอา (ขวาเฟรม) สีหน้าเฉย ปากปิด → กลอกตาเฉียงขึ้นไปซ้ายเฟรม เบือนหน้าเล็กน้อย พูด \"ห้ะ\" สั้นห้วน → Out: สายตาเลี่ยงไปซ้ายเฟรม ริมฝีปากเม้ม | ตัดทันทีหลัง \"ห้ะ\" | ภาพใหม่ในฉากเดิม | Blocking: SC01-B02",
+   "size": "MCU (ไอรินถึงอก)"
+  },
+  {
+   "id": "EP02-S005",
+   "scene": "SC01",
+   "clip": "A005",
+   "reuse": false,
+   "gen_sec": 5.0,
+   "use_sec": 1.6,
+   "dialogue_ids": [
+    "D005",
+    "D005"
+   ],
+   "dialogue": [
+    "ถ้าท้องแล้วจะทำงานยังไง แล้วค่าเช่าห้องของเราจะทำยังไง",
+    "ถ้าท้องแล้วจะทำงานยังไง"
+   ],
+   "audio_mode": "A",
+   "mute": false,
+   "overlay": false,
+   "cut_note": "~1.6 วิ | In: มีอาหันกลับจากไอรินมามองต่ำไปซ้ายเฟรม รอยยิ้มจางหาย (ต่อจาก Out S003 หลังได้ยิน \"ห้ะ\") มือบนตัก → ยกมือข้างหนึ่งขึ้นใต้ขอบเฟรม (ไม่เห็นมือ เห็นแค่ไหล่ขยับ) ส่ายหัวเล็กน้อย บ่นเร็ว → Out (ในคลิปเต็ม): บ่นจบประโยค ปากปิด ไหล่ลดลง สายตาเหลือบขึ้นไปทางซ้ายล่างใกล้กล้อง (ไอริน) | ภาพตัดออกหลัง \"ทำงานยังไง\" เสียงไหลต่อเข้า S006 | ภาพใหม่ในฉากเดิม | Blocking: SC01-B03",
+   "size": "CU (มีอาถึงไหล่ — แคบกว่า S001)"
+  },
+  {
+   "id": "EP02-S006",
+   "scene": "SC01",
+   "clip": "B006",
+   "reuse": false,
+   "gen_sec": 3.0,
+   "use_sec": 1.9,
+   "dialogue_ids": [
+    "D005"
+   ],
+   "dialogue": [
+    "แล้วค่าเช่าห้องของเราจะทำยังไง"
+   ],
+   "audio_mode": "C",
+   "mute": true,
+   "overlay": false,
+   "cut_note": "~1.9 วิ | In: สายตาไอรินเลี่ยงไปซ้ายเฟรม ริมฝีปากเม้ม (= Out S004) → กลอกตา หายใจออกทางจมูก ไหล่นิ่ง → Out: เหลือบตากลับมามองมีอา (ขวาเฟรม) แบบเรียบเฉย ปากปิด | เข้าที่คำว่า \"แล้ว\" ออกหลัง \"ทำยังไง\" | ภาพใหม่ในฉากเดิม | Blocking: SC01-B03",
+   "size": "MCU (ไอรินถึงอก)"
+  },
+  {
+   "id": "EP02-S007",
+   "scene": "SC01",
+   "clip": "A007",
+   "reuse": false,
+   "gen_sec": 4.0,
+   "use_sec": 2.6,
+   "dialogue_ids": [
+    "D006"
+   ],
+   "dialogue": [
+    "มองอะไร ฉันไม่มีเงินหรอกนะ"
+   ],
+   "audio_mode": "A",
+   "mute": false,
+   "overlay": false,
+   "cut_note": "~2.6 วิ | In: มีอาเหลือบขึ้นมองไปทางซ้ายล่างใกล้กล้อง (ไอริน) ปากปิด มือบนตักนอกเฟรม (= Out ของ A005) → ก้มหน้า คิ้วขมวด ปากเบะ หลบตา ไหล่ห่อเล็กน้อย พูดเร็วเสียงต่ำลง → Out: ก้มหน้า ปากเบะ หลบตามองต่ำซ้ายเฟรม มือบนตัก ปากปิด | ตัดหลัง \"หรอกนะ\" | ภาพใหม่ในฉากเดิม | Blocking: SC01-B03",
+   "size": "CU (มีอาถึงไหล่)"
+  },
+  {
+   "id": "EP02-S008",
+   "scene": "SC01",
+   "clip": "A008",
+   "reuse": false,
+   "gen_sec": 5.0,
+   "use_sec": 3.2,
+   "dialogue_ids": [
+    "D007",
+    "D008",
+    "D008"
+   ],
+   "dialogue": [
+    "เฮอะ",
+    "เฮอะ",
+    "ไปขอค่าผ่าตัดจากพ่อของเด็กสิ"
+   ],
+   "audio_mode": "A",
+   "mute": false,
+   "overlay": false,
+   "cut_note": "~3.2 วิ | In: ไอรินมองมีอาเรียบเฉย ปากปิด (= Out S006) → มุมปากข้างหนึ่งยกขึ้น ตาหรี่ หัวเราะเยาะสั้นทางจมูก เหลือบมองเฉียงซ้ายเฟรม → ระหว่างมีอา OS รอยยิ้มเยาะค้าง แล้วตาเลื่อนลงต่ำ หยุดคิด → Out: ตามองต่ำ รอยยิ้มจางเหลือมุมปากนิ่ง ปากปิด | ตัดหลัง \"สิ\" พักครึ่งวิให้เห็นตาเลื่อนลง | ภาพใหม่ในฉากเดิม | Blocking: SC01-B04",
+   "size": "MCU (ไอรินถึงอก)"
+  },
+  {
+   "id": "EP02-S009",
+   "scene": "SC01",
+   "clip": "B009",
+   "reuse": false,
+   "gen_sec": 3.0,
+   "use_sec": 2.1,
+   "dialogue_ids": [],
+   "dialogue": [],
+   "audio_mode": "C",
+   "mute": false,
+   "overlay": false,
+   "cut_note": "~2.1 วิ | In: มือขวาไอรินถือนามบัตร P16 หน้าบัตรหงายขึ้น อยู่เหนือท็อปกระจกดำเล็กน้อย → ยกขึ้นนิ่งเหนือโต๊ะ นิ้วโป้งกดขอบบัตร ไม่สั่น → Out: บัตรนิ่งกลางเฟรม | ตัดไป SC02 (เปลี่ยนสถานที่ — Cut) | ภาพใหม่ในฉากเดิม | Blocking: SC01-B05",
+   "size": "อินเสิร์ต"
+  },
+  {
+   "id": "EP02-S020",
+   "scene": "SC02",
+   "clip": "B020",
+   "reuse": false,
+   "gen_sec": 3.0,
+   "use_sec": 1.5,
+   "dialogue_ids": [],
+   "dialogue": [],
+   "audio_mode": "C",
+   "mute": false,
+   "overlay": false,
+   "cut_note": "ประมาณ 1.5 วิ | In: ทั้งสามนั่ง วิทย์ถือตะเกียบมือขวา หันขวา; พ่อถือช้อนมือขวา หน้าเข้าฝั่งใกล้; แม่ถือตะเกียบมือขวา หันซ้าย; ทุกคนคีบอาหารช้าๆ ไม่สบตากัน สีหน้าเรียบ ตึงเงียบ (สีหน้าเริ่มจาก 02_emotion_map SC02-B01); P14 วางบนโต๊ะทางขวาของชามข้าววิทย์ จอขึ้น → Out: ท่าเดิม ยังคีบอาหารช้าๆ ไม่มีใครพูด | ตัดหลังพ่อยกช้อนขึ้นหนึ่งคำ | ภาพใหม่ ฉากใหม่ | Blocking: SC02-B01",
+   "size": "WS"
+  },
+  {
+   "id": "EP02-S021",
+   "scene": "SC02",
+   "clip": "A021",
+   "reuse": false,
+   "gen_sec": 5.0,
+   "use_sec": 3.4,
+   "dialogue_ids": [
+    "D009"
+   ],
+   "dialogue": [
+    "ผู้หญิงพวกนั้นที่แนะนำให้ ลูกก็ไม่ชอบสักคน"
+   ],
+   "audio_mode": "A",
+   "mute": false,
+   "overlay": false,
+   "cut_note": "ประมาณ 3.4 วิ | In: วิทย์นั่ง ถือตะเกียบมือขวาเหนือชาม สีหน้าเรียบ เบื่อหน่าย (ต่อจาก S020 Out) มองแม่ (ใกล้เลนส์ค่อนขวาเฟรม) → วางตะเกียบข้างชามระหว่างประโยค เอนหลังเล็กน้อย ส่ายหน้าช้าๆ → Out: พูดจบ ปากปิด มือขวาว่างบนโต๊ะข้างชาม ยังมองแม่ สีหน้าระอา | ตัดหลังจบคำ \"สักคน\" | ภาพใหม่ในฉากเดิม | Blocking: SC02-B02–B04",
+   "size": "MCU ศีรษะถึงอก"
+  },
+  {
+   "id": "EP02-S022",
+   "scene": "SC02",
+   "clip": "B022",
+   "reuse": false,
+   "gen_sec": 3.0,
+   "use_sec": 1.2,
+   "dialogue_ids": [],
+   "dialogue": [],
+   "audio_mode": "C",
+   "mute": true,
+   "overlay": false,
+   "cut_note": "ประมาณ 1.2 วิ | In: พ่อนั่ง ถือช้อนมือขวาวางพักข้างชาม มองซ้ายเฟรม (ทางวิทย์) นิ่ง สีหน้าเรียบ (หลังได้ยิน D009) → Out: ริมฝีปากเม้ม คิ้วขมวดเล็กน้อย ยังมองวิทย์ มือวางข้างชาม | ตัดหลังคิ้วขมวด | ภาพใหม่ในฉากเดิม | Blocking: SC02-B02–B04",
+   "size": "MCU ศีรษะถึงอก"
+  },
+  {
+   "id": "EP02-S023",
+   "scene": "SC02",
+   "clip": "A023",
+   "reuse": false,
+   "gen_sec": 6.0,
+   "use_sec": 2.2,
+   "dialogue_ids": [
+    "D010",
+    "D010"
+   ],
+   "dialogue": [
+    "ตระกูลเรามีลูกหลานน้อยอยู่แล้ว",
+    "ตระกูลเรามีลูกหลานน้อยอยู่แล้ว ลูกก็เหมือนพ่อของลูก"
+   ],
+   "audio_mode": "A",
+   "mute": false,
+   "overlay": false,
+   "cut_note": "ประมาณ 2.2 วิ (ใช้ช่วงแรกของคลิป) | In: แม่ถือตะเกียบค้างกลางอากาศ เอียงตัวเข้าหาโต๊ะ มองซ้ายเฟรมหาวิทย์ สีหน้าจริงจังกดดัน; พ่อนั่งมือวางข้างชาม มองซ้ายหาวิทย์ ริมฝีปากเม้ม (ต่อจาก S022 Out); วิทย์หันขวาเข้าหาแม่ มือขวาว่างข้างชาม ตะเกียบวางข้างชาม → Out (ของคลิป): แม่พูดบทเต็มจบ ปากปิด ยังมองวิทย์; พ่อนิ่ง; วิทย์นิ่ง | ตัดออกหลังจบคำ \"อยู่แล้ว\" ไปที่ S024 (เสียง A023 วิ่งต่อ) | ภาพใหม่ในฉากเดิม | Blocking: SC02-B02–B04",
+   "size": "WS แบบ OTS"
+  },
+  {
+   "id": "EP02-S024",
+   "scene": "SC02",
+   "clip": "B024",
+   "reuse": false,
+   "gen_sec": 3.0,
+   "use_sec": 1.6,
+   "dialogue_ids": [
+    "D010"
+   ],
+   "dialogue": [
+    "ลูกก็เหมือนพ่อของลูก"
+   ],
+   "audio_mode": "C",
+   "mute": true,
+   "overlay": false,
+   "cut_note": "ประมาณ 1.6 วิ | In: วิทย์มองแม่ (ใกล้เลนส์ค่อนขวา) มือขวาว่างข้างชาม สีหน้าระอา (ต่อจาก S021 Out/S023) → หลบตาลงที่ชาม ขากรรไกรขบ หายใจออกยาว → Out: ก้มมองชาม ปากปิด สีหน้าอึดอัด | เข้าที่คำว่า \"ลูกก็\" ออกหลังจบ \"ของลูก\" | ภาพใหม่ในฉากเดิม | Blocking: SC02-B02–B04",
+   "size": "MCU ศีรษะถึงอก"
+  },
+  {
+   "id": "EP02-S025",
+   "scene": "SC02",
+   "clip": "A025",
+   "reuse": false,
+   "gen_sec": 4.0,
+   "use_sec": 3.0,
+   "dialogue_ids": [
+    "D011"
+   ],
+   "dialogue": [
+    "ถึงขั้นต้องทำเด็กหลอดแก้วถึงจะท้องได้"
+   ],
+   "audio_mode": "A",
+   "mute": false,
+   "overlay": false,
+   "cut_note": "ประมาณ 3.0 วิ | In: แม่ถือตะเกียบมือขวาระดับโต๊ะ เอียงตัวเข้าหาโต๊ะ มองค่อนซ้ายเฟรม (ทางวิทย์) สีหน้าจริงจังกดดัน (ต่อจาก S023 Out) → เหลือบมองไปซ้ายนอกเฟรม (ทางพ่อ) แวบหนึ่งตอน \"เด็กหลอดแก้ว\" ลดเสียงลง แล้วกลับมามองวิทย์ เลิกคิ้ว เน้นท้าย → Out: พูดจบ ปากปิด เลิกคิ้ว มองวิทย์ | ตัดหลังจบคำ \"ท้องได้\" | ภาพใหม่ในฉากเดิม | Blocking: SC02-B02–B04",
+   "size": "MCU ศีรษะถึงอก"
+  },
+  {
+   "id": "EP02-S026",
+   "scene": "SC02",
+   "clip": "A026",
+   "reuse": false,
+   "gen_sec": 3.0,
+   "use_sec": 1.8,
+   "dialogue_ids": [
+    "D012"
+   ],
+   "dialogue": [
+    "รู้แล้วครับแม่"
+   ],
+   "audio_mode": "A",
+   "mute": false,
+   "overlay": false,
+   "cut_note": "ประมาณ 1.8 วิ | In: วิทย์ก้มมองชาม ปากปิด สีหน้าอึดอัด มือขวาว่างข้างชาม (ต่อจาก S024 Out) → เงยขึ้นเล็กน้อย พยักหน้าเร็วครั้งเดียว พูดสั้น ระอา ไม่สบตาแม่ → Out: ปากปิด สายตาต่ำ หลบตา มือขวาวางบนโต๊ะข้างชาม | ตัดหลังจบคำ \"ครับแม่\" | ภาพใหม่ในฉากเดิม | Blocking: SC02-B02–B04",
+   "size": "MCU ศีรษะถึงอก"
+  },
+  {
+   "id": "EP02-S027",
+   "scene": "SC02",
+   "clip": "B027",
+   "reuse": false,
+   "gen_sec": 3.0,
+   "use_sec": 1.8,
+   "dialogue_ids": [],
+   "dialogue": [],
+   "audio_mode": "C",
+   "mute": false,
+   "overlay": false,
+   "cut_note": "ประมาณ 1.8 วิ | In: มือขวาวิทย์ยก P14 ขึ้นจากโต๊ะเหนือจานอาหาร จอสว่างสายเรียกเข้า (ไม่มีชื่อ/เบอร์/ตัวอักษรอ่านได้) → Out: นิ้วโป้งเลื่อนรับสาย | ตัดหลังนิ้วโป้งเลื่อน | ภาพใหม่ในฉากเดิม | Blocking: SC02-B05",
+   "size": "อินเสิร์ต"
+  },
+  {
+   "id": "EP02-S028",
+   "scene": "SC02",
+   "clip": "A028",
+   "reuse": false,
+   "gen_sec": 3.0,
+   "use_sec": 2.0,
+   "dialogue_ids": [
+    "D013"
+   ],
+   "dialogue": [
+    "ฮัลโหล"
+   ],
+   "audio_mode": "A",
+   "mute": false,
+   "overlay": false,
+   "cut_note": "ประมาณ 2.0 วิ | In: วิทย์ถือ P14 มือขวาระดับอก สีหน้าเรียบ สายตาต่ำ (ต่อจาก S026 Out / S027) → ยกโทรศัพท์แนบหูขวาด้วยมือขวา (ซ้ายเฟรม) สายตาลอยไปข้างหน้า พูดเรียบสั้น → Out: โทรศัพท์แนบหูขวา ปากปิด ฟัง สีหน้าเรียบ | ตัดหลังจบคำ \"ฮัลโหล\" และพักฟังสั้นๆ | ต่อการกระทำจาก B027 — ตัดจากอินเสิร์ตมือเป็น MCU | Blocking: SC02-B06–B07",
+   "size": "MCU ศีรษะถึงอก"
+  },
+  {
+   "id": "EP02-S029",
+   "scene": "SC02",
+   "clip": "B029",
+   "reuse": false,
+   "gen_sec": 3.0,
+   "use_sec": 1.2,
+   "dialogue_ids": [],
+   "dialogue": [],
+   "audio_mode": "C",
+   "mute": false,
+   "overlay": false,
+   "cut_note": "ประมาณ 1.2 วิ | In: วิทย์นั่งหันขวา P14 มือขวาแนบหูขวา ฟัง ปากปิด สีหน้าเรียบ (ต่อจาก S028 Out); พ่อถือช้อนมือขวา แม่ถือตะเกียบมือขวา กำลังจะคีบอาหาร → ทั้งสองหยุดมือ หันศีรษะไปทางวิทย์ → Out: พ่อแม่มองวิทย์ สีหน้าสงสัย มือค้างเหนือจาน; วิทย์ยังฟังนิ่ง | ตัดหลังพ่อแม่หันมองครบ | ภาพใหม่ในฉากเดิม | Blocking: SC02-B06–B07",
+   "size": "WS"
+  },
+  {
+   "id": "EP02-S030",
+   "scene": "SC02",
+   "clip": "A030",
+   "reuse": false,
+   "gen_sec": 3.0,
+   "use_sec": 1.2,
+   "dialogue_ids": [
+    "D014"
+   ],
+   "dialogue": [
+    "อะไรนะ"
+   ],
+   "audio_mode": "A",
+   "mute": false,
+   "overlay": false,
+   "cut_note": "ประมาณ 1.2 วิ | In: วิทย์ P14 มือขวาแนบหูขวา (ซ้ายเฟรม) ฟัง ปากปิด สีหน้าเรียบ สายตาลอยข้างหน้า (ต่อจาก S029) → ตาเบิกกว้างกะทันหัน หลังยืดตรง พูดเสียงสูงขึ้น → Out: ตาเบิก ริมฝีปากค้างเผยอ มือกดโทรศัพท์แน่น | ตัดหลังจบคำ \"อะไรนะ\" | ภาพใหม่ในฉากเดิม | Blocking: SC02-B06–B07",
+   "size": "MCU ศีรษะถึงอก"
+  },
+  {
+   "id": "EP02-S031",
+   "scene": "SC02",
+   "clip": "A031",
+   "reuse": false,
+   "gen_sec": 3.0,
+   "use_sec": 1.6,
+   "dialogue_ids": [
+    "D014"
+   ],
+   "dialogue": [
+    "คุณท้องลูกของผม"
+   ],
+   "audio_mode": "A",
+   "mute": false,
+   "overlay": false,
+   "cut_note": "ประมาณ 1.6 วิ | In: ตาเบิก ริมฝีปากค้างเผยอ P14 แนบหูขวา มือกดแน่น (ต่อจาก S030 Out) → พูดช้าลง ทวนทีละคำ → Out: ริมฝีปากค้างเผยอหลังคำสุดท้าย ตาเบิกนิ่ง | ตัดหลังจบคำ \"ของผม\" | ต่อการกระทำจาก A030 — ตัดจาก MCU เป็น CU | Blocking: SC02-B06–B07",
+   "size": "CU ศีรษะถึงไหล่"
+  },
+  {
+   "id": "EP02-S032",
+   "scene": "SC02",
+   "clip": "A032",
+   "reuse": false,
+   "gen_sec": 3.0,
+   "use_sec": 1.4,
+   "dialogue_ids": [
+    "D015"
+   ],
+   "dialogue": [
+    "ห้ะ"
+   ],
+   "audio_mode": "A",
+   "mute": false,
+   "overlay": false,
+   "cut_note": "ประมาณ 1.4 วิ | In: บน — พ่อมองซ้ายเฟรม (ทางวิทย์) สีหน้าสงสัย (ต่อจาก S029 Out); ล่าง — แม่มองค่อนซ้ายเฟรม สีหน้าสงสัย → พ่อตาเบิก คางยก ปากอ้า \"ห้ะ\" สั้นดัง; แม่ตาเบิกนิ่ง ปากเม้มแล้วอ้าเล็กน้อย → Out: ทั้งคู่ตาเบิกค้าง พ่อปากอ้าเล็กน้อย | ตัดหลังจบ \"ห้ะ\" และค้างสีหน้าครู่หนึ่ง → ตัดไป SC03 | ภาพใหม่ในฉากเดิม | Blocking: SC02-B08",
+   "size": "แบ่งเฟรม: บน MCU พ่อ (มุม SC02-C ฝั่งใกล้ตรงข้ามพ่อ) / ล่าง MCU แม่ (มุม SC02-D ปลายโต๊ะซ้ายข้างไหล่ขวาวิทย์)"
+  },
+  {
+   "id": "EP02-S040",
+   "scene": "SC03",
+   "clip": "A040",
+   "reuse": false,
+   "gen_sec": 3.0,
+   "use_sec": 2.0,
+   "dialogue_ids": [
+    "D016"
+   ],
+   "dialogue": [
+    "ฉันอยู่ที่โรงบานศิริราช"
+   ],
+   "audio_mode": "A",
+   "mute": false,
+   "overlay": false,
+   "cut_note": "ประมาณ 2.0 วิ | In: ไอรินนั่งหลังตรงบนเก้าอี้ 2 หันเข้าหาฝั่ง D (กล้อง) P15 มือซ้ายแนบหูซ้าย (ขวาเฟรม) P16 มือขวาระดับขอบโต๊ะ (ซ้ายล่างเฟรม) มองตรงเลยเลนส์ไปเล็กน้อย สีหน้าสงบ ตั้งใจ ปากปิด (สีหน้าเริ่มจาก 02_emotion_map D016) → Out: พูดจบ ปากปิด มองตรงไม่กะพริบ ท่าเดิม | ตัดหลังจบคำ \"ศิริราช\" ก่อนช่วงเว้นวรรค | ภาพใหม่ ฉากใหม่ (ตัดข้ามจาก SC02 L06) | Blocking: SC03-B01–B02 (S023–S026)",
+   "size": "MCU ศีรษะถึงอก"
+  },
+  {
+   "id": "EP02-S041",
+   "scene": "SC03",
+   "clip": "A041",
+   "reuse": false,
+   "gen_sec": 3.0,
+   "use_sec": 1.6,
+   "dialogue_ids": [
+    "D016"
+   ],
+   "dialogue": [
+    "นี่เป็นลูกของคุณ"
+   ],
+   "audio_mode": "A",
+   "mute": false,
+   "overlay": false,
+   "cut_note": "ประมาณ 1.6 วิ | In: ใบหน้าครึ่งซ้ายเกือบโปรไฟล์ หันไปซ้ายเฟรม P15 มือซ้ายแนบหูซ้าย (ขวาเฟรม) สีหน้าสงบ ตั้งใจ ปากปิด (ต่อจาก Out S040) → Out: พูดจบ ริมฝีปากปิดสนิท สายตาแน่วไม่กะพริบ | ตัดหลังจบคำ \"คุณ\" | ต่อการกระทำจาก A040 — ตัดจาก MCU หน้าตรง (SC03-A) เป็น ECU เกือบโปรไฟล์ (SC03-E) | Blocking: SC03-B01–B02 (S023–S026)",
+   "size": "CU แน่น เกือบโปรไฟล์ หน้า 55–60% เห็นมือถือโทรศัพท์ขอบขวา"
+  },
+  {
+   "id": "EP02-S042",
+   "scene": "SC03",
+   "clip": "A042",
+   "reuse": false,
+   "gen_sec": 3.0,
+   "use_sec": 2.0,
+   "dialogue_ids": [
+    "D017"
+   ],
+   "dialogue": [
+    "จะทำแท้งหรือไม่"
+   ],
+   "audio_mode": "A",
+   "mute": false,
+   "overlay": false,
+   "cut_note": "ประมาณ 2.0 วิ | In: ไอรินนั่งเก้าอี้ 2 (หนังดำขาโลหะ) P15 มือซ้ายแนบหูซ้าย P16 มือขวาบนขอบโต๊ะ มองตรง/ต่ำ สีหน้าแน่วแน่ ปากปิด (ต่อจาก Out S041); มีอายืนหลังไหล่ซ้ายไอริน ห่าง ~1 ม. หน้าหน้าต่าง กอดอก ก้มมองไอริน คิ้วเลิกเล็กน้อย น้ำหนักลงขาข้างหนึ่ง → Out: ไอรินพูดจบ คางยกเล็กน้อย ตาหรี่ มือขวากำนามบัตรบนขอบโต๊ะ ปากปิด; มีอาท่าเดิม ลุ้นรอคำตอบ | ตัดหลังจบคำ \"หรือไม่\" | ภาพใหม่ในฉากเดิม | Blocking: SC03-B01–B02 (S023–S026)",
+   "size": "WS ไอรินนั่งเต็มตัวเหนือโต๊ะ มีอายืนถึงต้นขา"
+  },
+  {
+   "id": "EP02-S043",
+   "scene": "SC03",
+   "clip": "A043",
+   "reuse": false,
+   "gen_sec": 3.0,
+   "use_sec": 2.0,
+   "dialogue_ids": [
+    "D017"
+   ],
+   "dialogue": [
+    "คุณเป็นคนตัดสินใจเอง",
+    "คุณ"
+   ],
+   "audio_mode": "A",
+   "mute": false,
+   "overlay": false,
+   "cut_note": "ประมาณ 2.0 วิ | In: ใบหน้าครึ่งซ้ายเกือบโปรไฟล์ หันไปซ้ายเฟรม P15 มือซ้ายแนบหูซ้าย (ขวาเฟรม) คางยกเล็กน้อย ตาหรี่ ปากปิด (ต่อจาก Out S042) → Out: พูดจบ ริมฝีปากเม้ม สายตาเด็ดขาดค้าง | ตัดหลังจบคำ \"เอง\" และค้างครู่สั้น | ต่อการกระทำจาก A042 — ตัดจาก WS (SC03-B) เป็น ECU เกือบโปรไฟล์ (SC03-E) | Blocking: SC03-B01–B02 (S023–S026)",
+   "size": "CU แน่น เกือบโปรไฟล์ หน้า 55–60% เห็นมือถือโทรศัพท์ขอบขวา"
+  },
+  {
+   "id": "EP02-S044",
+   "scene": "SC03",
+   "clip": "A044",
+   "reuse": false,
+   "gen_sec": 6.0,
+   "use_sec": 4.8,
+   "dialogue_ids": [
+    "D018"
+   ],
+   "dialogue": [
+    "นี่เป็นโอกาสสุดท้ายที่ฉันจะเปลี่ยนชะตาชีวิต"
+   ],
+   "audio_mode": "A",
+   "mute": false,
+   "overlay": false,
+   "cut_note": "ประมาณ 4.8 วิ | In: ไอรินหน้าตรง P15 มือซ้ายยังแนบหูซ้าย สีหน้าเด็ดขาด ปากเม้ม (ต่อจาก Out S043) P16 มือขวาที่ขอบล่าง → ลดโทรศัพท์ลงมาถือมือซ้ายระดับอก จอหันหาตัว (~0.8 วิ) ก้มศีรษะมองหน้าจอ หายใจลึกหนึ่งครั้ง แล้วพึมพำ D018 → Out: ก้มมองโทรศัพท์ ตาไม่กะพริบ สีหน้ามุ่งมั่น ปากปิด นามบัตรยังอยู่มือขวาขอบมุมซ้ายล่าง | ตัดหลังจบคำ \"ชะตาชีวิต\" และค้างสั้น | ภาพใหม่ในฉากเดิม (ภาพตั้งต้นวาดท่าเริ่มโทรศัพท์แนบหู ให้ตรง End State ของ A043) | Blocking: SC03-B03 (S027)",
+   "size": "MCU ศีรษะถึงอก"
+  },
+  {
+   "id": "EP02-S045",
+   "scene": "SC03",
+   "clip": "A045",
+   "reuse": false,
+   "gen_sec": 5.0,
+   "use_sec": 3.4,
+   "dialogue_ids": [
+    "D019"
+   ],
+   "dialogue": [
+    "ครั้งนี้ฉันกับลูก ต้องมีชีวิตอยู่อย่างสง่างามให้ได้"
+   ],
+   "audio_mode": "A",
+   "mute": false,
+   "overlay": false,
+   "cut_note": "ประมาณ 3.4 วิ | In: มือขวาไอรินยกนามบัตร P16 หน้าบัตรขึ้น เหนือท็อปกระจกดำ นิ่ง → นิ้วโป้งลูบขอบบัตรช้าๆ หนึ่งครั้ง → Out: มือนิ่ง บัตรหน้าขึ้นกลางเฟรม | ตัดหลัง VO จบ (ตัดไป SC04) | ภาพใหม่ในฉากเดิม (อินเสิร์ต) | Blocking: SC03-B04 (S028)",
+   "size": "อินเสิร์ต มือและนามบัตร"
+  },
+  {
+   "id": "EP02-S050",
+   "scene": "SC04",
+   "clip": "A050",
+   "reuse": false,
+   "gen_sec": 3.0,
+   "use_sec": 1.8,
+   "dialogue_ids": [
+    "D020"
+   ],
+   "dialogue": [
+    "พ่อครับ แม่ครับ"
+   ],
+   "audio_mode": "A",
+   "mute": false,
+   "overlay": false,
+   "cut_note": "ประมาณ 1.8 วิ | In: วิทย์นั่ง ถือ P14 มือขวาระดับอก (ลดจากหูแล้ว ซ้ายล่างเฟรม) ตายังเบิก ริมฝีปากเปิดค้าง (สีหน้าเริ่มจาก 02_emotion_map SC04 ต่อจากสภาพจบ S031) → มองพ่อ (ขวาเฟรม) พูด \"พ่อครับ\" แล้วเหลือบมาทางแม่ (ใกล้เลนส์ค่อนขวา) พูด \"แม่ครับ\" เร็ว ลังเลกลางวรรค → Out: ปากเปิดค้างจะพูดต่อ มองแม่ ตาเบิก | ตัดหลังจบคำ \"แม่ครับ\" | ภาพใหม่ในฉากเดิม (กลับมาห้องอาหารหลัง SC03 คั่น) | Blocking: SC04-B01",
+   "size": "MCU ศีรษะถึงอก"
+  },
+  {
+   "id": "EP02-S051",
+   "scene": "SC04",
+   "clip": "A051",
+   "reuse": false,
+   "gen_sec": 4.0,
+   "use_sec": 2.2,
+   "dialogue_ids": [
+    "D021"
+   ],
+   "dialogue": [
+    "อย่าพูดมาก รีบไปเลย"
+   ],
+   "audio_mode": "A",
+   "mute": false,
+   "overlay": false,
+   "cut_note": "ประมาณ 2.2 วิ | In: บน — พ่อตาเบิกค้าง มองซ้ายเฟรม (ทางวิทย์) ยังตกใจ (สภาพต่อจากจบ S032); ล่าง — แม่ตาเบิกนิ่ง มองค่อนซ้ายเฟรม → พ่อพูดสั่งห้วนเร็ว เน้น \"รีบไปเลย\" ตาจ้อง ชี้คาง มือขวาโบกไล่ (เห็นมือที่ขอบล่างแผงบนได้) ; แม่พยักหน้าถี่ ตาเบิก มองวิทย์ → Out: พ่อปากปิด ตาจ้อง มือขวาค้างท่าโบก; แม่ยังพยักหน้า มองวิทย์ | ตัดหลังจบ \"รีบไปเลย\" → ตัดไป SC05 | ภาพใหม่ในฉากเดิม | Blocking: SC04-B02",
+   "size": "แบ่งเฟรม: บน MCU พ่อ (มุม SC02-C) / ล่าง MCU แม่ (มุม SC02-D)"
+  },
+  {
+   "id": "EP02-S055",
+   "scene": "SC05",
+   "clip": "A055",
+   "reuse": false,
+   "gen_sec": 6.0,
+   "use_sec": 2.1,
+   "dialogue_ids": [
+    "D022"
+   ],
+   "dialogue": [],
+   "audio_mode": "A",
+   "mute": false,
+   "overlay": false,
+   "cut_note": "ประมาณ 2.1 วิ | In: วิทย์นั่งตัวตรงคาดเข็มขัดนิรภัย (สายพาดจากไหล่ขวาของเขา) มือว่างวางบนต้นขา หน้าเฉียง 3/4 มองไปข้างหน้า = ซ้ายเฟรม สีหน้าเครียด คิดหนัก ขากรรไกรขบ กะพริบตาน้อย ปากปิด (สีหน้าเริ่มจาก 02_emotion_map SC05-B01) → Out: ท่าเดิม สายตาเดิม คิ้วขมวดขึ้นเล็กน้อย ปากปิด | ตัดเมื่อครบราว 2 วิ ก่อนวิทย์ขยับตัว | ภาพใหม่ ฉากใหม่ (ตัดจาก SC04 ห้องอาหาร) | Blocking: SC05-B01–B03",
+   "size": "MCU ศีรษะถึงอก"
+  },
+  {
+   "id": "EP02-S056",
+   "scene": "SC05",
+   "clip": "B056",
+   "reuse": false,
+   "gen_sec": 3.0,
+   "use_sec": 0.9,
+   "dialogue_ids": [],
+   "dialogue": [],
+   "audio_mode": "C",
+   "mute": true,
+   "overlay": false,
+   "cut_note": "ประมาณ 0.9 วิ | In: ดวงตาวิทย์ในกระจกจ้องไปข้างหน้า คิ้วขมวด (ต่อจาก S055 Out) → Out: เดิม กะพริบตาหนึ่งครั้ง | ตัดหลังกะพริบ | ภาพใหม่ในฉากเดิม | Blocking: SC05-B01–B03",
+   "size": "CU กระจกมองหลัง"
+  },
+  {
+   "id": "EP02-S057",
+   "scene": "SC05",
+   "clip": "A055",
+   "reuse": true,
+   "gen_sec": null,
+   "use_sec": 1.5,
+   "dialogue_ids": [
+    "D022"
+   ],
+   "dialogue": [
+    "ขับเร็วอีกหน่อย"
+   ],
+   "audio_mode": null,
+   "mute": false,
+   "overlay": false,
+   "cut_note": "ประมาณ 1.5 วิ | เข้าก่อนคำว่า \"ขับ\" เล็กน้อย ตอนวิทย์เริ่มโน้มตัว ออกหลังจบ \"อีกหน่อย\" และปากปิด | In: ท่าเดิม คิ้วขมวด มองซ้ายเฟรม (ต่อจาก S056 Out) → โน้มตัวไปข้างหน้าเล็กน้อยทางซ้ายเฟรม (ทางคนขับ) พูดสั้น ห้วน กดเสียงต่ำ → Out: ปากปิด ยังโน้มตัว สายตาจ้องไปข้างหน้า | กลับ A055 ตามเวลาเดิม ไม่เริ่มใหม่ | Blocking: SC05-B01–B03",
+   "size": ""
+  },
+  {
+   "id": "EP02-S058",
+   "scene": "SC05",
+   "clip": "B058",
+   "reuse": false,
+   "gen_sec": 4.0,
+   "use_sec": 2.5,
+   "dialogue_ids": [],
+   "dialogue": [],
+   "audio_mode": "C",
+   "mute": false,
+   "overlay": false,
+   "cut_note": "ประมาณ 2.5 วิ | In: P17 รถซีดานดำวิ่งเลนใกล้ จากไกลซ้ายเข้าหาขวาหน้า หน้ารถเฉียงเข้ากล้อง; P18 รถเทาเข้มตามห่าง ~30–40 ม. ไกลซ้าย → Out: P17 ผ่านกล้องไปทางขวา กล้องแพนตาม; P18 ใกล้เข้ามาตามหลัง | ตัดเมื่อ P17 ผ่านจุดกลางเฟรมไปขวา | ภาพใหม่ ฉากใหม่ (ภายนอก L08) | Blocking: SC05-B04",
+   "size": "WS"
+  },
+  {
+   "id": "EP02-S060",
+   "scene": "SC06",
+   "clip": "B060",
+   "reuse": false,
+   "gen_sec": 5.0,
+   "use_sec": 3.5,
+   "dialogue_ids": [],
+   "dialogue": [],
+   "audio_mode": "C",
+   "mute": false,
+   "overlay": false,
+   "cut_note": "ประมาณ 3.5 วิ | In: ขบวนอยู่ช่วงกลาง-ไกลของทางเดิน กลางทางเดินบนเส้นเหลือง วิทย์ก้าวยาวเร็ว แขนแกว่งน้อย หน้าตรงมองตรงข้างหน้า สีหน้ามุ่งมั่น เร่งรีบ (สีหน้าเริ่มจาก 02_emotion_map SC06-B01); การ์ดหน้าประกบซ้าย/ขวาระนาบเดียวกัน การ์ดหลังโผล่ระหว่างไหล่ มือว่างทุกคน → Out: ขบวนใกล้กล้องขึ้น ท่าและสีหน้าเดิม ก้าวพร้อมกัน | ตัดกลางก้าว | ภาพใหม่ ฉากใหม่ (ตัดจาก SC05 ถนน) | Blocking: SC06-B01",
+   "size": "FS เต็มตัว"
+  },
+  {
+   "id": "EP02-S061",
+   "scene": "SC06",
+   "clip": "A061",
+   "reuse": false,
+   "gen_sec": 6.0,
+   "use_sec": 1.0,
+   "dialogue_ids": [
+    "D023",
+    "D023",
+    "D024",
+    "D024"
+   ],
+   "dialogue": [
+    "เขาว่าไง"
+   ],
+   "audio_mode": "A",
+   "mute": false,
+   "overlay": false,
+   "cut_note": "ประมาณ 1.0 วิ | In: มีอายืนหลังไหล่ซ้ายไอรินด้านหน้าต่าง ปล่อยแขนจากกอดอก โน้มตัวก้มมองต่ำลงหาไอริน (ใต้เลนส์ค่อนซ้าย) คิ้วเลิก ตาเบิก อยากรู้ ปากปิด (สีหน้าเริ่มจาก 02_emotion_map D023) → พูดเร็ว เสียงต่ำลงแบบกระซิบถาม → Out: ปากปิด คิ้วยังเลิก รอคำตอบ สายตาลงหาไอริน | ตัดหลังจบ \"ไง\" | ภาพใหม่ ฉากใหม่ (ตัดจากโซน A) | Blocking: SC06-B02–B03",
+   "size": "MCU ศีรษะถึงอก"
+  },
+  {
+   "id": "EP02-S062",
+   "scene": "SC06",
+   "clip": "B062",
+   "reuse": false,
+   "gen_sec": 3.0,
+   "use_sec": 2.1,
+   "dialogue_ids": [],
+   "dialogue": [],
+   "audio_mode": "C",
+   "mute": true,
+   "overlay": false,
+   "cut_note": "ประมาณ 2.1 วิ | In: ไอรินนั่งเก้าอี้ 2 หน้าก้มต่ำเล็กน้อย สายตาลงที่ P15 บนโต๊ะ ใบหน้านิ่ง เฉยชา ปากปิด → เงยหน้าช้าๆ เหลือบตาขึ้นขวาเฟรม (ทางมีอา) → Out: มองขึ้นขวาเฟรมค้าง ใบหน้านิ่ง ปากปิด | ตัดหลังสายตาค้างที่มีอาครู่หนึ่ง | ภาพใหม่ในฉากเดิม | Blocking: SC06-B02–B03",
+   "size": "CU ศีรษะถึงไหล่"
+  },
+  {
+   "id": "EP02-S063",
+   "scene": "SC06",
+   "clip": "A061",
+   "reuse": true,
+   "gen_sec": null,
+   "use_sec": 1.4,
+   "dialogue_ids": [
+    "D024"
+   ],
+   "dialogue": [
+    "จะจ่ายค่าผ่าตัดให้เธอไหม"
+   ],
+   "audio_mode": null,
+   "mute": false,
+   "overlay": false,
+   "cut_note": "ประมาณ 1.4 วิ | เข้าก่อนคำว่า \"จะ\" เล็กน้อย ออกหลังจบ \"ไหม\" และเม้มปาก | In: คิ้วเลิก รอคำตอบ มองลงหาไอริน (ต่อจาก S061 Out ตามเวลาใน A061) → เอียงศีรษะ ขมวดคิ้ว พูดเร็ว น้ำเสียงคาดคั้น → Out: ริมฝีปากเม้ม คิ้วขมวด มองลงหาไอริน | กลับ A061 ตามเวลาเดิม ไม่เริ่มใหม่ | Blocking: SC06-B02–B03",
+   "size": ""
+  },
+  {
+   "id": "EP02-S064",
+   "scene": "SC06",
+   "clip": "A064",
+   "reuse": false,
+   "gen_sec": 4.0,
+   "use_sec": 2.9,
+   "dialogue_ids": [
+    "D025"
+   ],
+   "dialogue": [
+    "หึ"
+   ],
+   "audio_mode": "A",
+   "mute": false,
+   "overlay": false,
+   "cut_note": "ประมาณ 2.9 วิ | In: ไอรินมองขึ้นขวาเฟรมทางมีอา ใบหน้านิ่ง ปากปิด (ต่อจาก S062 Out — ไม่ข้ามเวลา) → หันหน้ากลับเกือบตรง ถอนหายใจ \"หึ\" ไหล่ลดลง มุมปากยกนิดหนึ่ง สายตาเลื่อนออกจากเพื่อน → Out: หน้าตรงเกือบตรง มุมปากยกค้าง สายตาลงต่ำออกจากมีอา ปากปิด | ตัดหลังมุมปากค้างครู่หนึ่ง (ก่อนตัดไปโซน A) | ต่อการกระทำจาก B062 — คลิปนี้มีภาพตั้งต้นของตัวเอง วาดท่าเริ่มตรงกับ Out ของ B062 (Setup เดียวกัน คั่นด้วย S063 ของมีอา) | Blocking: SC06-B02–B03",
+   "size": "CU ศีรษะถึงไหล่"
+  },
+  {
+   "id": "EP02-S065",
+   "scene": "SC06",
+   "clip": "B065",
+   "reuse": false,
+   "gen_sec": 4.0,
+   "use_sec": 2.4,
+   "dialogue_ids": [],
+   "dialogue": [],
+   "audio_mode": "C",
+   "mute": false,
+   "overlay": false,
+   "cut_note": "ประมาณ 2.4 วิ | In: รองเท้าดาร์บี้หนังดำวิทย์ก้าวเร็วบนเส้นเหลือง ขากางเกงดำ ขาการ์ดหน้า C18a/C18b ข้างซ้าย/ขวา ไกลเลนส์กว่าเล็กน้อยเพราะกล้องชิดเท้าวิทย์ (ต่อเนื่องการเดินจาก S060 ช่วงกลางทางเดิน ใกล้กล้องขึ้น) → Out: เท้าวิทย์ก้าวผ่านใกล้กล้อง ขาการ์ดตามมา | ตัดเมื่อรองเท้าวิทย์ก้าวเข้าใกล้เลนส์ | ภาพใหม่ในฉากเดิม (ตัดจากโซน B กลับโซน A) | Blocking: SC06-B04",
+   "size": "CU เท้า"
+  },
+  {
+   "id": "EP02-S066",
+   "scene": "SC06",
+   "clip": "B066",
+   "reuse": false,
+   "gen_sec": 5.0,
+   "use_sec": 3.4,
+   "dialogue_ids": [],
+   "dialogue": [],
+   "audio_mode": "C",
+   "mute": false,
+   "overlay": false,
+   "cut_note": "ประมาณ 3.4 วิ | In: วิทย์ห่างกล้อง ~1.5–2 ม. เดินเร็วเข้าหากล้อง หน้าตรง สีหน้าจริงจัง มุ่งมั่น (ต่อจาก S060 Out — สีหน้าเดิมของวิทย์) มือว่าง → Out: เข้ามาใกล้กล้องจนเต็มเฟรมขึ้น สายตานิ่งตรงเลนส์ ริมฝีปากปิดแน่น ไม่กะพริบ | ตัดเข้าดำ (S067) ตอนวิทย์ใกล้เลนส์ที่สุด | ภาพใหม่ในฉากเดิม | Blocking: SC06-B05",
+   "size": "MCU ศีรษะถึงอก"
+  }
+ ],
+ "clips": {
+  "A001": {
+   "clip": "A001",
+   "kind": "A",
+   "scene": "SC01",
+   "shots": [
+    "EP02-S001"
+   ],
+   "refs": [
+    "input/characters/มีอา/มีอา Face.webp",
+    "input/characters/ไอริน/ไอริน W01 ชุดนักศึกษา.png"
+   ],
+   "image_prompt": "EP02/prompts/EP02_A001_image.txt",
+   "video_prompt": "EP02/prompts/EP02_A001_video.txt",
+   "video_sec": 4,
+   "image_sha": "ef9de82e4e3b",
+   "video_sha": "5c2ae0ccef25",
+   "image_quality": "medium",
+   "quality_reason": ""
+  },
+  "A002": {
+   "clip": "A002",
+   "kind": "A",
+   "scene": "SC01",
+   "shots": [
+    "EP02-S002"
+   ],
+   "refs": [
+    "input/characters/หมอ/หมอ Face.webp",
+    "input/characters/ไอริน/ไอริน W01 ชุดนักศึกษา.png"
+   ],
+   "image_prompt": "EP02/prompts/EP02_A002_image.txt",
+   "video_prompt": "EP02/prompts/EP02_A002_video.txt",
+   "video_sec": 4,
+   "image_sha": "1502763bbcaf",
+   "video_sha": "1860da204c23",
+   "image_quality": "medium",
+   "quality_reason": ""
+  },
+  "A003": {
+   "clip": "A003",
+   "kind": "A",
+   "scene": "SC01",
+   "shots": [
+    "EP02-S003"
+   ],
+   "refs": [
+    "input/characters/มีอา/มีอา Face.webp"
+   ],
+   "image_prompt": "EP02/prompts/EP02_A003_image.txt",
+   "video_prompt": "EP02/prompts/EP02_A003_video.txt",
+   "video_sec": 4,
+   "image_sha": "d147626b03ae",
+   "video_sha": "e4b3815a5a17",
+   "image_quality": "medium",
+   "quality_reason": ""
+  },
+  "A004": {
+   "clip": "A004",
+   "kind": "A",
+   "scene": "SC01",
+   "shots": [
+    "EP02-S004"
+   ],
+   "refs": [
+    "input/characters/ไอริน/Face.png",
+    "input/characters/มีอา/มีอา W01 (ชุดนักศึกษา).png",
+    "input/characters/ไอริน/ไอริน W01 ชุดนักศึกษา.png"
+   ],
+   "image_prompt": "EP02/prompts/EP02_A004_image.txt",
+   "video_prompt": "EP02/prompts/EP02_A004_video.txt",
+   "video_sec": 3,
+   "image_sha": "4291ff4be736",
+   "video_sha": "abb6dfc20e35",
+   "image_quality": "medium",
+   "quality_reason": ""
+  },
+  "A005": {
+   "clip": "A005",
+   "kind": "A",
+   "scene": "SC01",
+   "shots": [
+    "EP02-S005"
+   ],
+   "refs": [
+    "input/characters/มีอา/มีอา Face.webp",
+    "input/characters/ไอริน/ไอริน W01 ชุดนักศึกษา.png"
+   ],
+   "image_prompt": "EP02/prompts/EP02_A005_image.txt",
+   "video_prompt": "EP02/prompts/EP02_A005_video.txt",
+   "video_sec": 5,
+   "image_sha": "51b18b63d5e0",
+   "video_sha": "c4b341195600",
+   "image_quality": "medium",
+   "quality_reason": ""
+  },
+  "B006": {
+   "clip": "B006",
+   "kind": "B",
+   "scene": "SC01",
+   "shots": [
+    "EP02-S006"
+   ],
+   "refs": [
+    "input/characters/ไอริน/Face.png",
+    "input/characters/มีอา/มีอา W01 (ชุดนักศึกษา).png",
+    "input/characters/ไอริน/ไอริน W01 ชุดนักศึกษา.png"
+   ],
+   "image_prompt": "EP02/prompts/EP02_B006_image.txt",
+   "video_prompt": "EP02/prompts/EP02_B006_video.txt",
+   "video_sec": 3,
+   "image_sha": "3b35c51208db",
+   "video_sha": "c2f3cddc09f9",
+   "image_quality": "medium",
+   "quality_reason": ""
+  },
+  "A007": {
+   "clip": "A007",
+   "kind": "A",
+   "scene": "SC01",
+   "shots": [
+    "EP02-S007"
+   ],
+   "refs": [
+    "input/characters/มีอา/มีอา Face.webp",
+    "input/characters/ไอริน/ไอริน W01 ชุดนักศึกษา.png"
+   ],
+   "image_prompt": "EP02/prompts/EP02_A007_image.txt",
+   "video_prompt": "EP02/prompts/EP02_A007_video.txt",
+   "video_sec": 4,
+   "image_sha": "fc00d5ea596b",
+   "video_sha": "290398ca8c22",
+   "image_quality": "medium",
+   "quality_reason": ""
+  },
+  "A008": {
+   "clip": "A008",
+   "kind": "A",
+   "scene": "SC01",
+   "shots": [
+    "EP02-S008"
+   ],
+   "refs": [
+    "input/characters/ไอริน/Face.png",
+    "input/characters/มีอา/มีอา W01 (ชุดนักศึกษา).png",
+    "input/characters/ไอริน/ไอริน W01 ชุดนักศึกษา.png"
+   ],
+   "image_prompt": "EP02/prompts/EP02_A008_image.txt",
+   "video_prompt": "EP02/prompts/EP02_A008_video.txt",
+   "video_sec": 5,
+   "image_sha": "caee54caeefd",
+   "video_sha": "405b816c369b",
+   "image_quality": "medium",
+   "quality_reason": ""
+  },
+  "B009": {
+   "clip": "B009",
+   "kind": "B",
+   "scene": "SC01",
+   "shots": [
+    "EP02-S009"
+   ],
+   "refs": [
+    "input/characters/ไอริน/ไอริน W01 ชุดนักศึกษา.png"
+   ],
+   "image_prompt": "EP02/prompts/EP02_B009_image.txt",
+   "video_prompt": "EP02/prompts/EP02_B009_video.txt",
+   "video_sec": 3,
+   "image_sha": "bebb29318209",
+   "video_sha": "c242023c5d2c",
+   "image_quality": "medium",
+   "quality_reason": ""
+  },
+  "B020": {
+   "clip": "B020",
+   "kind": "B",
+   "scene": "SC02",
+   "shots": [
+    "EP02-S020"
+   ],
+   "refs": [
+    "input/characters/พ่อวิทย์/พ่อวิทย์ W01 ชุดสูท.webp",
+    "input/characters/วิทย์/วิทย์ W01.png",
+    "input/characters/แม่วิทย์/แม่วิทย์ W01 ชุดออกงาน.png"
+   ],
+   "image_prompt": "EP02/prompts/EP02_B020_image.txt",
+   "video_prompt": "EP02/prompts/EP02_B020_video.txt",
+   "video_sec": 3,
+   "image_sha": "7847a13f3a73",
+   "video_sha": "a92c18cff408",
+   "image_quality": "high",
+   "quality_reason": "3 คนในเฟรม"
+  },
+  "A021": {
+   "clip": "A021",
+   "kind": "A",
+   "scene": "SC02",
+   "shots": [
+    "EP02-S021"
+   ],
+   "refs": [
+    "input/characters/วิทย์/Face.webp"
+   ],
+   "image_prompt": "EP02/prompts/EP02_A021_image.txt",
+   "video_prompt": "EP02/prompts/EP02_A021_video.txt",
+   "video_sec": 5,
+   "image_sha": "381ae11e9c95",
+   "video_sha": "62a4ce911ac3",
+   "image_quality": "medium",
+   "quality_reason": ""
+  },
+  "B022": {
+   "clip": "B022",
+   "kind": "B",
+   "scene": "SC02",
+   "shots": [
+    "EP02-S022"
+   ],
+   "refs": [
+    "input/characters/พ่อวิทย์/พ่อวิทย์ Face.webp"
+   ],
+   "image_prompt": "EP02/prompts/EP02_B022_image.txt",
+   "video_prompt": "EP02/prompts/EP02_B022_video.txt",
+   "video_sec": 3,
+   "image_sha": "8250caed2321",
+   "video_sha": "d23e61555e07",
+   "image_quality": "medium",
+   "quality_reason": ""
+  },
+  "A023": {
+   "clip": "A023",
+   "kind": "A",
+   "scene": "SC02",
+   "shots": [
+    "EP02-S023"
+   ],
+   "refs": [
+    "input/characters/แม่วิทย์/แม่วิทย์ W01 ชุดออกงาน.png",
+    "input/characters/พ่อวิทย์/พ่อวิทย์ W01 ชุดสูท.webp",
+    "input/characters/วิทย์/วิทย์ W01.png"
+   ],
+   "image_prompt": "EP02/prompts/EP02_A023_image.txt",
+   "video_prompt": "EP02/prompts/EP02_A023_video.txt",
+   "video_sec": 6,
+   "image_sha": "e06d8e2303fb",
+   "video_sha": "c90e9c05f857",
+   "image_quality": "high",
+   "quality_reason": "3 คนในเฟรม"
+  },
+  "B024": {
+   "clip": "B024",
+   "kind": "B",
+   "scene": "SC02",
+   "shots": [
+    "EP02-S024"
+   ],
+   "refs": [
+    "input/characters/วิทย์/Face.webp"
+   ],
+   "image_prompt": "EP02/prompts/EP02_B024_image.txt",
+   "video_prompt": "EP02/prompts/EP02_B024_video.txt",
+   "video_sec": 3,
+   "image_sha": "32f40934aba0",
+   "video_sha": "5af1450b3d34",
+   "image_quality": "medium",
+   "quality_reason": ""
+  },
+  "A025": {
+   "clip": "A025",
+   "kind": "A",
+   "scene": "SC02",
+   "shots": [
+    "EP02-S025"
+   ],
+   "refs": [
+    "input/characters/แม่วิทย์/Face.webp"
+   ],
+   "image_prompt": "EP02/prompts/EP02_A025_image.txt",
+   "video_prompt": "EP02/prompts/EP02_A025_video.txt",
+   "video_sec": 4,
+   "image_sha": "a4962e533bc5",
+   "video_sha": "356ac5d67eda",
+   "image_quality": "medium",
+   "quality_reason": ""
+  },
+  "A026": {
+   "clip": "A026",
+   "kind": "A",
+   "scene": "SC02",
+   "shots": [
+    "EP02-S026"
+   ],
+   "refs": [
+    "input/characters/วิทย์/Face.webp"
+   ],
+   "image_prompt": "EP02/prompts/EP02_A026_image.txt",
+   "video_prompt": "EP02/prompts/EP02_A026_video.txt",
+   "video_sec": 3,
+   "image_sha": "3944fa11273f",
+   "video_sha": "0807fcb237ed",
+   "image_quality": "medium",
+   "quality_reason": ""
+  },
+  "B027": {
+   "clip": "B027",
+   "kind": "B",
+   "scene": "SC02",
+   "shots": [
+    "EP02-S027"
+   ],
+   "refs": [
+    "input/characters/วิทย์/วิทย์ W01.png"
+   ],
+   "image_prompt": "EP02/prompts/EP02_B027_image.txt",
+   "video_prompt": "EP02/prompts/EP02_B027_video.txt",
+   "video_sec": 3,
+   "image_sha": "0d3fb0cd2830",
+   "video_sha": "fbb2d8f0b8bf",
+   "image_quality": "medium",
+   "quality_reason": ""
+  },
+  "A028": {
+   "clip": "A028",
+   "kind": "A",
+   "scene": "SC02",
+   "shots": [
+    "EP02-S028"
+   ],
+   "refs": [
+    "input/characters/วิทย์/Face.webp"
+   ],
+   "image_prompt": "EP02/prompts/EP02_A028_image.txt",
+   "video_prompt": "EP02/prompts/EP02_A028_video.txt",
+   "video_sec": 3,
+   "image_sha": "a0444d9a683e",
+   "video_sha": "985f8b660be4",
+   "image_quality": "medium",
+   "quality_reason": ""
+  },
+  "B029": {
+   "clip": "B029",
+   "kind": "B",
+   "scene": "SC02",
+   "shots": [
+    "EP02-S029"
+   ],
+   "refs": [
+    "input/characters/พ่อวิทย์/พ่อวิทย์ W01 ชุดสูท.webp",
+    "input/characters/วิทย์/วิทย์ W01.png",
+    "input/characters/แม่วิทย์/แม่วิทย์ W01 ชุดออกงาน.png"
+   ],
+   "image_prompt": "EP02/prompts/EP02_B029_image.txt",
+   "video_prompt": "EP02/prompts/EP02_B029_video.txt",
+   "video_sec": 3,
+   "image_sha": "d495a9d4767d",
+   "video_sha": "a0385e787347",
+   "image_quality": "high",
+   "quality_reason": "3 คนในเฟรม"
+  },
+  "A030": {
+   "clip": "A030",
+   "kind": "A",
+   "scene": "SC02",
+   "shots": [
+    "EP02-S030"
+   ],
+   "refs": [
+    "input/characters/วิทย์/Face.webp"
+   ],
+   "image_prompt": "EP02/prompts/EP02_A030_image.txt",
+   "video_prompt": "EP02/prompts/EP02_A030_video.txt",
+   "video_sec": 3,
+   "image_sha": "c771cc96c7d8",
+   "video_sha": "136d7cc7e309",
+   "image_quality": "medium",
+   "quality_reason": ""
+  },
+  "A031": {
+   "clip": "A031",
+   "kind": "A",
+   "scene": "SC02",
+   "shots": [
+    "EP02-S031"
+   ],
+   "refs": [
+    "input/characters/วิทย์/Face.webp"
+   ],
+   "image_prompt": "EP02/prompts/EP02_A031_image.txt",
+   "video_prompt": "EP02/prompts/EP02_A031_video.txt",
+   "video_sec": 3,
+   "image_sha": "fb57d0e72e8c",
+   "video_sha": "2170dee45a7f",
+   "image_quality": "medium",
+   "quality_reason": ""
+  },
+  "A032": {
+   "clip": "A032",
+   "kind": "A",
+   "scene": "SC02",
+   "shots": [
+    "EP02-S032"
+   ],
+   "refs": [
+    "input/characters/พ่อวิทย์/พ่อวิทย์ Face.webp",
+    "input/characters/แม่วิทย์/Face.webp"
+   ],
+   "image_prompt": "EP02/prompts/EP02_A032_image.txt",
+   "video_prompt": "EP02/prompts/EP02_A032_video.txt",
+   "video_sec": 3,
+   "image_sha": "aee171862a2e",
+   "video_sha": "d74cdbdd8004",
+   "image_quality": "medium",
+   "quality_reason": ""
+  },
+  "A040": {
+   "clip": "A040",
+   "kind": "A",
+   "scene": "SC03",
+   "shots": [
+    "EP02-S040"
+   ],
+   "refs": [
+    "input/characters/ไอริน/Face.png",
+    "input/characters/ไอริน/ไอริน W01 ชุดนักศึกษา.png"
+   ],
+   "image_prompt": "EP02/prompts/EP02_A040_image.txt",
+   "video_prompt": "EP02/prompts/EP02_A040_video.txt",
+   "video_sec": 3,
+   "image_sha": "8e18cb4acbba",
+   "video_sha": "8e404694e2c0",
+   "image_quality": "medium",
+   "quality_reason": ""
+  },
+  "A041": {
+   "clip": "A041",
+   "kind": "A",
+   "scene": "SC03",
+   "shots": [
+    "EP02-S041"
+   ],
+   "refs": [
+    "input/characters/ไอริน/Face.png"
+   ],
+   "image_prompt": "EP02/prompts/EP02_A041_image.txt",
+   "video_prompt": "EP02/prompts/EP02_A041_video.txt",
+   "video_sec": 3,
+   "image_sha": "1e8c9e97c15f",
+   "video_sha": "b965baafd81c",
+   "image_quality": "medium",
+   "quality_reason": ""
+  },
+  "A042": {
+   "clip": "A042",
+   "kind": "A",
+   "scene": "SC03",
+   "shots": [
+    "EP02-S042"
+   ],
+   "refs": [
+    "input/characters/ไอริน/ไอริน W01 ชุดนักศึกษา.png",
+    "input/characters/มีอา/มีอา W01 (ชุดนักศึกษา).png"
+   ],
+   "image_prompt": "EP02/prompts/EP02_A042_image.txt",
+   "video_prompt": "EP02/prompts/EP02_A042_video.txt",
+   "video_sec": 3,
+   "image_sha": "61c57f3348d0",
+   "video_sha": "6209eeb952dc",
+   "image_quality": "high",
+   "quality_reason": "ช็อตไกล (WS ไอรินนั่งเต็มตัวเหนือโต๊ะ มีอายืนถึงต้นขา)"
+  },
+  "A043": {
+   "clip": "A043",
+   "kind": "A",
+   "scene": "SC03",
+   "shots": [
+    "EP02-S043"
+   ],
+   "refs": [
+    "input/characters/ไอริน/Face.png"
+   ],
+   "image_prompt": "EP02/prompts/EP02_A043_image.txt",
+   "video_prompt": "EP02/prompts/EP02_A043_video.txt",
+   "video_sec": 3,
+   "image_sha": "8d6d73c19604",
+   "video_sha": "dd247deed8d6",
+   "image_quality": "medium",
+   "quality_reason": ""
+  },
+  "A044": {
+   "clip": "A044",
+   "kind": "A",
+   "scene": "SC03",
+   "shots": [
+    "EP02-S044"
+   ],
+   "refs": [
+    "input/characters/ไอริน/Face.png",
+    "input/characters/ไอริน/ไอริน W01 ชุดนักศึกษา.png"
+   ],
+   "image_prompt": "EP02/prompts/EP02_A044_image.txt",
+   "video_prompt": "EP02/prompts/EP02_A044_video.txt",
+   "video_sec": 6,
+   "image_sha": "ca9d2ec30f77",
+   "video_sha": "442a512226ac",
+   "image_quality": "medium",
+   "quality_reason": ""
+  },
+  "A045": {
+   "clip": "A045",
+   "kind": "A",
+   "scene": "SC03",
+   "shots": [
+    "EP02-S045"
+   ],
+   "refs": [
+    "input/characters/ไอริน/ไอริน W01 ชุดนักศึกษา.png",
+    "EP02/Image/EP02_B009_T02.png"
+   ],
+   "image_prompt": "EP02/prompts/EP02_A045_image.txt",
+   "video_prompt": "EP02/prompts/EP02_A045_video.txt",
+   "video_sec": 5,
+   "image_sha": "846a44c56274",
+   "video_sha": "94e5707b27c3",
+   "image_quality": "medium",
+   "quality_reason": ""
+  },
+  "A050": {
+   "clip": "A050",
+   "kind": "A",
+   "scene": "SC04",
+   "shots": [
+    "EP02-S050"
+   ],
+   "refs": [
+    "input/characters/วิทย์/Face.webp"
+   ],
+   "image_prompt": "EP02/prompts/EP02_A050_image.txt",
+   "video_prompt": "EP02/prompts/EP02_A050_video.txt",
+   "video_sec": 3,
+   "image_sha": "1a2f40707c26",
+   "video_sha": "db47d9866cf1",
+   "image_quality": "medium",
+   "quality_reason": ""
+  },
+  "A051": {
+   "clip": "A051",
+   "kind": "A",
+   "scene": "SC04",
+   "shots": [
+    "EP02-S051"
+   ],
+   "refs": [
+    "input/characters/พ่อวิทย์/พ่อวิทย์ Face.webp",
+    "input/characters/แม่วิทย์/Face.webp"
+   ],
+   "image_prompt": "EP02/prompts/EP02_A051_image.txt",
+   "video_prompt": "EP02/prompts/EP02_A051_video.txt",
+   "video_sec": 4,
+   "image_sha": "93a89d3a1042",
+   "video_sha": "4978817a8f89",
+   "image_quality": "medium",
+   "quality_reason": ""
+  },
+  "A055": {
+   "clip": "A055",
+   "kind": "A",
+   "scene": "SC05",
+   "shots": [
+    "EP02-S055",
+    "EP02-S057"
+   ],
+   "refs": [
+    "input/characters/วิทย์/Face.webp"
+   ],
+   "image_prompt": "EP02/prompts/EP02_A055_image.txt",
+   "video_prompt": "EP02/prompts/EP02_A055_video.txt",
+   "video_sec": 6,
+   "image_sha": "848c804d85b8",
+   "video_sha": "e24f57b02876",
+   "image_quality": "medium",
+   "quality_reason": ""
+  },
+  "B056": {
+   "clip": "B056",
+   "kind": "B",
+   "scene": "SC05",
+   "shots": [
+    "EP02-S056"
+   ],
+   "refs": [
+    "input/characters/วิทย์/Face.webp"
+   ],
+   "image_prompt": "EP02/prompts/EP02_B056_image.txt",
+   "video_prompt": "EP02/prompts/EP02_B056_video.txt",
+   "video_sec": 3,
+   "image_sha": "2eee35cd696a",
+   "video_sha": "2bde04128a5f",
+   "image_quality": "medium",
+   "quality_reason": ""
+  },
+  "B058": {
+   "clip": "B058",
+   "kind": "B",
+   "scene": "SC05",
+   "shots": [
+    "EP02-S058"
+   ],
+   "refs": [],
+   "image_prompt": "EP02/prompts/EP02_B058_image.txt",
+   "video_prompt": "EP02/prompts/EP02_B058_video.txt",
+   "video_sec": 4,
+   "image_sha": "bee58efd2e70",
+   "video_sha": "a03c31ce815d",
+   "image_quality": "high",
+   "quality_reason": "ช็อตไกล (WS)"
+  },
+  "B060": {
+   "clip": "B060",
+   "kind": "B",
+   "scene": "SC06",
+   "shots": [
+    "EP02-S060"
+   ],
+   "refs": [
+    "input/characters/วิทย์/วิทย์ W01.png"
+   ],
+   "image_prompt": "EP02/prompts/EP02_B060_image.txt",
+   "video_prompt": "EP02/prompts/EP02_B060_video.txt",
+   "video_sec": 5,
+   "image_sha": "3eef2f2a99a4",
+   "video_sha": "7b951fa0bac5",
+   "image_quality": "high",
+   "quality_reason": "5 คนในเฟรม"
+  },
+  "A061": {
+   "clip": "A061",
+   "kind": "A",
+   "scene": "SC06",
+   "shots": [
+    "EP02-S061",
+    "EP02-S063"
+   ],
+   "refs": [
+    "input/characters/มีอา/มีอา Face.webp"
+   ],
+   "image_prompt": "EP02/prompts/EP02_A061_image.txt",
+   "video_prompt": "EP02/prompts/EP02_A061_video.txt",
+   "video_sec": 6,
+   "image_sha": "332105537de5",
+   "video_sha": "f5bdd4c22a52",
+   "image_quality": "medium",
+   "quality_reason": ""
+  },
+  "B062": {
+   "clip": "B062",
+   "kind": "B",
+   "scene": "SC06",
+   "shots": [
+    "EP02-S062"
+   ],
+   "refs": [
+    "input/characters/ไอริน/Face.png",
+    "input/characters/ไอริน/ไอริน W01 ชุดนักศึกษา.png"
+   ],
+   "image_prompt": "EP02/prompts/EP02_B062_image.txt",
+   "video_prompt": "EP02/prompts/EP02_B062_video.txt",
+   "video_sec": 3,
+   "image_sha": "9869d7b2c842",
+   "video_sha": "8e753c9c3026",
+   "image_quality": "medium",
+   "quality_reason": ""
+  },
+  "A064": {
+   "clip": "A064",
+   "kind": "A",
+   "scene": "SC06",
+   "shots": [
+    "EP02-S064"
+   ],
+   "refs": [
+    "input/characters/ไอริน/Face.png",
+    "input/characters/ไอริน/ไอริน W01 ชุดนักศึกษา.png"
+   ],
+   "image_prompt": "EP02/prompts/EP02_A064_image.txt",
+   "video_prompt": "EP02/prompts/EP02_A064_video.txt",
+   "video_sec": 4,
+   "image_sha": "3bc45f2e7e4f",
+   "video_sha": "a09c27e8d47b",
+   "image_quality": "medium",
+   "quality_reason": ""
+  },
+  "B065": {
+   "clip": "B065",
+   "kind": "B",
+   "scene": "SC06",
+   "shots": [
+    "EP02-S065"
+   ],
+   "refs": [
+    "input/characters/วิทย์/วิทย์ W01.png",
+    "EP02/Image/EP02_B060_T01.png"
+   ],
+   "image_prompt": "EP02/prompts/EP02_B065_image.txt",
+   "video_prompt": "EP02/prompts/EP02_B065_video.txt",
+   "video_sec": 4,
+   "image_sha": "526ac2e510ab",
+   "video_sha": "ac20c8fd5536",
+   "image_quality": "high",
+   "quality_reason": "3 คนในเฟรม"
+  },
+  "B066": {
+   "clip": "B066",
+   "kind": "B",
+   "scene": "SC06",
+   "shots": [
+    "EP02-S066"
+   ],
+   "refs": [
+    "input/characters/วิทย์/Face.webp"
+   ],
+   "image_prompt": "EP02/prompts/EP02_B066_image.txt",
+   "video_prompt": "EP02/prompts/EP02_B066_video.txt",
+   "video_sec": 5,
+   "image_sha": "6778cc6565a8",
+   "video_sha": "a0c8a1fdb18e",
+   "image_quality": "high",
+   "quality_reason": "3 คนในเฟรม"
+  }
+ },
+ "problems": []
+}

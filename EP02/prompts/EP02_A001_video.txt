@@ -1,0 +1,44 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP02-S001 | Clip: A001 (A-roll) | SC01 ห้องตรวจแพทย์ โรงพยาบาล (L05) กลางวัน
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 4 วิ | เสียงโหมด A
+#
+# ตัวละครในเฟรม (รวม 2 คน):
+# - มีอา C16-W01 ชุดนักศึกษา (สเวตเตอร์ขนนุ่มเทาเข้ม) | ครึ่งตัว (MCU ถึงอก) หน้า 3/4 มองซ้ายเฟรม ปากนิ่งตลอดเสียงหมอ | กลางเฟรม
+# - ไอริน C04-W19 ชุดนักศึกษา (ฮู้ดซิปเทา ไม่มีแว่น) | เห็นแค่เสี้ยวแก้มขวาและผมยาวเบลอ ไม่เห็นหน้า | ซ้ายล่าง ฉากหน้า
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - หมอ C17-W01 | นอกเฟรมซ้าย เป็นคนที่มีอามอง พูด D001 แบบ OS
+#
+# แนบใน Grok: ภาพที่เลือกจาก EP02_A001_image
+# ผู้พูด: หมอ OS | คนในเฟรมที่ไม่พูด: มีอา, ไอริน
+# [ตรวจเสียง] ภาพเป็นมีอาแต่บทเป็นหมอ ตาม Ledger — รอผู้ใช้ฟังยืนยัน
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+EP02_A001 SHOT EP02-S001. One continuous cinematic live-action medium close-up, vertical 9:16.
+TARGET DURATION: 4 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
+SCENE GEOGRAPHY: a bright, clean hospital consultation room in daytime. Mia sits upright in a black office chair on the patient side of a glossy black glass desk; behind her is a softly defocused plain light-gray end wall filling the center and left of the background, with the off-white patient-side wall along the far right. Irin sits in the foreground at the lower left, seen only as a blurred sliver of cheek and hair. Blurred small-leaved ficus leaves from the floor-potted ficus beside the camera along the bottom edge.
+VISIBLE CAST: exactly two people. Mia, a slender young Thai woman in her early twenties, wearing an oversized charcoal-gray fuzzy knit V-neck sweater with a scalloped lace-trimmed neckline, with very long straight jet-black hair worn loose with a center part; no bag strap. She is seated, face three-quarter toward screen-left, eyes on the unseen doctor beyond the left frame edge. Irin, a young Thai woman with long dark brown straight hair worn loose, no glasses, wearing a heather-gray hoodie, is the blurred foreground figure: only her right cheek edge, hair and hoodie shoulder are visible; her eyes, nose and mouth are outside the crop. FRAME ORDER from screen-left to screen-right: Irin (blurred cheek and hair, lower-left foreground) · Mia (center).
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: on the patient side near the window-end wall, just behind Irin's anatomical right shoulder, looking past her blurred cheek toward Mia and the light-gray wall beyond; seated eye level; medium close-up, framed from mid-chest up, face about 35% of the frame height; 65mm full-frame equivalent, about 1.5 meters away.
+FOREGROUND / VISIBLE BACKGROUND: foreground owner is Irin (blurred long dark brown hair, cheek edge and gray hoodie shoulder in the lower-left fifth of the frame) plus blurred small-leaved ficus leaves from the floor-potted ficus beside the camera along the bottom edge; softly defocused plain light-gray end wall in the center and left behind Mia, off-white patient-side wall along the far right; no window in frame.
+OFF-FRAME: the doctor Mia looks at is beyond the left frame edge; the camera does not follow her gaze. No one else enters the frame at any time.
+LIGHTING / COLOR: soft diffused daylight from a roller-blind window behind the camera on the left, a soft key on Mia's face from screen-left, cool-neutral white ceiling fill, approximately 5000K, soft low contrast; bright clean clinic palette of off-white and pale gray with the green ficus leaves, slightly cool-neutral whites, natural fair skin tones.
+PROP STATE: no props in frame. Mia's hands rest in her lap below the frame edge.
+START STATE: Mia sits upright, eyes fixed screen-left on the unseen doctor, flat impatient expression, lips barely parted and completely still, chin slightly raised. Irin is motionless in the blurred foreground.
+PERFORMANCE CONTEXT: Mia is listening to the doctor's question and is impatient for the consultation to be over; she does not speak in this clip.
+ACTION: While the off-screen doctor's voice speaks, Mia keeps her mouth completely still and only listens, her eyes steady on the unseen doctor at screen-left; a slight impatient tightening around her eyes. After the voice ends, Mia gently presses her lips closed. Irin, in the blurred foreground, stays still.
+END STATE: Mia in the same seated pose, gaze still held screen-left on the unseen doctor, an impatient waiting expression, lips closed. She stays still until the very end of the clip; the framing does not change.
+CAMERA: locked-off, the framing never changes.
+VISUAL CONTINUITY: Preserve the starting image's faces, hair, wardrobe, set geometry, lighting character and color treatment. Allow only the specified actions. No unplanned cuts, added people, identity swaps or prop teleportation.
+AUDIO MODE: generated dialogue.
+SPEECH EVENT 1:
+SPEAKER: the doctor, an off-screen woman (OS), not visible in the frame.
+EXACT THAI DIALOGUE: "คุณแน่ใจเหรอ ว่าจะทำแท้งน่ะ"
+VOICE IDENTITY: adult Thai female voice, calm measured mid-low register, clear professional timbre, standard Thai accent
+DELIVERY: even, slow and clear, low and polite; a professional double-check.
+The speaker is not visible; no visible person lip-syncs to this voice.
+NON-SPEAKERS: Mia and Irin; no speech-like lip movements. Mia's lips do not move at all while the voice is speaking.
+Speak only the assigned dialogue exactly once, without paraphrasing or added words.
+Do not stretch speech to fill the clip. No unassigned voices.
+AFTER SPEECH: Mia closes her lips and holds her impatient gaze screen-left, a quiet still hold until the cut.
+AMBIENCE/SFX: faint quiet clinic room tone; no music, no chatter.

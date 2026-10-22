@@ -1,0 +1,53 @@
+{
+  "clip": "A061",
+  "image": {
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Image/EP02_A061_T01.png",
+        "job": "01a16293-83e8-7162-acab-f14b2ad54065",
+        "result": "fail",
+        "qc": "ข้อ 5: มีอามองตรงเลนส์ ไม่ได้ก้มมองต่ำค่อนซ้ายใต้เลนส์ ไม่โน้มตัว สีหน้านิ่งไม่ใช่สงสัย; เฟรมกว้างกว่า MCU",
+        "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP02/Image/EP02_A061_T02.png",
+        "job": "01a16296-f42a-7bd2-af47-3d8c511d4857",
+        "result": "fail",
+        "qc": "ดีขึ้น: โน้มตัวก้มลง หน้าเอียง แต่สายตายังเกือบตรงเลนส์ ไม่ใช่ต่ำค่อนซ้าย; สีหน้าไม่สงสัยชัด",
+        "cost": 0.06
+      },
+      {
+        "take": 3,
+        "file": "EP02/Image/EP02_A061_T03.png",
+        "job": "01a16298-3e64-7863-9013-8da58a14d802",
+        "result": "ok",
+        "qc": "โน้มตัวก้ม ศีรษะเอียง ชุดสเวตเตอร์เทาลูกไม้ตรง หน้าตรงอ้างอิง; สายตายังเกือบตรงเลนส์ (ควรมองต่ำค่อนซ้าย)",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP02/Image/EP02_A061_T03.png",
+    "prompt_sha": "332105537de5",
+    "flag": "สายตามีอาเกือบตรงเลนส์ แทนที่จะมองต่ำค่อนซ้ายใต้เลนส์ (ครบ 3 take)",
+    "facts": "Medium shot of Mia alone in the center, leaning her upper body forward toward the camera, head tilted slightly down, very long straight black hair falling forward over her right shoulder; oversized charcoal fuzzy V-neck sweater with lace-trimmed neckline. Her eyes currently look almost into the lens. Bright off-white roller-blind window fills the background. No hands visible."
+  },
+  "video": {
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Video/EP02_A061_T01.mp4",
+        "job": "97297c3a-993c-94c8-b696-69d84c700620",
+        "result": "ok",
+        "qc": "6.04 วิ มีเสียง เฟรมนิ่ง หน้า/ชุดคงที่ เริ่มมองต่ำ แล้วเงยมองเลนส์ช่วงกลาง ท้ายคิ้วขมวดกังวล",
+        "cost": 0.48
+      }
+    ],
+    "selected": "EP02/Video/EP02_A061_T01.mp4",
+    "prompt_sha": "f5bdd4c22a52",
+    "flag": "ต้องฟังลิปซิงก์; ช่วงกลางมีอามองเข้าเลนส์"
+  },
+  "notes": []
+}

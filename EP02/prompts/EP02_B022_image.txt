@@ -1,0 +1,35 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP02-S022 | Clip: B022 (B-roll) | SC02 ห้องอาหารบ้านวิทย์ (L06) กลางวัน
+# ไฟล์นี้: Image Prompt → GPT Image 2 (fal) 9:16
+#
+# ตัวละครในเฟรม (รวม 1 คน):
+# - พ่อวิทย์ C12-W02 สูทสามชิ้นเทา (พ่อวิทย์ W01 ชุดสูท) ไม่มีแว่น | ครึ่งตัว (MCU) หน้าตรง มองซ้ายเฟรม | กลางเฟรม
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - วิทย์ C05-W11 | นอกกรอบซ้าย เป็นคนที่พ่อมอง
+# - แม่วิทย์ C01-W01 | นอกกรอบขวา
+#
+# แนบใน OpenArt: 1) input/characters/พ่อวิทย์/พ่อวิทย์ Face.webp
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+Create one standalone starting-frame image for SHOT EP02-S022.
+Vertical 9:16. Cinematic live-action still, photorealistic.
+REFERENCE IMAGES:
+Image 1: Wit's father — use only for face, skin tone and hairstyle. The outfit comes from the text below. Do not copy the background, lighting or camera angle.
+CHARACTERS: Wit's father, a distinguished Thai man in his late fifties, matched to Image 1, wearing a medium heather-gray suit jacket with a matching buttoned waistcoat, a pale blue-and-white pinstriped dress shirt and a navy silk tie with small white polka dots; no glasses; short salt-and-pepper hair swept back.
+CAST COUNT: exactly one person visible: Wit's father.
+SCENE GEOGRAPHY: a luxurious dining room in a wealthy family home in daytime: a long dining table with a white gray-veined marble top and slim vertical gold metal legs, round-backed white chairs with gold frames, blue-and-white porcelain rice bowls, dishes of food, clear water glasses, spoons and chopsticks on the table. Wit's father sits on the far long side of the table with his back toward the far wall; behind him the far wall has a tall dark-gray-framed glass display cabinet on its left part and dark red-brown wooden shelving with gold sculptures on its right part. A large window is in the right side wall, off to screen-right.
+FRAME ORDER: from screen-left to screen-right: Wit's father (center).
+CAMERA POSITION: on the open near long side of the table, directly opposite Wit's father, at seated eye level.
+VIEW DIRECTION: straight across the table toward Wit's father and the display-cabinet wall beyond him.
+SET IN FRAME: a blurred dark-gray-framed glass display cabinet on screen-left behind him; blurred dark red-brown wooden shelving and a beige wall on screen-right. Keep this layout; do not move or mirror it.
+BETWEEN CAMERA AND SUBJECT: nothing; at most a blurred bowl rim at the bottom edge.
+VISIBLE BACKGROUND: the blurred dark-gray-framed glass display cabinet on screen-left and the blurred red-brown wooden shelving and beige wall on screen-right.
+OFF-FRAME: the person he looks at is beyond the left frame edge. No other person or any part of another person appears in the frame.
+START STATE: Wit's father sits upright facing the camera, head and eyes turned toward screen-left, toward the left end of the table, still and listening. Face neutral and composed, lips relaxed and closed. Both hands rest on the table below the frame edge.
+CAMERA: MEDIUM CLOSE-UP. Framed from mid-chest up; the face fills about 35% of the frame height. 65mm full-frame equivalent, about 1.5 meters away, seated eye level, frontal view.
+FOCUS: the father's eyes sharp; background softly defocused.
+LIGHTING: window daylight from screen-right as the key on the screen-right side of his face, warm chandelier and gold cove fill from above, approximately 4300K, soft natural contrast.
+GRADE: warm luxurious daytime palette of white marble, cream and polished gold with deep wood-brown shelving, soft natural contrast, warm natural skin tones.
+No text, letters, numbers or logos anywhere in the image.
+Show only the starting moment, before any planned movement begins.
+No captions, subtitles, labels, watermarks, panels or collage.

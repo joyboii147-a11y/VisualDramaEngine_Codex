@@ -1,0 +1,36 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP02-S042 | Clip: A042 (A-roll) | SC03 ห้องตรวจแพทย์ โรงพยาบาล (L05) กลางวัน | Setup SC03-B (มุมอ้างอิง)
+# ไฟล์นี้: Image Prompt → GPT Image 2 (9:16) ผ่าน fal.ai หรือ OpenArt
+#
+# ตัวละครในเฟรม (รวม 2 คน):
+# - ไอริน C04-W19 ไอริน W01 ชุดนักศึกษา (ฮู้ดซิปเทา ครอปท็อปขาว ไม่มีแว่น ไม่มีหน้าม้า ไม่สะพายเป้ ท้องแบน) | ครึ่งตัว นั่งเก้าอี้หนังดำที่มุมโต๊ะไกล เห็นเหนือท็อปโต๊ะ หันหน้าหากล้อง มองตรง/ต่ำ มือซ้ายถือโทรศัพท์ครีมแนบหูซ้าย มือขวาถือนามบัตรบนขอบโต๊ะ | ซ้ายเฟรม
+# - มีอา C16-W01 มีอา W01 (ชุดนักศึกษา) (สเวตเตอร์ขนฟูเทาเข้มคอวี กระโปรงลายจุดดำ) | ครึ่งตัวถึงต้นขา ยืนกอดอกหลังไหล่ซ้ายไอริน หน้าหน้าต่าง ก้มมองไอริน (ซ้ายเฟรม) ปากปิด | ขวาเฟรม
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - วิทย์ C05-W11 | ปลายสายโทรศัพท์ (ไม่เห็น ไม่ได้ยินเสียง)
+#
+# แนบใน OpenArt: 1) input/characters/ไอริน/ไอริน W01 ชุดนักศึกษา.png
+#                2) input/characters/มีอา/มีอา W01 (ชุดนักศึกษา).png
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+Create one standalone starting-frame image for SHOT EP02-S042.
+Vertical 9:16. Cinematic live-action still, photorealistic.
+REFERENCE IMAGES:
+Image 1: Irin — use for face, skin tone, hairstyle, body shape and this exact outfit (gray zip hoodie, white cropped tank top, jeans). Do not copy the black backpack: she wears no backpack and no bag strap. Do not copy the background, lighting, pose or camera angle from this image.
+Image 2: Mia — use for face, skin tone, hairstyle, body shape and this exact outfit. Do not copy the background, lighting, pose or camera angle from this image.
+CHARACTERS: Irin, a young Thai woman in her early twenties, from Image 1, wearing a heather-gray oversized zip-up hoodie worn open, with large navy collegiate block letters outlined in white across the chest, split by the open zipper ("GA" on her right chest panel and "P" on the left panel), exactly as in the outfit reference, ribbed cuffs and hem, over a white cropped scoop-neck tank top, a delicate thin silver pendant necklace, light-wash blue straight-leg jeans, white-and-silver chunky running sneakers, no glasses, and long dark brown straight hair with soft face-framing layers worn loose with a center part. No bangs, no backpack, flat stomach with no visible baby bump. Mia, a slender young Thai woman in her early twenties, from Image 2, wearing an oversized charcoal-gray fuzzy knit V-neck sweater with a scalloped lace-trimmed neckline and ribbed cuffs and hem, a black mini skirt with small white polka dots and a black lace hem, white slouchy crew socks, black leather penny loafers, and very long straight jet-black hair worn loose with a center part. No bag. Their legs and shoes are below the crop and hidden by the desk.
+CAST COUNT: exactly two people visible: Irin and Mia.
+SCENE GEOGRAPHY: a bright modern hospital consultation room in daytime. A long desk with a glossy black glass top and silver metal edges runs from the camera's end of the room toward the far wall. The far wall is off-white: on its left part hang a framed maternal-health illustration poster with no readable text above a small-leaf ficus tree in a floor pot; in its middle stand a white-shade floor lamp and a low wooden shelf with colored folders; on its right part is a large window with an off-white roller blind letting in bright daylight. Irin sits in a black leather office chair with silver metal legs at the far-left corner of the desk, turned fully toward the camera. Mia stands about one meter behind Irin's left shoulder, between Irin and the window, arms crossed.
+FRAME ORDER: from screen-left to screen-right: Irin (seated, left), Mia (standing, right).
+CAMERA POSITION: standing at the near end of the room behind the near end of the desk, slightly low standing eye level.
+VIEW DIRECTION: straight along the length of the desk toward Irin and Mia and the far wall with the window.
+SET IN FRAME: illustration poster with no readable text in the upper left; potted ficus tree on the left behind Irin; white-shade floor lamp and a low shelf of folders in the center; bright roller-blind window on the right behind Mia; black glass desk across the bottom, with a cream square succulent pot at the left foreground, an open folder with ultrasound printouts at the right foreground, and a computer monitor showing an ultrasound image with a keyboard on the right. Keep this layout; do not move or mirror it.
+BETWEEN CAMERA AND SUBJECT: the near part of the black glass desk top with the succulent pot, open folder, monitor and keyboard low in the frame; nothing covers either woman's face or upper body.
+VISIBLE BACKGROUND: off-white far wall with the poster, ficus, floor lamp, folder shelf and the bright roller-blind window, all in natural perspective.
+OFF-FRAME: Irin is speaking to someone on the phone. No third person appears in the frame.
+START STATE: Irin sits upright facing the camera, visible from the desk top up, gaze straight ahead and slightly down, firm determined expression, lips closed. Her left hand holds a cream-colored smartphone with a matching metal frame and a vertical dual rear camera, no visible logo, pressed to her left ear, so the phone and her left hand are on the screen-right side of her face, toward Mia. Her right hand, on the screen-left side, rests on the edge of the black glass desk holding a standard-size off-white matte business card with a thin vertical copper-gold stripe near the left edge and a small dark geometric emblem in the top-right corner, with no readable text, names or numbers. Mia stands behind Irin's left shoulder, taller in frame, arms crossed over her chest, weight on one leg, head tilted down, looking down toward screen-left at Irin, brows slightly raised, lips closed, waiting eagerly. Both faces are clear and do not overlap. Both women are completely dry.
+CAMERA: WIDE SHOT. Irin, seated at the far end of the desk, is visible from the desk top up, her head at about 40% of the frame height from the top; Mia is visible from mid-thigh up, her head in the upper quarter of the frame; the near desk surface fills the bottom of the frame. 28mm full-frame equivalent, about 3 meters from Irin, slightly low standing eye level, deep focus.
+FOCUS: deep focus; both faces sharp, foreground desk objects slightly soft.
+LIGHTING: bright clean daytime interior: soft diffused daylight from a large roller-blind window on the side wall, cool-neutral white ceiling fill, approximately 5000K, soft low contrast with gentle reflections on the black glass desk. The window is on screen-right behind Mia, giving Mia a soft bright rim on her hair and shoulders; ceiling fill keeps both faces evenly readable.
+GRADE: bright clean clinic palette of off-white, pale gray and glossy black glass with fresh green plant accents, soft low contrast, slightly cool-neutral whites, natural fair skin tones.
+Show only the starting moment, before any planned movement begins.
+No captions, subtitles, labels, watermarks, panels or collage. No readable text, letters or Korean characters anywhere in the image apart from the navy chest letters on Irin's hoodie, including the poster, folders, monitor and card.

@@ -1,0 +1,43 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP02-S062 | Clip: B062 (B-roll) | SC06 ห้องตรวจแพทย์ โรงพยาบาล (L05) โซน B กลางวัน
+# ไฟล์นี้: Image Prompt → GPT Image 2 (9:16) ผ่าน fal.ai หรือ OpenArt
+#
+# ตัวละครในเฟรม (รวม 2 คน):
+# - ไอริน C04-W19 ชุดนักศึกษา (ฮู้ดซิปเทา ครอปท็อปขาว ไม่มีแว่น ไม่มีหน้าม้า) | หน้า (CU ศีรษะถึงไหล่) นั่ง หน้าก้มต่ำเล็กน้อย สายตาลงที่โต๊ะ | กลางเฟรม
+# - มีอา C16-W01 ชุดนักศึกษา (ไม่แนบภาพ) | เห็นแค่ไหล่/ต้นแขนซ้ายสเวตเตอร์เทาเข้มและปลายผมดำเบลอ ไม่เห็นหน้า | ขอบขวา ฉากหน้า
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - มีอา (ใบหน้า) | นอกกรอบขวาบน — ที่ไอรินจะเหลือบมองในวิดีโอ
+#
+# แนบใน OpenArt: 1) input/characters/ไอริน/Face.png
+#                2) input/characters/ไอริน/ไอริน W01 ชุดนักศึกษา.png
+# หมายเหตุภาพแนบ: Face.png มีสายเป้ดำที่ไหล่ — ห้ามคัดลอก; ตัวอักษรบนฮู้ดอยู่นอก crop CU
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+Create one standalone starting-frame image for SHOT EP02-S062.
+Vertical 9:16. Cinematic live-action still, photorealistic.
+REFERENCE IMAGES:
+Image 1: Irin — use only for face, skin tone and hairstyle. The outfit comes from Image 2 and the text below. Do not copy the backpack strap, the outfit, background, lighting, expression or camera angle.
+Image 2: Irin's outfit reference — copy the outfit exactly from this image: the light heather-gray oversized zip-up hoodie worn open with its large navy white-outlined collegiate chest letters split by the zipper, the ribbed cuffs, the white cropped scoop-neck tank top and the thin silver pendant necklace. Ignore the backpack and its strap, the white studio background, the pose and the camera angle; show only the parts of the outfit that fall inside this frame.
+CHARACTERS: Irin, a young Thai woman in her early twenties, face and hair from Image 1, wearing a heather-gray oversized zip-up hoodie worn open over a white cropped scoop-neck tank top, with a delicate thin silver pendant necklace at her collarbones; no glasses, no backpack and no bag strap; long dark brown straight hair with soft face-framing layers worn loose with a center part, no bangs. Mia, seen only as a blurred foreground edge: a young woman with very long straight jet-black hair, wearing an oversized charcoal-gray fuzzy knit V-neck sweater.
+CAST COUNT: exactly two people visible: Irin, and Mia as a partial blurred foreground figure at the right edge.
+FOREGROUND OWNER: Mia, standing beside and slightly behind Irin's seat on the window side, seen from her left side.
+VISIBLE FOREGROUND IDENTITY: the left shoulder and upper arm of an oversized charcoal-gray fuzzy knit sweater and a few strands of very long straight jet-black hair hanging down.
+CAMERA RELATION: camera beside Mia's anatomical left shoulder, with that shoulder, upper arm and hair occupying about the right sixth of the frame from the top edge down.
+FOCUS SUBJECT: Irin, seated, face three-quarter toward the camera, head bowed slightly, eyes lowered toward the desk below the frame.
+OCCLUSION: Mia's face is outside the top-right of the crop. Keep Irin's face fully unobstructed.
+SCENE GEOGRAPHY: a bright, clean hospital doctor's consultation room in daytime. Irin sits in a black office chair at the corner of a glossy black glass desk on the patient side, near the window end of the room. Mia stands beside her on the window side, leaning toward her. Behind Irin is a plain pale gray wall.
+FRAME ORDER: from screen-left to screen-right: Irin (center) · Mia (blurred charcoal sweater shoulder and black hair, right edge, foreground).
+CAMERA POSITION: on the doctor's-wall side of the room, between the desk and the window, right beside Mia's left shoulder, slightly above Irin's seated eye level.
+VIEW DIRECTION: slightly downward past Mia's shoulder toward Irin, with the pale gray wall beyond her.
+SET IN FRAME: Irin in the center; Mia's blurred charcoal sweater shoulder and black hair along the right edge in the foreground; the plain pale gray wall softly defocused filling the background. Keep this layout; do not move or mirror it.
+BETWEEN CAMERA AND SUBJECT: only Mia's blurred shoulder and hair at the right edge; clear air between them and Irin.
+VISIBLE BACKGROUND: a softly defocused plain pale gray wall only. No posters, no text.
+OFF-FRAME: the person Irin will look up at is beyond the upper-right frame edge. No other person or any part of another person appears in the frame.
+START STATE: Irin sits with her head bowed slightly, eyes lowered toward the desk below the frame, face still, cool and indifferent, lips closed. Empty space in the upper right of the frame where her gaze will later go. No hands visible in the frame.
+CAMERA: TIGHT CLOSE-UP. Irin's face fills about 60% of the frame height; the frame top cuts through the top of her hair and the frame bottom cuts just below the chin at the collarbones, showing the hoodie collar and the thin silver necklace. No chest, waist or hands visible. 85mm full-frame equivalent, about 1 meter away, slightly above eye level, looking down.
+FOCUS: Irin sharp; Mia's shoulder softly defocused while the charcoal fuzzy knit and black hair remain recognizable; background softly defocused.
+LIGHTING: bright clean daytime interior: soft diffused daylight from a roller-blind window behind the camera on the right, giving a soft key on the screen-right side of Irin's face, cool-neutral white ceiling fill, approximately 5000K, soft low contrast.
+GRADE: bright clean clinic palette of off-white, pale gray and charcoal tones, soft low contrast, slightly cool-neutral whites, natural fair skin tones.
+The foreground person is Mia, not an additional person or a generic stand-in.
+Show only the starting moment, before any planned movement begins.
+No captions, subtitles, labels, logos, watermarks, panels or collage. No readable text anywhere in the image.

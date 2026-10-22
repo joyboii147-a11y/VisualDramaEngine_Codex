@@ -1,0 +1,57 @@
+{
+  "clip": "B009",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Image/EP02_B009_T01.png",
+        "job": "01a16293-cccc-7983-8da9-bbd6ec6cb608",
+        "result": "ok",
+        "qc": "ผ่าน นามบัตรว่าง แถบทองซ้าย สัญลักษณ์มุมขวาบน ไม่มีตัวอักษร แขนฮู้ดจากขวา",
+        "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP02/Image/EP02_B009_T02.png",
+        "job": "01a162b9-31b7-7d40-8b77-7f908407f9f0",
+        "result": "ok",
+        "qc": "ผ่าน นามบัตรสะกดถูก 'ธนากรุ๊ป' (หนา ใหญ่) + '034-5577890' (เล็ก) คมชัด นิ้วโป้งไม่บัง แถบทองซ้าย สัญลักษณ์เพชรมุมขวาบน แขนฮู้ดเทาจากขวา",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP02/Image/EP02_B009_T02.png",
+    "prompt_sha": "bebb29318209",
+    "flag": null,
+    "facts": "Insert close-up: Irin's right hand enters from screen-right in a heather-gray ribbed hoodie cuff, thumb on the card's right edge, holding an off-white business card in the center over a glossy black glass desk with a silver edge strip near the bottom. The card has a thin copper-gold vertical stripe at left, a small diamond emblem top-right, and exactly two centered printed lines in Thai: bold 'ธนากรุ๊ป' and smaller '034-5577890'; the printed text must stay exactly the same and unchanged.",
+    "reset_at": 1
+  },
+  "video": {
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Video/EP02_B009_T01.mp4",
+        "job": "39136999-e6a6-9093-8526-9c4476408fbb",
+        "result": "ok",
+        "qc": "ผ่าน มือยกนามบัตรนิ่ง ไม่มีตัวอักษร กล้องนิ่ง drift 0.05",
+        "cost": 0.24
+      },
+      {
+        "take": 2,
+        "file": "EP02/Video/EP02_B009_T02.mp4",
+        "job": "673bb7ed-12b1-9152-adcc-2e38d7725c52",
+        "result": "ok",
+        "qc": "ผ่าน 3.04s มีเสียง กล้องนิ่ง มือยกบัตรเล็กน้อย ข้อความ 'ธนากรุ๊ป' / '034-5577890' คงที่ไม่เพี้ยนทั้ง start/mid/end นิ้วไม่บัง drift 0.041",
+        "cost": 0.24
+      }
+    ],
+    "selected": "EP02/Video/EP02_B009_T02.mp4",
+    "prompt_sha": "c242023c5d2c",
+    "flag": "ฟังยืนยันว่าไม่มีเสียงอ่านข้อความบนนามบัตร (Claude ตรวจเสียงไม่ได้)",
+    "reset_at": 1
+  },
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
+}

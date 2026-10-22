@@ -1,0 +1,43 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP02-S002 | Clip: A002 (A-roll) | SC01 ห้องตรวจแพทย์ โรงพยาบาล (L05) กลางวัน
+# ไฟล์นี้: Image Prompt → GPT Image 2 (9:16) ผ่าน fal.ai หรือ OpenArt
+#
+# ตัวละครในเฟรม (รวม 2 คน):
+# - หมอ C17-W01 เสื้อกาวน์ขาว+สครับกรมท่า (ไม่มีข้อความปัก ไม่ใส่แว่น) | ครึ่งตัว (MCU ถึงอก) หน้า 3/4 มองซ้ายเฟรม มือประสานบนโต๊ะขอบล่าง | กลางเฟรม
+# - ไอริน C04-W19 ชุดนักศึกษา (ฮู้ดซิปเทา ไม่มีแว่น) | เห็นแค่ผมยาวและขอบแก้มขวาเบลอ ไม่เห็นตา | ขอบซ้าย ฉากหน้า
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - มีอา C16-W01 | นอกเฟรมขวา-หลังกล้อง เป็นผู้พูด OS ในวิดีโอ (prompt ภาพไม่เอ่ยถึง)
+#
+# แนบใน OpenArt: 1) input/characters/หมอ/หมอ Face.webp
+#                2) input/characters/ไอริน/ไอริน W01 ชุดนักศึกษา.png
+# หมายเหตุภาพแนบ: ภาพ 1 มีข้อความปักบนกาวน์และท่ากอดอก ห้ามคัดลอก · ภาพ 2 ใช้เฉพาะผม/ขอบแก้ม/ผ้าฮู้ดเบลอ ห้ามคัดลอกเป้และตัวอักษรบนฮู้ด
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+Create one standalone starting-frame image for SHOT EP02-S002.
+Vertical 9:16. Cinematic live-action still, photorealistic.
+REFERENCE IMAGES:
+Image 1: the doctor — use only for face, skin tone and hairstyle. The outfit comes from the text below. Do not copy the embroidered text on the coat, the crossed-arms pose, the background, lighting or camera angle.
+Image 2: Irin — use only for her long dark brown hair, skin tone and the heather-gray hoodie fabric, which appear only as a soft blurred edge. Do not copy the backpack, the chest lettering, the pose, the background, lighting or camera angle.
+CHARACTERS: the doctor, a Thai woman in her late thirties to early forties, face and hair from Image 1, wearing a crisp white knee-length long-sleeve lab coat worn open, with notch lapels, a chest pocket and two large lower patch pockets, over a navy blue V-neck scrub top and navy scrub trousers, a black stethoscope draped around the neck, small stud earrings, white sneakers, no glasses, no embroidered text on the coat, and dark brown hair in a low ponytail with loose face-framing strands. The coat is plain white with no lettering, logo or name badge. Irin, a young Thai woman in her early twenties, seen only as blurred long hair and the edge of her right cheek at the left frame edge, wearing a heather-gray oversized zip-up hoodie worn open, with a large navy arched varsity-letter appliqué across the chest that has no readable lettering, ribbed cuffs and hem, over a white cropped scoop-neck tank top, a delicate thin silver pendant necklace, light-wash blue straight-leg jeans, white-and-silver chunky running sneakers, no glasses, and long dark brown straight hair with soft face-framing layers worn loose with a center part; no backpack. Only her long hair, the edge of her right cheek and a hint of her gray hoodie shoulder are inside the crop; her eyes are not visible.
+CAST COUNT: exactly two people visible: the doctor, and Irin as a partial blurred foreground figure.
+FOREGROUND OWNER: Irin, seated in the corner patient chair at the window end of the desk, seen from three-quarter rear.
+VISIBLE FOREGROUND IDENTITY: long straight dark brown hair worn loose, the soft edge of her right cheek with no glasses, and a hint of the heather-gray hoodie shoulder.
+CAMERA RELATION: camera behind and to the right of Irin, with her hair and cheek edge occupying about the left sixth of the frame from the left edge.
+FOCUS SUBJECT: the doctor, seated behind the desk opposite, face three-quarter toward screen-left, looking toward Irin.
+OCCLUSION: Irin's eyes, nose and mouth are not visible. Keep the doctor's face and clasped hands unobstructed.
+SCENE GEOGRAPHY: a bright, clean hospital doctor's consultation room in daytime. A long desk with a glossy black glass top and a silver metal frame stands in the middle of the room, parallel to the doctor's wall. The doctor's wall is off-white, with a wall-mounted shelf of trailing ivy; the doctor sits in a high-backed black leather executive chair behind the middle of the desk. Irin sits on the patient side of the desk in a black office chair at the window-end corner. A large window with an off-white roller blind is in the window-end wall, to the left of this view.
+FRAME ORDER: from screen-left to screen-right: Irin (blurred hair and right cheek edge, left edge) · the doctor (center).
+CAMERA POSITION: on the patient side of the desk, between the two patient chairs and slightly behind them, at seated eye level.
+VIEW DIRECTION: straight across the black glass desk toward the doctor, with the off-white doctor's wall beyond her.
+SET IN FRAME: Irin's blurred hair and cheek edge at the left edge; the doctor in the center; the high black leather chair back behind the doctor; the shelf with trailing ivy at the upper left of the background; plain off-white wall elsewhere; the near edge of the glossy black glass desktop along the bottom of the frame. Keep this layout; do not move or mirror it.
+BETWEEN CAMERA AND SUBJECT: Irin's blurred hair and cheek edge at the left edge and the black glass desktop across the bottom; nothing else.
+VISIBLE BACKGROUND: softly defocused off-white wall, the ivy shelf at upper left, the black leather chair back behind the doctor.
+OFF-FRAME: none needed; the doctor looks toward Irin, who is partly in frame at the left edge. No other person or any part of another person appears in the frame.
+START STATE: the doctor sits upright, face three-quarter toward screen-left, eyes on Irin, brows slightly drawn, a serious, attentive expression, lips closed. Her hands are clasped together on the black glass desktop at the bottom edge of the frame. Irin is motionless in the blurred foreground.
+CAMERA: MEDIUM CLOSE-UP. Framed from mid-chest up; the face fills about 35% of the frame height. 65mm, about 1.5 meters away, seated eye level, slight three-quarter angle; the doctor's clasped hands rest at the bottom edge.
+FOCUS: the doctor sharp; Irin softly defocused, while her long dark brown hair remains recognizable.
+LIGHTING: bright clean daytime interior: soft diffused daylight from the large roller-blind window at screen-left, a soft key on the screen-left side of the doctor's face, cool-neutral white ceiling fill, approximately 5000K, soft low contrast with gentle reflections on the black glass desk.
+GRADE: bright clean clinic palette of off-white, pale gray and glossy black glass with fresh green plant accents, soft low contrast, slightly cool-neutral whites, natural fair skin tones.
+The foreground person is Irin, not an additional person or a generic stand-in.
+Show only the starting moment, before any planned movement begins.
+No captions, subtitles, labels, logos, watermarks, panels or collage. No readable text anywhere in the image, including on the lab coat.

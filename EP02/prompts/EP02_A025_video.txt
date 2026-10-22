@@ -1,0 +1,45 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP02-S025 | Clip: A025 (A-roll) | SC02 ห้องอาหารบ้านวิทย์ (L06) กลางวัน
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 4 วิ | เสียงโหมด A
+#
+# ตัวละครในเฟรม (รวม 1 คน):
+# - แม่วิทย์ C01-W01 กาวน์แชมเปญนู้ดปักลูกปัด | ครึ่งตัว (MCU) พูด D011 เหลือบซ้ายแวบเดียวแล้วกลับ | กลางเฟรม
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - วิทย์ | นอกกรอบซ้าย-หลังกล้อง
+# - พ่อวิทย์ | นอกกรอบซ้าย — กล้องห้ามแพนตามสายตา
+#
+# แนบใน Grok: ภาพที่เลือกจาก EP02_A025_image
+# ผู้พูด: แม่วิทย์ ON | คนในเฟรมที่ไม่พูด: ไม่มี
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+EP02_A025 SHOT EP02-S025. One continuous cinematic live-action medium close-up, vertical 9:16.
+TARGET DURATION: 4 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
+SCENE GEOGRAPHY: inside the frame: Wit's mother seated at the right short end of a white marble dining table, a large bright window softly blurred behind her with a pale gray window frame toward screen-right.
+VISIBLE CAST: exactly one person: Wit's mother, an elegant middle-aged Thai woman, wearing a champagne-nude fitted gown densely embroidered with tonal floral beadwork, a high beaded collar with a keyhole neckline and sheer lace cape sleeves over the shoulders; pearl stud earrings; dark brown hair in a low braided chignon with loose face-framing tendrils. She sits leaning slightly toward the table, near-frontal in a slight three-quarter turn, eyes slightly toward screen-left. FRAME ORDER from screen-left to screen-right: Wit's mother (center).
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: at the left end of the table, at seated eye level, on the near side of the table's length axis, looking down the length of the table; along the table toward Wit's mother at the right short end, with the large window beyond her; MEDIUM CLOSE-UP. Framed from mid-chest up; the face fills about 35% of the frame height. 65mm full-frame equivalent, about 1.5 meters away, seated eye level, near-frontal view.
+SET IN FRAME: a large bright window fills the background behind her, softly overexposed and blurred; a pale gray window-frame mullion near the screen-right side. Keep this layout; do not move or mirror it.
+FOREGROUND / VISIBLE BACKGROUND: no foreground object; the large bright window softly blurred behind her with a pale gray window frame toward screen-right.
+OFF-FRAME: the person she speaks to is just beyond the camera, slightly to screen-left of the lens; when she glances further screen-left, only her eyes move; the camera does not follow her gaze. No one else enters the frame at any time.
+LIGHTING / COLOR: the window behind her gives a soft backlight rim on her hair and shoulders; warm frontal fill from the chandelier and gold cove light keeps her face clearly and evenly lit, approximately 4300K mixed light, soft natural contrast; warm luxurious daytime palette of white marble, cream and polished gold with deep wood-brown shelving, soft natural contrast, warm natural skin tones.
+PROP STATE: no objects in frame; her hands stay below the frame edge.
+START STATE: Wit's mother sits leaning slightly toward the table, near-frontal to the camera in a slight three-quarter turn, eyes directed slightly toward screen-left. Lips closed, brows set, a serious, pressing expression. Her hands are below the frame edge.
+PERFORMANCE CONTEXT: she brings up a private family matter to drive home how badly the family needs an heir.
+ACTION: She delivers the assigned line once. On the words "เด็กหลอดแก้ว" her eyes flick briefly further toward screen-left and her voice drops a little, then her eyes return to just left of the lens and she raises her brows on the final words for emphasis. Her head barely moves.
+END STATE: Lips closed, brows raised, eyes slightly screen-left at her son, leaning slightly toward the table. She stays still in this position until the very end of the clip; the framing does not change.
+CAMERA: locked-off, the framing never changes. No pan, no tilt, no push-in, no reframing.
+VISUAL CONTINUITY: Preserve the starting image's faces, hair, wardrobe, set geometry, lighting character and color treatment. Allow only the specified actions. No unplanned cuts, added people, identity swaps or prop teleportation.
+AUDIO MODE: generated dialogue.
+SPEECH EVENT 1:
+SPEAKER: Wit's mother, visible on screen (ON), the only speaker.
+EXACT THAI DIALOGUE: "ถึงขั้นต้องทำเด็กหลอดแก้วถึงจะท้องได้"
+VOICE IDENTITY: mature Thai female voice, poised mid-low register, clear warm timbre, standard Thai accent
+DELIVERY: firm and pressing, lowering her voice slightly on "เด็กหลอดแก้ว", then stressing the ending.
+Lip-sync only Wit's mother to the assigned line.
+NON-SPEAKERS: none visible.
+Speak only the assigned dialogue exactly once, without paraphrasing or added words.
+Do not stretch speech to fill the clip. No unassigned voices.
+AFTER SPEECH: lips closed, brows raised, a quiet hold for the cut.
+AMBIENCE/SFX: quiet warm dining-room tone, faint clink of porcelain; no music, no chatter.
+No captions, subtitles, text or watermarks appear at any time.

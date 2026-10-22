@@ -1,0 +1,45 @@
+{
+  "clip": "A025",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Image/EP02_A025_T01.png",
+        "job": "01a16293-762f-7c53-850c-e38c1883330f",
+        "result": "ok",
+        "qc": "ผ่าน หน้าสว่างชัด สายตาค่อนตรงเลนส์",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP02/Image/EP02_A025_T01.png",
+    "prompt_sha": "a4962e533bc5",
+    "flag": null,
+    "facts": "Medium close-up of Wit's mother centered in a champagne beaded lace cape gown, hair in a low bun with pearl earrings, looking near the lens with a firm expression. Bright blurred window behind her; blue-and-white bowl and dishes on the table at the bottom."
+  },
+  "video": {
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Video/EP02_A025_T01.mp4",
+        "job": "535e8c11-ad86-9405-b654-31fbc969f6a8",
+        "result": "fail",
+        "qc": "ไม่ผ่าน: มีซับไทยฝังในภาพกลาง-ท้ายคลิป (เต็กกกลอดแก่ว) ข้อห้ามตัวอักษร",
+        "cost": 0.32
+      },
+      {
+        "take": 2,
+        "file": "EP02/Video/EP02_A025_T02.mp4",
+        "job": "001df3c8-618e-9ce2-b2bc-a94e68acc913",
+        "result": "ok",
+        "qc": "ผ่าน 4.04s มีเสียง ไม่มีซับ/ตัวอักษร (ตรวจ 8 เฟรม) drift 0.027",
+        "cost": 0.32
+      }
+    ],
+    "selected": "EP02/Video/EP02_A025_T02.mp4",
+    "prompt_sha": "356ac5d67eda",
+    "flag": "ต้องฟังลิปซิงก์"
+  },
+  "notes": []
+}

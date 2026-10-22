@@ -1,0 +1,37 @@
+{
+  "clip": "A003",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Image/EP02_A003_T01.png",
+        "job": "01a16293-9b8e-7ad0-a019-cefe1b807dd2",
+        "result": "ok",
+        "qc": "ผ่าน มีอา CU หน้าเกือบตรงกล้อง ฉากหลังขาวนวล ขอบโต๊ะ/แฟ้มเบลอล่าง",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP02/Image/EP02_A003_T01.png",
+    "prompt_sha": "d147626b03ae",
+    "flag": null,
+    "facts": "Mia alone, close-up from chest up, centered, face almost frontal to camera, black office chair behind her, plain off-white wall; a blurred black desk edge and open folder along the bottom edge. No one else in frame."
+  },
+  "video": {
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Video/EP02_A003_T01.mp4",
+        "job": "19eb0f70-7e9c-9456-9787-c59aa21927c0",
+        "result": "ok",
+        "qc": "ผ่าน มีอาหันขวาเฟรมยิ้มพูด drift suspect 0.163 เกิดจากการหันหัวจริงตาม ACTION ไม่ใช่ตัดภาพ",
+        "cost": 0.32
+      }
+    ],
+    "selected": "EP02/Video/EP02_A003_T01.mp4",
+    "prompt_sha": "e4b3815a5a17",
+    "flag": "ต้องฟังลิปซิงก์"
+  },
+  "notes": []
+}

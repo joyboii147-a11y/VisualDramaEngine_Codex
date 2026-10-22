@@ -1,0 +1,37 @@
+{
+  "clip": "B066",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Image/EP02_B066_T01.png",
+        "job": "01a16293-9edb-7fa1-8d0e-46ae841c0814",
+        "result": "ok",
+        "qc": "ผ่าน: วิทย์กลาง สูทดำไม่มีโค้ต มองตรงเลนส์ หน้าสว่างไม่มืด การ์ดเบลอซ้าย/ขวาหลัง 3 คน",
+        "cost": 0.25
+      }
+    ],
+    "selected": "EP02/Image/EP02_B066_T01.png",
+    "prompt_sha": "6778cc6565a8",
+    "flag": null,
+    "facts": "Medium close-up of Wit in the center, black suit, white shirt, black tie, looking straight into the lens with a grave expression, face clearly lit. Two blurred bodyguards in black suits and black ties stand just behind his shoulders at screen-left and screen-right, faces visible but soft. Bright white blurred corridor ceiling and glowing far end behind."
+  },
+  "video": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Video/EP02_B066_T01.mp4",
+        "job": "d5d6fcec-87fb-9dde-9a1d-d30173983864",
+        "result": "ok",
+        "qc": "5.04 วิ วิทย์กลางเดินเข้าหากล้อง หน้าสว่างไม่มืด ชุดคงที่ การ์ด 2 คนหลังซ้าย/ขวา ไม่มีตัด drift ต่ำ",
+        "cost": 0.4
+      }
+    ],
+    "selected": "EP02/Video/EP02_B066_T01.mp4",
+    "prompt_sha": "a0c8a1fdb18e",
+    "flag": null
+  },
+  "notes": []
+}

@@ -1,0 +1,39 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP02-S060 | Clip: B060 (B-roll) | SC06 โถงทางเดินโรงพยาบาล (L09) โซน A กลางวัน
+# ไฟล์นี้: Image Prompt → GPT Image 2 (9:16) ผ่าน fal.ai หรือ OpenArt
+#
+# ตัวละครในเฟรม (รวม 5 คน):
+# - บอดี้การ์ด C18a C18-W01 (ไม่มีภาพอ้างอิง) สูทดำ เนกไทดำ | เต็มตัว หน้าตรงเดินเข้าหากล้อง แถวหน้า ข้างขวาของวิทย์ | ซ้ายเฟรม
+# - บอดี้การ์ด C18c C18-W01 (ไม่มีภาพอ้างอิง) สูทดำ เนกไทดำ | เห็นบางส่วนระหว่างไหล่ C18a กับวิทย์ แถวหลัง | ซ้าย-กลาง หลัง
+# - วิทย์ C05-W11 สูทดำ (วิทย์ W01) ไม่ใส่โค้ต | เต็มตัว หน้าตรงเดินเข้าหากล้อง | กลางเฟรม
+# - บอดี้การ์ด C18d C18-W01 (ไม่มีภาพอ้างอิง) สูทดำ เนกไทดำ | เห็นบางส่วนระหว่างไหล่วิทย์กับ C18b แถวหลัง | ขวา-กลาง หลัง
+# - บอดี้การ์ด C18b C18-W01 (ไม่มีภาพอ้างอิง) สูทดำ เนกไทแดงเลือดหมู | เต็มตัว หน้าตรงเดินเข้าหากล้อง แถวหน้า ข้างซ้ายของวิทย์ | ขวาเฟรม
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - ไม่มี (ปลายทาง ห้อง L05 อยู่หลังกล้อง)
+#
+# แนบใน OpenArt: 1) input/characters/วิทย์/วิทย์ W01.png
+# หมายเหตุภาพแนบ: ภาพชุดมีตัวอักษร "CHARACTER SHEET" และตาราง ห้ามให้ตัวอักษรปรากฏ; ใช้หน้า ผม สูทดำ เชิ้ตขาว เนกไทดำ รองเท้าดาร์บี้
+# fal: 5 คนในเฟรม → คุณภาพ high; เสี่ยงหน้าวิทย์เล็กในภาพเต็มตัว + แสงย้อน
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+Create one standalone starting-frame image for SHOT EP02-S060.
+Vertical 9:16. Cinematic live-action still, photorealistic.
+REFERENCE IMAGES:
+Image 1: Wit — use for face, skin tone, hairstyle, body shape and this exact outfit. Do not copy the background, lighting, pose, camera angle, the multi-view layout, or any text or table from this image.
+CHARACTERS: Wit, a tall young Thai man in his mid-twenties, as in Image 1, wearing a black two-button single-breasted suit with notch lapels and flap pockets, a crisp white dress shirt, a slim black necktie, black leather lace-up derby shoes, and tousled short black hair with a soft fringe; no overcoat, no gray coat. Four bodyguards (no reference images): four fit Thai male bodyguards in their late twenties to thirties with neat short black hair and stern neutral expressions, all wearing plain black two-button suits, crisp white shirts and black leather shoes. Bodyguard A (front, at Wit's right side) wears a narrow black necktie and has neatly cropped hair. Bodyguard B (front, at Wit's left side) wears a dark burgundy-red necktie and has short hair swept to the side. Bodyguards C and D (rear row) wear narrow black neckties. All five are completely dry, hands empty.
+CAST COUNT: exactly five people visible: Wit and four bodyguards, two of them partly hidden in the rear row.
+SCENE GEOGRAPHY: a long, bright hospital corridor in daytime. White walls on both sides with long white handrails, plain doors with dark gray frames and small blank light-blue room plaques above them; a framed picture hangs on the left wall near the camera; a black waiting bench stands against the left wall farther down. White ceiling with long rectangular fluorescent panels in a row down the center. Glossy light-gray floor with a yellow guide line running down the middle of the corridor. The far end of the corridor glows with strong daylight. The group walks down the middle of the corridor on the yellow line, from the far end toward the camera, in formation: Wit in the center of the front row, Bodyguard A beside him on his right, Bodyguard B beside him on his left, level with him; Bodyguards C and D one step behind, in the gaps between Wit and the front bodyguards.
+FRAME ORDER: from screen-left to screen-right: Bodyguard A (black tie) · Bodyguard C (rear, partly visible between shoulders) · Wit (center) · Bodyguard D (rear, partly visible between shoulders) · Bodyguard B (burgundy-red tie).
+CAMERA POSITION: in the middle of the corridor at the near end, very low, about 30 cm above the floor, ahead of the group.
+VIEW DIRECTION: up the corridor toward the approaching group and the glowing far end beyond them, tilted slightly upward.
+SET IN FRAME: the left wall with a framed picture high at the near left, a row of dark-gray-framed doors and the black bench farther down on the screen-left side; the right wall with dark-gray-framed doors on the screen-right side; the glowing far end of the corridor centered behind Wit's head; fluorescent ceiling panels along the top; the glossy floor and the yellow center line rushing toward the lens across the lower third. Keep this layout; do not move or mirror it.
+BETWEEN CAMERA AND SUBJECT: open glossy floor with the yellow guide line; nothing blocks the group.
+VISIBLE BACKGROUND: the corridor walls, doors, handrails, framed picture, black bench, ceiling panels and the bright glowing far end. Room plaques are blank light-blue with no readable text.
+OFF-FRAME: no one; the group looks straight ahead toward the near end of the corridor behind the camera. No other person or any part of another person appears in the frame.
+START STATE: mid-stride, the five men walk fast toward the camera, the group in the middle-to-far part of the corridor. Wit takes a long quick step, arms swinging only slightly, face straight to the camera, eyes looking straight ahead, a determined, urgent expression, lips closed. The bodyguards stride in step with him, faces neutral and stern, hands empty.
+CAMERA: FULL SHOT, low angle. All five are seen head to toe, each person about 55% of the frame height, Wit in the center, the floor visible below their feet; 35mm full-frame equivalent, about 6 meters away, camera 30 cm above the floor, looking slightly up.
+FOCUS: deep focus; Wit sharp, the bodyguards and corridor clear.
+LIGHTING: bright hospital corridor: cool-white overhead fluorescent ceiling panels, a strong daylight glow from the far end of the corridor rimming the figures from behind, glossy floor reflections, approximately 5500K, medium contrast. Wit's face remains clearly lit and readable by the overhead fill; the backlight does not wash out his face.
+GRADE: cool clinical white and pale gray with yellow floor-line accents, bright backlit glow from the corridor end, medium contrast, neutral skin tones.
+Show only the starting moment, before any planned movement begins.
+No captions, subtitles, labels, logos, watermarks, panels or collage. No readable text anywhere in the image.

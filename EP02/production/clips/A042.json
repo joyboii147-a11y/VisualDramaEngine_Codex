@@ -1,0 +1,99 @@
+{
+  "clip": "A042",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Image/EP02_A042_T01.png",
+        "job": "01a16293-6973-7b51-bf1e-577eab1090a6",
+        "result": "fail",
+        "qc": "ไม่ผ่าน: ไอรินถือโทรศัพท์มือขวา (ซ้ายเฟรม) นามบัตรมือซ้าย — ผู้ถือพร็อพสลับ",
+        "cost": 0.25
+      },
+      {
+        "take": 2,
+        "file": "EP02/Image/EP02_A042_T02.png",
+        "job": "01a16295-c409-75c3-a6a0-29ca3d7a1bb2",
+        "result": "fail",
+        "qc": "ไม่ผ่าน: โทรศัพท์มือขวาไอริน(ซ้ายเฟรม) ซ้ำ — ต้นเหตุ prompt ไม่ระบุฝั่งจอ; ลายฮู้ดเป็นรูปตัวอักษรบางส่วน",
+        "cost": 0.25
+      },
+      {
+        "take": 3,
+        "file": "EP02/Image/EP02_A042_T03.png",
+        "job": "01a16298-90f6-7c10-8158-a0fff99e256c",
+        "result": "ok",
+        "qc": "ผ่าน (หลังแก้ prompt): ไอรินซ้ายนั่ง โทรศัพท์มือซ้าย(ขวาเฟรม) นามบัตรมือขวา(ซ้ายเฟรม ระดับตัก/ขอบโต๊ะ) มีอาขวายืนกอดอกก้มมอง ไม่มีเป้/แว่น",
+        "cost": 0.25
+      },
+      {
+        "take": 4,
+        "file": "EP02/Image/EP02_A042_T04.png",
+        "job": "01a162e2-3179-7c12-8abe-5334db77a9b0",
+        "result": "ok",
+        "qc": "ผ่าน ฮู้ดเทาตัวอักษร GAP กรมขอบขาวแยกซิป ครอปท็อปขาว สร้อยจี้เงิน ไม่มีแว่น/เป้ ไอรินนั่งซ้ายโทรมือซ้าย นามบัตรมือขวา มีอายืนกอดอกขวา ตรง T03",
+        "cost": 0.25
+      }
+    ],
+    "selected": "EP02/Image/EP02_A042_T04.png",
+    "prompt_sha": "61c57f3348d0",
+    "reset_at": 3,
+    "flag": null,
+    "facts": "Wide shot of a doctor's office: Irin sits at screen-left in a black office chair behind a glossy black desk, phone at her left ear, business card in her right hand, wearing the heather-gray hoodie with navy 'GA' 'P' letters and white crop top; Mia stands at screen-right, arms crossed, gray V-neck sweater and black polka-dot skirt. Monitor with ultrasound at right, ultrasound prints and a succulent on the desk foreground, pregnancy art print and lamp behind."
+  },
+  "video": {
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Video/EP02_A042_T01.mp4",
+        "job": "7721594d-8ae6-9f18-acec-93257081e122",
+        "result": "fail",
+        "qc": "ไม่ผ่าน: ไอรินยิ้มกว้าง/หลับตาขณะพูด ขัด firm determined (บทเรื่องทำแท้ง); ผังและพร็อพถูก",
+        "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP02/Video/EP02_A042_T02.mp4",
+        "job": "a6934b96-b28f-94fc-b903-a829a396f712",
+        "result": "ok",
+        "qc": "ผ่านแบบมีข้อสังเกต: 3.04s มีเสียง ผัง/พร็อพถูก drift ok; ช่วงหัวคลิปไอรินยิ้มเล็กน้อย (หัว 0.5s ตัดทิ้ง) ปลายคลิปมีอาหันหน้าเข้ากล้องเล็กน้อย",
+        "cost": 0.06
+      },
+      {
+        "take": 3,
+        "file": "EP02/Video/EP02_A042_T03.mp4",
+        "job": "cae15b1d-f24d-97c8-9a9f-f326c86d2242",
+        "result": "ok",
+        "qc": "ผ่าน 3.04s (lite) มีเสียง ไอรินซ้ายโทรมือซ้าย มีอากอดอกขวา ลำดับคงที่ ไม่มีซับ drift 0.019",
+        "cost": 0.06
+      },
+      {
+        "take": 4,
+        "file": "EP02/Video/EP02_A042_T04.mp4",
+        "job": "90ecf226-0cec-948d-aace-05ec19e50317",
+        "result": "ok",
+        "qc": "ภาพผ่าน 3.04s (lite) ไอรินซ้ายโทรมือซ้าย มีอากอดอกปากปิด ไม่มีซับ drift 0.091 ท้ายคลิปกล้องดันเข้าเล็กน้อย; F0 median 246 Hz (สูงกว่า A043 195)",
+        "cost": 0.06
+      },
+      {
+        "take": 5,
+        "file": "EP02/Video/EP02_A042_T05.mp4",
+        "job": "6431216b-d9aa-926a-891f-e3f7b49aa997",
+        "result": "ok",
+        "qc": "ภาพผ่าน 3.04s (lite) ไอรินซ้ายโทรมือซ้าย นามบัตรมือขวา มีอากอดอกปากปิด ไม่มีซับ drift 0.089 ท้ายคลิปกล้องดันเข้าเล็กน้อย; F0 median 225 Hz (ใกล้ 195 ที่สุดใน 2 take)",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP02/Video/EP02_A042_T05.mp4",
+    "prompt_sha": "6209eeb952dc",
+    "reset_at": 3,
+    "flag": "ต้องฟังลิปซิงก์ · เทียบน้ำเสียงกับ A043 (F0 225 Hz vs A043 195 Hz; ทางเลือก T04 246 Hz)"
+  },
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo",
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo",
+    "video prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
+}

@@ -1,0 +1,36 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP02-S025 | Clip: A025 (A-roll) | SC02 ห้องอาหารบ้านวิทย์ (L06) กลางวัน
+# ไฟล์นี้: Image Prompt → GPT Image 2 (fal) 9:16
+#
+# ตัวละครในเฟรม (รวม 1 คน):
+# - แม่วิทย์ C01-W01 กาวน์แชมเปญนู้ดปักลูกปัด (แม่วิทย์ W01 ชุดออกงาน) | ครึ่งตัว (MCU) หน้าตรง/3/4 มองค่อนซ้ายเฟรม | กลางเฟรม
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - วิทย์ C05-W11 | นอกกรอบซ้าย-หลังกล้อง เป็นคนที่แม่พูดด้วย
+# - พ่อวิทย์ C12-W02 | นอกกรอบซ้าย (แม่เหลือบมองแวบเดียว)
+#
+# แนบใน OpenArt: 1) input/characters/แม่วิทย์/Face.webp
+# ระวัง: ย้อนแสงหน้าต่าง — เลือกภาพที่หน้าสว่างชัด ไม่ดำ
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+Create one standalone starting-frame image for SHOT EP02-S025.
+Vertical 9:16. Cinematic live-action still, photorealistic.
+REFERENCE IMAGES:
+Image 1: Wit's mother — use only for face, skin tone and hairstyle. The outfit comes from the text below. Do not copy the background, lighting or camera angle.
+CHARACTERS: Wit's mother, an elegant middle-aged Thai woman, matched to Image 1, wearing a champagne-nude fitted gown densely embroidered with tonal floral beadwork, a high beaded collar with a keyhole neckline and sheer lace cape sleeves over the shoulders; pearl stud earrings; dark brown hair in a low braided chignon with loose face-framing tendrils.
+CAST COUNT: exactly one person visible: Wit's mother.
+SCENE GEOGRAPHY: a luxurious dining room in a wealthy family home in daytime: a long dining table with a white gray-veined marble top and slim vertical gold metal legs, round-backed white chairs with gold frames, blue-and-white porcelain rice bowls, dishes of food, clear water glasses, spoons and chopsticks on the table. Wit's mother sits at the right short end of the table, facing along the table toward its left end; behind her is the right side wall, a large bright window. The far wall with the glass display cabinet is off to screen-left.
+FRAME ORDER: from screen-left to screen-right: Wit's mother (center).
+CAMERA POSITION: at the left end of the table, at seated eye level, on the near side of the table's length axis, looking down the length of the table.
+VIEW DIRECTION: along the table toward Wit's mother at the right short end, with the large window beyond her.
+SET IN FRAME: a large bright window fills the background behind her, softly overexposed and blurred; a pale gray window-frame mullion near the screen-right side. Keep this layout; do not move or mirror it.
+BETWEEN CAMERA AND SUBJECT: only open air above the tabletop; a softly blurred blue-and-white rice bowl at the bottom edge.
+VISIBLE BACKGROUND: the large bright window softly blurred behind her with a pale gray window frame toward screen-right.
+OFF-FRAME: the person she speaks to is just beyond the camera, slightly to screen-left of the lens. No other person or any part of another person appears in the frame.
+START STATE: Wit's mother sits leaning slightly toward the table, near-frontal to the camera in a slight three-quarter turn, eyes directed slightly toward screen-left. Lips closed, brows set, a serious, pressing expression. Her hands are below the frame edge.
+CAMERA: MEDIUM CLOSE-UP. Framed from mid-chest up; the face fills about 35% of the frame height. 65mm full-frame equivalent, about 1.5 meters away, seated eye level, near-frontal view.
+FOCUS: the mother's eyes sharp; background softly defocused.
+LIGHTING: the window behind her gives a soft backlight rim on her hair and shoulders; warm frontal fill from the chandelier and gold cove light keeps her face clearly and evenly lit, approximately 4300K mixed light, soft natural contrast.
+GRADE: warm luxurious daytime palette of white marble, cream and polished gold with deep wood-brown shelving, soft natural contrast, warm natural skin tones.
+No text, letters, numbers or logos anywhere in the image.
+Show only the starting moment, before any planned movement begins.
+No captions, subtitles, labels, watermarks, panels or collage.

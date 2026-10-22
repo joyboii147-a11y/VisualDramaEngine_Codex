@@ -1,0 +1,49 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP02-S061 | Clip: A061 (A-roll) | SC06 ห้องตรวจแพทย์ โรงพยาบาล (L05) โซน B กลางวัน — คลิปเดียวครอบ S061 + S063 (REUSE)
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 6 วิ | เสียงโหมด A
+#
+# ตัวละครในเฟรม (รวม 1 คน):
+# - มีอา C16-W01 ชุดนักศึกษา (สเวตเตอร์ขนนุ่มเทาเข้มคอวี) | ครึ่งตัว (MCU ศีรษะถึงอก) โน้มตัวก้มลง มองต่ำค่อนซ้ายใต้เลนส์ พูด D023 → รอ → D024 | กลางเฟรม
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - ไอริน C04-W19 ชุดนักศึกษา (ฮู้ดซิปเทา ไม่มีแว่น) | นั่งเก้าอี้ 2 หลังกล้อง/นอกกรอบล่าง เป็นคนที่มีอาถาม — กล้องห้ามก้มหรือตัดไปหา
+#
+# แนบใน Grok: ภาพที่เลือกจาก EP02_A061_image
+# ผู้พูด: มีอา ON (2 ประโยค) | คนในเฟรมที่ไม่พูด: ไม่มี
+# จังหวะ: 0.5 วิ D023 "เขาว่าไง" (S061) → เงียบรอ ~2 วิ (ช่วงที่ B062 แทรก) → D024 "จะจ่ายค่าผ่าตัดให้เธอไหม" (S063 REUSE) → เม้มปากค้างจนจบ
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+EP02_A061 SHOT EP02-S061. One continuous cinematic live-action medium close-up, vertical 9:16.
+TARGET DURATION: 6 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
+SCENE GEOGRAPHY: a bright, clean hospital consultation room in daytime. Mia stands leaning forward and down toward the camera; directly behind her, a large window with an off-white roller blind glows nearly white with daylight and fills the whole background.
+VISIBLE CAST: exactly one person: Mia, a slender young Thai woman in her early twenties with very long straight jet-black hair worn loose with a center part, falling forward past her shoulders, wearing an oversized charcoal-gray fuzzy knit V-neck sweater with a scalloped lace-trimmed neckline; no bag strap. She leans her upper body forward and down, eyes looking low and slightly screen-left beneath the lens. FRAME ORDER from screen-left to screen-right: Mia (center).
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: at seated eye level close below Mia, slightly offset toward the gray end-wall side of the room, looking slightly up at her with the roller-blind window beyond; medium close-up from mid-chest up; 65mm full-frame equivalent, about 1.5 meters away.
+FOREGROUND / VISIBLE BACKGROUND: no foreground object; the softly defocused glowing off-white roller blind fills the background. No readable text.
+OFF-FRAME: the person Mia speaks to is just below the lens, slightly screen-left; only her eyes and head angle point there; the camera does not follow her gaze and never tilts down. No one else enters the frame at any time.
+LIGHTING / COLOR: soft diffused daylight backlight from the roller-blind window behind Mia with a gentle bright rim on her hair and shoulders, soft cool-neutral frontal fill keeping her face evenly lit, approximately 5000K, soft low contrast; off-white, pale gray and charcoal tones, natural fair skin tones.
+PROP STATE: no props in frame; no hands visible.
+START STATE: Mia leans forward and down, eyes low and slightly screen-left beneath the lens, brows raised, eyes wide with curiosity, lips closed.
+PERFORMANCE CONTEXT: Mia is eager to know how a phone call went, then reveals that her real worry is who will pay for the surgery.
+ACTION: Half a second in, Mia asks the first assigned line quickly, her voice dropping to a low, almost whispered question, brows raised. She then waits silently for about two seconds, eyes still low on the unseen listener, brows raised, lips closed. Then she tilts her head slightly, knits her brows and asks the second assigned line quickly and pressingly. After it, she presses her lips together, brows still knitted, eyes held low and slightly screen-left.
+END STATE: Mia leaning forward, lips pressed together, brows knitted, head slightly tilted, eyes low and slightly screen-left. She stays still in this pose until the very end of the clip; the framing does not change.
+CAMERA: locked-off, the framing never changes. No tilt down, no pan, no reframing.
+VISUAL CONTINUITY: Preserve the starting image's face, long black hair, charcoal sweater, bright window background, backlight and color treatment. Allow only the specified actions. No unplanned cuts, added people, identity swaps or prop teleportation.
+AUDIO MODE: generated dialogue.
+SPEECH EVENT 1:
+SPEAKER: Mia, visible on screen (ON), the only speaker.
+EXACT THAI DIALOGUE: "เขาว่าไง"
+VOICE IDENTITY: young Thai female voice, bright quick mid register, slightly nasal lively timbre, standard Thai accent
+DELIVERY: quick and curious, voice dropped low like a whispered question; starts about half a second into the clip.
+Lip-sync only Mia to the assigned line.
+SPEECH EVENT 2:
+SPEAKER: Mia, visible on screen (ON), the only speaker.
+EXACT THAI DIALOGUE: "จะจ่ายค่าผ่าตัดให้เธอไหม"
+VOICE IDENTITY: young Thai female voice, bright quick mid register, slightly nasal lively timbre, standard Thai accent
+DELIVERY: quick and pressing, a worried, insistent question about money; starts after a silent pause of about two seconds following the first line.
+Lip-sync only Mia to the assigned line.
+NON-SPEAKERS: none visible.
+Speak only the assigned dialogue exactly once each, in this order, without paraphrasing or added words.
+Do not stretch speech to fill the clip. No unassigned voices.
+AFTER SPEECH: lips pressed together, brows knitted, eyes held low on the unseen listener, a quiet still hold until the end of the clip.
+AMBIENCE/SFX: faint quiet clinic room tone; no music, no other voices.

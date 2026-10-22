@@ -1,0 +1,43 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP02-S001 | Clip: A001 (A-roll) | SC01 ห้องตรวจแพทย์ โรงพยาบาล (L05) กลางวัน
+# ไฟล์นี้: Image Prompt → GPT Image 2 (9:16) ผ่าน fal.ai หรือ OpenArt
+#
+# ตัวละครในเฟรม (รวม 2 คน):
+# - มีอา C16-W01 ชุดนักศึกษา (สเวตเตอร์ขนนุ่มเทาเข้ม) | ครึ่งตัว (MCU ถึงอก) หน้า 3/4 มองซ้ายเฟรม มือบนตักนอกเฟรมล่าง | กลางเฟรม
+# - ไอริน C04-W19 ชุดนักศึกษา (ฮู้ดซิปเทา ไม่มีแว่น) | เห็นแค่เสี้ยวแก้มขวาและผมยาวเบลอ หันหลังเฉียง ไม่เห็นหน้า | ซ้ายล่าง ฉากหน้า
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - หมอ C17-W01 | นอกเฟรมซ้าย หลังโต๊ะ เป็นคนที่มีอามอง และเป็นผู้พูด OS ในวิดีโอ
+#
+# แนบใน OpenArt: 1) input/characters/มีอา/มีอา Face.webp
+#                2) input/characters/ไอริน/ไอริน W01 ชุดนักศึกษา.png
+# หมายเหตุภาพแนบ: ภาพ 2 ใช้เฉพาะผม/เสี้ยวแก้ม/ผ้าฮู้ดเบลอ ห้ามคัดลอกเป้และตัวอักษรบนฮู้ด
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+Create one standalone starting-frame image for SHOT EP02-S001.
+Vertical 9:16. Cinematic live-action still, photorealistic.
+REFERENCE IMAGES:
+Image 1: Mia — use only for face, skin tone and hairstyle. The outfit comes from the text below. Do not copy the outfit, background, lighting or camera angle.
+Image 2: Irin — use only for her long dark brown hair, skin tone and the heather-gray hoodie fabric, which appear only as a soft blurred foreground edge. Do not copy her pose, face angle, the backpack, the chest lettering, the background, lighting or camera angle.
+CHARACTERS: Mia, a slender young Thai woman in her early twenties, face and hair from Image 1, wearing an oversized charcoal-gray fuzzy knit V-neck sweater with a scalloped lace-trimmed neckline and ribbed cuffs and hem, a black mini skirt with small white polka dots and a black lace hem, white slouchy crew socks, black leather penny loafers, and very long straight jet-black hair worn loose with a center part; no bag and no bag strap. Irin, a young Thai woman in her early twenties, hair and skin from Image 2, wearing a heather-gray oversized zip-up hoodie worn open, with a large navy arched varsity-letter appliqué across the chest that has no readable lettering, ribbed cuffs and hem, over a white cropped scoop-neck tank top, a delicate thin silver pendant necklace, light-wash blue straight-leg jeans, white-and-silver chunky running sneakers, no glasses, and long dark brown straight hair with soft face-framing layers worn loose with a center part; no bangs, no backpack. Only a blurred sliver of Irin's right cheek, her long hair and a hint of her gray hoodie shoulder are inside the crop.
+CAST COUNT: exactly two people visible: Mia, and Irin as a partial blurred foreground figure.
+FOREGROUND OWNER: Irin, seated in the corner patient chair at the window end of the desk, seen from three-quarter rear behind her right shoulder.
+VISIBLE FOREGROUND IDENTITY: long straight dark brown hair worn loose, the soft edge of her right cheek with no glasses, and the shoulder of a heather-gray hoodie.
+CAMERA RELATION: camera behind Irin's anatomical right shoulder, with her hair, cheek edge and hoodie shoulder occupying about the lower-left fifth of the frame.
+FOCUS SUBJECT: Mia, seated in the middle patient chair, face three-quarter toward screen-left, eyes on the unseen doctor beyond the left frame edge.
+OCCLUSION: Irin's eyes, nose and mouth are outside the crop. Keep Mia's face fully unobstructed.
+SCENE GEOGRAPHY: a bright, clean hospital doctor's consultation room in daytime. A long desk with a glossy black glass top and a silver metal frame stands in the middle of the room, parallel to the doctor's off-white wall. The patient side of the desk faces that wall. Mia sits upright in a black office chair at the middle of the patient side. Irin sits in a second black office chair at the corner of the desk on the patient side at the window end, the chair turned diagonally toward Mia and the far gray end wall. The end wall beyond Mia is plain light gray; the patient-side wall is off-white. A large window with an off-white roller blind is in the window-end wall behind the camera. A small-leaved ficus tree in a floor pot stands beside the camera.
+FRAME ORDER: from screen-left to screen-right: Irin (blurred cheek and hair, lower-left foreground) · Mia (center).
+CAMERA POSITION: on the patient side of the desk near the window-end wall, just behind Irin's right shoulder, at seated eye level.
+VIEW DIRECTION: past Irin's blurred cheek toward Mia, with the plain light-gray end wall beyond her.
+SET IN FRAME: Irin's blurred hair and cheek in the lower-left foreground; blurred small-leaved ficus leaves from the floor-potted ficus beside the camera along the bottom edge; Mia in the center; the plain light-gray end wall filling the center and left of the background; the off-white patient-side wall along the far right of the background; no window in the frame. Keep this layout; do not move or mirror it.
+BETWEEN CAMERA AND SUBJECT: only Irin's blurred hair and cheek at the lower left and blurred small-leaved ficus leaves along the bottom edge; clear open air between them and Mia.
+VISIBLE BACKGROUND: softly defocused plain light-gray end wall in the center and left of the background behind Mia; the off-white patient-side wall along the far right. No window and no door.
+OFF-FRAME: the doctor Mia looks at is beyond the left frame edge. No other person or any part of another person appears in the frame.
+START STATE: Mia sits upright, face three-quarter toward screen-left, eyes fixed screen-left on the unseen doctor, a flat, impatient expression, lips barely parted and still, chin slightly raised. Her hands rest in her lap below the crop. Irin is motionless in the blurred foreground.
+CAMERA: MEDIUM CLOSE-UP. Framed from mid-chest up; the face fills about 35% of the frame height. 65mm, about 1.5 meters away, seated eye level, slight three-quarter angle.
+FOCUS: Mia sharp; Irin softly defocused, while her long dark brown hair and gray hoodie remain recognizable; background softly defocused.
+LIGHTING: bright clean daytime interior: soft diffused daylight from the large roller-blind window behind the camera on the left, giving a soft key on Mia's face from screen-left; cool-neutral white ceiling fill, approximately 5000K, soft low contrast.
+GRADE: bright clean clinic palette of off-white and pale gray with fresh green plant accents, soft low contrast, slightly cool-neutral whites, natural fair skin tones.
+The foreground person is Irin, not an additional person or a generic stand-in.
+Show only the starting moment, before any planned movement begins.
+No captions, subtitles, labels, logos, watermarks, panels or collage. No readable text anywhere in the image.

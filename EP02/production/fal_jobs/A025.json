@@ -1,0 +1,18 @@
+{
+  "clip": "A025",
+  "endpoint": "openai/gpt-image-2/edit",
+  "quality": "medium",
+  "refs": [
+    "input/characters/แม่วิทย์/Face.webp"
+  ],
+  "out_file": "EP02/Image/EP02_A025_T01.png",
+  "prompt_chars": 3297,
+  "status": "done",
+  "request_id": "01a16293-762f-7c53-850c-e38c1883330f",
+  "status_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a16293-762f-7c53-850c-e38c1883330f/status",
+  "response_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a16293-762f-7c53-850c-e38c1883330f",
+  "submitted": "2026-10-22 14:46:33",
+  "width": null,
+  "height": null,
+  "finished": "2026-10-22 14:47:31"
+}

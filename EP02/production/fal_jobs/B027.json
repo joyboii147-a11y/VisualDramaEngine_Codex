@@ -1,0 +1,18 @@
+{
+  "clip": "B027",
+  "endpoint": "openai/gpt-image-2/edit",
+  "quality": "medium",
+  "refs": [
+    "input/characters/วิทย์/วิทย์ W01.png"
+  ],
+  "out_file": "EP02/Image/EP02_B027_T02.png",
+  "prompt_chars": 3813,
+  "status": "done",
+  "request_id": "01a162b9-399a-79c0-8f55-fa82f330123f",
+  "status_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a162b9-399a-79c0-8f55-fa82f330123f/status",
+  "response_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a162b9-399a-79c0-8f55-fa82f330123f",
+  "submitted": "2026-10-22 15:27:48",
+  "width": null,
+  "height": null,
+  "finished": "2026-10-22 15:28:47"
+}

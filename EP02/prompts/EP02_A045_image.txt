@@ -1,0 +1,35 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP02-S045 | Clip: A045 (A-roll, เสียงในใจ) | SC03 ห้องตรวจแพทย์ โรงพยาบาล (L05) กลางวัน | Setup SC03-D (อินเสิร์ต)
+# ไฟล์นี้: Image Prompt → GPT Image 2 (9:16) ผ่าน fal.ai หรือ OpenArt
+#
+# ตัวละครในเฟรม (รวม 1 คน):
+# - ไอริน C04-W19 ไอริน W01 ชุดนักศึกษา | เห็นแค่มือขวาถือนามบัตรหน้าขึ้น (กลาง) และปลายแขนฮู้ดเทาขอบจั๊มเข้ามาจากขวา | กลาง → ขวา
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - ไอริน (ใบหน้าและมือซ้ายถือโทรศัพท์) | นอกกรอบ — เป็นผู้พูด VO เสียงในใจ
+# - มีอา C16-W01 | ยืนหลังไอริน นอกกรอบ (prompt ไม่เอ่ยถึง)
+#
+# แนบใน OpenArt: 1) input/characters/ไอริน/ไอริน W01 ชุดนักศึกษา.png
+# หมายเหตุภาพแนบ: ใช้เฉพาะสี/ผ้าปลายแขนฮู้ดเทาและสีผิว
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+Create one standalone starting-frame image for SHOT EP02-S045.
+Vertical 9:16. Cinematic live-action still, photorealistic.
+REFERENCE IMAGES:
+Image 1: Irin — use only for her skin tone and for the color, fleece texture and ribbed cuff of the heather-gray hoodie sleeve. No face appears in this image. Do not copy the face, pose, backpack, jeans, chest lettering, background, lighting or camera angle from this image.
+CHARACTERS: Irin, a young Thai woman with warm fair skin; only her right hand and the end of her right sleeve are visible: a heather-gray oversized zip-up hoodie sleeve with a ribbed cuff, slender fingers with short natural unpainted nails, no rings.
+CAST COUNT: exactly one person, seen only as one right hand and the cuff of one sleeve.
+SCENE GEOGRAPHY: a bright hospital consultation room in daytime. Irin sits at a long desk with a glossy black glass top; she holds a business card in her right hand just above the desk surface.
+FRAME ORDER: from screen-left to screen-right: the business card held in Irin's right hand at the center; the heather-gray hoodie cuff and wrist entering from the right edge.
+CAMERA POSITION: above Irin's right hand, high angle.
+VIEW DIRECTION: looking down at the card in her hand, with the black glass desk top below it.
+SET IN FRAME: glossy black-to-dark-gray glass desk surface, softly blurred, filling the entire background. Keep this layout; do not move or mirror it.
+BETWEEN CAMERA AND SUBJECT: nothing; open air.
+VISIBLE BACKGROUND: only the softly blurred glossy black glass desk top with faint soft reflections; no other objects.
+OFF-FRAME: No other person or any part of another person appears in the frame; no second hand.
+START STATE: Irin's right hand holds a standard-size off-white matte business card with a thin vertical copper-gold stripe near the left edge and a small dark geometric emblem in the top-right corner, printed in crisp black Thai type with exactly two centered lines and nothing else: the company name "ธนากรุ๊ป" in larger bold letters, and directly below it the phone number "034-5577890" in smaller regular letters. The card is held face up and level, centered in the frame, a few centimeters above the black glass, between her thumb on top near the right edge and her fingers underneath. Her hand is still. The card face is blank apart from the stripe and the emblem: no letters, no Korean, Thai or Latin characters, no numbers, no logo text.
+CAMERA: INSERT CLOSE-UP. The card fills about 45% of the frame width at the center; the hand and the hoodie cuff enter from the right edge. 50mm full-frame equivalent, about 40 centimeters above the hand, high angle looking down.
+FOCUS: sharp on the card surface and thumb; the black glass background softly defocused.
+LIGHTING: bright clean daytime interior: soft diffused daylight from a large roller-blind window on the side wall, cool-neutral white ceiling fill, approximately 5000K, soft low contrast with gentle reflections on the black glass desk. Soft light from above evenly lights the card and the hand.
+GRADE: bright clean clinic palette of off-white, pale gray and glossy black glass, soft low contrast, slightly cool-neutral whites, natural fair skin tones.
+Show only the starting moment, before any planned movement begins.
+No captions, subtitles, labels, watermarks, panels or collage. The only text in the image is the two printed lines on the business card, "ธนากรุ๊ป" and "034-5577890", spelled exactly like this, sharp, straight and fully legible; the thumb does not cover them. If a reference image of this card is attached, copy its card design, layout and printed lines exactly. No other text, letters or Korean characters anywhere in the image.

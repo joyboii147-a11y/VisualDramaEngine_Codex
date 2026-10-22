@@ -1,0 +1,48 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP02-S051 | Clip: A051 (A-roll) | SC04 ห้องอาหารบ้านวิทย์ (L06) กลางวัน (ต่อเนื่อง SC02) — ภาพแบ่งเฟรมบน–ล่างในภาพเดียว (Setup SC02-G)
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 4 วิ | เสียงโหมด A
+#
+# ตัวละครในเฟรม (รวม 2 คน):
+# - พ่อวิทย์ C12-W02 สูทสามชิ้นเทา ไม่มีแว่น | ครึ่งตัว (MCU) พูด D021 ตาจ้อง ชี้คาง มือขวาโบกไล่ที่ขอบล่างแผงบน | แผงบน กลาง
+# - แม่วิทย์ C01-W01 กาวน์แชมเปญนู้ดปักลูกปัด | ครึ่งตัว (MCU) ตาเบิก พยักหน้าถี่ ปากปิด | แผงล่าง กลาง
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - วิทย์ | นอกกรอบซ้ายของทั้งสองแผง — กล้องห้ามแพนตาม
+#
+# แนบใน Grok: ภาพที่เลือกจาก EP02_A051_image
+# ผู้พูด: พ่อวิทย์ ON | คนในเฟรมที่ไม่พูด: แม่วิทย์ (ปากปิด)
+# มือโบกของพ่อห้ามข้ามรอยต่อลงแผงล่าง
+# เสี่ยง: Grok อาจขยับ/ผสานรอยต่อหรือขยายแผงเดียว — ถ้าไม่นิ่งใช้ Optional Coverage ในไฟล์ Shot
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+EP02_A051 SHOT EP02-S051. One continuous cinematic live-action split-screen shot of two stacked panels, vertical 9:16.
+TARGET DURATION: 4 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
+LAYOUT: the image is two stacked panels of equal height divided by one straight horizontal seam exactly at mid-height. The seam stays fixed at mid-height for the whole clip; neither panel grows, shrinks, slides, merges, swaps or dissolves into the other. No border or colored line appears.
+SCENE GEOGRAPHY: top panel — Wit's father seated at a white marble dining table, a blurred glass display cabinet behind him at screen-left and blurred red-brown wooden shelving and a beige wall at screen-right; bottom panel — Wit's mother seated at the end of the same table, a large bright window softly blurred behind her.
+VISIBLE CAST: exactly two people. Top panel only: Wit's father, a distinguished Thai man in his late fifties, wearing a medium heather-gray suit jacket with a matching buttoned waistcoat, a pale blue-and-white pinstriped dress shirt and a navy silk tie with small white polka dots; no glasses; short salt-and-pepper hair swept back, facing the camera, eyes toward screen-left. Bottom panel only: Wit's mother, an elegant middle-aged Thai woman, wearing a champagne-nude fitted gown densely embroidered with tonal floral beadwork, a high beaded collar with a keyhole neckline and sheer lace cape sleeves over the shoulders; pearl stud earrings; dark brown hair in a low braided chignon with loose face-framing tendrils, facing the camera, eyes slightly toward screen-left. FRAME ORDER: top panel: Wit's father (center); bottom panel: Wit's mother (center).
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: top panel — on the open near long side of the table, directly opposite Wit's father, at seated eye level, straight across the table toward Wit's father and the display-cabinet wall beyond him; bottom panel — at the left end of the table, at seated eye level, on the near side of the table's length axis, looking down the length of the table, along the table toward Wit's mother at the right short end, with the large window beyond her; each panel a medium close-up from mid-chest up at seated eye level, 65mm full-frame equivalent.
+SET IN FRAME: top — a blurred dark-gray-framed glass display cabinet on screen-left behind him; blurred dark red-brown wooden shelving and a beige wall on screen-right. Keep this layout; do not move or mirror it. Bottom — a large bright window fills the background behind her, softly overexposed and blurred; a pale gray window-frame mullion near the screen-right side. Keep this layout; do not move or mirror it.
+FOREGROUND / VISIBLE BACKGROUND: no foreground object in either panel; top — the blurred dark-gray-framed glass display cabinet on screen-left and the blurred red-brown wooden shelving and beige wall on screen-right; bottom — the large bright window softly blurred behind her with a pale gray window frame toward screen-right.
+OFF-FRAME: top panel: the person he looks at is beyond the left frame edge. Bottom panel: the person she looks at is just beyond the camera, slightly screen-left of the lens. Only their eyes are directed there; neither panel's camera follows the gaze. No one else enters either panel at any time.
+LIGHTING / COLOR: top — window daylight from screen-right as the key on the screen-right side of his face, warm chandelier and gold cove fill from above, approximately 4300K, soft natural contrast; bottom — the window behind her gives a soft backlight rim on her hair and shoulders; warm frontal fill from the chandelier and gold cove light keeps her face clearly and evenly lit, approximately 4300K mixed light, soft natural contrast; warm luxurious daytime palette of white marble, cream and polished gold with deep wood-brown shelving, soft natural contrast, warm natural skin tones.
+PROP STATE: no objects visible; the father's right hand enters only the lower part of the top panel; the mother's hands stay below her panel edge.
+START STATE: TOP — Wit's father sits upright facing the camera, eyes wide and still shocked, staring toward screen-left, lips closed. His hands are below the top panel's lower edge. BOTTOM — Wit's mother sits facing the camera, eyes wide and still, looking slightly toward screen-left, lips closed. Her hands are below the panel edge.
+PERFORMANCE CONTEXT: the parents switch instantly from pressuring their son to urging him on, because a grandchild is at stake.
+ACTION: In the top panel, Wit's father says the assigned line once, curt and fast, staring toward screen-left and jutting his chin that way; as he says the second half his right hand rises into the lower part of the top panel, at its screen-left side, and makes a quick shooing wave toward screen-left. The hand stays entirely inside the top panel and never crosses the seam. At the same time in the bottom panel, Wit's mother nods quickly several times, eyes wide, looking toward screen-left, lips closed.
+END STATE: The father's lips closed, eyes fixed toward screen-left, right hand held still in the shooing gesture inside the lower part of the top panel; the mother still giving small nods, eyes wide toward screen-left. They hold until the very end of the clip; the seam stays at mid-height and the framing does not change.
+CAMERA: both panels locked-off; the framing of each panel never changes. No pan, no tilt, no zoom, no reframing in either panel.
+VISUAL CONTINUITY: Preserve both faces, hair, wardrobe, both backgrounds, the fixed mid-height seam, lighting character and color treatment. Each person stays in their own panel. Allow only the specified actions. No unplanned cuts, added people, identity swaps or prop teleportation.
+AUDIO MODE: generated dialogue.
+SPEECH EVENT 1:
+SPEAKER: Wit's father, visible in the top panel (ON), the only speaker.
+EXACT THAI DIALOGUE: "อย่าพูดมาก รีบไปเลย"
+VOICE IDENTITY: mature Thai male voice, authoritative low register, slightly gravelly warm timbre, standard Thai accent
+DELIVERY: a curt, fast command, clipped and urgent, stressing "รีบไปเลย".
+Lip-sync only Wit's father to the assigned line.
+NON-SPEAKERS: Wit's mother in the bottom panel; she only nods, lips closed, no speech-like lip movements.
+Speak only the assigned dialogue exactly once, without paraphrasing or added words.
+Do not stretch speech to fill the clip. No unassigned voices.
+AFTER SPEECH: the father holds his gesture silently, the mother keeps nodding silently, until the end.
+AMBIENCE/SFX: quiet warm room tone; no music, no chatter.
+No captions, subtitles, text or watermarks appear at any time.

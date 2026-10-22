@@ -1,0 +1,4 @@
+uploaded
+request 01a16245-1b02-73a1-a7d6-071e3eedef62
+{"out": "Source/EP03_แกะคลิป/EP03.txt", "chars": 26636, "usage": {"prompt_tokens": 14031, "completion_tokens": 14203, "total_tokens": 28234, "cost": 0.198498, "prompt_tokens_details": {"cached_tokens": 0, "cache_write_tokens": 0}}}
+{"frames_dir": "Source/EP03_แกะคลิป/frames", "new": 45}

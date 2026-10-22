@@ -1,0 +1,37 @@
+{
+  "clip": "B060",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Image/EP02_B060_T01.png",
+        "job": "01a16293-7e9c-7d83-b613-0bda5e561749",
+        "result": "ok",
+        "qc": "ผ่าน: 5 คน ลำดับ A(ไทดำ)·C·วิทย์·D·B(ไทแดง) ตรง หน้าวิทย์สว่างอ่านได้ ป้ายห้องว่าง; คนสูงราว 35% เฟรม (เล็กกว่าสั่ง)",
+        "cost": 0.25
+      }
+    ],
+    "selected": "EP02/Image/EP02_B060_T01.png",
+    "prompt_sha": "3eef2f2a99a4",
+    "flag": null,
+    "facts": "Low-angle full shot down a bright hospital corridor: five men in black suits walk toward camera, left to right: bodyguard with black tie, rear bodyguard partly visible, Wit in the center (black tie, face clearly lit), rear bodyguard partly visible, bodyguard with burgundy-red tie. Framed picture high on left wall, black bench at left, doors on both sides, yellow line down the glossy floor filling the lower half. Everyone is head-to-toe in frame."
+  },
+  "video": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Video/EP02_B060_T01.mp4",
+        "job": "4a5d7a6d-8fc2-9fe2-8571-a8c4173d4a85",
+        "result": "ok",
+        "qc": "5.04 วิ drift=ดอลลี่ถอยตามขบวนจริง ลำดับ 5 คนคงที่ ไทแดงขวา หน้าวิทย์สว่าง",
+        "cost": 0.1
+      }
+    ],
+    "selected": "EP02/Video/EP02_B060_T01.mp4",
+    "prompt_sha": "7b951fa0bac5",
+    "flag": null
+  },
+  "notes": []
+}

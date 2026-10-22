@@ -1,0 +1,34 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP02-S041 | Clip: A041 (A-roll) | SC03 ห้องตรวจแพทย์ โรงพยาบาล (L05) กลางวัน | Setup SC03-E
+# ไฟล์นี้: Image Prompt → GPT Image 2 (9:16) ผ่าน fal.ai หรือ OpenArt
+#
+# ตัวละครในเฟรม (รวม 1 คน):
+# - ไอริน C04-W19 ไอริน W01 ชุดนักศึกษา (ไม่มีแว่น ไม่มีหน้าม้า) | หน้า (CU) หน้าผากถึงใต้คาง เห็นปลายแขนฮู้ดที่ข้อมือ ด้านข้างเกือบโปรไฟล์ เห็นแก้มซ้าย หันไปซ้ายเฟรม มือซ้ายถือโทรศัพท์ครีมแนบหูซ้าย (ขวาเฟรม) | เต็มเฟรม
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - มีอา C16-W01 | ยืนนอกกรอบขวา-หลัง (prompt ไม่เอ่ยถึง)
+# - วิทย์ C05-W11 | ปลายสายโทรศัพท์ (ไม่เห็น ไม่ได้ยินเสียง)
+#
+# แนบใน OpenArt: 1) input/characters/ไอริน/Face.png
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+Create one standalone starting-frame image for SHOT EP02-S041.
+Vertical 9:16. Cinematic live-action still, photorealistic.
+REFERENCE IMAGES:
+Image 1: Irin — use only for face, skin tone and hairstyle. The outfit comes from the text below. Do not copy the outfit, the backpack strap, the background, lighting or camera angle.
+CHARACTERS: Irin, a young Thai woman in her early twenties, face and hair from Image 1, wearing a heather-gray oversized zip-up hoodie worn open, with a large navy arched varsity-letter appliqué across the chest that has no readable lettering, ribbed cuffs and hem, over a white cropped scoop-neck tank top, a delicate thin silver pendant necklace, light-wash blue straight-leg jeans, white-and-silver chunky running sneakers, no glasses, and long dark brown straight hair with soft face-framing layers worn loose with a center part. No bangs. In this frame only her face, hair, her left hand at her ear and the end of her heather-gray hoodie sleeve at the wrist are visible; the rest of her clothing is below the crop.
+CAST COUNT: exactly one person visible.
+SCENE GEOGRAPHY: a bright hospital consultation room in daytime. Irin sits at a desk, turned toward the near end of the room. Behind her, in the direction the camera looks, is a plain off-white wall corner with a pale framed illustration poster with no readable text; a large roller-blind window is further to the right, behind her, outside this crop.
+FRAME ORDER: from screen-left to screen-right: Irin's face in near profile at center-left, her hand with the phone at the right side.
+CAMERA POSITION: in front of Irin and well off to her left side, at eye level, close to her face.
+VIEW DIRECTION: across Irin's left cheek toward the off-white wall corner behind her.
+SET IN FRAME: a softly blurred off-white wall with a very faint pale poster shape fills the background behind the face; a bright window glow comes from the back-right edge of the frame. Keep this layout; do not move or mirror it.
+BETWEEN CAMERA AND SUBJECT: nothing; open air.
+VISIBLE BACKGROUND: very softly defocused off-white wall and a faint pale poster shape with no readable text.
+OFF-FRAME: Irin is speaking to someone on the phone, not to anyone in the room. No other person or any part of another person appears in the frame.
+START STATE: Irin's face is turned to screen-left in a near profile, so the camera sees her left cheek, left eye and the line of her nose and lips. Her gaze is steady toward screen-left, unblinking. Her long straight dark brown hair falls behind her left ear. Her left hand holds a cream-colored smartphone with a matching metal frame and a vertical dual rear camera, no visible logo, pressed to her left ear, at the right side of the frame. Calm, composed, intent expression, lips closed, about to speak.
+CAMERA: TIGHT CLOSE-UP, NEAR PROFILE. The face fills about 55-60% of the frame height; the frame top cuts across the forehead or the hairline and the frame bottom cuts just below the chin. Her left hand holding the phone extends down toward the lower right; the phone and all her fingers stay fully inside the right edge of the frame, and the end of her heather-gray hoodie sleeve may show at her wrist. No shoulders, chest or desk visible. 85mm full-frame equivalent, about 0.8 meters away, eye level.
+FOCUS: sharp on Irin's left eye and cheek; background very softly defocused.
+LIGHTING: bright clean daytime interior: soft diffused daylight from a large roller-blind window on the side wall, cool-neutral white ceiling fill, approximately 5000K, soft low contrast. The window daylight comes from the back-right of the frame and lights the edge of her cheek, her ear area and the hand holding the phone with a soft bright rim.
+GRADE: bright clean clinic palette of off-white and pale gray, soft low contrast, slightly cool-neutral whites, natural fair skin tones.
+Show only the starting moment, before any planned movement begins.
+No captions, subtitles, labels, watermarks, panels or collage. No readable text, letters or Korean characters anywhere in the image.

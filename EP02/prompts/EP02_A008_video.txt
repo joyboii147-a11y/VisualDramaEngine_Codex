@@ -1,0 +1,47 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP02-S008 | Clip: A008 (A-roll) | SC01 ห้องตรวจแพทย์ โรงพยาบาล (L05) กลางวัน
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 5 วิ | เสียงโหมด A
+#
+# ตัวละครในเฟรม (รวม 2 คน):
+# - ไอริน C04-W19 ชุดนักศึกษา (ฮู้ดซิปเทา ไม่มีแว่น) | ครึ่งตัว (ถึงอก) มองมีอา → ยิ้มเยาะ หัวเราะทางจมูก "เฮอะ" เหลือบเฉียงซ้ายเฟรม → ปากปิดระหว่างเสียงมีอา ตาเลื่อนลงต่ำ | กลางเฟรม
+# - มีอา C16-W01 ชุดนักศึกษา (สเวตเตอร์ขนนุ่มเทาเข้ม) | เห็นแค่ไหล่ขวา/แขนสเวตเตอร์เบลอ ไม่เห็นหน้า ไม่เห็นปาก | ขวาล่าง ฉากหน้า (OTS)
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - หมอ C17-W01 | นอกเฟรมขวา หลังโต๊ะ (prompt ไม่เอ่ยถึง)
+#
+# แนบใน Grok: ภาพที่เลือกจาก EP02_A008_image
+# ผู้พูด: ไอริน ON (D007 "เฮอะ" เขียนเป็น SOUND EVENT ไม่ใช่คำพูด) → มีอา OS (D008 เห็นแค่ไหล่) | คนในเฟรมที่ไม่พูด: ไอรินระหว่าง D008
+# [ตรวจเสียง · ต้องให้ผู้ใช้ตัดสินผู้พูด D008] ถ้าผู้ใช้ตัดสินว่าไอรินพูด D008 ต้องเปลี่ยน SPEECH EVENT 2 เป็นไอริน ON
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+EP02_A008 SHOT EP02-S008. One continuous cinematic live-action over-the-shoulder medium close-up, vertical 9:16.
+TARGET DURATION: 5 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
+SCENE GEOGRAPHY: a bright, clean hospital consultation room in daytime. Irin sits in a chair at the corner of a glossy black glass desk; behind her are softly defocused small ficus leaves on the left and center-left of the background and a pale gray wall with an illustrated health poster that has no readable text, with a faint window glow at the far right. Mia's blurred shoulder is in the lower-right foreground.
+VISIBLE CAST: exactly two people. Irin, a young Thai woman in her early twenties with long dark brown straight hair with soft face-framing layers worn loose with a center part, no bangs, no glasses, wearing a heather-gray oversized zip-up hoodie worn open with large navy collegiate block letters outlined in white across the chest, split by the open zipper ("GA" on her right chest panel and "P" on the left panel), exactly as in the outfit reference, over a white cropped scoop-neck tank top, and a delicate thin silver pendant necklace; no backpack strap. She is seated, face three-quarter toward screen-right, eyes on Mia. Mia, seen from behind as a blurred foreground figure: her right shoulder and upper arm in a charcoal-gray fuzzy knit sweater with a few strands of long straight jet-black hair; her face and mouth are not visible. FRAME ORDER from screen-left to screen-right: Irin (center) · Mia (blurred shoulder and sleeve, lower-right foreground).
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: on the patient side just behind Mia's anatomical right shoulder, looking past it toward Irin and the window-end wall beyond; seated eye level; medium close-up, framed from mid-chest up, face about 35% of the frame height; 65mm full-frame equivalent, about 1.5 meters away.
+FOREGROUND / VISIBLE BACKGROUND: foreground owner is Mia (blurred charcoal fuzzy sweater shoulder and jet-black hair strands, lower-right fifth of the frame); softly defocused ficus leaves and pale gray wall with poster behind Irin, faint window glow at far right.
+OFF-FRAME: when Irin glances aside, only her eyes turn toward screen-left; the camera does not follow her gaze. No one else enters the frame at any time.
+LIGHTING / COLOR: soft diffused daylight from a roller-blind window far off at screen-right, a soft key on the screen-right side of Irin's face, cool-neutral white ceiling fill, approximately 5000K, soft low contrast; bright clean clinic palette of off-white and pale gray with the green ficus leaves, slightly cool-neutral whites, natural fair skin tones.
+PROP STATE: no props visible; Irin's hands rest in her lap below the frame.
+START STATE: Irin sits still, face three-quarter toward screen-right, eyes on Mia, a flat, unimpressed, expressionless face, lips closed. Mia's shoulder is still.
+PERFORMANCE CONTEXT: Irin scorns her friend's selfishness, then hears a half-sarcastic suggestion that plants a new idea; her sneer gives way to quiet thought.
+ACTION: One corner of Irin's mouth lifts into a sneer and her eyes narrow; she lets out one short, scoffing laugh through her nose with her lips closed, and her eyes flick diagonally toward screen-left. Then, while the off-screen voice speaks, Irin keeps her lips completely closed and still, the faint sneer held. After the voice ends, her eyes slowly drop downward and she goes still, thinking. Mia's blurred shoulder stays still.
+END STATE: Irin's eyes lowered, only a faint fixed trace of the sneer at one corner of her mouth, lips closed, thoughtful. She stays still until the very end of the clip; the framing does not change.
+CAMERA: locked-off, the framing never changes.
+VISUAL CONTINUITY: Preserve the starting image's faces, hair, wardrobe, set geometry, lighting character and color treatment. Allow only the specified actions. No unplanned cuts, added people, identity swaps or prop teleportation. Irin wears no glasses at any time.
+AUDIO MODE: generated dialogue.
+SOUND EVENT 1 (NOT SPEECH):
+SOURCE: Irin, visible on screen, the young woman in the gray hoodie in the center.
+SOUND: one short scoffing laugh pushed out through the nose with the lips closed, a single derisive puff of breath, about half a second long. No words, no syllables, no consonants, no vowel sounds from an open mouth.
+SPEECH EVENT 2:
+SPEAKER: Mia, the young woman whose blurred charcoal-sweater shoulder is in the foreground; her face and mouth are not visible (OS).
+EXACT THAI DIALOGUE: "ไปขอค่าผ่าตัดจากพ่อของเด็กสิ"
+VOICE IDENTITY: young Thai female voice, bright quick mid register, slightly nasal lively timbre, standard Thai accent
+DELIVERY: quick, half sarcastic and half serious, the final particle landing hard.
+The speaker's mouth is not visible; no visible person lip-syncs to this voice.
+NON-SPEAKERS: Irin does not speak any words in this clip; after her nasal scoff her lips stay closed and do not move at all while Mia's voice is heard.
+Speak only the assigned dialogue exactly once, without paraphrasing or added words.
+Do not stretch speech to fill the clip. No unassigned voices.
+AFTER SPEECH: Irin's eyes slowly drop downward, a still, thoughtful hold of about half a second until the cut.
+AMBIENCE/SFX: faint quiet clinic room tone; no music, no chatter.

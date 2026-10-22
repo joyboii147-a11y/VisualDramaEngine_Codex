@@ -1,0 +1,57 @@
+{
+  "clip": "B029",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Image/EP02_B029_T01.png",
+        "job": "01a16293-9121-78d2-af1c-3bdd17fda3d2",
+        "result": "ok",
+        "qc": "ผ่าน ลำดับ วิทย์-พ่อ-แม่ ถูก โทรศัพท์มือขวาหูขวา",
+        "cost": 0.25
+      },
+      {
+        "take": 2,
+        "file": "EP02/Image/EP02_B029_T02.png",
+        "job": "01a162b9-48bd-71b1-8e7d-9b6226b0f67b",
+        "result": "ok",
+        "qc": "ผ่าน ลำดับ วิทย์-พ่อ-แม่ ถูก iPhone ดำมือขวาหูขวา ช่อดอกไม้หน้าเฟรม",
+        "cost": 0.25
+      }
+    ],
+    "selected": "EP02/Image/EP02_B029_T02.png",
+    "prompt_sha": "d495a9d4767d",
+    "flag": null,
+    "facts": "Wide shot of a luxury dining room: left to right Wit (black suit, holding a black iPhone to his right ear with his right hand), his father (gray three-piece suit, center, eating), his mother (beige beaded gown with sheer cape, right, reaching with chopsticks) around a long white marble table with gold legs; crystal chandelier above, glass cabinet and wooden shelves with gold sculptures behind, blurred cream flowers across the foreground.",
+    "reset_at": 1
+  },
+  "video": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Video/EP02_B029_T01.mp4",
+        "job": "45d46d9f-237a-9409-ab5f-dedf3e230d89",
+        "result": "ok",
+        "qc": "ผ่าน 3.04s พ่อเงยหน้ามอง แม่หันเล็กน้อย การเคลื่อนไหวน้อย ลำดับคงที่ drift 0.008",
+        "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP02/Video/EP02_B029_T02.mp4",
+        "job": "f486e2fd-d057-9f34-9543-ec9d041d9146",
+        "result": "ok",
+        "qc": "ผ่าน 3.04s ลำดับ วิทย์-พ่อ-แม่ คงที่ iPhone ดำแนบหูวิทย์ตลอด พ่อเงยมอง แม่หันหน้ามาทางกล้องมากกว่าหันไปทางวิทย์เล็กน้อย drift 0.055",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP02/Video/EP02_B029_T02.mp4",
+    "prompt_sha": "a0385e787347",
+    "flag": null,
+    "reset_at": 1
+  },
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
+}

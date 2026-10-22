@@ -1,0 +1,44 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP02-S005 | Clip: A005 (A-roll) | SC01 ห้องตรวจแพทย์ โรงพยาบาล (L05) กลางวัน
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 5 วิ | เสียงโหมด A
+#
+# ตัวละครในเฟรม (รวม 2 คน):
+# - มีอา C16-W01 ชุดนักศึกษา (สเวตเตอร์ขนนุ่มเทาเข้ม) | หน้า (CU ถึงไหล่) มองต่ำซ้ายเฟรม ยกมือใต้ขอบเฟรม (ไม่เห็นมือ เห็นแค่ไหล่ขยับ) ส่ายหัว บ่นบทเต็ม → เหลือบไปซ้ายล่างใกล้กล้อง | กลางเฟรม
+# - ไอริน C04-W19 ชุดนักศึกษา (ฮู้ดซิปเทา ไม่มีแว่น) | เห็นแค่เสี้ยวแก้มขวาและผมยาวเบลอ ไม่เห็นหน้า ปากไม่ขยับ | ซ้ายล่าง ฉากหน้า
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - หมอ C17-W01 | นอกเฟรมซ้าย หลังโต๊ะ (prompt ไม่เอ่ยถึง)
+#
+# แนบใน Grok: ภาพที่เลือกจาก EP02_A005_image
+# ผู้พูด: มีอา ON | คนในเฟรมที่ไม่พูด: ไอริน
+# คลิปนี้ครอบ D005 เต็มประโยค — ตัดต่อใช้ภาพช่วงแรก เสียงช่วง 2/2 ไหลต่อใต้ B006
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+EP02_A005 SHOT EP02-S005. One continuous cinematic live-action close-up, vertical 9:16.
+TARGET DURATION: 5 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
+SCENE GEOGRAPHY: a bright, clean hospital consultation room in daytime. Mia sits upright in a chair on the patient side of a glossy black glass desk; behind her is a softly defocused plain light-gray end wall filling the center and left of the background, with the off-white patient-side wall along the far right. Irin sits in the foreground at the lower left, seen only as a blurred sliver of cheek and hair. Blurred small-leaved ficus leaves from the floor-potted ficus beside the camera along the bottom edge.
+VISIBLE CAST: exactly two people. Mia, a slender young Thai woman in her early twenties, wearing an oversized charcoal-gray fuzzy knit V-neck sweater with a scalloped lace-trimmed neckline and ribbed cuffs, with very long straight jet-black hair worn loose with a center part; no bag strap. She is seated, head slightly lowered, eyes cast down toward screen-left. Irin, a young Thai woman with long dark brown straight hair worn loose, no glasses, wearing a heather-gray hoodie, is the blurred foreground figure: only her right cheek edge, hair and hoodie shoulder are visible; her eyes, nose and mouth are outside the crop. FRAME ORDER from screen-left to screen-right: Irin (blurred cheek and hair, lower-left foreground) · Mia (center).
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: on the patient side near the window-end wall, just behind Irin's anatomical right shoulder, looking past her blurred cheek toward Mia and the light-gray wall beyond; seated eye level; tight close-up, face about 60% of the frame height, frame bottom just below the chin at the collarbones, no hands visible; 85mm full-frame equivalent, about 1 meter away.
+FOREGROUND / VISIBLE BACKGROUND: foreground owner is Irin (blurred long dark brown hair, cheek edge and gray hoodie shoulder in the lower-left fifth of the frame) plus blurred small-leaved ficus leaves from the floor-potted ficus beside the camera along the bottom edge; softly defocused plain light-gray end wall in the center and left behind Mia, off-white patient-side wall along the far right; no window in frame.
+OFF-FRAME: nothing is needed off-frame. No one else enters the frame at any time.
+LIGHTING / COLOR: soft diffused daylight from a roller-blind window behind the camera on the left, a soft key on Mia's face from screen-left, cool-neutral white ceiling fill, approximately 5000K, soft low contrast; bright clean clinic palette of off-white and pale gray with the green ficus leaves, slightly cool-neutral whites, natural fair skin tones.
+PROP STATE: no props. Mia's hands start in her lap below the frame edge.
+START STATE: Mia sits upright, head slightly lowered, eyes cast down toward screen-left, smile fading into a worried, fretful look, lips closed. Irin is motionless in the blurred foreground.
+PERFORMANCE CONTEXT: Mia is worried about money and practical life; she complains in a fast, reasoning tone about work and the rent she shares with Irin.
+ACTION: Mia starts complaining quickly, eyes still lowered toward screen-left. As she speaks she gestures with one hand below the bottom frame edge; the hand never enters the frame, only her shoulder lifts slightly with the gesture, and she shakes her head slightly. During the second half of the line her shoulder settles and her eyes begin to slide up toward the lower left near the lens. She finishes the whole line in one continuous run and closes her lips. Irin, in the blurred foreground, stays still and silent.
+END STATE: Mia's shoulders lowered and still, no hand in frame, lips closed, eyes glancing up toward the lower left near the lens, a fretful expression. She stays still until the very end of the clip; the framing does not change.
+CAMERA: locked-off, the framing never changes. The camera does not tilt down; no hand enters the frame.
+VISUAL CONTINUITY: Preserve the starting image's faces, hair, wardrobe, set geometry, lighting character and color treatment. Allow only the specified actions. No unplanned cuts, added people, identity swaps or prop teleportation.
+AUDIO MODE: generated dialogue.
+SPEECH EVENT 1:
+SPEAKER: Mia, visible on screen (ON), the young woman with long jet-black hair and the charcoal sweater in the center, the only speaker.
+EXACT THAI DIALOGUE: "ถ้าท้องแล้วจะทำงานยังไง แล้วค่าเช่าห้องของเราจะทำยังไง"
+VOICE IDENTITY: young Thai female voice, bright quick mid register, slightly nasal lively timbre, standard Thai accent
+DELIVERY: fast and continuous, a complaining tone, the end of each phrase rising.
+Lip-sync only Mia to the assigned line.
+NON-SPEAKERS: Irin (blurred foreground); no speech-like lip movements.
+Speak only the assigned dialogue exactly once, without paraphrasing or added words.
+Do not stretch speech to fill the clip. No unassigned voices.
+AFTER SPEECH: lips closed, eyes glancing up toward the lower left near the lens, a brief still hold until the cut.
+AMBIENCE/SFX: faint quiet clinic room tone, a soft rustle of knit as her shoulder moves; no music, no chatter.

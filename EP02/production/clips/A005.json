@@ -1,0 +1,37 @@
+{
+  "clip": "A005",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Image/EP02_A005_T01.png",
+        "job": "01a16293-ab7c-7580-8553-0fc80015a0d4",
+        "result": "ok",
+        "qc": "ผ่าน มีอามองต่ำซ้าย ผมไอรินเบลอซ้ายล่าง ใบไทรขวาล่าง",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP02/Image/EP02_A005_T01.png",
+    "prompt_sha": "51b18b63d5e0",
+    "flag": null,
+    "facts": "Mia sharp at center, chest-up, head lowered with eyes cast down-left; Irin's blurred hair and gray hoodie shoulder fill the lower-left foreground; blurred ficus leaves lower right; plain light-gray wall behind."
+  },
+  "video": {
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Video/EP02_A005_T01.mp4",
+        "job": "6abbfa44-4b1d-9a08-a3d8-349d828feec2",
+        "result": "ok",
+        "qc": "ผ่าน มีอาพูดบ่นตาต่ำ กล้องนิ่ง drift 0.116; ไอรินฉากหน้าถูก morph ให้เห็นโปรไฟล์จมูก (ปากปิด ไม่พูด)",
+        "cost": 0.4
+      }
+    ],
+    "selected": "EP02/Video/EP02_A005_T01.mp4",
+    "prompt_sha": "c4b341195600",
+    "flag": "ต้องฟังลิปซิงก์; ไอรินฉากหน้าโผล่โปรไฟล์ (prompt สั่งไม่เห็นหน้า)"
+  },
+  "notes": []
+}

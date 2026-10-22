@@ -1,0 +1,18 @@
+{
+  "clip": "A061",
+  "endpoint": "openai/gpt-image-2/edit",
+  "quality": "medium",
+  "refs": [
+    "input/characters/มีอา/มีอา Face.webp"
+  ],
+  "out_file": "EP02/Image/EP02_A061_T03.png",
+  "prompt_chars": 2937,
+  "status": "done",
+  "request_id": "01a16298-3e64-7863-9013-8da58a14d802",
+  "status_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a16298-3e64-7863-9013-8da58a14d802/status",
+  "response_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a16298-3e64-7863-9013-8da58a14d802",
+  "submitted": "2026-10-22 14:51:47",
+  "width": null,
+  "height": null,
+  "finished": "2026-10-22 14:52:23"
+}

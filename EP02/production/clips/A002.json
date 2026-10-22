@@ -1,0 +1,37 @@
+{
+  "clip": "A002",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Image/EP02_A002_T01.png",
+        "job": "01a16293-9625-79d0-8cc7-dacd47a6561a",
+        "result": "ok",
+        "qc": "ผ่าน หมอหน้าตรง ref ไม่มีข้อความบนกาวน์ มือประสานบนโต๊ะกระจกดำ ผมไอรินเบลอซ้าย",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP02/Image/EP02_A002_T01.png",
+    "prompt_sha": "1502763bbcaf",
+    "flag": null,
+    "facts": "Doctor alone sharp at center-right, medium close-up from chest up, seated behind a glossy black glass desk with hands clasped on it, white coat with stethoscope and navy scrubs, no text on the coat; Irin's blurred long hair and gray hoodie shoulder fill the left edge foreground; trailing ivy shelf and bright window strip upper left."
+  },
+  "video": {
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Video/EP02_A002_T01.mp4",
+        "job": "0af35002-b6de-98fa-a2c1-204920459c9f",
+        "result": "ok",
+        "qc": "ผ่าน กล้องนิ่ง หมอปากปิด พยักหน้าเล็กน้อย ไม่มีตัวอักษรบนกาวน์ drift 0.044",
+        "cost": 0.32
+      }
+    ],
+    "selected": "EP02/Video/EP02_A002_T01.mp4",
+    "prompt_sha": "1860da204c23",
+    "flag": "ต้องฟังลิปซิงก์"
+  },
+  "notes": []
+}

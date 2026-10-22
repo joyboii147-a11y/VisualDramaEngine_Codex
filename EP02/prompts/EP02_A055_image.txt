@@ -1,0 +1,34 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP02-S055 | Clip: A055 (A-roll) | SC05 ภายในรถซีดานดำของวิทย์ (L07) กลางวัน — คลิปเดียวครอบ S055 + S057 (REUSE)
+# ไฟล์นี้: Image Prompt → GPT Image 2 (9:16) ผ่าน fal.ai หรือ OpenArt
+#
+# ตัวละครในเฟรม (รวม 1 คน):
+# - วิทย์ C05-W11 สูทดำ (วิทย์ W01) ไม่ใส่โค้ต | ครึ่งตัว (MCU ศีรษะถึงอก) นั่งเบาะหลังขวาของรถ คาดเข็มขัด หน้าเฉียง 3/4 มองซ้ายเฟรม | กลางเฟรม
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - คนขับรถ (ไม่มีรหัส ไม่มีภาพ) | นอกเฟรมซ้าย-หน้า เป็นคนที่วิทย์มอง — ห้ามเห็นตัว
+#
+# แนบใน OpenArt: 1) input/characters/วิทย์/Face.webp
+# หมายเหตุภาพแนบ: Face.webp ใส่แจ็กเก็ตซิปดำ+เสื้อยืดขาว — ใช้เฉพาะหน้าและผม ชุดมาจากข้อความ (สูทดำ เชิ้ตขาว เนกไทดำ ไม่มีโค้ต)
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+Create one standalone starting-frame image for SHOT EP02-S055.
+Vertical 9:16. Cinematic live-action still, photorealistic.
+REFERENCE IMAGES:
+Image 1: Wit — use only for face, skin tone and hairstyle. The outfit comes from the text below. Do not copy the outfit, background, lighting or camera angle.
+CHARACTERS: Wit, a tall young Thai man in his mid-twenties, face and hair from Image 1, wearing a black two-button single-breasted suit with notch lapels and flap pockets, a crisp white dress shirt, a slim black necktie, and tousled short black hair with a soft fringe. No overcoat, no gray coat, no scarf, no vest. A dark gray seatbelt strap runs from his right shoulder diagonally down across his chest toward his left hip.
+CAST COUNT: exactly one person visible: Wit.
+SCENE GEOGRAPHY: the rear cabin of a large black luxury sedan driving on a sunny country road in daytime. The seats are deep wine-red leather with tall headrests; the headliner is black fabric. Wit sits upright on the right-hand rear seat of the car, with the car's right rear side window directly beside him on his right.
+FRAME ORDER: from screen-left to screen-right: the rear side window · Wit (center) · the wine-red leather headrest of the middle rear seat.
+CAMERA POSITION: inside the car between the two front seats, slightly toward the car's left side, turned to face the rear seat, at seated eye level.
+VIEW DIRECTION: rearward toward Wit, with the wine-red leather rear seatback beyond him.
+SET IN FRAME: the right rear side window glass on the screen-left side, showing softly blurred green pine hills and bare trees outside; Wit in the center; a tall deep wine-red leather headrest on the screen-right side; the black fabric headliner across the top of the frame. Keep this layout; do not move or mirror it.
+BETWEEN CAMERA AND SUBJECT: nothing; clear cabin air between the lens and Wit.
+VISIBLE BACKGROUND: the side window glass with blurred passing hills and trees at screen-left, the wine-red leather headrest at screen-right, the black headliner above. No logos, no badges, no readable text.
+OFF-FRAME: the person Wit looks at is beyond the left frame edge, toward the front of the car. No other person or any part of another person appears in the frame.
+START STATE: Wit sits upright against the wine-red leather seat, seatbelt fastened, face turned three-quarter toward screen-left, eyes fixed ahead toward the unseen front of the car. Tense, preoccupied expression: jaw clenched, brows slightly drawn, lips closed, few blinks. No hands are visible in the frame.
+CAMERA: MEDIUM CLOSE-UP. Wit is framed from mid-chest up; his face fills about 35% of the frame height. 65mm full-frame equivalent, about 1.5 meters away inside the cabin, seated eye level, three-quarter angle.
+FOCUS: Wit sharp; the side window view and the headrest softly defocused.
+LIGHTING: daylight car interior: soft overcast-bright daylight through the side window at screen-left giving a soft key on the screen-left side of Wit's face, the dark headliner and deep wine-red leather absorbing light, approximately 5600K, medium contrast.
+GRADE: muted daylight with deep wine-red leather and black, medium contrast, natural warm skin tones.
+Show only the starting moment, before any planned movement begins.
+No captions, subtitles, labels, logos, watermarks, panels or collage. No readable text anywhere in the image.

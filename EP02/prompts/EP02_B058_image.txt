@@ -1,0 +1,32 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP02-S058 | Clip: B058 (B-roll) | SC05 ถนนชนบทเชิงเขา (L08) กลางวัน — ภาพกว้างรถวิ่ง
+# ไฟล์นี้: Image Prompt → GPT Image 2 (9:16) ผ่าน fal.ai หรือ OpenArt
+#
+# ตัวละครในเฟรม (รวม 0 คน):
+# - ไม่มีคนที่เห็น (วิทย์และคนขับอยู่ใน P17 รถซีดานดำ กระจกสะท้อนแสง ไม่เห็นคน; บอดี้การ์ด C18 อยู่ใน P18 รถเทาเข้ม ไม่เห็นตัว)
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - ไม่มี
+#
+# แนบใน OpenArt: ไม่มี (ไม่มีตัวละครที่เห็น ใช้คำบรรยาย P17/P18/L08)
+# ห้าม: ป้ายทะเบียนที่อ่านได้ โลโก้/ตราห้อยรถ ป้ายจราจรที่มีตัวอักษร
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+Create one standalone starting-frame image for SHOT EP02-S058.
+Vertical 9:16. Cinematic live-action still, photorealistic.
+CHARACTERS: no person is visible. The cars' windows are tinted and reflect the bright sky, so no one inside can be seen.
+CAST COUNT: exactly zero people visible.
+SCENE GEOGRAPHY: a two-lane asphalt country road at the foot of pine-covered hills on a clear sunny day. The road runs across the frame from screen-left to screen-right, with a double yellow center line and white edge lines. On the near lane, a glossy black full-size luxury sedan with a chrome grille, no visible brand badge and a plain blank front license plate with no characters, drives fast toward screen-right, its front angled three-quarter toward the camera. Far behind it on the same lane, about 30 to 40 meters back, a smaller dark gray car follows. The double yellow center line runs just beyond the black sedan, between it and the empty far lane; only the near lane's asphalt lies between the camera and the sedan.
+FRAME ORDER: from screen-left to screen-right: the dark gray following car (small, far, screen-left) · the black luxury sedan (center).
+CAMERA POSITION: standing at the near roadside at eye level, facing across the road.
+VIEW DIRECTION: across the road toward the black sedan and the pine-covered hills on the far side.
+SET IN FRAME: clear blue sky filling the upper half; green pine-covered hills and patches of dry grassy slope across the middle; a far house with an orange roof small at the far left; a line of utility poles receding along the roadside on the screen-right side; the asphalt road across the lower third, with the double yellow center line just beyond the black sedan; the black sedan in the center on the near lane; the dark gray car small at the far left on the same lane. Keep this layout; do not move or mirror it.
+BETWEEN CAMERA AND SUBJECT: a narrow strip of the near asphalt lane only; nothing blocks the black sedan.
+VISIBLE BACKGROUND: pine-covered hills, dry grassy slopes, the far orange-roofed house at the far left, utility poles on the right, clear blue sky. No road signs, no billboards, no readable text anywhere.
+OFF-FRAME: no one; the road continues beyond both frame edges. No other person or any part of another person appears in the frame.
+START STATE: the black sedan is in the center of the frame on the near lane, moving fast toward screen-right, front three-quarter toward the camera, wheels slightly motion-blurred; the dark gray car is small and distant at the far left on the same lane, following.
+CAMERA: WIDE SHOT. The black sedan occupies about one third of the frame width in the center; the road fills the lower third and the sky the upper half. 28mm full-frame equivalent, about 15 meters from the sedan, standing eye level.
+FOCUS: deep focus across the whole frame, the sedan crisp.
+LIGHTING: clear sunny daytime exterior: hard high sun from the side, clean blue sky, crisp shadows under both cars, bright reflections on the black sedan's glossy paint and tinted windows, approximately 5600K, medium-high contrast.
+GRADE: crisp clear-sky blue with green pine hills and glossy black car paint, medium-high contrast.
+Show only the starting moment, before any planned movement begins.
+No captions, subtitles, labels, logos, watermarks, panels or collage. No readable text anywhere in the image, including the license plates.

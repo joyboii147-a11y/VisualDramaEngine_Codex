@@ -1,0 +1,57 @@
+{
+  "clip": "B006",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Image/EP02_B006_T01.png",
+        "job": "01a16293-b513-7070-9873-1ec27f92d3a9",
+        "result": "ok",
+        "qc": "ผ่าน ไอรินเหลือบตาซ้าย ปากเม้ม ไหล่มีอาขวาล่าง; มีโต๊ะกระจกดำคั่นเหมือน A004",
+        "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP02/Image/EP02_B006_T02.png",
+        "job": "01a162e2-1629-7b13-bab5-a4a01b3b259c",
+        "result": "ok",
+        "qc": "ผ่าน ฮู้ดเทาตัวอักษร GAP กรมขอบขาวแยกซิป ครอปท็อปขาว สร้อยจี้เงิน ไม่มีแว่น/เป้ ท่าเหลือบมองข้างตรง T01 หลังมีอาเบลอขวา",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP02/Image/EP02_B006_T02.png",
+    "prompt_sha": "3b35c51208db",
+    "flag": null,
+    "facts": "Irin sits centered behind a glossy black glass desk, glancing sideways, wearing an unzipped heather-gray hoodie with navy white-edged 'GA' and 'P' letters split by the zipper, white crop top, silver pendant necklace, jeans; the desk reflects her. Mia's dark hair and gray sweater blurred in the right foreground from behind. Plant at left, anatomy poster behind.",
+    "reset_at": 1
+  },
+  "video": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Video/EP02_B006_T01.mp4",
+        "job": "0c850346-3b63-9d03-9d01-d46d6964d5a3",
+        "result": "ok",
+        "qc": "ผ่าน ไอรินกลอกตา ปากปิด เหลือบกลับ กล้องนิ่ง drift 0.05",
+        "cost": 0.24
+      },
+      {
+        "take": 2,
+        "file": "EP02/Video/EP02_B006_T02.mp4",
+        "job": "cd476d30-6b57-92c0-8061-9911fc4ca9f3",
+        "result": "ok",
+        "qc": "ผ่าน 3.04s ชุด GAP คงที่ กลอกตาแล้วหันกลับมองขวา ไม่มีซับ/ตัวอักษร ปากเผยอเล็กน้อยตอนพ่นลม (ไม่ใช่การพูด) drift 0.043",
+        "cost": 0.24
+      }
+    ],
+    "selected": "EP02/Video/EP02_B006_T02.mp4",
+    "prompt_sha": "c2f3cddc09f9",
+    "flag": null,
+    "reset_at": 1
+  },
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
+}

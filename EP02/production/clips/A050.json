@@ -1,0 +1,57 @@
+{
+  "clip": "A050",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Image/EP02_A050_T01.png",
+        "job": "01a16293-a841-7610-a337-1b75fd52054e",
+        "result": "ok",
+        "qc": "ผ่าน",
+        "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP02/Image/EP02_A050_T02.png",
+        "job": "01a162b9-5af6-7c31-9b50-1e39a251f80a",
+        "result": "ok",
+        "qc": "ผ่าน iPhone ดำ กล้อง 3 ตัว มือขวาซ้ายเฟรม เหมือน T01",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP02/Image/EP02_A050_T02.png",
+    "prompt_sha": "1a2f40707c26",
+    "flag": null,
+    "facts": "Medium close-up: Wit alone, centered, black suit, black tie, seated at a marble dining table with his lips parted, looking toward the lens, holding a black iPhone 16 Pro Max upright in his right hand at screen-left with the triple camera facing the lens. Rice bowl, water glass and dishes in the foreground; gray wall and dark cabinet behind.",
+    "reset_at": 1
+  },
+  "video": {
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Video/EP02_A050_T01.mp4",
+        "job": "4e563bcd-4127-9265-96db-3d04879290aa",
+        "result": "ok",
+        "qc": "ผ่าน 3.04s มีเสียง โทรศัพท์ระดับอกซ้ายล่างคงที่ drift 0.038",
+        "cost": 0.24
+      },
+      {
+        "take": 2,
+        "file": "EP02/Video/EP02_A050_T02.mp4",
+        "job": "53a71280-1446-9ee4-bb31-7204d77d1524",
+        "result": "ok",
+        "qc": "ผ่าน 3.04s มีเสียง iPhone ดำกล้อง 3 ตัว มือขวาซ้ายเฟรมคงที่ ไม่ตัดภาพ drift 0.082",
+        "cost": 0.24
+      }
+    ],
+    "selected": "EP02/Video/EP02_A050_T02.mp4",
+    "prompt_sha": "db47d9866cf1",
+    "flag": "ต้องฟังลิปซิงก์",
+    "reset_at": 1
+  },
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
+}

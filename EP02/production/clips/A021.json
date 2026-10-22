@@ -1,0 +1,37 @@
+{
+  "clip": "A021",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Image/EP02_A021_T01.png",
+        "job": "01a16293-5d50-7c13-8f66-40b7ed721371",
+        "result": "ok",
+        "qc": "ผ่าน สายตาตรงเลนส์มากกว่าค่อนขวาเล็กน้อย",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP02/Image/EP02_A021_T01.png",
+    "prompt_sha": "381ae11e9c95",
+    "flag": null,
+    "facts": "Medium close-up of Wit centered in a black suit, white shirt and black tie, looking almost straight at the lens, holding chopsticks in his right hand at lower screen-left above a blue-and-white bowl. Grey-white wall behind, edge of a dark glass cabinet at screen-right."
+  },
+  "video": {
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Video/EP02_A021_T01.mp4",
+        "job": "0f72992c-049d-98a4-93f9-11c9267338d1",
+        "result": "ok",
+        "qc": "ผ่าน 5.04s มีเสียง วางตะเกียบ เอนหลัง ไม่ตัดภาพ drift 0.118",
+        "cost": 0.4
+      }
+    ],
+    "selected": "EP02/Video/EP02_A021_T01.mp4",
+    "prompt_sha": "62a4ce911ac3",
+    "flag": "ต้องฟังลิปซิงก์"
+  },
+  "notes": []
+}

@@ -1,0 +1,37 @@
+{
+  "clip": "B022",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Image/EP02_B022_T01.png",
+        "job": "01a16293-62b3-7f41-a3df-783c9fd9d18a",
+        "result": "ok",
+        "qc": "ผ่าน สายตาเกือบตรงเลนส์ ปกสูทดูเป็น notch ไม่ชัด",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP02/Image/EP02_B022_T01.png",
+    "prompt_sha": "8250caed2321",
+    "flag": null,
+    "facts": "Medium close-up of Wit's father centered in a grey three-piece suit, striped shirt and navy dotted tie, no glasses, eyes nearly toward the lens, slightly toward screen-left. Dark glass cabinet behind at left, warm wooden shelf with gold figure at right; dishes on the table at the bottom."
+  },
+  "video": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Video/EP02_B022_T01.mp4",
+        "job": "b1823589-759c-9e03-a5a3-4a889d146cf4",
+        "result": "ok",
+        "qc": "ผ่าน 3.04s นิ่ง ไม่ตัดภาพ drift 0.052",
+        "cost": 0.24
+      }
+    ],
+    "selected": "EP02/Video/EP02_B022_T01.mp4",
+    "prompt_sha": "d23e61555e07",
+    "flag": null
+  },
+  "notes": []
+}

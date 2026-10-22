@@ -1,0 +1,37 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP02-S031 | Clip: A031 (A-roll) | SC02 ห้องอาหารบ้านวิทย์ (L06) กลางวัน
+# ไฟล์นี้: Image Prompt → GPT Image 2 (fal) 9:16
+#
+# ตัวละครในเฟรม (รวม 1 คน):
+# - วิทย์ C05-W11 สูทดำ (วิทย์ W01) | หน้า (CU) หน้าตรง ตาเบิก ปากเผยอ โทรศัพท์ขาวแนบหูขวา เห็นบางส่วนขอบซ้าย | กลางเฟรม
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - ไอริน (ปลายสาย) | ไม่เห็น ไม่ได้ยินเสียง
+# - แม่วิทย์ / พ่อวิทย์ | นอกกรอบขวา
+#
+# แนบใน OpenArt: 1) input/characters/วิทย์/Face.webp
+# หมายเหตุภาพแนบ: ใช้หน้า/ผมเท่านั้น — ชุดในภาพเป็นแจ็กเก็ตซิป ห้ามใช้ ชุดมาจากข้อความ
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+Create one standalone starting-frame image for SHOT EP02-S031.
+Vertical 9:16. Cinematic live-action still, photorealistic.
+REFERENCE IMAGES:
+Image 1: Wit — use only for face, skin tone and hairstyle. The outfit comes from the text below; do not copy the zip jacket or T-shirt from this image. Do not copy the background, lighting or camera angle.
+CHARACTERS: Wit, a tall young Thai man in his mid-twenties, matched to Image 1; only his head, the crisp white shirt collar and the knot of a slim black necktie under a black suit-jacket collar are visible; tousled short black hair with a soft fringe.
+CAST COUNT: exactly one person visible: Wit.
+SCENE GEOGRAPHY: a luxurious dining room in a wealthy family home in daytime: a long dining table with a white gray-veined marble top and slim vertical gold metal legs, round-backed white chairs with gold frames, blue-and-white porcelain rice bowls, dishes of food, clear water glasses, spoons and chopsticks on the table. Wit sits at the left short end of the table; behind him is the plain light gray-white left side wall. A large window is in the opposite right side wall, behind the camera.
+FRAME ORDER: from screen-left to screen-right: Wit (center), the phone at the screen-left edge.
+CAMERA POSITION: at the opposite, right end of the table, at seated eye level, on the near side of the table's length axis, looking down the length of the table.
+VIEW DIRECTION: along the table toward Wit at the left short end, with the plain light gray-white left side wall beyond him.
+SET IN FRAME: plain light gray-white wall softly blurred across the whole background behind Wit. Keep this layout; do not move or mirror it.
+BETWEEN CAMERA AND SUBJECT: only open air above the tabletop; a softly blurred blue-and-white rice bowl may touch the bottom edge.
+VISIBLE BACKGROUND: softly blurred plain light gray-white wall behind Wit.
+OFF-FRAME: the caller is unseen and unheard; Wit's eyes rest on the empty space ahead. No other person or any part of another person appears in the frame.
+START STATE: Wit faces the camera frontally, eyes wide in shock, lips frozen slightly parted, the black iPhone 16 Pro Max pressed to his right ear by his right hand, partly visible at the screen-left edge. His eyes stare at the empty space just past the lens.
+PHONE: a black iPhone 16 Pro Max (large flat-edged phone with a black titanium frame and a triple-lens camera bump in the top corner, no visible logo) pressed to his right ear; no readable text anywhere.
+CAMERA: TIGHT CLOSE-UP. The face fills about 60% of the frame height; the frame top cuts through the top of the hair and the frame bottom cuts just below the chin at the collarbones, showing only the knot of the black tie and the white collar. No chest or waist visible; only his right hand and part of the black iPhone at his ear show at the screen-left edge. 85mm full-frame equivalent, about 1 meter away, seated eye level, frontal view.
+FOCUS: Wit's eyes sharp; background softly defocused.
+LIGHTING: daylight from the large window behind the camera falls softly and almost frontally on Wit's face, with warm gold ceiling fill, approximately 4300K mixed light, soft natural contrast.
+GRADE: warm luxurious daytime palette of white marble, cream and polished gold with deep wood-brown shelving, soft natural contrast, warm natural skin tones.
+No text, letters, numbers or logos anywhere in the image.
+Show only the starting moment, before any planned movement begins.
+No captions, subtitles, labels, watermarks, panels or collage.

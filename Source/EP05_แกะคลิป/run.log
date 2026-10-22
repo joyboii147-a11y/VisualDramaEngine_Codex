@@ -1,0 +1,4 @@
+uploaded
+request 01a16245-2631-7770-9c39-c25d4431de07
+{"out": "Source/EP05_แกะคลิป/EP05.txt", "chars": 33225, "usage": {"prompt_tokens": 15079, "completion_tokens": 18086, "total_tokens": 33165, "cost": 0.24719, "prompt_tokens_details": {"cached_tokens": 0, "cache_write_tokens": 0}}}
+{"frames_dir": "Source/EP05_แกะคลิป/frames", "new": 50}

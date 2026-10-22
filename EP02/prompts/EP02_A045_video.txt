@@ -1,0 +1,43 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP02-S045 | Clip: A045 (A-roll, เสียงในใจ) | SC03 ห้องตรวจแพทย์ โรงพยาบาล (L05) กลางวัน | Setup SC03-D (อินเสิร์ต)
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 5 วิ | เสียงโหมด A (VO)
+#
+# ตัวละครในเฟรม (รวม 1 คน):
+# - ไอริน C04-W19 ไอริน W01 ชุดนักศึกษา | เห็นแค่มือขวาถือนามบัตรหน้าขึ้น (กลาง) และปลายแขนฮู้ดเทาขอบจั๊มเข้ามาจากขวา | กลาง → ขวา
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - ไอริน (ใบหน้าและมือซ้ายถือโทรศัพท์) | นอกกรอบ — เป็นผู้พูด VO เสียงในใจ
+# - มีอา C16-W01 | ยืนหลังไอริน นอกกรอบ (prompt ไม่เอ่ยถึง)
+#
+# แนบใน Grok: ภาพที่เลือกจาก EP02_A045_image
+# ผู้พูด: ไอริน VO (เสียงในใจ ไม่เห็นปาก) | คนในเฟรมที่ไม่พูด: ไม่มี (เห็นแค่มือ)
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+EP02_A045 SHOT EP02-S045. One continuous cinematic live-action insert close-up, vertical 9:16.
+TARGET DURATION: 5 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
+SCENE GEOGRAPHY: a bright hospital consultation room in daytime; only a hand holding a business card is in frame, a few centimeters above a softly blurred glossy black glass desk top that fills the whole background.
+VISIBLE CAST: exactly one person, seen only as her right hand and sleeve cuff: Irin's right hand, warm fair skin, slender fingers with short natural unpainted nails, no rings, with the ribbed cuff of a heather-gray hoodie sleeve entering from the right edge. FRAME ORDER from screen-left to screen-right: the card in her hand at the center, the gray cuff at the right edge.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: above Irin's right hand, high angle looking down at the card and the black glass below it; insert close-up, the card about 45% of the frame width; 50mm full-frame equivalent.
+FOREGROUND / VISIBLE BACKGROUND: no foreground object; softly blurred glossy black glass with faint soft reflections only.
+OFF-FRAME: nothing is needed off-frame. No one else enters the frame at any time; no second hand appears.
+LIGHTING / COLOR: bright clean daytime interior: soft diffused daylight from a large roller-blind window on the side wall, cool-neutral white ceiling fill, approximately 5000K, soft low contrast with gentle reflections on the black glass desk. Soft even light from above on the card and hand. Grade: bright clean clinic palette of off-white, pale gray and glossy black glass, soft low contrast, slightly cool-neutral whites, natural fair skin tones.
+PROP STATE: a standard-size off-white matte business card with a thin vertical copper-gold stripe near the left edge and a small dark geometric emblem in the top-right corner, printed with two short centered lines of black Thai type (a company name in larger bold letters above a phone number in smaller letters), exactly as in the starting image, held face up and level in Irin's right hand at the center of the frame, thumb on top near the right edge.
+START STATE: the hand is still, the card face up at the center just above the black glass.
+PERFORMANCE CONTEXT: Irin silently vows to herself that this time she and her child will live with dignity; the card is her way to a new life. Calm, quiet resolve.
+ACTION: the hand stays still for a moment, then her thumb slowly strokes along the edge of the card once, from the corner toward the center of the edge, and comes to rest. The card stays face up and level, never flipped, bent or moved out of the center. The two printed lines stay sharp, unchanged and uncovered by the thumb at all times; nobody reads them aloud.
+END STATE: the hand still, the thumb resting on the card edge, the card face up at the center of the frame. Everything stays still until the very end of the clip; the framing does not change.
+CAMERA: locked-off, the framing never changes. Do not tilt up, pull back or reveal her face.
+VISUAL CONTINUITY: Preserve the starting image's hand, sleeve, card design, set surface, lighting character and color treatment. Allow only the specified thumb movement. No unplanned cuts, added hands or people, changes to the text printed on the card, or prop teleportation.
+AUDIO MODE: generated dialogue.
+SPEECH EVENT 1:
+SPEAKER: Irin, voice-over (VO) as her inner voice; she is not visible.
+EXACT THAI DIALOGUE: "ครั้งนี้ฉันกับลูก ต้องมีชีวิตอยู่อย่างสง่างามให้ได้"
+VOICE IDENTITY: young Thai female voice, soft clear mid-high register, warm timbre, standard Thai accent
+DELIVERY: inner voice, intimate and close, soft but firm and resolved, a brief natural pause after "ครั้งนี้ฉันกับลูก".
+The speaker is not visible; no visible person lip-syncs to this voice.
+NON-SPEAKERS: none visible; only a hand is in frame.
+Speak only the assigned dialogue exactly once, without paraphrasing or added words.
+Do not stretch speech to fill the clip. No unassigned voices.
+AFTER SPEECH: the hand rests still on the card until the cut.
+AMBIENCE/SFX: faint quiet clinic room tone, the very soft brush of the thumb on the card edge; no music.

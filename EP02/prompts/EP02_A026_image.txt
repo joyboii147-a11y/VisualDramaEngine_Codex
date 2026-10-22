@@ -1,0 +1,36 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP02-S026 | Clip: A026 (A-roll) | SC02 ห้องอาหารบ้านวิทย์ (L06) กลางวัน
+# ไฟล์นี้: Image Prompt → GPT Image 2 (fal) 9:16
+#
+# ตัวละครในเฟรม (รวม 1 คน):
+# - วิทย์ C05-W11 สูทดำ (วิทย์ W01) ใส่แจ็กเก็ต | ครึ่งตัว (MCU) หน้าตรง ก้มมองชาม | กลางเฟรม
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - แม่วิทย์ C01-W01 | นอกกรอบขวา-หลังกล้อง คนที่วิทย์ตอบ
+# - พ่อวิทย์ C12-W02 | นอกกรอบขวา
+#
+# แนบใน OpenArt: 1) input/characters/วิทย์/Face.webp
+# หมายเหตุภาพแนบ: ใช้หน้า/ผมเท่านั้น — ชุดในภาพเป็นแจ็กเก็ตซิป ห้ามใช้ ชุดมาจากข้อความ
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+Create one standalone starting-frame image for SHOT EP02-S026.
+Vertical 9:16. Cinematic live-action still, photorealistic.
+REFERENCE IMAGES:
+Image 1: Wit — use only for face, skin tone and hairstyle. The outfit comes from the text below; do not copy the zip jacket or T-shirt from this image. Do not copy the background, lighting or camera angle.
+CHARACTERS: Wit, a tall young Thai man in his mid-twenties, matched to Image 1, wearing a black single-breasted suit jacket with notch lapels, worn on and not removed, a crisp white dress shirt and a slim black necktie; tousled short black hair with a soft fringe.
+CAST COUNT: exactly one person visible: Wit.
+SCENE GEOGRAPHY: a luxurious dining room in a wealthy family home in daytime: a long dining table with a white gray-veined marble top and slim vertical gold metal legs, round-backed white chairs with gold frames, blue-and-white porcelain rice bowls, dishes of food, clear water glasses, spoons and chopsticks on the table. Wit sits at the left short end of the table; behind him is the plain light gray-white left side wall, and the far wall with a tall dark-gray-framed glass display cabinet meets it on his left side (screen-right). A large window is in the opposite right side wall, behind the camera.
+FRAME ORDER: from screen-left to screen-right: Wit (center).
+CAMERA POSITION: at the opposite, right end of the table, at seated eye level, on the near side of the table's length axis, looking down the length of the table.
+VIEW DIRECTION: along the table toward Wit at the left short end, with the plain light gray-white left side wall beyond him.
+SET IN FRAME: plain light gray-white wall softly blurred across the center and screen-left behind Wit; the dark gray edge of a glass display cabinet along the screen-right edge. Keep this layout; do not move or mirror it.
+BETWEEN CAMERA AND SUBJECT: only open air above the tabletop; a softly blurred blue-and-white rice bowl may touch the bottom edge.
+VISIBLE BACKGROUND: softly blurred plain light gray-white wall behind Wit and the dark gray frame edge of the glass display cabinet at the screen-right edge.
+OFF-FRAME: the person he answers is just beyond the camera, slightly to screen-right of the lens; he is not looking there. No other person or any part of another person appears in the frame.
+START STATE: Wit sits at the table near-frontal to the camera, head slightly bowed, eyes lowered toward his bowl below the frame. Lips closed, an uncomfortable, trapped expression. His hands are below the frame edge.
+CAMERA: MEDIUM CLOSE-UP. Framed from mid-chest up; the face fills about 35% of the frame height. 65mm full-frame equivalent, about 1.5 meters away, seated eye level, near-frontal view.
+FOCUS: Wit's eyes sharp; background softly defocused.
+LIGHTING: daylight from the large window behind the camera falls softly and almost frontally on Wit's face, with warm gold ceiling fill, approximately 4300K mixed light, soft natural contrast.
+GRADE: warm luxurious daytime palette of white marble, cream and polished gold with deep wood-brown shelving, soft natural contrast, warm natural skin tones.
+No text, letters, numbers or logos anywhere in the image.
+Show only the starting moment, before any planned movement begins.
+No captions, subtitles, labels, watermarks, panels or collage.

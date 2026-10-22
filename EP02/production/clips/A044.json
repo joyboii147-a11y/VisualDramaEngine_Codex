@@ -1,0 +1,57 @@
+{
+  "clip": "A044",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Image/EP02_A044_T01.png",
+        "job": "01a16293-7818-7ff3-a710-ec223aa212a6",
+        "result": "ok",
+        "qc": "ผ่าน: MCU หน้าตรง โทรศัพท์มือซ้ายแนบหู นามบัตรมือขวาซ้ายล่าง",
+        "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP02/Image/EP02_A044_T02.png",
+        "job": "01a162e2-39f5-7621-9ca4-c1f0ff76c2ed",
+        "result": "ok",
+        "qc": "ผ่าน ฮู้ดเทาตัวอักษร GAP กรมขอบขาวแยกซิป ครอปท็อปขาว สร้อยจี้เงิน ไม่มีแว่น/เป้ โทรมือซ้าย (ขวาจอ) นามบัตรมือขวา (ซ้ายล่างจอ) ตรง T01",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP02/Image/EP02_A044_T02.png",
+    "prompt_sha": "ca9d2ec30f77",
+    "flag": null,
+    "facts": "Medium close-up: Irin alone, centered, holding a light gold phone to her left ear with her left hand at screen-right and an off-white business card in her right hand at lower screen-left over a glossy black desk; unzipped heather-gray hoodie with navy white-edged 'GA' and 'P' letters split by the zipper, white crop top, silver pendant necklace; black chair behind, plant and window at the back.",
+    "reset_at": 1
+  },
+  "video": {
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Video/EP02_A044_T01.mp4",
+        "job": "c28400fe-42a6-9150-93fb-62dcf302e711",
+        "result": "ok",
+        "qc": "ผ่าน: 6.04s มีเสียง ลดโทรศัพท์ลงมือซ้าย หลังเครื่องหันกล้อง นามบัตรคงมุมซ้ายล่าง drift ok",
+        "cost": 0.48
+      },
+      {
+        "take": 2,
+        "file": "EP02/Video/EP02_A044_T02.mp4",
+        "job": "46d065ea-0b5c-9fb9-abff-787bdbc75c2a",
+        "result": "ok",
+        "qc": "ผ่าน 6.04s มีเสียง ลดโทรศัพท์ลงถือระดับอก หันหลังเครื่อง (กล้องคู่) เข้ากล้อง ก้มมองจอ นามบัตรมือขวาซ้ายล่างคงที่ ไม่มีซับ drift 0.103 (stable 5.71); หลังเครื่องมีโลโก้แอปเปิล (prompt สั่งไม่มีโลโก้)",
+        "cost": 0.48
+      }
+    ],
+    "selected": "EP02/Video/EP02_A044_T02.mp4",
+    "prompt_sha": "442a512226ac",
+    "flag": "ต้องฟังลิปซิงก์ · หลังโทรศัพท์ครีมมีโลโก้แอปเปิลเห็นชัด",
+    "reset_at": 1
+  },
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "clip": "A064",
+  "image": {
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Image/EP02_A064_T01.png",
+        "job": "01a16293-92ac-7db2-8757-148f5ce09c7c",
+        "result": "ok",
+        "qc": "ผ่าน: ไอรินเหลือบตาขึ้นขวาเฟรม หน้านิ่ง ชุดตรง B062 ไหล่มีอาเบลอขอบขวา เห็นพนักเก้าอี้ดำซ้าย",
+        "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP02/Image/EP02_A064_T02.png",
+        "job": "01a162e2-4b2d-7ea0-acc6-6056fee10029",
+        "result": "fail",
+        "qc": "ชุดถูก แต่ไม่ใช่ TIGHT CU: หน้า ~30% เห็นหน้าอก (prompt หน้า 60% ตัดใต้คาง) เสี่ยงกล้องถอยในวิดีโอ",
+        "cost": 0.06
+      },
+      {
+        "take": 3,
+        "file": "EP02/Image/EP02_A064_T03.png",
+        "job": "01a162e5-15a5-72f3-89d5-9b026d2aa69d",
+        "result": "fail",
+        "qc": "ชุดถูก ท่าเงยมองขวาบนถูก แต่ยังกว้าง (หน้า ~30%)",
+        "cost": 0.06
+      },
+      {
+        "take": 4,
+        "file": "EP02/Image/EP02_A064_T04.png",
+        "job": "crop-of-T03",
+        "result": "ok",
+        "qc": "ครอปจาก T03 (720x1280 ขยาย 1.6x) เป็น TIGHT CU: หน้า ~55% ตัดบนผม ล่างที่ไหปลาร้า สร้อยเงิน ไหล่เสื้อเทาเข้มมีอาเบลอขอบขวา ไม่เห็นพนักเก้าอี้",
+        "cost": 0.0
+      }
+    ],
+    "selected": "EP02/Image/EP02_A064_T03.png",
+    "prompt_sha": "3bc45f2e7e4f",
+    "flag": "ใช้ภาพเต็ม T03 (MCU หน้า ~30% เห็นตัวอักษร GA) แทนภาพครอป T04 เพราะ Grok ตัดเป็นช็อตกว้างทันทีเมื่อใช้ภาพครอป; ไม่ได้ขนาด TIGHT CU ตาม prompt",
+    "facts": "Medium close-up: Irin seated at center, face raised, eyes lifted toward the upper right, lips closed; long dark brown hair, thin silver pendant necklace, unzipped heather-gray hoodie with navy white-edged 'GA' letters on her right chest over a white ribbed crop top. Mia's blurred charcoal sweater shoulder and black hair along the right edge in the foreground; plain pale gray wall behind; no hands, chair or desk visible.",
+    "reset_at": 1
+  },
+  "video": {
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Video/EP02_A064_T01.mp4",
+        "job": "9b503b82-f104-96ad-ae41-d7b90a2a1912",
+        "result": "fail",
+        "qc": "กล้องถอยหลังชัดหลัง 1.2 วิ เผยเก้าอี้ โต๊ะ แล็ปท็อป และวัตถุคล้ายแว่นมุมขวาบน",
+        "cost": 0.32
+      },
+      {
+        "take": 2,
+        "file": "EP02/Video/EP02_A064_T02.mp4",
+        "job": "e47fe745-0655-9bd0-b8ec-1f082ca8f916",
+        "result": "fail",
+        "qc": "ซ้ำ T01: กล้องถอยหลังหลัง 1.3 วิ เผยเก้าอี้ หน้าต่าง โต๊ะกระจก; การแสดงถูก (ก้มตา ยิ้มมุมปาก)",
+        "cost": 0.32
+      },
+      {
+        "take": 3,
+        "file": "EP02/Video/EP02_A064_T03.mp4",
+        "job": "28028f20-366e-9e6a-8be1-5aae6aadfbe0",
+        "result": "ok",
+        "qc": "การแสดงถูก (หันกลับ ก้มตา ยิ้มมุมปาก) แต่กล้องถอยช้าๆ หลัง 1.4 วิ เผยพนักเก้าอี้/ขอบโต๊ะกระจก/ช่วงท้อง ซ้ำทั้ง 3 take; T03 สะอาดสุด ไม่มีของแปลก",
+        "cost": 0.32
+      },
+      {
+        "take": 4,
+        "file": "EP02/Video/EP02_A064_T04.mp4",
+        "job": "b881ba5a-4059-9d8e-b853-44ed5a51f3f5",
+        "result": "fail",
+        "qc": "prompt ใหม่ (ล็อกขาตั้ง) ยังถอยกล้องหลัง 1.3 วิ เผยเก้าอี้/โต๊ะกระจก/ท้อง และมีวัตถุคล้ายแว่นมุมขวาบน",
+        "cost": 0.32
+      },
+      {
+        "take": 5,
+        "file": "EP02/Video/EP02_A064_T05.mp4",
+        "job": "d34577b3-d1fa-9bed-a9e0-7511ed1ec948",
+        "result": "fail",
+        "qc": "prompt ใหม่ ยังถอยกล้องหลัง 1.3 วิ เผยเก้าอี้ หน้าต่าง โต๊ะกระจก ท้อง (เหมือนทุก take)",
+        "cost": 0.32
+      },
+      {
+        "take": 6,
+        "file": "EP02/Video/EP02_A064_T06.mp4",
+        "job": "afe75df3-ceb9-9b12-b20f-62646c638e02",
+        "result": "fail",
+        "qc": "ไม่ผ่าน: ภาพตั้งต้นครอป CU แต่ Grok ตัดเป็นช็อตกว้างทันทีตั้งแต่เฟรมแรก ฮู้ดไม่มีตัวอักษร drift 0.304 stable 0.0",
+        "cost": 0.32
+      },
+      {
+        "take": 7,
+        "file": "EP02/Video/EP02_A064_T07.mp4",
+        "job": "8b0950ff-f2ae-9596-a842-85561793a7cc",
+        "result": "fail",
+        "qc": "การแสดงถูก (หันกลับ ยิ้มมุมปาก หลุบตา) แต่กล้องถอยหลังหลัง 1.04s เผยพนักเก้าอี้/โต๊ะกระจก ซ้ำอาการเดิม drift 0.249",
+        "cost": 0.32
+      },
+      {
+        "take": 8,
+        "file": "EP02/Video/EP02_A064_T08.mp4",
+        "job": "4d8403af-7bb3-9ffa-9cba-4555405cba87",
+        "result": "fail",
+        "qc": "การแสดงถูก (หันกลับ ยิ้มมุมปาก หลุบตา) ไม่มีซับ แต่กล้องถอยช้าๆ หลัง 1.38s ท้ายคลิปเห็นช่วงเอว/กางเกง (ไม่เห็นเก้าอี้/โต๊ะ) drift 0.205 — ดีที่สุดใน 8 take",
+        "cost": 0.32
+      }
+    ],
+    "selected": "EP02/Video/EP02_A064_T08.mp4",
+    "prompt_sha": "a09c27e8d47b",
+    "flag": "ครบจำนวน take: กล้องถอยช้าๆ หลัง 1.38s (ท้ายคลิปเห็นเอว ไม่เห็นเก้าอี้/โต๊ะ) — ไม่ได้ตั้ง usable เพราะ 1.38s ตัดการแสดง; ผู้ตัดต่อพิจารณาตัดราว 2.5s หรือครอปในไทม์ไลน์ · ต้องฟังเสียงหัวเราะขึ้นจมูก",
+    "reset_at": 5
+  },
+  "notes": [
+    "video prompt เปลี่ยน — รีเซ็ตเป็น todo",
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
+}

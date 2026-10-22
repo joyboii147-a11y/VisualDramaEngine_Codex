@@ -1,0 +1,33 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP02-S061 | Clip: A061 (A-roll) | SC06 ห้องตรวจแพทย์ โรงพยาบาล (L05) โซน B กลางวัน — คลิปเดียวครอบ S061 + S063 (REUSE)
+# ไฟล์นี้: Image Prompt → GPT Image 2 (9:16) ผ่าน fal.ai หรือ OpenArt
+#
+# ตัวละครในเฟรม (รวม 1 คน):
+# - มีอา C16-W01 ชุดนักศึกษา (สเวตเตอร์ขนนุ่มเทาเข้มคอวี) | ครึ่งตัว (MCU ศีรษะถึงอก) ยืนโน้มตัวก้มลง มองต่ำค่อนซ้ายใต้เลนส์ | กลางเฟรม
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - ไอริน C04-W19 ชุดนักศึกษา (ฮู้ดซิปเทา ไม่มีแว่น) | นั่งเก้าอี้ 2 หลังกล้อง/นอกกรอบล่าง เป็นคนที่มีอามองและถาม — ห้ามเห็น
+#
+# แนบใน OpenArt: 1) input/characters/มีอา/มีอา Face.webp
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+Create one standalone starting-frame image for SHOT EP02-S061.
+Vertical 9:16. Cinematic live-action still, photorealistic.
+REFERENCE IMAGES:
+Image 1: Mia — use only for face, skin tone and hairstyle. The outfit comes from the text below. Do not copy the outfit, background, lighting or camera angle.
+CHARACTERS: Mia, a slender young Thai woman in her early twenties, face and hair from Image 1, wearing an oversized charcoal-gray fuzzy knit V-neck sweater with a scalloped lace-trimmed neckline and ribbed cuffs, and very long straight jet-black hair worn loose with a center part, falling forward past her shoulders as she leans down; no bag and no bag strap.
+CAST COUNT: exactly one person visible: Mia.
+SCENE GEOGRAPHY: a bright, clean hospital doctor's consultation room in daytime. Mia stands near the window end of the room, leaning her upper body forward and down toward the camera. Directly behind her is a large window with an off-white roller blind, glowing bright with daylight.
+FRAME ORDER: from screen-left to screen-right: Mia (center).
+CAMERA POSITION: at seated eye level, close below Mia, slightly offset toward the gray end-wall side of the room.
+VIEW DIRECTION: slightly upward toward Mia's leaning face, with the bright roller-blind window beyond her.
+SET IN FRAME: Mia in the center; the bright off-white roller-blind window glowing nearly white and filling the entire background behind her. Keep this layout; do not move or mirror it.
+BETWEEN CAMERA AND SUBJECT: nothing; clear air between the lens and Mia.
+VISIBLE BACKGROUND: only the softly glowing off-white roller blind of the window, almost white with daylight. No posters, no text.
+OFF-FRAME: the person Mia looks at is just below the lens, slightly to the screen-left. No other person or any part of another person appears in the frame.
+START STATE: Mia has just let her folded arms drop and leans her upper body forward and down, head tilted down, eyes looking low and slightly screen-left beneath the lens; brows raised, eyes wide with curiosity, lips closed. No hands visible in the frame.
+CAMERA: MEDIUM CLOSE-UP. Mia is framed from mid-chest up; her face fills about 35% of the frame height. 65mm full-frame equivalent, about 1.5 meters away, seated eye level, looking slightly up at her.
+FOCUS: Mia sharp; the window softly defocused.
+LIGHTING: soft diffused daylight backlight from the roller-blind window behind Mia, creating a gentle bright rim on her hair and shoulders, with soft frontal fill from the cool-neutral white ceiling light keeping her face evenly lit and readable, approximately 5000K, soft low contrast.
+GRADE: bright clean clinic palette of off-white, pale gray and charcoal tones, soft low contrast, slightly cool-neutral whites, natural fair skin tones.
+Show only the starting moment, before any planned movement begins.
+No captions, subtitles, labels, logos, watermarks, panels or collage. No readable text anywhere in the image.

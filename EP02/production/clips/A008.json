@@ -1,0 +1,57 @@
+{
+  "clip": "A008",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Image/EP02_A008_T01.png",
+        "job": "01a16293-c54f-7850-b22f-dca9ba3d9ab1",
+        "result": "ok",
+        "qc": "ผ่าน ไอรินมองตรงเกือบเข้ากล้อง/ขวา; ท่อนล่างดูเป็นกระโปรงเทาไม่ใช่ยีนส์ (ส่วนใหญ่ถูกโต๊ะบัง)",
+        "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP02/Image/EP02_A008_T02.png",
+        "job": "01a162e2-2048-7d62-be62-808f6bb6818b",
+        "result": "ok",
+        "qc": "ผ่าน ฮู้ดเทาตัวอักษร GAP กรมขอบขาวแยกซิป ครอปท็อปขาว สร้อยจี้เงิน ไม่มีแว่น/เป้ ตรง T01 หลังมีอาเบลอขวา",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP02/Image/EP02_A008_T02.png",
+    "prompt_sha": "caee54caeefd",
+    "flag": null,
+    "facts": "Irin sits centered behind a glossy black glass desk looking just past the lens, hands low, wearing an unzipped heather-gray hoodie with navy white-edged 'GA' and 'P' letters split by the zipper, white crop top, silver pendant necklace, jeans. Mia's long dark hair and gray sweater blurred in the right foreground from behind. Plant and anatomy poster behind at left.",
+    "reset_at": 1
+  },
+  "video": {
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Video/EP02_A008_T01.mp4",
+        "job": "81c572f4-9ac3-954f-b3c0-b3b3a3aa80b9",
+        "result": "ok",
+        "qc": "ผ่าน ไอรินยิ้มเยาะ เหลือบซ้าย แล้วหลุบตา กล้องนิ่ง drift 0.086",
+        "cost": 0.4
+      },
+      {
+        "take": 2,
+        "file": "EP02/Video/EP02_A008_T02.mp4",
+        "job": "af74a41b-cf4c-9875-99a9-15767af56b82",
+        "result": "ok",
+        "qc": "ผ่าน 5.04s มีเสียง ชุด GAP คงที่ ยิ้มเยาะ เหลือบซ้าย แล้วหลุบตาลง ไหล่มีอานิ่ง ไม่มีซับ drift 0.057",
+        "cost": 0.4
+      }
+    ],
+    "selected": "EP02/Video/EP02_A008_T02.mp4",
+    "prompt_sha": "405b816c369b",
+    "flag": "ต้องฟังเสียง: เสียงหัวเราะขึ้นจมูกของไอริน + เสียงมีอา (OS) และตรวจว่าไอรินไม่ขยับปากตามบทมีอา",
+    "reset_at": 1
+  },
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
+}

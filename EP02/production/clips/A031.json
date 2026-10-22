@@ -1,0 +1,57 @@
+{
+  "clip": "A031",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Image/EP02_A031_T01.png",
+        "job": "01a16293-9be4-7d90-be90-671f4d9d926e",
+        "result": "ok",
+        "qc": "ผ่าน",
+        "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP02/Image/EP02_A031_T02.png",
+        "job": "01a162b9-54f0-7442-aac7-e75572e99d03",
+        "result": "ok",
+        "qc": "ผ่าน CU iPhone ดำขอบแบนแนบหูขวา เหมือน T01",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP02/Image/EP02_A031_T02.png",
+    "prompt_sha": "fb57d0e72e8c",
+    "flag": null,
+    "facts": "Close-up: Wit's face fills the frame, black suit, white shirt, black tie, holding a black flat-edged iPhone 16 Pro Max to his right ear with his right hand at screen-left, eyes toward the lens. Plain gray wall behind.",
+    "reset_at": 1
+  },
+  "video": {
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Video/EP02_A031_T01.mp4",
+        "job": "ef44075c-6632-9740-9f9c-91923f9a67cb",
+        "result": "ok",
+        "qc": "ผ่าน 3.04s มีเสียง หัวนิ่ง drift 0.062",
+        "cost": 0.24
+      },
+      {
+        "take": 2,
+        "file": "EP02/Video/EP02_A031_T02.mp4",
+        "job": "ab8f12a7-11da-9c97-998e-6b47c04fe7e1",
+        "result": "ok",
+        "qc": "ผ่าน 3.04s มีเสียง CU iPhone ดำแนบหูขวาคงที่ หัวนิ่ง drift 0.065",
+        "cost": 0.24
+      }
+    ],
+    "selected": "EP02/Video/EP02_A031_T02.mp4",
+    "prompt_sha": "2170dee45a7f",
+    "flag": "ต้องฟังลิปซิงก์",
+    "reset_at": 1
+  },
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
+}

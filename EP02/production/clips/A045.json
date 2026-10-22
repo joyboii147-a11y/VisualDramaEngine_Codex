@@ -1,0 +1,57 @@
+{
+  "clip": "A045",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Image/EP02_A045_T01.png",
+        "job": "01a16293-7f75-7563-9462-692623a9ebc2",
+        "result": "ok",
+        "qc": "ผ่าน: อินเสิร์ตมือขวาถือนามบัตร แขนฮู้ดเทาเข้าจากขวา ไม่มีตัวอักษร",
+        "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP02/Image/EP02_A045_T02.png",
+        "job": "01a162bb-55cc-7f31-8cb2-2bc6f7452b7b",
+        "result": "ok",
+        "qc": "ผ่าน นามบัตรดีไซน์เดียวกับ B009 (แถบทองซ้าย สัญลักษณ์เพชรขวาบน) สะกดถูก 'ธนากรุ๊ป' + '034-5577890' คมชัด นิ้วไม่บัง แขนฮู้ดเทาจากขวา; หมายเหตุ prompt บรรทัด START STATE มีประโยคขัดกัน 'card face is blank...no letters' (รายงานแล้ว ไม่ได้แก้)",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP02/Image/EP02_A045_T02.png",
+    "prompt_sha": "846a44c56274",
+    "flag": null,
+    "facts": "Insert close-up: Irin's right hand enters from screen-right in a heather-gray ribbed hoodie cuff, thumb on the card's right edge, holding an off-white business card at center over a glossy black glass desk. The card has a thin copper-gold vertical stripe at left, a small diamond emblem top-right, and exactly two centered printed lines in Thai: bold 'ธนากรุ๊ป' and smaller '034-5577890'; the printed text must stay exactly the same and unchanged.",
+    "reset_at": 1
+  },
+  "video": {
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Video/EP02_A045_T01.mp4",
+        "job": "343734b7-e4e3-91a3-aba4-0cfa9f8e2016",
+        "result": "ok",
+        "qc": "ผ่าน: 5.04s มีเสียง (VO) กรอบนิ่ง นามบัตรไม่มีตัวอักษร นิ้วขยับบนขอบบัตร (ใช้นิ้วชี้แตะช่วงกลาง บังสัญลักษณ์ชั่วครู่) drift ok",
+        "cost": 0.4
+      },
+      {
+        "take": 2,
+        "file": "EP02/Video/EP02_A045_T02.mp4",
+        "job": "9c18eb59-f4fc-94b9-8853-8c340017290b",
+        "result": "ok",
+        "qc": "ผ่าน 5.04s มีเสียง (VO) กล้องนิ่ง ข้อความ 'ธนากรุ๊ป' / '034-5577890' คงที่ไม่เพี้ยน ดีไซน์ตรง B009 นิ้วไม่บังข้อความ drift 0.03",
+        "cost": 0.4
+      }
+    ],
+    "selected": "EP02/Video/EP02_A045_T02.mp4",
+    "prompt_sha": "94e5707b27c3",
+    "flag": "ต้องฟัง VO (ไอริน) และยืนยันว่าไม่มีเสียงอ่านข้อความบนนามบัตร",
+    "reset_at": 1
+  },
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
+}

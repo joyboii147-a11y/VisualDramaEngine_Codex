@@ -1,0 +1,37 @@
+{
+  "clip": "A051",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Image/EP02_A051_T01.png",
+        "job": "01a16293-aec7-7ba0-9607-f3c25af2c9b8",
+        "result": "ok",
+        "qc": "ผ่าน แต่สีหน้าทั้งคู่นิ่งกว่าตาเบิกค้าง สายตาพ่อเกือบตรงเลนส์",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP02/Image/EP02_A051_T01.png",
+    "prompt_sha": "93a89d3a1042",
+    "flag": null,
+    "facts": "One frame split into two stacked panels with a straight horizontal seam at the middle: top panel shows Wit's father in a grey three-piece suit, centered, looking nearly at the lens, glass cabinet at left and wooden shelf at right; bottom panel shows Wit's mother in the champagne lace cape gown, centered, looking slightly toward screen-left, bright window behind. Each panel stays its own fixed shot."
+  },
+  "video": {
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Video/EP02_A051_T01.mp4",
+        "job": "9da35d73-e65b-992f-a117-861160731e7c",
+        "result": "ok",
+        "qc": "ผ่าน 4.04s มีเสียง รอยต่อนิ่ง มือพ่อยกโบกอยู่ในแผงบนไม่ข้ามรอยต่อ แม่นิ่ง(พยักหน้าน้อยมาก) drift 0.036",
+        "cost": 0.32
+      }
+    ],
+    "selected": "EP02/Video/EP02_A051_T01.mp4",
+    "prompt_sha": "4978817a8f89",
+    "flag": "ต้องฟังลิปซิงก์"
+  },
+  "notes": []
+}

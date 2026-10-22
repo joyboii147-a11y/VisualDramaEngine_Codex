@@ -1,0 +1,97 @@
+{
+  "clip": "B062",
+  "image": {
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Image/EP02_B062_T01.png",
+        "job": "01a16293-8b40-71a2-ae35-93ff0ab0c960",
+        "result": "ok",
+        "qc": "ผ่าน: ไอรินกลาง ไม่มีแว่น ไม่มีหน้าม้า ฮู้ดเทา+ท็อปขาว สร้อยเงิน ก้มมองต่ำ ไหล่สเวตเตอร์มีอาเบลอขอบขวา; เฟรมถึงอก (กว้างกว่า CU เล็กน้อย)",
+        "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP02/Image/EP02_B062_T02.png",
+        "job": "01a162e2-4270-7fb3-a82d-29246d0f761c",
+        "result": "fail",
+        "qc": "ชุดถูก (GAP กรมขอบขาว ครอปขาว สร้อยเงิน) แต่ไม่ใช่ TIGHT CU: หน้า ~30% เห็นหน้าอกและตัวอักษร ต่างจาก prompt (หน้า 60% ตัดใต้คาง)",
+        "cost": 0.06
+      },
+      {
+        "take": 3,
+        "file": "EP02/Image/EP02_B062_T03.png",
+        "job": "01a162e5-0cb9-7f20-9333-6754c3c987c8",
+        "result": "fail",
+        "qc": "ชุดถูก ท่าก้มหน้าถูก แต่ยังกว้าง (หน้า ~30% เห็นอก/ตัวอักษร) GPT Image ไม่ทำ TIGHT CU",
+        "cost": 0.06
+      },
+      {
+        "take": 4,
+        "file": "EP02/Image/EP02_B062_T04.png",
+        "job": "crop-of-T03",
+        "result": "ok",
+        "qc": "ครอปจาก T03 (720x1280 ขยาย 1.6x) ให้เป็น TIGHT CU ตาม prompt: หน้า ~55% ตัดบนผม ล่างที่ไหปลาร้า เห็นคอฮู้ดเทา+สร้อยเงิน ไม่เห็นอก/ตัวอักษร/เก้าอี้ ไหล่มีอาขอบขวาแทบไม่เห็น",
+        "cost": 0.0
+      }
+    ],
+    "selected": "EP02/Image/EP02_B062_T03.png",
+    "prompt_sha": "9869d7b2c842",
+    "flag": "ใช้ภาพเต็ม T03 (MCU หน้า ~30% เห็นตัวอักษร GA) แทนภาพครอป T04 เพราะ Grok ตัดเป็นช็อตกว้างทุกครั้งเมื่อใช้ภาพครอป; ไม่ได้ขนาด TIGHT CU ตาม prompt",
+    "facts": "Medium close-up: Irin seated slightly left of center, head bowed, eyes lowered, lips closed; long dark brown hair, thin silver pendant necklace, unzipped heather-gray hoodie with navy white-edged 'GA' letters on her right chest over a white ribbed crop top. Mia's blurred dark hair and charcoal sweater along the right edge in the foreground; plain pale gray wall behind; no hands or chair visible.",
+    "reset_at": 1
+  },
+  "video": {
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Video/EP02_B062_T01.mp4",
+        "job": "172b4783-b6e0-90f6-b174-950bf2d371a2",
+        "result": "fail",
+        "qc": "เงยตาขึ้นขวาถูก แต่กล้องถอย/ลดลงเล็กน้อยหลัง 1.5 วิ เห็นขอบโต๊ะกระจกดำล่างเฟรม",
+        "cost": 0.24
+      },
+      {
+        "take": 2,
+        "file": "EP02/Video/EP02_B062_T02.mp4",
+        "job": "4f039bdc-8406-95d7-82bf-e8db03cb4934",
+        "result": "ok",
+        "qc": "3.04 วิ เงยตาขึ้นขวาค้าง หน้านิ่ง ไหล่มีอาคงที่ drift ต่ำ (stable 2.29); ท้ายคลิปเห็นขอบโต๊ะขาวบางๆ ล่างเฟรม",
+        "cost": 0.24
+      },
+      {
+        "take": 3,
+        "file": "EP02/Video/EP02_B062_T03.mp4",
+        "job": "1c3ae87e-f4b0-9dae-a879-8abf34108f3e",
+        "result": "fail",
+        "qc": "ไม่ผ่าน: ตัดภาพ/ถอยกล้องทันทีจาก CU เป็นช็อตกว้าง ฮู้ดไม่มีตัวอักษร GAP drift 0.248 stable 0.0",
+        "cost": 0.24
+      },
+      {
+        "take": 4,
+        "file": "EP02/Video/EP02_B062_T04.mp4",
+        "job": "dada7968-5f17-9e6e-91fa-5632030b7e4c",
+        "result": "fail",
+        "qc": "ไม่ผ่าน: ซ้ำ T03 ภาพตั้งต้นครอปทำให้ Grok ตัดเป็นช็อตกว้างทันที ฮู้ดไม่มีตัวอักษร drift 0.346",
+        "cost": 0.24
+      },
+      {
+        "take": 5,
+        "file": "EP02/Video/EP02_B062_T05.mp4",
+        "job": "0184d8f8-239b-9fe2-9ce5-80bbbeb6c803",
+        "result": "ok",
+        "qc": "ผ่าน 3.04s (ภาพตั้งต้น T03 MCU) เงยหน้ามองขวาบนค้าง หน้านิ่ง ฮู้ด GA คงที่ ไหล่มีอาขอบขวานิ่ง ไม่ถอยกล้อง ไม่มีซับ drift 0.063",
+        "cost": 0.24
+      }
+    ],
+    "selected": "EP02/Video/EP02_B062_T05.mp4",
+    "prompt_sha": "8e753c9c3026",
+    "flag": "ขนาดภาพ MCU (หน้า ~30%) ไม่ใช่ TIGHT CU ตาม prompt — ภาพครอป CU ทำให้ Grok ตัดภาพทุกครั้ง",
+    "reset_at": 2
+  },
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
+}

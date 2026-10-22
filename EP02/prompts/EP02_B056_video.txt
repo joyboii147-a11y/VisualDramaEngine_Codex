@@ -1,0 +1,34 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP02-S056 | Clip: B056 (B-roll) | SC05 ภายในรถซีดานดำของวิทย์ (L07) กลางวัน — อินเสิร์ตกระจกมองหลัง
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 3 วิ | เสียงโหมด C
+#
+# ตัวละครในเฟรม (รวม 1 คน):
+# - วิทย์ C05-W11 สูทดำ (วิทย์ W01) | เงาสะท้อน — เห็นแค่แถบดวงตา คิ้ว ปลายผมหน้าม้าในกระจกมองหลัง จ้องข้างหน้า กะพริบหนึ่งครั้ง | กลางเฟรม (ในกระจก)
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - ตัววิทย์จริงที่เบาะหลัง | หลังกล้อง
+# - คนขับรถ (ไม่มีรหัส ไม่มีภาพ) | นอกเฟรม — ห้ามเห็นตัว
+#
+# แนบใน Grok: ภาพที่เลือกจาก EP02_B056_image
+# ผู้พูด: ไม่มี | คนในเฟรมที่ไม่พูด: วิทย์ (เงาสะท้อน) — ตัดต่อปิดเสียงคลิปนี้ ใช้เสียง A055 ต่อเนื่อง
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+EP02_B056 SHOT EP02-S056. One continuous cinematic live-action close-up insert, vertical 9:16.
+TARGET DURATION: 3 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
+SCENE GEOGRAPHY: the front of the cabin of a black luxury sedan moving along a sunny country road in daytime. A rectangular rearview mirror with a black housing hangs at the top center of the windshield, tilted diagonally, below a black fabric headliner and a black overhead light console; through the bright windshield below it, blurred green pine hills and trees slide past.
+VISIBLE CAST: exactly one person, and only as a reflection: Wit, a young Thai man with a soft black fringe, seen in the mirror glass as a narrow band of his eyes and dark brows, with the tips of his black fringe at the top edge of the glass. His reflected eyes stare straight ahead. FRAME ORDER from screen-left to screen-right: the diagonal black-housed rearview mirror (center) reflecting Wit's eyes.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: inside the cabin between the two front seats, just behind and below the rearview mirror, looking forward and slightly up at the mirror glass; tight close-up on the mirror; 50mm full-frame equivalent.
+FOREGROUND / VISIBLE BACKGROUND: no foreground object; black headliner and overhead light console above, bright upper windshield with blurred moving green hills and trees below and around the mirror. No logos and no readable text.
+OFF-FRAME: none; the reflected eyes look straight ahead out of the mirror. No one else enters the frame at any time.
+LIGHTING / COLOR: strong bright daylight through the windshield, deep shadow on the black headliner, a thin edge highlight on the mirror housing, reflected eyes softly lit, approximately 5600K, medium contrast; muted daylight car interior with black tones and green hills outside.
+PROP STATE: the rearview mirror stays fixed in its diagonal position.
+START STATE: Wit's reflected eyes stare straight ahead, steady and anxious, brows drawn together.
+PERFORMANCE CONTEXT: Wit is restless and impatient to arrive; the stare shows his tension.
+ACTION: Wit's reflected eyes hold their tense forward stare, brows drawn; about halfway through the clip they blink once, then return to the same steady stare. The scenery in the windshield keeps sliding past with the car's motion.
+END STATE: the reflected eyes stare straight ahead after the single blink, brows still drawn. The mirror and framing stay still until the very end of the clip; the framing does not change.
+CAMERA: locked-off relative to the car interior, with only a very subtle road vibration; the framing never changes.
+VISUAL CONTINUITY: Preserve the starting image's reflected eyes, brows, fringe, mirror shape and angle, headliner, windshield view, daylight and color treatment. Allow only the specified actions. No unplanned cuts, added people, identity swaps or prop teleportation.
+AUDIO MODE: no dialogue.
+No intelligible speech or speech-like lip-sync.
+AMBIENCE/SFX: low steady car engine hum and soft road and tire noise inside a closed cabin; no music, no voices.

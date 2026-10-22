@@ -1,0 +1,43 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP02-S003 | Clip: A003 (A-roll) | SC01 ห้องตรวจแพทย์ โรงพยาบาล (L05) กลางวัน
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 4 วิ | เสียงโหมด A
+#
+# ตัวละครในเฟรม (รวม 1 คน):
+# - มีอา C16-W01 ชุดนักศึกษา (สเวตเตอร์ขนนุ่มเทาเข้ม) | หน้า (CU ถึงไหล่) เริ่มมองซ้ายเฟรม-หลังกล้อง → หันขวาเฟรม ยิ้มบาง แล้วพูด | กลางเฟรม
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - หมอ C17-W01 | นอกเฟรมซ้าย-หลังกล้อง (เป้าสายตาตอนเริ่ม)
+# - ไอริน C04-W19 | นอกเฟรมขวา คนที่มีอาหันไปถาม
+#
+# แนบใน Grok: ภาพที่เลือกจาก EP02_A003_image
+# ผู้พูด: มีอา ON | คนในเฟรมที่ไม่พูด: ไม่มี
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+EP02_A003 SHOT EP02-S003. One continuous cinematic live-action close-up, vertical 9:16.
+TARGET DURATION: 4 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
+SCENE GEOGRAPHY: a bright, clean hospital consultation room in daytime. Mia sits upright in a chair on the patient side of a glossy black glass desk; behind her is a softly defocused, brightly lit plain off-white wall. The blurred near edge of the black glass desktop and the corner of an open folder run along the bottom edge of the frame.
+VISIBLE CAST: exactly one person: Mia, a slender young Thai woman in her early twenties with very long straight jet-black hair worn loose with a center part, wearing an oversized charcoal-gray fuzzy knit V-neck sweater with a scalloped lace-trimmed neckline; no bag strap. Seated, face almost toward the camera, angled slightly to screen-left. FRAME ORDER from screen-left to screen-right: Mia alone, centered.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: on the doctor's side of the desk, just to the window side of the doctor's chair, looking across the desk toward Mia and the off-white wall beyond; seated eye level; tight close-up, face about 60% of the frame height, frame bottom just below the chin at the collarbones, no hands visible; 85mm full-frame equivalent, about 1 meter away.
+FOREGROUND / VISIBLE BACKGROUND: the blurred black glass desk edge and open-folder corner along the bottom edge; softly defocused plain off-white wall behind Mia.
+OFF-FRAME: at the start Mia's eyes are on someone just past the left side of the lens; she then turns to someone beyond the right frame edge. Only her head and eyes turn; the camera does not follow her gaze. No one else enters the frame at any time.
+LIGHTING / COLOR: soft diffused daylight from a roller-blind window at screen-right, cool-neutral white ceiling fill, approximately 5000K, soft low contrast; as Mia turns toward screen-right the daylight falls more fully across her face; bright clean clinic palette of off-white, pale gray and glossy black glass, slightly cool-neutral whites, natural fair skin tones.
+PROP STATE: no props held; her hands are below the frame.
+START STATE: Mia sits upright, face almost toward the camera and angled slightly to screen-left, eyes just past the left side of the lens, anxious impatient expression, lips closed.
+PERFORMANCE CONTEXT: Mia switches from the doctor to her friend Irin to get backing; sweet on the surface but pressing.
+ACTION: Mia turns her head smoothly toward screen-right, eyes moving to the unseen friend beyond the right frame edge. A thin smile forms, her eyebrows lift and she tilts her head slightly. She then speaks the assigned line to the friend at screen-right, drawing out the end of it.
+END STATE: Mia's face turned toward screen-right, thin smile held, eyebrows raised, head slightly tilted, waiting for an answer, lips closed. She stays still until the very end of the clip; the framing does not change.
+CAMERA: locked-off, the framing never changes. No zoom-out, no pan toward screen-right.
+VISUAL CONTINUITY: Preserve the starting image's face, hair, wardrobe, set geometry, lighting character and color treatment. Allow only the specified actions. No unplanned cuts, added people, identity swaps or prop teleportation.
+AUDIO MODE: generated dialogue.
+SPEECH EVENT 1:
+SPEAKER: Mia, visible on screen (ON), the young woman with long jet-black hair and the charcoal sweater, the only speaker.
+EXACT THAI DIALOGUE: "ใช่ไหมไอริน"
+VOICE IDENTITY: young Thai female voice, bright quick mid register, slightly nasal lively timbre, standard Thai accent
+DELIVERY: sweet but hurried, the final syllable drawn out, coaxing agreement.
+Lip-sync only Mia to the assigned line.
+NON-SPEAKERS: none visible.
+Speak only the assigned dialogue exactly once, without paraphrasing or added words.
+Do not stretch speech to fill the clip. No unassigned voices.
+AFTER SPEECH: thin smile and raised eyebrows held toward screen-right, a brief still hold until the cut.
+AMBIENCE/SFX: faint quiet clinic room tone, a soft rustle of hair as she turns; no music, no chatter.

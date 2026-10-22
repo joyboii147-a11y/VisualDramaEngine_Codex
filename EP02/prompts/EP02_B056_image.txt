@@ -1,0 +1,35 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP02-S056 | Clip: B056 (B-roll) | SC05 ภายในรถซีดานดำของวิทย์ (L07) กลางวัน — อินเสิร์ตกระจกมองหลัง
+# ไฟล์นี้: Image Prompt → GPT Image 2 (9:16) ผ่าน fal.ai หรือ OpenArt
+#
+# ตัวละครในเฟรม (รวม 1 คน):
+# - วิทย์ C05-W11 สูทดำ (วิทย์ W01) | เงาสะท้อน — เห็นแค่แถบดวงตา คิ้ว และปลายผมหน้าม้าในกระจกมองหลัง จ้องมาข้างหน้า | กลางเฟรม (ในกระจก)
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - ตัววิทย์จริงที่เบาะหลัง | หลังกล้อง (เห็นเฉพาะเงาสะท้อน)
+# - คนขับรถ (ไม่มีรหัส ไม่มีภาพ) | นอกเฟรม — ห้ามเห็นตัว ห้ามเห็นพวงมาลัย
+#
+# แนบใน OpenArt: 1) input/characters/วิทย์/Face.webp
+# หมายเหตุภาพแนบ: ใช้เฉพาะดวงตา คิ้ว และผมหน้าม้าในภาพสะท้อน ห้ามคัดลอกแจ็กเก็ตซิป เสื้อยืด หรือพื้นหลังขาว
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+Create one standalone starting-frame image for SHOT EP02-S056.
+Vertical 9:16. Cinematic live-action still, photorealistic.
+REFERENCE IMAGES:
+Image 1: Wit — use only for the eyes, brows, skin tone and black fringe seen as a reflection in the rearview mirror. Do not copy the outfit, background, lighting, pose or camera angle.
+CHARACTERS: Wit, a young Thai man in his mid-twenties with tousled short black hair and a soft black fringe, seen only as a reflection: a narrow band of his eyes and dark brows, with the tips of his black fringe at the top edge of the mirror glass. No part of his body appears outside the mirror.
+CAST COUNT: exactly one person visible, and only as a reflection in the rearview mirror: Wit.
+SCENE GEOGRAPHY: the front of the cabin of a black luxury sedan driving on a sunny country road in daytime. A rectangular interior rearview mirror with a black housing hangs from the top center of the windshield, below a black fabric headliner and a black overhead light console. Through the windshield, green pine hills and trees pass by.
+FRAME ORDER: from screen-left to screen-right: the black-housed rearview mirror, tilted diagonally across the center of the frame, reflecting Wit's eyes.
+CAMERA POSITION: inside the cabin between the two front seats, just behind and below the rearview mirror, slightly low and looking up.
+VIEW DIRECTION: forward and slightly upward at the mirror glass, with the upper windshield beyond it.
+SET IN FRAME: the black headliner and the overhead light console across the top of the frame; the rearview mirror tilted diagonally across the center; the bright windshield with blurred green hills and trees filling the lower part of the frame. Keep this layout; do not move or mirror it.
+BETWEEN CAMERA AND SUBJECT: nothing; clear cabin air between the lens and the mirror.
+VISIBLE BACKGROUND: black headliner and overhead light console above; bright daylight through the upper windshield below and around the mirror, with softly blurred green pine hills and trees. No logos, badges or readable text anywhere.
+OFF-FRAME: none needed; the reflected eyes look straight ahead out of the mirror. No other person or any part of another person appears in the frame.
+START STATE: in the mirror glass, Wit's reflected eyes stare straight ahead, steady and anxious, brows drawn together, eyelids open, not blinking.
+CAMERA: TIGHT CLOSE-UP of the rearview mirror. The mirror fills about 60% of the frame width, tilted diagonally; Wit's reflected eyes sit near the center of the frame. 50mm full-frame equivalent, about 0.6 meters from the mirror, slight upward angle.
+FOCUS: the mirror glass and Wit's reflected eyes sharp; the windshield view and headliner softly defocused.
+LIGHTING: strong bright daylight coming through the windshield, deep shadow on the black headliner, the mirror's black housing catching a thin edge highlight, the reflected eyes softly lit, approximately 5600K, medium contrast.
+GRADE: muted daylight car interior with black tones and green hills outside, medium contrast, natural warm skin tones.
+Show only the starting moment, before any planned movement begins.
+No captions, subtitles, labels, logos, watermarks, panels or collage. No readable text anywhere in the image.

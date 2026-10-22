@@ -1,0 +1,34 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP02-S003 | Clip: A003 (A-roll) | SC01 ห้องตรวจแพทย์ โรงพยาบาล (L05) กลางวัน
+# ไฟล์นี้: Image Prompt → GPT Image 2 (9:16) ผ่าน fal.ai หรือ OpenArt
+#
+# ตัวละครในเฟรม (รวม 1 คน):
+# - มีอา C16-W01 ชุดนักศึกษา (สเวตเตอร์ขนนุ่มเทาเข้ม) | หน้า (CU ถึงไหล่) เริ่มหน้าเกือบตรงกล้องเฉียงซ้าย มองไปทางหมอ (ซ้ายเฟรม-หลังกล้อง) | กลางเฟรม
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - หมอ C17-W01 | นอกเฟรมซ้าย-หลังกล้อง เป็นคนที่มีอามองตอนเริ่ม
+# - ไอริน C04-W19 | นอกเฟรมขวา เป็นคนที่มีอาจะหันไปถามในวิดีโอ (prompt ภาพไม่เอ่ยถึง)
+#
+# แนบใน OpenArt: 1) input/characters/มีอา/มีอา Face.webp
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+Create one standalone starting-frame image for SHOT EP02-S003.
+Vertical 9:16. Cinematic live-action still, photorealistic.
+REFERENCE IMAGES:
+Image 1: Mia — use only for face, skin tone and hairstyle. The outfit comes from the text below. Do not copy the outfit, background, lighting or camera angle.
+CHARACTERS: Mia, a slender young Thai woman in her early twenties, face and hair from Image 1, wearing an oversized charcoal-gray fuzzy knit V-neck sweater with a scalloped lace-trimmed neckline and ribbed cuffs and hem, a black mini skirt with small white polka dots and a black lace hem, white slouchy crew socks, black leather penny loafers, and very long straight jet-black hair worn loose with a center part; no bag and no bag strap.
+CAST COUNT: exactly one person visible.
+SCENE GEOGRAPHY: a bright, clean hospital doctor's consultation room in daytime. A long desk with a glossy black glass top and a silver metal frame stands in the middle of the room; an open folder lies on the desktop. Mia sits upright in a black office chair on the patient side of the desk, facing across it. Behind Mia is the off-white patient-side wall. A large window with an off-white roller blind is in the window-end wall to the right of this view.
+FRAME ORDER: from screen-left to screen-right: Mia alone, centered.
+CAMERA POSITION: on the doctor's side of the desk, just to the window side of the doctor's chair, at seated eye level.
+VIEW DIRECTION: across the black glass desk toward Mia, with the off-white patient-side wall beyond her.
+SET IN FRAME: Mia in the center; the bright off-white wall filling the whole background; the softly blurred near edge of the glossy black glass desktop and the corner of an open folder along the bottom edge. Keep this layout; do not move or mirror it.
+BETWEEN CAMERA AND SUBJECT: only the blurred black glass desk edge and open-folder corner along the bottom edge, then open air over the desk.
+VISIBLE BACKGROUND: softly defocused, brightly lit plain off-white wall.
+OFF-FRAME: the doctor Mia looks at is beyond the left frame edge, beside the camera. No other person or any part of another person appears in the frame.
+START STATE: Mia sits upright, face almost toward the camera and angled slightly to screen-left, eyes toward the unseen doctor just past the left side of the lens, an anxious, impatient expression, lips closed. Shoulders level, head straight.
+CAMERA: TIGHT CLOSE-UP. The face fills about 60% of the frame height; the frame top cuts through the top of the hair and the frame bottom cuts just below the chin at the collarbones. No chest, waist or hands visible. 85mm, about 1 meter away, seated eye level.
+FOCUS: sharp eyes, softly defocused background and foreground desk edge.
+LIGHTING: bright clean daytime interior: soft diffused daylight from the large roller-blind window at screen-right, softly lighting the screen-right side of her face, cool-neutral white ceiling fill on the rest of her face, approximately 5000K, soft low contrast.
+GRADE: bright clean clinic palette of off-white, pale gray and glossy black glass, soft low contrast, slightly cool-neutral whites, natural fair skin tones.
+Show only the starting moment, before any planned movement begins.
+No captions, subtitles, labels, logos, watermarks, panels or collage. No readable text anywhere in the image.

@@ -1,0 +1,35 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP02-S065 | Clip: B065 (B-roll) | SC06 โถงทางเดินโรงพยาบาล (L09) โซน A กลางวัน — อินเสิร์ตเท้า
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 4 วิ | เสียงโหมด C
+#
+# ตัวละครในเฟรม (รวม 3 คน):
+# - บอดี้การ์ด C18a C18-W01 (ไม่มีภาพอ้างอิง) | เห็นแค่ขากางเกงดำและรองเท้าหนังดำ ใต้เข่า เบลอเล็กน้อย | ซ้ายหลัง
+# - วิทย์ C05-W11 สูทดำ (วิทย์ W01) | เห็นแค่รองเท้าดาร์บี้หนังดำและปลายขากางเกงสูทดำ ก้าวผ่านใกล้เลนส์ | กลางเฟรม
+# - บอดี้การ์ด C18b C18-W01 (ไม่มีภาพอ้างอิง) | เห็นแค่ขากางเกงดำและรองเท้าหนังดำ ใต้เข่า เบลอเล็กน้อย | ขวาหลัง
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - ไม่มี
+#
+# แนบใน Grok: ภาพที่เลือกจาก EP02_B065_image
+# ผู้พูด: ไม่มี | คนในเฟรมที่ไม่พูด: วิทย์, บอดี้การ์ด 2 คน (เห็นแค่ขา)
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+EP02_B065 SHOT EP02-S065. One continuous cinematic live-action close-up insert, vertical 9:16.
+TARGET DURATION: 4 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
+SCENE GEOGRAPHY: the glossy light-gray floor of a bright hospital corridor, with a single straight yellow guide line running down the middle of the corridor toward the camera, through the center of the frame. Three pairs of legs walk fast toward the camera: Wit's in the center, a bodyguard's slightly farther back at the left and another's at the right.
+VISIBLE CAST: exactly three people, seen only from just below the knees down. Wit: black suit trousers over polished black leather lace-up derby shoes, in the center; no coat hem. Two bodyguards: plain black suit trousers and polished black leather shoes, softly blurred, one behind-left and one behind-right. No faces or upper bodies. FRAME ORDER from screen-left to screen-right: bodyguard's lower legs (left, behind) · Wit's derby shoes (center) · bodyguard's lower legs (right, behind).
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: on the corridor floor, lens about 10 cm above the floor, in front of Wit's feet and slightly to Wit's left (screen-right of his walking line), looking low along the floor toward the stepping feet; tight close-up on the feet; 50mm full-frame equivalent.
+FOREGROUND / VISIBLE BACKGROUND: the glossy floor with streaked fluorescent reflections and the single straight yellow center line; the bodyguards' blurred lower legs behind Wit's feet. No readable text.
+OFF-FRAME: everything above the knees stays outside the frame. No one else enters the frame at any time.
+LIGHTING / COLOR: cool-white overhead fluorescent light reflected in streaks on the glossy floor, soft shadows under the shoes, approximately 5500K, medium contrast; cool clinical white and pale gray with yellow floor-line accents.
+PROP STATE: no props.
+START STATE: Wit's right derby shoe striding forward, heel striking a yellow line, left shoe lifting behind; the bodyguards' legs mid-stride.
+PERFORMANCE CONTEXT: the group is closing in fast on its destination; the steps are quick and purposeful.
+ACTION: Wit's black derby shoes take quick, long steps along the yellow line toward the camera; with the last step his shoe lands close to the lens and passes just beside it. The bodyguards' legs follow in rhythm at the left and right, a little behind. The frame top stays below the knees the whole time.
+END STATE: Wit's shoe has stepped close past the lens, the bodyguards' legs coming up behind in mid-stride. The camera holds this framing until the very end of the clip.
+CAMERA: locked-off on the floor, the framing never changes. No tilt up, no pan.
+VISUAL CONTINUITY: Preserve the starting image's shoes, trousers, bright near-white glossy floor, single narrow pale-yellow line, fluorescent reflections and color treatment. Allow only the specified walking. No unplanned cuts, added people, identity swaps or prop teleportation.
+AUDIO MODE: no dialogue.
+No intelligible speech or speech-like lip-sync.
+AMBIENCE/SFX: fast, sharp rhythmic footsteps of leather shoes striking a glossy hospital floor, several pairs in step, soft corridor reverb; no music, no voices.

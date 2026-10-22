@@ -1,0 +1,18 @@
+{
+  "clip": "A030",
+  "endpoint": "openai/gpt-image-2/edit",
+  "quality": "medium",
+  "refs": [
+    "input/characters/วิทย์/Face.webp"
+  ],
+  "out_file": "EP02/Image/EP02_A030_T02.png",
+  "prompt_chars": 3695,
+  "status": "done",
+  "request_id": "01a162b9-4ea5-7511-8703-ca9447c94d6e",
+  "status_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a162b9-4ea5-7511-8703-ca9447c94d6e/status",
+  "response_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a162b9-4ea5-7511-8703-ca9447c94d6e",
+  "submitted": "2026-10-22 15:27:53",
+  "width": null,
+  "height": null,
+  "finished": "2026-10-22 15:28:30"
+}

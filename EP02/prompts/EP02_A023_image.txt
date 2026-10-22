@@ -1,0 +1,47 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP02-S023 | Clip: A023 (A-roll) | SC02 ห้องอาหารบ้านวิทย์ (L06) กลางวัน
+# ไฟล์นี้: Image Prompt → GPT Image 2 (fal) 9:16
+#
+# ตัวละครในเฟรม (รวม 3 คน):
+# - วิทย์    C05-W11 สูทดำ (วิทย์ W01)              | หันหลัง เห็นแค่ไหล่ขวาและท้ายทอย (OTS) เบลอเล็กน้อย | ซ้ายหน้า
+# - พ่อวิทย์ C12-W02 สูทสามชิ้นเทา (พ่อวิทย์ W01 ชุดสูท) ไม่มีแว่น | ครึ่งตัวเหนือโต๊ะ ฝั่งไกล มองซ้ายเฟรม | กลางค่อนซ้าย
+# - แม่วิทย์ C01-W01 กาวน์แชมเปญนู้ดปักลูกปัด (แม่วิทย์ W01 ชุดออกงาน) | ครึ่งตัวเหนือโต๊ะ ปลายโต๊ะไกล หน้าเข้ากล้องเฉียง ถือตะเกียบค้าง | ขวาเฟรม
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม: ไม่มี
+#
+# แนบใน OpenArt: 1) input/characters/แม่วิทย์/แม่วิทย์ W01 ชุดออกงาน.png
+#                2) input/characters/พ่อวิทย์/พ่อวิทย์ W01 ชุดสูท.webp
+#                3) input/characters/วิทย์/วิทย์ W01.png
+# หมายเหตุภาพแนบ: รูป 3 ใช้ผมด้านหลังและแจ็กเก็ตด้านหลัง
+# ระวัง: หน้าแม่ค่อนเล็กในภาพกว้าง — เลือกภาพที่หน้าแม่ชัดที่สุด · ภาพวิทย์ W01 มีตัวอักษร CHARACTER SHEET ห้ามปรากฏ
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+Create one standalone starting-frame image for SHOT EP02-S023.
+Vertical 9:16. Cinematic live-action still, photorealistic.
+REFERENCE IMAGES:
+Image 1: Wit's mother — use for face, skin tone, hairstyle, body shape and this exact champagne beaded lace cape gown. Ignore the three-view layout. Do not copy the background, lighting, pose or camera angle from this image.
+Image 2: Wit's father — use for face, skin tone, hairstyle, body shape and this exact gray three-piece suit, striped shirt and polka-dot tie. The image shows only his upper body. Do not copy the background, lighting, pose or camera angle from this image.
+Image 3: Wit — rear view; use for his hair seen from behind and the back and shoulders of this exact black suit jacket. This image is a character sheet: ignore its printed text, labels and layout, and do not reproduce any text. Do not copy the background, lighting, pose or camera angle.
+CHARACTERS: Wit's mother, an elegant middle-aged Thai woman, matched to Image 1, wearing a champagne-nude floor-length fitted gown densely embroidered with tonal floral beadwork, high collar with a keyhole neckline, sheer long lace cape sleeves draping to the floor, pearl stud earrings, and dark brown hair in a low braided chignon with loose face-framing tendrils. Wit's father, a distinguished Thai man in his late fifties, matched to Image 2, wearing a medium heather-gray three-piece suit with peak lapels and a matching buttoned waistcoat, a pale blue-and-white pinstriped dress shirt, a navy silk tie with small white polka dots, matching gray suit trousers, black leather oxford shoes, no glasses, and short salt-and-pepper hair swept back. Wit, a tall young Thai man in his mid-twenties, matched to Image 3, seen only from behind, wearing a black two-button single-breasted suit with notch lapels and flap pockets, a crisp white dress shirt, a slim black necktie, black leather lace-up derby shoes, and tousled short black hair with a soft fringe; the suit jacket is worn.
+CAST COUNT: exactly three people visible: Wit's mother, Wit's father, and Wit as the partial foreground figure.
+FOREGROUND OWNER: Wit, seated at the left short end of the table nearest the camera, seen from a three-quarter rear angle in the left foreground.
+VISIBLE FOREGROUND IDENTITY: tousled short black hair neat at the nape, the black suit-jacket shoulder with a thin white shirt-collar edge at the neck. The visible shoulder is black suit fabric.
+CAMERA RELATION: camera behind Wit's anatomical right shoulder, with that shoulder and the back of his head occupying about the left quarter of the frame.
+FOCUS SUBJECT: Wit's mother at the far right end of the table, at screen-right, body angled toward the camera, leaning toward the table with chopsticks held up in mid-air in her right hand, looking slightly screen-left toward Wit with a serious, pressing expression. Wit's father on the far long side at center-left, his right hand resting on the table beside his bowl still holding a spoon, lips pressed together, looking toward screen-left at Wit.
+OCCLUSION: Wit's face is not visible. Keep the mother's and the father's faces fully unobstructed.
+SCENE GEOGRAPHY: a luxurious dining room in a wealthy family home in daytime: a long dining table with a white gray-veined marble top and slim vertical gold metal legs, round-backed white chairs with gold frames, blue-and-white porcelain rice bowls, dishes of food, clear water glasses, spoons and chopsticks on the table. Wit sits at the left short end of the table, nearest the camera, facing along the table toward the right end; his father sits on the far long side, his back toward the far wall with a tall dark-gray-framed glass display cabinet and wooden shelving; his mother sits at the right short end, at the far end of the table, her back toward a large bright window in the right side wall.
+FRAME ORDER: from screen-left to screen-right: Wit (left foreground, back of head and right shoulder) · Wit's father (center-left, far long side) · Wit's mother (right, far end of the table).
+CAMERA POSITION: at the left end of the table, just behind and to the right of Wit's seat, at seated eye level, on the near side of the table's length axis.
+VIEW DIRECTION: past Wit's right shoulder along the length of the table toward his mother at the far right end, with his father on the far long side.
+SET IN FRAME: the dark-gray-framed glass display cabinet and wooden shelving at upper screen-left behind the father; the bright window wall at screen-right behind the mother; the white marble table with gold legs running from the lower foreground diagonally toward the far right end. Keep this layout; do not move or mirror it.
+BETWEEN CAMERA AND SUBJECT: Wit's own right shoulder and the back of his head in the left foreground (intended over-the-shoulder framing), then the open tabletop; nothing covers the mother's or father's face.
+VISIBLE BACKGROUND: the glass display cabinet and shelving behind the father at upper left and the bright window wall behind the mother at right.
+OFF-FRAME: nothing beyond the three people; the light gray-white wall is behind the camera. No other person or any part of another person appears in the frame.
+START STATE: Wit's mother, at the far right end, leans toward the table holding chopsticks still in mid-air in her right hand, looking slightly screen-left toward Wit, lips closed, brows set in a serious, pressing expression. Wit's father, on the far long side at center-left, sits with his right hand resting on the table beside his bowl still holding a spoon, lips pressed together, looking toward screen-left at Wit. Wit, in the left foreground seen from behind his right shoulder, faces along the table toward his mother; his chopsticks lie on the table beside his bowl.
+CAMERA: WIDE OVER-THE-SHOULDER SHOT. Wit's shoulder and the back of his head fill about the left quarter of the frame in the foreground; the full length of the table recedes toward the far end; the father and mother are seen from the waist up above the tabletop, each head about 8% of the frame height. 28mm full-frame equivalent, seated eye level.
+FOCUS: deep focus with the mother sharpest; the father sharp; Wit's foreground shoulder and hair slightly soft but clearly a black suit jacket and short black hair.
+LIGHTING: the window behind the mother gives her a soft backlight rim; warm chandelier and gold cove fill light both faces, approximately 4300K mixed light, soft natural contrast.
+GRADE: warm luxurious daytime palette of white marble, cream and polished gold with deep wood-brown shelving, soft natural contrast, warm natural skin tones.
+No text, letters, numbers or logos anywhere in the image.
+Show only the starting moment, before any planned movement begins.
+No captions, subtitles, labels, watermarks, panels or collage.
+The foreground person is Wit, not an additional person or a generic stand-in.

@@ -1,0 +1,92 @@
+{
+  "clip": "A040",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Image/EP02_A040_T01.png",
+        "job": "01a16293-594d-7350-9498-b4bb6ce369fb",
+        "result": "ok",
+        "qc": "ผ่าน: MCU หน้าตรง โทรศัพท์มือซ้าย(ขวาเฟรม) นามบัตรมือขวา(ซ้ายล่าง) ไม่มีแว่น/หน้าม้า/เป้",
+        "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP02/Image/EP02_A040_T02.png",
+        "job": "01a162e2-28db-7e71-b445-b5bcc632c3a2",
+        "result": "ok",
+        "qc": "ผ่าน ฮู้ดเทาตัวอักษร GAP กรมขอบขาวแยกซิป ครอปท็อปขาว สร้อยจี้เงิน ไม่มีแว่น/เป้ โทรศัพท์มือซ้าย (ขวาจอ) นามบัตรมือขวา (ซ้ายจอ) ตรง T01",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP02/Image/EP02_A040_T02.png",
+    "prompt_sha": "8e18cb4acbba",
+    "flag": null,
+    "facts": "Irin sits alone, centered, behind a glossy black glass desk in a black office chair, holding a light gold phone to her left ear with her left hand at screen-right and an off-white business card low in her right hand at screen-left; unzipped heather-gray hoodie with navy white-edged 'GA' and 'P' letters, white crop top, silver pendant necklace. Plant and a pregnancy art print behind, bright window at right.",
+    "reset_at": 1
+  },
+  "video": {
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Video/EP02_A040_T01.mp4",
+        "job": "2f908227-e0b7-91ac-bacc-516b8b6318e1",
+        "result": "ok",
+        "qc": "ผ่าน: 3.04s มีเสียง กรอบนิ่ง หน้า/ชุด/พร็อพคงที่ drift ok",
+        "cost": 0.24
+      },
+      {
+        "take": 2,
+        "file": "EP02/Video/EP02_A040_T02.mp4",
+        "job": "c5644061-06bd-9af7-9e8a-bbf6ff558495",
+        "result": "ok",
+        "qc": "ผ่าน 3.04s มีเสียง ชุด GAP คงที่ โทรศัพท์มือซ้าย(ขวาจอ) นามบัตรมือขวา(ซ้ายล่าง) คงที่ ไม่มีซับ drift 0.032",
+        "cost": 0.24
+      },
+      {
+        "take": 3,
+        "file": "EP02/Video/EP02_A040_T03.mp4",
+        "job": "903dd899-ca15-918f-900d-6f25c6038ad8",
+        "result": "ok",
+        "qc": "ผ่าน 3.04s มีเสียง บทใหม่ 'ศิริราช' ชุด GAP คงที่ โทรศัพท์มือซ้าย(ขวาจอ) นามบัตรมือขวา(ซ้ายล่าง) คงที่ ไม่มีซับฝัง drift 0.037",
+        "cost": 0.24
+      },
+      {
+        "take": 4,
+        "file": "EP02/Video/EP02_A040_T04.mp4",
+        "job": "2bee5730-b396-9e7c-a3ff-2b5df61b387c",
+        "result": "ok",
+        "qc": "ผ่าน 3.04s มีเสียง บทใหม่ 'โรงบานศิริราช' ชุด GAP คงที่ โทรศัพท์มือซ้าย(ขวาจอ) นามบัตรมือขวา(ซ้ายล่าง) คงที่ ไม่ตัดภาพ ไม่มีซับฝัง drift 0.026",
+        "cost": 0.24
+      },
+      {
+        "take": 5,
+        "file": "EP02/Video/EP02_A040_T05.mp4",
+        "job": "f1bea40b-6fda-98f3-82d7-c5196ed0ba77",
+        "result": "ok",
+        "qc": "ผ่านภาพ 3.04s มีเสียง (พูด 0.31-1.94s) prompt ออกเสียง rongbaan ชุด GAP มือ/โทรศัพท์/นามบัตรคงที่ สีหน้านิ่งตาม DELIVERY ไม่มีซับ ไม่ตัดภาพ drift 0.039",
+        "cost": 0.24
+      },
+      {
+        "take": 6,
+        "file": "EP02/Video/EP02_A040_T06.mp4",
+        "job": "abf35639-e1f3-9f7c-a0ac-5531cec702fc",
+        "result": "ok",
+        "qc": "ผ่านภาพ 3.04s มีเสียง (พูด 0.21-1.85s) ชุด/มือคงที่ ไม่มีซับ ไม่ตัดภาพ drift 0.026; กลางคลิปอ้าปากกว้างดูตกใจกว่าที่ DELIVERY สั่ง (calm)",
+        "cost": 0.24
+      }
+    ],
+    "selected": "EP02/Video/EP02_A040_T05.mp4",
+    "prompt_sha": "8e404694e2c0",
+    "flag": "ต้องฟังการออกเสียง โรงบาน (มีตัวเลือก T06 ให้ฟังเทียบ) · ต้องฟังลิปซิงก์",
+    "reset_at": 4
+  },
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo",
+    "video prompt เปลี่ยน — รีเซ็ตเป็น todo",
+    "video prompt เปลี่ยน — รีเซ็ตเป็น todo",
+    "video prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
+}

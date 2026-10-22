@@ -1,0 +1,61 @@
+{
+  "clip": "A001",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Image/EP02_A001_T01.png",
+        "job": "01a16293-8e9e-7a63-8768-39d98bc3e62b",
+        "result": "fail",
+        "qc": "มีแผ่นกระจกใสขวางหน้ามีอา (prompt สั่ง clear open air และท็อปโต๊ะเป็นกระจกดำ) หน้าเกือบตรงกล้องแทน 3/4",
+        "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP02/Image/EP02_A001_T02.png",
+        "job": "01a16297-4ce7-7d92-a4a0-c5247b7c4cde",
+        "result": "ok",
+        "qc": "ผ่าน มีอากลาง ตาเหลือบซ้าย ผมไอรินเบลอซ้าย; มีขอบโต๊ะกระจกดำหน้ามีอา (สอดคล้องกับ A004/B006/A008)",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP02/Image/EP02_A001_T02.png",
+    "prompt_sha": "ef9de82e4e3b",
+    "flag": null,
+    "facts": "Mia sharp at center, waist-up, seated in a black chair behind the edge of a glossy black glass desk that reflects her, face nearly frontal with eyes slightly to screen-left; Irin's blurred long hair and gray hoodie shoulder fill the left foreground; blurred green leaves lower right; plain light-gray wall behind."
+  },
+  "video": {
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Video/EP02_A001_T01.mp4",
+        "job": "da558747-ea32-9fa4-8986-6030797d6ad9",
+        "result": "fail",
+        "qc": "ไอรินฉากหน้าถูก morph ให้เห็นโปรไฟล์หน้าและอ้าปากเหมือนพูดแทนเสียงหมอ OS (ผู้ไม่พูดขยับปาก)",
+        "cost": 0.32
+      },
+      {
+        "take": 2,
+        "file": "EP02/Video/EP02_A001_T02.mp4",
+        "job": "fdbe6b46-d776-966e-8479-e2097eefede7",
+        "result": "fail",
+        "qc": "ไอรินฉากหน้าหันเป็นโปรไฟล์และปากเผยอขณะเสียงหมอ OS; ฉากหลังมีหน้าต่างโผล่ขวาท้ายคลิป (prompt สั่งไม่มีหน้าต่าง)",
+        "cost": 0.32
+      },
+      {
+        "take": 3,
+        "file": "EP02/Video/EP02_A001_T03.mp4",
+        "job": "3e549ce1-f9bc-9186-ade3-bd75194a9a14",
+        "result": "fail",
+        "qc": "ไอรินฉากหน้ายังหันเป็นโปรไฟล์ (ปากดูปิด) ขอบหน้าต่างโผล่มุมบนซ้ายเล็กน้อย; ดีที่สุดใน 3 take drift 0.048",
+        "cost": 0.32
+      }
+    ],
+    "selected": "EP02/Video/EP02_A001_T03.mp4",
+    "prompt_sha": "5c2ae0ccef25",
+    "flag": "ต้องฟังลิปซิงก์ (เสียงหมอ OS); ไอรินฉากหน้าโผล่โปรไฟล์ทุก take ตรวจว่าปากไอรินไม่ขยับตามเสียงหมอ; ขอบหน้าต่างโผล่มุมบนซ้าย"
+  },
+  "notes": []
+}

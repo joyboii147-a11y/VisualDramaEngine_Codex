@@ -1,0 +1,65 @@
+{
+  "clip": "A004",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Image/EP02_A004_T01.png",
+        "job": "01a16293-a3f8-7601-aff7-f1dee4ea1506",
+        "result": "ok",
+        "qc": "ผ่าน หน้าไอรินตรง Face ไม่มีแว่น/หน้าม้า/เป้ ฮู้ดแถบกรมไม่มีตัวอักษร; มีโต๊ะกระจกดำคั่นระหว่างไหล่มีอากับไอริน (prompt ว่าไม่มีสิ่งขวาง) ยอมรับเพราะสอดคล้องกับ B006/A008",
+        "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP02/Image/EP02_A004_T02.png",
+        "job": "01a162e2-0b76-7771-8147-4ccfcb638dd2",
+        "result": "ok",
+        "qc": "ผ่าน ฮู้ดเทาตัวอักษร GAP กรมขอบขาวแยกซิป ครอปท็อปขาว สร้อยจี้เงิน ไม่มีแว่น/เป้ ตำแหน่ง/ท่าตรง T01 (ไอรินนั่งกลาง หลังมีอาเบลอขวา)",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP02/Image/EP02_A004_T02.png",
+    "prompt_sha": "4291ff4be736",
+    "flag": null,
+    "facts": "Irin sits centered behind a glossy black glass desk in a bright clinic room, facing the lens, wearing an unzipped heather-gray hoodie with navy white-edged varsity letters 'GA' and 'P' split by the zipper, a white ribbed crop top, a thin silver pendant necklace and jeans; Mia's long dark hair and gray sweater blurred in the right foreground with her back to the camera. Plant at left, anatomy poster on the wall behind.",
+    "reset_at": 1
+  },
+  "video": {
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Video/EP02_A004_T01.mp4",
+        "job": "d7b17848-e742-9184-a34a-04c31b59197b",
+        "result": "ok",
+        "qc": "ผ่าน ไอรินกลอกตา หน้าตรงภาพตั้งต้น ไม่มีแว่น; ท้ายคลิปหันกลับมองขวาเฟรม (prompt ให้ค้างมองซ้าย) เล็กน้อย",
+        "cost": 0.24
+      },
+      {
+        "take": 2,
+        "file": "EP02/Video/EP02_A004_T02.mp4",
+        "job": "0ae0e4b1-fa77-9f6e-9f43-6fbd71fdd6cd",
+        "result": "fail",
+        "qc": "ไม่ผ่าน: มีซับไตเติล 'ห้.' โผล่กลางล่างจอช่วง 0.6-1.8s (ตัวหนังสือที่ไม่ได้สั่ง) ที่เหลือดี: ชุด GAP คงที่ เหลือบตาซ้ายบน drift 0.064",
+        "cost": 0.24
+      },
+      {
+        "take": 3,
+        "file": "EP02/Video/EP02_A004_T03.mp4",
+        "job": "492f0d47-da6c-9bc7-8c05-566420892ce4",
+        "result": "ok",
+        "qc": "ผ่าน 3.04s มีเสียง ชุด GAP คงที่ เหลือบ/หันซ้ายบน ไหล่มีอานิ่ง ไม่มีซับ drift 0.094",
+        "cost": 0.24
+      }
+    ],
+    "selected": "EP02/Video/EP02_A004_T03.mp4",
+    "prompt_sha": "abb6dfc20e35",
+    "flag": "ต้องฟังลิปซิงก์",
+    "reset_at": 1
+  },
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
+}

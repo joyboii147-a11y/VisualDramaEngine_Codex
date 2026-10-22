@@ -1,0 +1,36 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP02-S066 | Clip: B066 (B-roll) | SC06 โถงทางเดินโรงพยาบาล (L09) โซน A กลางวัน — Hook ปิดตอน
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 5 วิ | เสียงโหมด C
+#
+# ตัวละครในเฟรม (รวม 3 คน):
+# - บอดี้การ์ด C18c C18-W01 (ไม่มีภาพอ้างอิง) | เบลอฉากหลัง — ศีรษะและบ่า | ซ้ายหลัง
+# - วิทย์ C05-W11 สูทดำ (วิทย์ W01) ไม่ใส่โค้ต | ครึ่งตัว (MCU) เดินเข้าหากล้อง สายตาตรงเลนส์ จนใกล้กล้องขึ้น | กลางเฟรม
+# - บอดี้การ์ด C18d C18-W01 (ไม่มีภาพอ้างอิง) | เบลอฉากหลัง — ศีรษะและบ่า | ขวาหลัง
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - ไม่มี
+#
+# แนบใน Grok: ภาพที่เลือกจาก EP02_B066_image
+# ผู้พูด: ไม่มี | คนในเฟรมที่ไม่พูด: วิทย์, บอดี้การ์ด 2 คน
+# กล้อง: ดอลลี่ถอย (Shot สั่ง) ช้ากว่าความเร็วเดิน วิทย์ใหญ่ขึ้นในเฟรม — ห้ามตัด ห้ามหยุดเดิน; ตัดเข้าดำ (S067) ทำในงานตัดต่อ
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+EP02_B066 SHOT EP02-S066. One continuous cinematic live-action medium close-up, vertical 9:16.
+TARGET DURATION: 5 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
+SCENE GEOGRAPHY: a bright hospital corridor in daytime; behind Wit, a bright white ceiling and the glowing far end of the corridor, softly defocused. Wit walks down the middle of the corridor straight toward the camera, with two blurred bodyguards a step behind him at the left and right.
+VISIBLE CAST: exactly three people. Wit, a tall young Thai man in his mid-twenties with tousled short black hair and a soft fringe, wearing a black single-breasted suit jacket with notch lapels, a crisp white dress shirt and a slim black necktie; no overcoat. He is in the center, face straight to the lens. Two fit Thai male bodyguards with neat short black hair in plain black suits, softly blurred, seen only as heads and black-suited shoulders a step behind him. FRAME ORDER from screen-left to screen-right: blurred bodyguard (left, behind) · Wit (center) · blurred bodyguard (right, behind).
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: in the middle of the corridor ahead of Wit on his walking line, standing eye level, looking straight back at Wit's face with the glowing corridor end beyond; medium close-up from mid-chest up; 65mm full-frame equivalent, about 1.5 meters away.
+FOREGROUND / VISIBLE BACKGROUND: no foreground object; the bodyguards' blurred heads and shoulders behind Wit; the bright ceiling and glowing corridor end filling the background. No readable text.
+OFF-FRAME: Wit looks straight into the lens. No one else enters the frame at any time.
+LIGHTING / COLOR: strong daylight glow from the far end of the corridor rimming Wit's hair and shoulders, cool-white overhead fluorescent fill keeping his face clearly lit and readable, approximately 5500K, medium contrast; cool clinical white and pale gray, neutral skin tones.
+PROP STATE: no props in frame.
+START STATE: Wit mid-stride about 1.5 meters from the camera, face straight to the lens, eyes locked on the lens, grave and determined, lips pressed firmly closed.
+PERFORMANCE CONTEXT: Wit is about to confront the person he has come for; this is the episode's closing hook, serious and unstoppable.
+ACTION: Wit keeps walking fast straight toward the camera without slowing or stopping, his shoulders moving lightly with each stride, eyes locked unblinking on the lens, jaw set, lips pressed firmly closed. The blurred bodyguards keep pace a step behind him.
+END STATE: Wit has come closer to the lens, his face larger in the frame, still walking, eyes locked on the lens, lips firmly closed, no blink. He keeps coming until the very end of the clip.
+CAMERA: one continuous dolly backward down the corridor in front of Wit at eye level, slightly slower than his walking speed, so he grows larger in the frame by the end; the camera keeps the same straight-on direction. No cut, no zoom, no tilt.
+VISUAL CONTINUITY: Preserve the starting image's face, hair, black suit, white shirt, black tie, blurred bodyguards, backlit corridor and color treatment. Allow only the specified walking and camera movement. No unplanned cuts, added people, identity swaps or prop teleportation.
+AUDIO MODE: no dialogue.
+No intelligible speech or speech-like lip-sync. Wit's lips stay firmly closed.
+AMBIENCE/SFX: firm, quick footsteps of leather shoes on a glossy hospital floor, several pairs in step, soft corridor reverb; no music, no voices.

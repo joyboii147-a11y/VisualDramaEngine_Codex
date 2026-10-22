@@ -1,0 +1,19 @@
+{
+  "clip": "A007",
+  "endpoint": "openai/gpt-image-2/edit",
+  "quality": "medium",
+  "refs": [
+    "input/characters/มีอา/มีอา Face.webp",
+    "input/characters/ไอริน/ไอริน W01 ชุดนักศึกษา.png"
+  ],
+  "out_file": "EP02/Image/EP02_A007_T01.png",
+  "prompt_chars": 5869,
+  "status": "done",
+  "request_id": "01a16293-bc9f-73e3-9c44-fa5d2b5023e7",
+  "status_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a16293-bc9f-73e3-9c44-fa5d2b5023e7/status",
+  "response_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a16293-bc9f-73e3-9c44-fa5d2b5023e7",
+  "submitted": "2026-10-22 14:46:51",
+  "width": null,
+  "height": null,
+  "finished": "2026-10-22 14:49:03"
+}

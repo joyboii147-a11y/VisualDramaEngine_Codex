@@ -1,0 +1,40 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP02-S032 | Clip: A032 (A-roll) | SC02 ห้องอาหารบ้านวิทย์ (L06) กลางวัน — ภาพแบ่งเฟรมบน–ล่างในภาพเดียว (Setup SC02-G)
+# ไฟล์นี้: Image Prompt → GPT Image 2 (fal) 9:16
+#
+# ตัวละครในเฟรม (รวม 2 คน):
+# - พ่อวิทย์ C12-W02 สูทสามชิ้นเทา (พ่อวิทย์ W01 ชุดสูท) ไม่มีแว่น | ครึ่งตัว (MCU) หน้าตรง มองซ้ายเฟรม สีหน้าสงสัย | แผงบน กลาง
+# - แม่วิทย์ C01-W01 กาวน์แชมเปญนู้ดปักลูกปัด | ครึ่งตัว (MCU) หน้าตรง มองค่อนซ้ายเฟรม สีหน้าสงสัย | แผงล่าง กลาง
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - วิทย์ C05-W11 | นอกกรอบซ้ายของทั้งสองแผง เป็นคนที่ทั้งคู่มอง
+#
+# แนบใน OpenArt: 1) input/characters/พ่อวิทย์/พ่อวิทย์ Face.webp
+#                2) input/characters/แม่วิทย์/Face.webp
+# ระวัง: ตรวจว่ารอยต่ออยู่กลางภาพพอดี ไม่มีเส้นขอบสี ไม่มีคนซ้ำ/คนที่สาม · แผงล่างย้อนแสงหน้าต่าง หน้าต้องสว่างชัด
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+Create one standalone starting-frame image for SHOT EP02-S032.
+Vertical 9:16. Cinematic live-action still, photorealistic.
+LAYOUT: one vertical 9:16 image divided into exactly two stacked panels of equal height by a single straight, hard horizontal seam exactly at mid-height. No border, no colored line, no gap, no frame decoration, no rounded corners. The top panel shows only Wit's father; the bottom panel shows only Wit's mother. Each panel is a separate camera angle of the same dining room at the same moment.
+REFERENCE IMAGES:
+Image 1: Wit's father — use only for face, skin tone and hairstyle. The outfit comes from the text below. Do not copy the background, lighting or camera angle.
+Image 2: Wit's mother — use only for face, skin tone and hairstyle. The outfit comes from the text below. Do not copy the background, lighting or camera angle.
+CHARACTERS: Wit's father, a distinguished Thai man in his late fifties, matched to Image 1, wearing a medium heather-gray suit jacket with a matching buttoned waistcoat, a pale blue-and-white pinstriped dress shirt and a navy silk tie with small white polka dots; no glasses; short salt-and-pepper hair swept back; in the top panel only. Wit's mother, an elegant middle-aged Thai woman, matched to Image 2, wearing a champagne-nude fitted gown densely embroidered with tonal floral beadwork, a high beaded collar with a keyhole neckline and sheer lace cape sleeves over the shoulders; pearl stud earrings; dark brown hair in a low braided chignon with loose face-framing tendrils; in the bottom panel only.
+CAST COUNT: exactly two people in the whole image: Wit's father once in the top panel and Wit's mother once in the bottom panel. Nobody appears twice.
+SCENE GEOGRAPHY: a luxurious dining room in a wealthy family home in daytime: a long dining table with a white gray-veined marble top and slim vertical gold metal legs, round-backed white chairs with gold frames, blue-and-white porcelain rice bowls, dishes of food, clear water glasses, spoons and chopsticks on the table. Wit's father sits on the far long side of the table with his back toward the far wall, which has a tall dark-gray-framed glass display cabinet on its left part and dark red-brown wooden shelving on its right part. Wit's mother sits at the right short end of the table with her back toward a large bright window in the right side wall.
+FRAME ORDER: top panel: Wit's father (center); bottom panel: Wit's mother (center).
+TOP PANEL CAMERA POSITION: on the open near long side of the table, directly opposite Wit's father, at seated eye level. VIEW DIRECTION: straight across the table toward Wit's father and the display-cabinet wall beyond him.
+TOP PANEL SET IN FRAME: a blurred dark-gray-framed glass display cabinet on screen-left behind him; blurred dark red-brown wooden shelving and a beige wall on screen-right. Keep this layout; do not move or mirror it.
+BOTTOM PANEL CAMERA POSITION: at the left end of the table, at seated eye level, on the near side of the table's length axis, looking down the length of the table. VIEW DIRECTION: along the table toward Wit's mother at the right short end, with the large window beyond her.
+BOTTOM PANEL SET IN FRAME: a large bright window fills the background behind her, softly overexposed and blurred; a pale gray window-frame mullion near the screen-right side. Keep this layout; do not move or mirror it.
+BETWEEN CAMERA AND SUBJECT: nothing in either panel.
+VISIBLE BACKGROUND: top — the blurred dark-gray-framed glass display cabinet on screen-left and the blurred red-brown wooden shelving and beige wall on screen-right; bottom — the large bright window softly blurred behind her with a pale gray window frame toward screen-right.
+OFF-FRAME: top panel: the person he looks at is beyond the left frame edge. Bottom panel: the person she looks at is just beyond the camera, slightly screen-left of the lens. No other person or any part of another person appears in either panel.
+START STATE: TOP — Wit's father sits upright facing the camera, eyes turned toward screen-left, brows slightly lifted in a puzzled, questioning look, lips closed. His hands are below the panel edge. BOTTOM — Wit's mother sits facing the camera, eyes directed slightly toward screen-left, a puzzled, questioning look, lips closed. Her hands are below the panel edge.
+CAMERA: each panel is a MEDIUM CLOSE-UP framed from mid-chest up within its own panel, the face filling about 40–45% of that panel's height (about 20–22% of the full image height), head centered in the panel. 65mm full-frame equivalent, about 1.5 meters away, seated eye level, frontal view.
+FOCUS: both faces sharp; backgrounds softly defocused.
+LIGHTING: top — window daylight from screen-right as the key on the screen-right side of his face, warm chandelier and gold cove fill from above, approximately 4300K, soft natural contrast; bottom — the window behind her gives a soft backlight rim on her hair and shoulders; warm frontal fill from the chandelier and gold cove light keeps her face clearly and evenly lit, approximately 4300K mixed light, soft natural contrast.
+GRADE: warm luxurious daytime palette of white marble, cream and polished gold with deep wood-brown shelving, soft natural contrast, warm natural skin tones.
+No text, letters, numbers or logos anywhere in the image.
+Show only the starting moment, before any planned movement begins.
+No captions, subtitles, labels, watermarks, or any panels other than these two.

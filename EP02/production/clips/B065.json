@@ -1,0 +1,90 @@
+{
+  "clip": "B065",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Image/EP02_B065_T01.png",
+        "job": "01a16293-9940-7ad0-8330-8e17f0e72fd8",
+        "result": "ok",
+        "qc": "ผ่าน: เห็นแค่ขา 3 คน วิทย์กลาง รองเท้าดาร์บี้ดำบนเส้นเหลืองทแยง ไม่มีชายโค้ต",
+        "cost": 0.25
+      },
+      {
+        "take": 2,
+        "file": "EP02/Image/EP02_B065_T02.png",
+        "job": "01a162a3-47f8-7b01-a1e8-88715b76bb60",
+        "result": "ok",
+        "qc": "ผ่าน: เส้นเหลืองเส้นเดียวกลาง (ตรง B060) ขา 3 คน วิทย์กลาง รองเท้าดาร์บี้ ไม่มีชายโค้ต; ขาซ้ายวิทย์ถูกขาขวาบังเกือบหมด",
+        "cost": 0.25
+      },
+      {
+        "take": 3,
+        "file": "EP02/Image/EP02_B065_T03.png",
+        "job": "01a162b9-638c-7022-a484-5bbca0a20518",
+        "result": "fail",
+        "qc": "พื้นมันเทาอ่อนใกล้ B060 แต่เส้นเป็นสีเหลืองมัสตาร์ดเข้ม ไม่ใช่เหลืองอ่อนแบบ B060 พื้นออกเทามากกว่าขาว",
+        "cost": 0.25
+      },
+      {
+        "take": 4,
+        "file": "EP02/Image/EP02_B065_T04.png",
+        "job": "01a162bc-48aa-7d91-8344-c63be2ff6be6",
+        "result": "ok",
+        "qc": "ผ่าน พื้นขาวเทามันเงา เส้นเหลืองอ่อนเส้นเดียวกลาง สีวัดได้ใกล้ B060 (เส้น 214,188,115 vs 215,186,100; พื้น 206,208,213 vs 194,197,203) ขา 3 คน วิทย์กลาง รองเท้าดาร์บี้ดำ",
+        "cost": 0.25
+      }
+    ],
+    "selected": "EP02/Image/EP02_B065_T04.png",
+    "prompt_sha": "526ac2e510ab",
+    "flag": null,
+    "facts": "Low floor-level close-up of three men's legs walking toward the camera on a glossy near-white hospital floor: Wit's black trousers and black cap-toe derby shoes in the center, his right shoe stepping beside the single narrow pale-yellow center line that runs toward the lens; two bodyguards' black trousers and shoes softly blurred behind at screen-left and screen-right. Frame top cuts below the knees; no faces, no walls in focus.",
+    "reset_at": 2
+  },
+  "video": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Video/EP02_B065_T01.mp4",
+        "job": "837818a4-7a33-99ad-b750-6f9e4434d6af",
+        "result": "fail",
+        "qc": "กล้องเลื่อน/เปลี่ยนกรอบหลัง 1 วิ ขาเพิ่มเป็น 4-5 คู่ (เกิน 3 คน) ท้ายคลิปมีป้ายแดงคล้าย EXIT มุมขวาบน",
+        "cost": 0.32
+      },
+      {
+        "take": 2,
+        "file": "EP02/Video/EP02_B065_T02.mp4",
+        "job": "3905799f-9aab-956f-8d17-111d308626b8",
+        "result": "ok",
+        "qc": "4.04 วิ ขา 3 คน (การ์ดซ้าย·วิทย์กลาง·การ์ดขวา) กรอบใต้เข่าคงที่ รองเท้าดาร์บี้ก้าวบนเส้นเหลือง drift=การเดิน ไม่มีป้าย",
+        "cost": 0.32
+      },
+      {
+        "take": 3,
+        "file": "EP02/Video/EP02_B065_T03.mp4",
+        "job": "09173880-d8f4-9222-abf4-3f2a86d2f0c9",
+        "result": "ok",
+        "qc": "4.04 วิ ขา 3 คน วิทย์กลางบนเส้นเหลืองเส้นเดียว (ตรง B060) ไม่มีป้าย/ตัวอักษร; กล้องเลื่อนถอยตามเท้าเล็กน้อย (drift=การเดิน ไม่ตัด) เฟรมแรกกว้างกว่าภาพตั้งต้นเล็กน้อย",
+        "cost": 0.32
+      },
+      {
+        "take": 4,
+        "file": "EP02/Video/EP02_B065_T04.mp4",
+        "job": "e75c35f8-7043-9f64-8356-955ebb8f7140",
+        "result": "ok",
+        "qc": "ผ่าน 4.04s ขา 3 คน วิทย์กลาง พื้นขาวมันเส้นเหลืองอ่อนเส้นเดียวคงที่ตรง B060; drift 0.213 suspect=เท้าวิทย์ก้าวเข้าหากล้องตาม ACTION ไม่ใช่ตัด/ถอยกล้อง",
+        "cost": 0.32
+      }
+    ],
+    "selected": "EP02/Video/EP02_B065_T04.mp4",
+    "prompt_sha": "ac20c8fd5536",
+    "flag": null,
+    "reset_at": 3
+  },
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo",
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
+}

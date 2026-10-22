@@ -1,0 +1,37 @@
+{
+  "clip": "B020",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Image/EP02_B020_T01.png",
+        "job": "01a16293-57dd-77f1-8912-983394b8f3c6",
+        "result": "ok",
+        "qc": "ผ่าน ลำดับ วิทย์-พ่อ-แม่ ถูก ไม่มีตัวอักษร",
+        "cost": 0.25
+      }
+    ],
+    "selected": "EP02/Image/EP02_B020_T01.png",
+    "prompt_sha": "7847a13f3a73",
+    "flag": null,
+    "facts": "Wide shot across the marble table: Wit seated at the left end in profile facing right, eating with chopsticks in his right hand, a phone lying on the table beside his bowl; his father seated center-right on the far side facing camera with a spoon; his mother at the right end seen three-quarter from behind, holding chopsticks. Glass cabinet and wooden shelf with gold sculptures behind, crystal chandelier at top, blurred cream flowers across the bottom foreground."
+  },
+  "video": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Video/EP02_B020_T01.mp4",
+        "job": "47684853-04da-9e7d-9832-3468ad72649d",
+        "result": "ok",
+        "qc": "ผ่าน 3.04s มีเสียง ไม่ตัดภาพ ลำดับคงที่ drift 0.045",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP02/Video/EP02_B020_T01.mp4",
+    "prompt_sha": "a92c18cff408",
+    "flag": null
+  },
+  "notes": []
+}

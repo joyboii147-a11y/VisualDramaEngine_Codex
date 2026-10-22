@@ -1,0 +1,37 @@
+{
+  "clip": "B056",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Image/EP02_B056_T01.png",
+        "job": "01a16293-741f-71c0-9b8b-14a4f1f38941",
+        "result": "ok",
+        "qc": "ผ่าน: กระจกมองหลังสะท้อนตา คิ้ว หน้าม้าวิทย์ ไม่มีตัวอักษรอ่านได้",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP02/Image/EP02_B056_T01.png",
+    "prompt_sha": "2eee35cd696a",
+    "flag": null,
+    "facts": "Close-up of a black-housed rearview mirror slightly tilted in the upper-middle of the frame, reflecting only Wit's eyes, brows and black fringe looking straight out. Black headliner and overhead light console above; blurred green forested hills through the windshield fill the lower half. No body or driver visible."
+  },
+  "video": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Video/EP02_B056_T01.mp4",
+        "job": "6f905120-cd15-926d-8e49-fb72300b9de3",
+        "result": "ok",
+        "qc": "3.04 วิ กระจกนิ่ง ตาสะท้อนคงที่ วิวเคลื่อน ไม่มีคนเพิ่ม",
+        "cost": 0.24
+      }
+    ],
+    "selected": "EP02/Video/EP02_B056_T01.mp4",
+    "prompt_sha": "2bde04128a5f",
+    "flag": null
+  },
+  "notes": []
+}

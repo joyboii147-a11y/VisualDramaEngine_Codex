@@ -1,0 +1,44 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP02-S002 | Clip: A002 (A-roll) | SC01 ห้องตรวจแพทย์ โรงพยาบาล (L05) กลางวัน
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 4 วิ | เสียงโหมด A
+#
+# ตัวละครในเฟรม (รวม 2 คน):
+# - หมอ C17-W01 เสื้อกาวน์ขาว+สครับกรมท่า (ไม่มีข้อความปัก ไม่ใส่แว่น) | ครึ่งตัว (MCU ถึงอก) หน้า 3/4 มองซ้ายเฟรม ปากปิดตลอด พยักหน้าช้าหนึ่งครั้ง | กลางเฟรม
+# - ไอริน C04-W19 ชุดนักศึกษา (ฮู้ดซิปเทา ไม่มีแว่น) | เห็นแค่ผมยาวและขอบแก้มขวาเบลอ ไม่เห็นตา | ขอบซ้าย ฉากหน้า
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - มีอา C16-W01 | นอกเฟรมขวา-หลังกล้อง พูด D002 แบบ OS
+#
+# แนบใน Grok: ภาพที่เลือกจาก EP02_A002_image
+# ผู้พูด: มีอา OS | คนในเฟรมที่ไม่พูด: หมอ, ไอริน
+# [ตรวจเสียง] ภาพต้นฉบับเป็นหมอกำลังพูด แต่บทเป็นมีอา ตาม Ledger — รอผู้ใช้ฟังยืนยัน
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+EP02_A002 SHOT EP02-S002. One continuous cinematic live-action medium close-up, vertical 9:16.
+TARGET DURATION: 4 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
+SCENE GEOGRAPHY: a bright, clean hospital consultation room in daytime. The doctor sits in a high-backed black leather executive chair behind a glossy black glass desk with a silver metal frame; behind her is a softly defocused off-white wall with a shelf of trailing ivy at the upper left. The near edge of the black glass desktop runs along the bottom of the frame. Irin's blurred long hair and right cheek edge are at the left edge.
+VISIBLE CAST: exactly two people. The doctor, a Thai woman in her late thirties to early forties with dark brown hair in a low ponytail and loose face-framing strands, no glasses, small stud earrings, wearing a crisp white lab coat worn open with notch lapels and a chest pocket, plain with no embroidered text, over a navy blue V-neck scrub top, a black stethoscope draped around her neck. She sits upright, face three-quarter toward screen-left, eyes on Irin, hands clasped on the desktop. Irin, a young Thai woman with long straight dark brown hair worn loose, no glasses, in a heather-gray hoodie, is seen only as blurred hair and the edge of her right cheek at the left edge; her eyes, nose and mouth are not visible. FRAME ORDER from screen-left to screen-right: Irin (blurred hair and right cheek edge, left edge) · the doctor (center).
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: on the patient side of the desk between the two patient chairs and slightly behind them, looking straight across the desk toward the doctor and the off-white wall beyond; seated eye level; medium close-up, framed from mid-chest up, face about 35% of the frame height; 65mm full-frame equivalent, about 1.5 meters away.
+FOREGROUND / VISIBLE BACKGROUND: foreground owner is Irin (blurred long dark brown hair and right cheek edge, eyes not visible, left sixth of the frame) and the near edge of the black glass desktop at the bottom; softly defocused off-white wall, ivy shelf at upper left, black leather chair back behind the doctor.
+OFF-FRAME: the woman whose voice is heard is outside the frame, beyond the right side of the camera. No one else enters the frame at any time.
+LIGHTING / COLOR: soft diffused daylight from a roller-blind window at screen-left, a soft key on the screen-left side of the doctor's face, cool-neutral white ceiling fill, approximately 5000K, soft low contrast with gentle reflections on the black glass; bright clean clinic palette of off-white, pale gray and glossy black glass with the green ivy, slightly cool-neutral whites, natural fair skin tones.
+PROP STATE: the doctor's hands are empty and clasped on the black glass desktop at the bottom of the frame.
+START STATE: the doctor sits upright, hands clasped on the desk, brows slightly drawn, serious attentive expression, eyes on Irin at screen-left, lips closed. Irin is still.
+PERFORMANCE CONTEXT: the doctor listens to an off-screen answer given on Irin's behalf, staying neutral and professional while keeping her attention on Irin.
+ACTION: While the off-screen voice speaks, the doctor keeps her lips closed and listens without speaking, her eyes on Irin. After the voice ends, she gives one slow, small nod, eyes still on Irin, hands remaining clasped on the desk. Irin's blurred hair and cheek stay still.
+END STATE: the doctor upright, hands clasped on the desk, gaze held on Irin at screen-left, serious expression, lips closed. She stays still until the very end of the clip; the framing does not change.
+CAMERA: locked-off, the framing never changes.
+VISUAL CONTINUITY: Preserve the starting image's faces, hair, wardrobe, set geometry, lighting character and color treatment. Allow only the specified actions. No unplanned cuts, added people, identity swaps or prop teleportation. No text or lettering appears on the lab coat.
+AUDIO MODE: generated dialogue.
+SPEECH EVENT 1:
+SPEAKER: Mia, an off-screen young woman (OS), not visible in the frame.
+EXACT THAI DIALOGUE: "ต้องทำแท้งอยู่แล้ว"
+VOICE IDENTITY: young Thai female voice, bright quick mid register, slightly nasal lively timbre, standard Thai accent
+DELIVERY: quick and firm, slightly raised pitch, confidently answering for her friend to close the matter.
+The speaker is not visible; no visible person lip-syncs to this voice.
+NON-SPEAKERS: the doctor and Irin; no speech-like lip movements. The doctor's lips stay closed for the whole clip.
+Speak only the assigned dialogue exactly once, without paraphrasing or added words.
+Do not stretch speech to fill the clip. No unassigned voices.
+AFTER SPEECH: the doctor's single slow nod, then a still hold with her gaze on Irin until the cut.
+AMBIENCE/SFX: faint quiet clinic room tone; no music, no chatter.

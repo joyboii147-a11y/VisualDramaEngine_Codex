@@ -1,0 +1,33 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP02-S009 | Clip: B009 (B-roll) | SC01 ห้องตรวจแพทย์ โรงพยาบาล (L05) กลางวัน
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 3 วิ | เสียงโหมด C
+#
+# ตัวละครในเฟรม (รวม 1 คน):
+# - ไอริน C04-W19 ชุดนักศึกษา (ฮู้ดซิปเทา) | เห็นแค่มือขวาถือนามบัตร P16 และปลายแขนฮู้ดเทา ไม่เห็นหน้า | มือกลางเฟรม ปลายแขนเข้ามาจากขวาเฟรม
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - ไม่มี (มีอาและหมออยู่ในห้องนอกเฟรม — prompt ไม่เอ่ยถึง)
+#
+# แนบใน Grok: ภาพที่เลือกจาก EP02_B009_image
+# ผู้พูด: ไม่มี | คนในเฟรมที่ไม่พูด: ไอริน (มือเท่านั้น)
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+EP02_B009 SHOT EP02-S009. One continuous cinematic live-action insert close-up, vertical 9:16.
+TARGET DURATION: 3 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
+SCENE GEOGRAPHY: a glossy black glass desktop fills the background, with a thin polished silver metal edge running horizontally across the lower part of the frame. A business card is held in a right hand just above the glass in the center of the frame.
+VISIBLE CAST: exactly one person, seen only as a right hand and sleeve end: Irin's slim young woman's right hand with natural short nails, no rings, no nail polish, and the end of a heather-gray hoodie sleeve with a ribbed cuff entering from screen-right. FRAME ORDER from screen-left to screen-right: the business card in Irin's right hand (center) · her gray hoodie sleeve entering from the right edge.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: above Irin's right hand, high angle, looking down onto the card and the black glass desktop; insert close-up, the card filling about the middle half of the frame width; 50mm full-frame equivalent.
+FOREGROUND / VISIBLE BACKGROUND: no foreground object; the glossy black glass desktop with faint soft reflections of window light, and the silver metal edge near the bottom. No other objects on the visible glass.
+OFF-FRAME: nothing is needed off-frame; no other hand appears. No one else enters the frame at any time.
+LIGHTING / COLOR: soft diffused daylight from a roller-blind window beyond the top of the frame, cool-neutral white ceiling fill, approximately 5000K, soft low contrast with gentle reflections on the black glass; bright clean clinic palette of off-white, pale gray and glossy black glass, slightly cool-neutral whites, natural fair skin tones.
+PROP STATE: one standard-size off-white matte business card with a thin vertical copper-gold stripe near the left edge and a small dark geometric emblem in the top-right corner, printed with two short centered lines of black Thai type (a company name in larger bold letters above a phone number in smaller letters), exactly as in the starting image, held face up and level in Irin's right hand, thumb pressing its near edge.
+START STATE: the card is held still and flat, face up, a few centimeters above the black glass in the center of the frame; the hand relaxed and steady, the sleeve cuff at the wrist.
+PERFORMANCE CONTEXT: Irin has quietly made up her mind to contact the child's father; the hand is calm and decisive, not trembling.
+ACTION: Irin's right hand lifts the card slowly and slightly higher above the desk, keeping it flat and face up in the center of the frame, the thumb pressing firmly on its edge. The card then holds perfectly still, without any shake. The two printed lines stay sharp, unchanged and uncovered throughout; nobody reads them aloud.
+END STATE: the card held still and level, face up, in the center of the frame above the black glass, the thumb on its edge, the gray sleeve cuff at screen-right. It stays still until the very end of the clip; the framing does not change.
+CAMERA: locked-off, the framing never changes. No zoom, no tilt up toward the person.
+VISUAL CONTINUITY: Preserve the starting image's hand, sleeve, card design, set geometry, lighting character and color treatment. Allow only the specified actions. No unplanned cuts, added people or hands, prop teleportation, or any change to the text printed on the card.
+AUDIO MODE: no dialogue.
+No intelligible speech or speech-like lip-sync.
+AMBIENCE/SFX: quiet clinic room tone, a very faint soft brush of fingertips on card stock; no music, no voices.

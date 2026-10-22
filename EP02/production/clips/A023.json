@@ -1,0 +1,45 @@
+{
+  "clip": "A023",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": null,
+        "job": "01a16293-6b5a-76f3-83e0-f0c0e09f2e5c",
+        "result": "fail",
+        "qc": "fal HTTP 500 downstream_service_error",
+        "cost": 0.0
+      },
+      {
+        "take": 2,
+        "file": "EP02/Image/EP02_A023_T02.png",
+        "job": "01a16297-4485-7a83-b0ff-113f6bd866c7",
+        "result": "ok",
+        "qc": "ผ่าน ลำดับ วิทย์(OTS)-พ่อ-แม่ ถูก ไม่มีตัวอักษร พ่อมองเกือบตรงเลนส์",
+        "cost": 0.25
+      }
+    ],
+    "selected": "EP02/Image/EP02_A023_T02.png",
+    "prompt_sha": "e06d8e2303fb",
+    "flag": null,
+    "facts": "Over-the-shoulder from behind Wit: the back of Wit's head and his black-suited right shoulder fill the left foreground, slightly soft; Wit's father in a grey three-piece suit sits center-left on the far side of the marble table; Wit's mother in the champagne lace cape gown sits at the right holding chopsticks mid-air, facing the camera obliquely. Dark glass cabinet behind the father, sheer-curtained bright window behind the mother."
+  },
+  "video": {
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Video/EP02_A023_T01.mp4",
+        "job": "3e88533a-1c8d-9abe-bef9-9b7501decf65",
+        "result": "ok",
+        "qc": "ผ่าน 6.04s มีเสียง แม่พูด พ่อนิ่ง ไม่ตัดภาพ drift 0.016",
+        "cost": 0.12
+      }
+    ],
+    "selected": "EP02/Video/EP02_A023_T01.mp4",
+    "prompt_sha": "c90e9c05f857",
+    "flag": "ต้องฟังลิปซิงก์"
+  },
+  "notes": []
+}

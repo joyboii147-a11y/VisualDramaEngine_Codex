@@ -1,0 +1,57 @@
+{
+  "clip": "A030",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Image/EP02_A030_T01.png",
+        "job": "01a16293-9677-7630-962a-ac72aa422493",
+        "result": "ok",
+        "qc": "ผ่าน",
+        "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP02/Image/EP02_A030_T02.png",
+        "job": "01a162b9-4ea5-7511-8703-ca9447c94d6e",
+        "result": "ok",
+        "qc": "ผ่าน iPhone ดำแนบหูขวา มือขวา สบตากล้องเหมือน T01",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP02/Image/EP02_A030_T02.png",
+    "prompt_sha": "c771cc96c7d8",
+    "flag": null,
+    "facts": "Medium close-up: Wit alone, centered, black suit and black tie, seated at a marble dining table, holding a black iPhone 16 Pro Max to his right ear with his right hand (screen-left), eyes toward the lens. Blue-and-white rice bowl, water glass and dishes in the foreground; gray wall and lit glass cabinet behind at screen-right.",
+    "reset_at": 1
+  },
+  "video": {
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Video/EP02_A030_T01.mp4",
+        "job": "10be8f6c-ab44-9790-a67c-5788b7c59abc",
+        "result": "ok",
+        "qc": "ผ่าน 3.04s มีเสียง ตาเบิก โทรศัพท์หูขวาคงที่ drift 0.107",
+        "cost": 0.24
+      },
+      {
+        "take": 2,
+        "file": "EP02/Video/EP02_A030_T02.mp4",
+        "job": "9e805fa1-ae42-967d-be96-c145e3a87d7c",
+        "result": "ok",
+        "qc": "ผ่าน 3.04s มีเสียง ตาเบิก iPhone ดำหูขวาคงที่ ไม่ตัดภาพ drift 0.086",
+        "cost": 0.24
+      }
+    ],
+    "selected": "EP02/Video/EP02_A030_T02.mp4",
+    "prompt_sha": "136d7cc7e309",
+    "flag": "ต้องฟังลิปซิงก์",
+    "reset_at": 1
+  },
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "clip": "B020",
+  "endpoint": "openai/gpt-image-2/edit",
+  "quality": "high",
+  "refs": [
+    "input/characters/พ่อวิทย์/พ่อวิทย์ W01 ชุดสูท.webp",
+    "input/characters/วิทย์/วิทย์ W01.png",
+    "input/characters/แม่วิทย์/แม่วิทย์ W01 ชุดออกงาน.png"
+  ],
+  "out_file": "EP02/Image/EP02_B020_T01.png",
+  "prompt_chars": 6487,
+  "status": "done",
+  "request_id": "01a16293-57dd-77f1-8912-983394b8f3c6",
+  "status_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a16293-57dd-77f1-8912-983394b8f3c6/status",
+  "response_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a16293-57dd-77f1-8912-983394b8f3c6",
+  "submitted": "2026-10-22 14:46:25",
+  "width": null,
+  "height": null,
+  "finished": "2026-10-22 14:48:01"
+}

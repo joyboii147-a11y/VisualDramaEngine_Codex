@@ -1,0 +1,36 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP02-S022 | Clip: B022 (B-roll) | SC02 ห้องอาหารบ้านวิทย์ (L06) กลางวัน
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 3 วิ | เสียงโหมด C
+#
+# ตัวละครในเฟรม (รวม 1 คน):
+# - พ่อวิทย์ C12-W02 สูทสามชิ้นเทา ไม่มีแว่น | ครึ่งตัว (MCU) หน้าตรง มองซ้ายเฟรม เม้มปาก คิ้วขมวด | กลางเฟรม
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - วิทย์ | นอกกรอบซ้าย — กล้องห้ามแพนตาม
+# - แม่วิทย์ | นอกกรอบขวา
+#
+# แนบใน Grok: ภาพที่เลือกจาก EP02_B022_image
+# ผู้พูด: ไม่มี | คนในเฟรมที่ไม่พูด: พ่อวิทย์ (ปากปิดตลอด)
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+EP02_B022 SHOT EP02-S022. One continuous cinematic live-action medium close-up, vertical 9:16.
+TARGET DURATION: 3 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
+SCENE GEOGRAPHY: inside the frame: Wit's father seated on the far side of a white marble dining table, a blurred glass display cabinet behind him at screen-left and blurred red-brown wooden shelving and a beige wall at screen-right.
+VISIBLE CAST: exactly one person: Wit's father, a distinguished Thai man in his late fifties, wearing a medium heather-gray suit jacket with a matching buttoned waistcoat, a pale blue-and-white pinstriped dress shirt and a navy silk tie with small white polka dots; no glasses; short salt-and-pepper hair swept back. He sits upright facing the camera, eyes turned toward screen-left. FRAME ORDER from screen-left to screen-right: Wit's father (center).
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: on the open near long side of the table, directly opposite Wit's father, at seated eye level; straight across the table toward Wit's father and the display-cabinet wall beyond him; MEDIUM CLOSE-UP. Framed from mid-chest up; the face fills about 35% of the frame height. 65mm full-frame equivalent, about 1.5 meters away, seated eye level, frontal view.
+SET IN FRAME: a blurred dark-gray-framed glass display cabinet on screen-left behind him; blurred dark red-brown wooden shelving and a beige wall on screen-right. Keep this layout; do not move or mirror it.
+FOREGROUND / VISIBLE BACKGROUND: no foreground object; the blurred dark-gray-framed glass display cabinet on screen-left and the blurred red-brown wooden shelving and beige wall on screen-right.
+OFF-FRAME: the person he looks at is beyond the left frame edge; only his eyes are directed there; the camera does not follow his gaze. No one else enters the frame at any time.
+LIGHTING / COLOR: window daylight from screen-right as the key on the screen-right side of his face, warm chandelier and gold cove fill from above, approximately 4300K, soft natural contrast; warm luxurious daytime palette of white marble, cream and polished gold with deep wood-brown shelving, soft natural contrast, warm natural skin tones.
+PROP STATE: no objects in frame; his hands stay below the frame edge.
+START STATE: Wit's father sits upright facing the camera, head and eyes turned toward screen-left, toward the left end of the table, still and listening. Face neutral and composed, lips relaxed and closed. Both hands rest on the table below the frame edge.
+PERFORMANCE CONTEXT: he has just heard his son dismiss every woman they suggested; he is quietly displeased but lets his wife do the talking.
+ACTION: He keeps looking toward screen-left without moving his head. His lips press together into a thin line and his brows draw together slightly. He does not speak.
+END STATE: Lips pressed together, brows slightly drawn, eyes still toward screen-left, hands below the frame. He stays still in this position until the very end of the clip; the framing does not change.
+CAMERA: locked-off, the framing never changes. No pan, no tilt, no push-in, no reframing.
+VISUAL CONTINUITY: Preserve the starting image's faces, hair, wardrobe, set geometry, lighting character and color treatment. Allow only the specified actions. No unplanned cuts, added people, identity swaps or prop teleportation.
+AUDIO MODE: no dialogue.
+No intelligible speech or speech-like lip-sync. His lips stay closed for the whole clip.
+AMBIENCE/SFX: quiet warm dining-room tone only; no music, no chatter.
+No captions, subtitles, text or watermarks appear at any time.

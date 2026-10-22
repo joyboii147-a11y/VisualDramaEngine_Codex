@@ -1,0 +1,34 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP02-S058 | Clip: B058 (B-roll) | SC05 ถนนชนบทเชิงเขา (L08) กลางวัน — ภาพกว้างรถวิ่ง
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 4 วิ | เสียงโหมด C
+#
+# ตัวละครในเฟรม (รวม 0 คน):
+# - ไม่มีคนที่เห็น (P17 รถซีดานดำ + P18 รถเทาเข้ม กระจกสะท้อนแสง)
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - ไม่มี
+#
+# แนบใน Grok: ภาพที่เลือกจาก EP02_B058_image
+# ผู้พูด: ไม่มี | คนในเฟรมที่ไม่พูด: ไม่มี
+# กล้อง: แพนตามรถไปทางขวา (Shot สั่ง) จบเมื่อรถผ่านกลางเฟรมไปขวา
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+EP02_B058 SHOT EP02-S058. One continuous cinematic live-action wide shot, vertical 9:16.
+TARGET DURATION: 4 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
+SCENE GEOGRAPHY: a two-lane asphalt country road at the foot of green pine-covered hills on a clear sunny day, running across the frame from screen-left to screen-right, with a double yellow center line in the lower third. A glossy black full-size luxury sedan drives on the near lane toward screen-right; a smaller dark gray car follows far behind on the same lane at the far left. The double yellow center line runs just beyond the black sedan, between it and the empty far lane; only the near lane's asphalt lies between the camera and the sedan. Behind them: dry grassy slopes, pine hills, a small orange-roofed house at the far left, a line of utility poles on the right, clear blue sky above.
+VISIBLE CAST: no people are visible. The cars' tinted windows reflect the bright sky; no one inside can be seen. FRAME ORDER from screen-left to screen-right: the dark gray following car (small, far) · the black luxury sedan (center).
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: standing at the near roadside at eye level, facing across the road toward the hills; wide shot; 28mm full-frame equivalent.
+FOREGROUND / VISIBLE BACKGROUND: a narrow strip of the near asphalt lane at the bottom; pine-covered hills, dry slopes, utility poles and blue sky behind. No road signs, no billboards, no readable text; the sedan's front plate stays a plain blank plate with no characters and it carries no brand badge.
+OFF-FRAME: the road continues beyond both frame edges. No one else enters the frame at any time.
+LIGHTING / COLOR: hard high sun from the side, crisp shadows under both cars, bright moving reflections on the black sedan's glossy paint, approximately 5600K, medium-high contrast; crisp clear-sky blue with green pine hills and glossy black paint.
+PROP STATE: the black sedan in the center of the near lane, front three-quarter toward the camera; the dark gray car small and distant at the far left on the same lane.
+START STATE: the black sedan is in the center of the frame moving fast toward screen-right; the dark gray car follows far behind at the far left.
+PERFORMANCE CONTEXT: urgency; the cars are racing to reach someone.
+ACTION: The black sedan speeds along the near lane toward screen-right and sweeps past the camera's position, its glossy body flashing sunlight; the dark gray car keeps following on the same lane and grows slightly larger, staying on the screen-left side. A light swirl of dust and air follows the cars.
+END STATE: the black sedan has drifted just right of center, its rear three-quarter now turning away; the dark gray car has grown slightly larger, still on the screen-left side, still following. The camera holds this final framing until the very end of the clip.
+CAMERA: one smooth continuous pan from left to right following the black sedan; the pan lags slightly behind the sedan so it drifts just right of center; then the camera stops and holds still to the end. No zoom, no cut.
+VISUAL CONTINUITY: Preserve the starting image's road, hills, sky, utility poles, car shapes and colors, sunlight direction and color treatment. Allow only the specified car movement and camera pan. No unplanned cuts, added people, added vehicles, identity swaps or prop teleportation.
+AUDIO MODE: no dialogue.
+No intelligible speech or speech-like lip-sync.
+AMBIENCE/SFX: a fast car whooshing past the roadside with tire hiss on asphalt, a second car's engine approaching behind it, light wind; no music, no voices, no horns.

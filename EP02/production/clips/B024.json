@@ -1,0 +1,37 @@
+{
+  "clip": "B024",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Image/EP02_B024_T01.png",
+        "job": "01a16293-70c5-7bc0-a3e9-926c4d2dd87a",
+        "result": "ok",
+        "qc": "ผ่าน",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP02/Image/EP02_B024_T01.png",
+    "prompt_sha": "32f40934aba0",
+    "flag": null,
+    "facts": "Medium close-up of Wit in a black suit, seated slightly left of center, body turned three-quarter, looking near the lens with a still, tense face; empty space and the edge of a glass cabinet at screen-right. Dishes and a water glass on the marble table at the bottom."
+  },
+  "video": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Video/EP02_B024_T01.mp4",
+        "job": "69fefc8b-ed59-9508-aef8-1fe9c1f90548",
+        "result": "ok",
+        "qc": "ผ่าน 3.04s ก้มมองชาม ไม่ตัดภาพ drift 0.053",
+        "cost": 0.24
+      }
+    ],
+    "selected": "EP02/Video/EP02_B024_T01.mp4",
+    "prompt_sha": "5af1450b3d34",
+    "flag": null
+  },
+  "notes": []
+}

@@ -1,0 +1,57 @@
+{
+  "clip": "A028",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Image/EP02_A028_T01.png",
+        "job": "01a16293-877a-7130-805d-c2fda2385ed5",
+        "result": "ok",
+        "qc": "ผ่าน",
+        "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP02/Image/EP02_A028_T02.png",
+        "job": "01a162b9-3fc9-7ba0-8066-cd170128d174",
+        "result": "ok",
+        "qc": "ผ่าน iPhone ดำ กล้อง 3 ตัวมุมบน ไม่มีโลโก้ ถือมือขวา (ซ้ายเฟรม) เหมือน T01",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP02/Image/EP02_A028_T02.png",
+    "prompt_sha": "a0444d9a683e",
+    "flag": null,
+    "facts": "Medium close-up: Wit alone, centered, black suit, white shirt, black tie, seated at a marble dining table, looking down at a black iPhone 16 Pro Max held upright in his right hand at screen-left, phone back with triple camera facing the lens. Rice bowl, water glass and dishes in the foreground; gray wall and dark glass cabinet behind at screen-right.",
+    "reset_at": 1
+  },
+  "video": {
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Video/EP02_A028_T01.mp4",
+        "job": "434bb322-9efc-974e-b1aa-de86df578f16",
+        "result": "ok",
+        "qc": "ผ่าน 3.04s มีเสียง ยกโทรศัพท์แนบหูขวา (ซ้ายเฟรม) ไม่ตัดภาพ drift 0.078",
+        "cost": 0.24
+      },
+      {
+        "take": 2,
+        "file": "EP02/Video/EP02_A028_T02.mp4",
+        "job": "106d81d2-6014-95b2-b46a-871397bb9148",
+        "result": "ok",
+        "qc": "ผ่าน 3.04s มีเสียง ยก iPhone ดำแนบหูขวา (ซ้ายเฟรม) โทรศัพท์คงรูปเครื่องเดิม ไม่ตัดภาพ drift 0.079",
+        "cost": 0.24
+      }
+    ],
+    "selected": "EP02/Video/EP02_A028_T02.mp4",
+    "prompt_sha": "985f8b660be4",
+    "flag": "ต้องฟังลิปซิงก์",
+    "reset_at": 1
+  },
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo"
+  ]
+}

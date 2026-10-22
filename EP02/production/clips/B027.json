@@ -1,0 +1,76 @@
+{
+  "clip": "B027",
+  "image": {
+    "status": "todo",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Image/EP02_B027_T01.png",
+        "job": "01a16293-821d-79c3-8503-34d27cee733e",
+        "result": "ok",
+        "qc": "ผ่าน จอมีแค่ไอคอนรับ/วางสาย ไม่มีตัวอักษรหรือตัวเลข",
+        "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP02/Image/EP02_B027_T02.png",
+        "job": "01a162b9-399a-79c0-8f55-fa82f330123f",
+        "result": "ok",
+        "qc": "ผ่าน iPhone ดำขอบแบน Dynamic Island จอสายเรียกเข้ามีแค่ไอคอนรับ/วาง ไม่มีตัวอักษร/ตัวเลข มือขวา แขนสูทดำข้อมือขาวจากขวา",
+        "cost": 0.06
+      }
+    ],
+    "selected": null,
+    "prompt_sha": "0d3fb0cd2830",
+    "flag": null,
+    "facts": "Overhead insert: Wit's right hand, entering from screen-right in a black suit sleeve with white shirt cuff, holds a black flat-edged iPhone 16 Pro Max face-up over a white marble dining table; the screen shows only a blurred blue-amber incoming-call background with a red decline and green accept icon and no readable text or numbers. Rice bowl, chopsticks, spoon and dishes at screen-left.",
+    "reset_at": 2
+  },
+  "video": {
+    "status": "todo",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Video/EP02_B027_T01.mp4",
+        "job": "90da7844-942e-90da-be8e-6a9ebc2f6253",
+        "result": "ok",
+        "qc": "ผ่าน 3.04s จอไม่มีตัวอักษร ปุ่มรับสายจางหายตอนท้าย (รับสาย) drift 0.069",
+        "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP02/Video/EP02_B027_T02.mp4",
+        "job": "4c212050-a1cf-9898-8b7c-d1a50f74d143",
+        "result": "fail",
+        "qc": "ไม่ผ่าน: โทรศัพท์ morph กลางคลิป จากหน้าจอมี Dynamic Island กลายเป็นกล้อง 3 ตัวโผล่ด้านจอ และมีตัวหนังสือเล็กใต้ไอคอนรับ/วาง",
+        "cost": 0.06
+      },
+      {
+        "take": 3,
+        "file": "EP02/Video/EP02_B027_T03.mp4",
+        "job": "f09cc03d-1df1-95ff-adf0-35c231bf242e",
+        "result": "fail",
+        "qc": "iPhone ดำคงรูป ไม่มีตัวอักษร แต่นิ้วโป้งแตะปุ่มแดงฝั่งซ้าย (ดูเหมือนกดวางสาย) ขัด ACTION รับสายปุ่มเขียว จอเปลี่ยนเป็นวอลเปเปอร์ + ไอคอนแถบสถานะเล็ก drift 0.066",
+        "cost": 0.06
+      },
+      {
+        "take": 4,
+        "file": "EP02/Video/EP02_B027_T04.mp4",
+        "job": "c58aca61-0707-93ac-80e8-32a6bda46c1b",
+        "result": "fail",
+        "qc": "iPhone ดำคงรูปตลอด กล้องนิ่ง นิ้วโป้งปัดผ่านแถบปุ่มล่าง แต่มีตัวหนังสือจิ๋วใต้ไอคอนรับ/วางตลอดคลิป และ ~2.6s ปุ่มแดงกลายเป็นไอคอนขาว ~2.8s มีแถบปุ่มมีข้อความโผล่ drift 0.027",
+        "cost": 0.06
+      }
+    ],
+    "selected": null,
+    "prompt_sha": "fbb2d8f0b8bf",
+    "flag": "ครบ 3 take ไม่ผ่านเต็ม: เลือก T04 (โทรศัพท์คงรูปที่สุด) ใช้ได้ถึง 2.5s ก่อนแถบข้อความโผล่; มีตัวหนังสือจิ๋วใต้ไอคอนรับ/วาง (อ่านไม่ออกที่ขนาดจริง) และท่านิ้วไม่ชัดว่ากดรับ; ทางเลือก T03 ไม่มีตัวหนังสือแต่นิ้วแตะปุ่มแดง (ดูเหมือนวางสาย)",
+    "reset_at": 4,
+    "usable_until": 2.5
+  },
+  "notes": [
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo",
+    "image prompt เปลี่ยน — รีเซ็ตเป็น todo",
+    "2026-10-22 สร้างภาพใหม่ไม่ได้: fal 403 Exhausted balance"
+  ]
+}

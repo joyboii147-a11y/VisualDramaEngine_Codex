@@ -1,0 +1,37 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP02-S065 | Clip: B065 (B-roll) | SC06 โถงทางเดินโรงพยาบาล (L09) โซน A กลางวัน — อินเสิร์ตเท้า
+# ไฟล์นี้: Image Prompt → GPT Image 2 (9:16) ผ่าน fal.ai หรือ OpenArt
+#
+# ตัวละครในเฟรม (รวม 3 คน):
+# - บอดี้การ์ด C18a C18-W01 (ไม่มีภาพอ้างอิง) | เห็นแค่ขากางเกงดำและรองเท้าหนังดำ ใต้เข่า เบลอเล็กน้อย | ซ้ายหลัง
+# - วิทย์ C05-W11 สูทดำ (วิทย์ W01) | เห็นแค่รองเท้าดาร์บี้หนังดำและปลายขากางเกงสูทดำ ก้าวบนเส้นเหลือง | กลางเฟรม
+# - บอดี้การ์ด C18b C18-W01 (ไม่มีภาพอ้างอิง) | เห็นแค่ขากางเกงดำและรองเท้าหนังดำ ใต้เข่า เบลอเล็กน้อย | ขวาหลัง
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - ไม่มี (ส่วนบนของทุกคนอยู่นอกกรอบ ไม่เห็นหน้าใคร)
+#
+# แนบใน OpenArt: 1) input/characters/วิทย์/วิทย์ W01.png
+# หมายเหตุภาพแนบ: ใช้คุมรองเท้าดาร์บี้และกางเกงสูทดำเท่านั้น ห้ามคัดลอกตัวอักษร "CHARACTER SHEET"/ตาราง; ห้ามมีชายโค้ตเทายาว
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+Create one standalone starting-frame image for SHOT EP02-S065.
+Vertical 9:16. Cinematic live-action still, photorealistic.
+REFERENCE IMAGES:
+Image 1: Wit — use only for his black suit trousers and black leather lace-up derby shoes, the only parts of him visible here. Do not copy the face, background, lighting, pose, camera angle, the multi-view layout, or any text or table from this image.
+CHARACTERS: Wit, seen only from just below the knees down: black suit trousers with a clean break over polished black leather lace-up derby shoes, as in Image 1; no coat hem, no long overcoat. Two bodyguards, seen only from just below the knees down: plain black suit trousers and polished black leather shoes. No faces and no upper bodies are visible.
+CAST COUNT: exactly three people visible, only as lower legs and feet: Wit in the center and two bodyguards farther back at the left and right.
+SCENE GEOGRAPHY: a bright hospital corridor in daytime with a glossy light-gray floor and a single yellow guide line painted down the middle of the corridor; the one straight yellow line runs from the far end toward the camera, through the center of the frame. Three men walk fast along the corridor toward the camera: Wit in the middle, one bodyguard on each side of him, slightly farther from the lens.
+FRAME ORDER: from screen-left to screen-right: bodyguard's lower legs (left, behind) · Wit's black derby shoes mid-step (center) · bodyguard's lower legs (right, behind).
+CAMERA POSITION: on the corridor floor, just above floor level, in front of Wit's feet and slightly to Wit's left (screen-right of his walking line).
+VIEW DIRECTION: low along the floor toward Wit's stepping feet and the bodyguards' legs beyond them.
+SET IN FRAME: the glossy light-gray floor filling the lower half with the single straight yellow line running toward the camera through the center; Wit's shoes and trouser hems in the center; the bodyguards' black trousers and shoes softly blurred behind at the left and at the right; the frame top cuts just below the knees. Keep this layout; do not move or mirror it.
+BETWEEN CAMERA AND SUBJECT: only the glossy floor surface; nothing blocks Wit's feet.
+VISIBLE BACKGROUND: the glossy floor with reflections of overhead fluorescent light, and the bodyguards' lower legs. No walls in focus, no text.
+FLOOR MATCH: the floor must be the same floor as in the wide corridor shot of this group: the same bright near-white glossy surface with cool fluorescent reflections, and the same narrow, pale lemon-yellow center line of the same width and color. If a reference image of that corridor is attached, copy its floor color, gloss, line width and line color exactly; do not copy its people, walls or camera angle.
+OFF-FRAME: everything above the knees is outside the frame. No other person or any part of another person appears in the frame.
+START STATE: Wit's right black derby shoe is striding forward, heel just striking down on a yellow line, the left shoe lifting behind it; black trouser hems swinging. The bodyguards' legs are mid-stride, keeping pace.
+CAMERA: TIGHT CLOSE-UP of the feet. Wit's shoes and lower trouser legs fill about the central half of the frame; the frame top cuts just below the knees. 50mm full-frame equivalent, about 1 meter from Wit's feet, lens about 10 cm above the floor, low angle.
+FOCUS: Wit's shoes sharp; the bodyguards' legs slightly defocused.
+LIGHTING: bright hospital corridor: cool-white overhead fluorescent light reflecting in streaks on the glossy floor, soft shadows under the shoes, approximately 5500K, medium contrast.
+GRADE: cool clinical white and pale gray with yellow floor-line accents, medium contrast.
+Show only the starting moment, before any planned movement begins.
+No captions, subtitles, labels, logos, watermarks, panels or collage. No readable text anywhere in the image.

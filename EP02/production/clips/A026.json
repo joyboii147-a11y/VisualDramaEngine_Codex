@@ -1,0 +1,37 @@
+{
+  "clip": "A026",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Image/EP02_A026_T01.png",
+        "job": "01a16293-7b91-7720-8f80-e99816120081",
+        "result": "ok",
+        "qc": "ผ่าน",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP02/Image/EP02_A026_T01.png",
+    "prompt_sha": "3944fa11273f",
+    "flag": null,
+    "facts": "Medium close-up of Wit centered in a black suit, eyes lowered toward the blue-and-white bowl in front of him, hands out of frame below the table edge. Grey-white wall behind, glass cabinet edge at screen-right."
+  },
+  "video": {
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP02/Video/EP02_A026_T01.mp4",
+        "job": "ff719ada-9948-9ace-a8c3-6c48ca598118",
+        "result": "ok",
+        "qc": "ผ่าน 3.04s มีเสียง ตาต่ำ ไม่ตัดภาพ drift 0.018",
+        "cost": 0.24
+      }
+    ],
+    "selected": "EP02/Video/EP02_A026_T01.mp4",
+    "prompt_sha": "0807fcb237ed",
+    "flag": "ต้องฟังลิปซิงก์"
+  },
+  "notes": []
+}

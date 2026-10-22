@@ -1,0 +1,43 @@
+# ==================== หมายเหตุ — ไม่ต้องก๊อป ====================
+# Shot: EP02-S055 | Clip: A055 (A-roll) | SC05 ภายในรถซีดานดำของวิทย์ (L07) กลางวัน — คลิปเดียวครอบ S055 + S057 (REUSE)
+# ไฟล์นี้: Video Prompt → Grok Imagine | ยาว 6 วิ | เสียงโหมด A
+#
+# ตัวละครในเฟรม (รวม 1 คน):
+# - วิทย์ C05-W11 สูทดำ (วิทย์ W01) ไม่ใส่โค้ต | ครึ่งตัว (MCU ศีรษะถึงอก) นั่งเบาะหลังขวา หน้าเฉียง 3/4 มองซ้ายเฟรม แล้วโน้มตัวไปทางซ้ายเฟรมพูด D022 | กลางเฟรม
+#
+# เกี่ยวข้องแต่ไม่อยู่ในเฟรม:
+# - คนขับรถ (ไม่มีรหัส ไม่มีภาพ) | นอกเฟรมซ้าย-หน้า เป็นคนที่วิทย์สั่ง — กล้องห้ามแพนหรือตัดไปหา
+#
+# แนบใน Grok: ภาพที่เลือกจาก EP02_A055_image
+# ผู้พูด: วิทย์ ON | คนในเฟรมที่ไม่พูด: ไม่มี
+# จังหวะ: 0–3.5 วิ นิ่งเครียด ปากปิด (ใช้เป็น S055 และช่วงที่ B056 แทรก) → ~3.5 วิ โน้มตัวพูด "ขับเร็วอีกหน่อย" (S057 REUSE) → ปากปิดค้างจนจบคลิป
+# ==================== ก๊อปตั้งแต่บรรทัดถัดไป ====================
+EP02_A055 SHOT EP02-S055. One continuous cinematic live-action medium close-up, vertical 9:16.
+TARGET DURATION: 6 seconds including handles.
+Animate the supplied starting image. Use only this request's image and instructions.
+One continuous take: no cuts, no transitions, no dissolves, no fades, no zoom-out or reframing.
+SCENE GEOGRAPHY: the rear cabin of a black luxury sedan moving along a sunny country road in daytime. Wit sits on the right-hand rear seat; the car's right rear side window is beside him at screen-left, showing blurred green pine hills and bare trees sliding past; a tall deep wine-red leather headrest is at screen-right; the black fabric headliner runs across the top of the frame.
+VISIBLE CAST: exactly one person: Wit, a tall young Thai man in his mid-twenties with tousled short black hair and a soft fringe, wearing a black single-breasted suit jacket with notch lapels, a crisp white dress shirt and a slim black necktie; no overcoat, no gray coat. A dark gray seatbelt strap runs from his right shoulder diagonally across his chest. He sits upright, face three-quarter toward screen-left, eyes fixed ahead toward the unseen front of the car. FRAME ORDER from screen-left to screen-right: the rear side window · Wit (center) · the wine-red leather headrest.
+CAMERA POSITION / VIEW DIRECTION / AXIS SIDE: inside the car between the two front seats, slightly toward the car's left side, facing rearward toward Wit; seated eye level; medium close-up from mid-chest up; 65mm full-frame equivalent, about 1.5 meters away.
+FOREGROUND / VISIBLE BACKGROUND: no foreground object; side window glass with blurred moving scenery at screen-left, wine-red leather headrest at screen-right, black headliner above. No logos and no readable text.
+OFF-FRAME: the person Wit speaks to is beyond the left frame edge, toward the front of the car; only his eyes and upper body lean that way; the camera does not follow his gaze. No one else enters the frame at any time.
+LIGHTING / COLOR: soft overcast-bright daylight through the side window at screen-left, a soft key on the screen-left side of Wit's face, dark headliner and wine-red leather absorbing light, approximately 5600K, medium contrast; muted daylight with deep wine-red leather and black, natural warm skin tones. Soft daylight flicker as trees pass the window.
+PROP STATE: the seatbelt is fastened across Wit's chest. No other objects in frame.
+START STATE: Wit sits upright, seatbelt fastened, face three-quarter toward screen-left, eyes ahead toward the front of the car, tense and preoccupied: jaw clenched, brows slightly drawn, lips closed.
+PERFORMANCE CONTEXT: Wit is rushing to reach someone urgently; he is anxious and impatient, holding it in until it turns into a curt order to the driver.
+ACTION: For the first three and a half seconds Wit stays still and silent, jaw tight, staring ahead toward screen-left, blinking once at most, his brows drawing a little tighter. Then he leans his upper body slightly forward toward screen-left, toward the front of the car, and delivers the assigned line once, short, clipped and low. He then closes his lips and stays leaning slightly forward, eyes fixed ahead.
+END STATE: Wit leaning slightly forward toward screen-left, lips closed, brows drawn, eyes fixed ahead toward the front of the car. He stays still in this position until the very end of the clip; the framing does not change.
+CAMERA: locked-off relative to the car interior, with only a very subtle road vibration; the framing never changes. No pan, no tilt, no reframing toward the front of the car.
+VISUAL CONTINUITY: Preserve the starting image's face, hair, black suit, white shirt, black tie, seatbelt, cabin geometry, side-window daylight and color treatment. Allow only the specified actions. No unplanned cuts, added people, identity swaps or prop teleportation.
+AUDIO MODE: generated dialogue.
+SPEECH EVENT 1:
+SPEAKER: Wit, visible on screen (ON), the only speaker.
+EXACT THAI DIALOGUE: "ขับเร็วอีกหน่อย"
+VOICE IDENTITY: young Thai male voice, firm low-mid register, clean resonant timbre, standard Thai accent
+DELIVERY: short, clipped and curt, pressed low in the voice; impatient urgency, not shouting; starts about three and a half seconds into the clip.
+Lip-sync only Wit to the assigned line.
+NON-SPEAKERS: none visible.
+Speak only the assigned dialogue exactly once, without paraphrasing or added words.
+Do not stretch speech to fill the clip. No unassigned voices.
+AFTER SPEECH: lips closed, leaning slightly forward, gaze held ahead toward screen-left, a quiet still hold until the end of the clip.
+AMBIENCE/SFX: low steady car engine hum and soft road and tire noise inside a closed luxury cabin; no music, no other voices.
