@@ -1,0 +1,37 @@
+{
+  "clip": "A125",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_A125_T01.png",
+        "job": "01a15c7c-71f3-7bb2-bfd2-55030b31c590",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_A125_T01.png",
+    "prompt_sha": "4281307eeac0",
+    "flag": null,
+    "facts": "Sila center, waist-up, looking screen-left with a frown, hands in pockets; one guard blurred at left, two guards blurred at right."
+  },
+  "video": {
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_A125_T01.mp4",
+        "job": "99e96f36-b29a-9d2e-a82d-cb574ad16bdc",
+        "result": "ok",
+        "qc": "4.0s มีเสียง ศิลาหันขวาชี้ตามสั่ง แต่เห็นการ์ดฉากหลังมากกว่า 3 คน",
+        "cost": 0.08
+      }
+    ],
+    "selected": "EP28/Video/EP28_A125_T01.mp4",
+    "prompt_sha": "afa9aad5e44c",
+    "flag": "ต้องฟังลิปซิงก์; การ์ดฉากหลังเกิน 3 คน (ตรวจเทียบภาพตั้งต้น)"
+  },
+  "notes": []
+}

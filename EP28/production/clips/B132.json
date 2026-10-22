@@ -1,0 +1,37 @@
+{
+  "clip": "B132",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_B132_T01.png",
+        "job": "01a15c7c-6ad4-78d1-b409-dd2700c77508",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_B132_T01.png",
+    "prompt_sha": "1e451a0773e0",
+    "flag": null,
+    "facts": "Rita alone standing, waist-up, very wide shocked eyes facing camera."
+  },
+  "video": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_B132_T01.mp4",
+        "job": "ea728594-1008-9b23-b927-ac512d933b32",
+        "result": "ok",
+        "qc": "Rita turns head right alarmed, locked (drift 0.08)",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Video/EP28_B132_T01.mp4",
+    "prompt_sha": "0a5550a583c1",
+    "flag": null
+  },
+  "notes": []
+}

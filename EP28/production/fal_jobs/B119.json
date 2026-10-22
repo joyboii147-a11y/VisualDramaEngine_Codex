@@ -1,0 +1,18 @@
+{
+  "clip": "B119",
+  "endpoint": "openai/gpt-image-2/edit",
+  "refs": [
+    "input/characters/วิทย์/Face.webp",
+    "input/characters/ไอริน/ไอริน W12 ชุดคลุมท้อง.png"
+  ],
+  "out_file": "EP28/Image/EP28_B119_T01.png",
+  "prompt_chars": 4714,
+  "status": "done",
+  "request_id": "01a15c7b-cfd2-7d21-a7cb-5e8ed0d43a1b",
+  "status_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a15c7b-cfd2-7d21-a7cb-5e8ed0d43a1b/status",
+  "response_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a15c7b-cfd2-7d21-a7cb-5e8ed0d43a1b",
+  "submitted": "2026-10-21 10:23:00",
+  "width": null,
+  "height": null,
+  "finished": "2026-10-21 10:29:12"
+}

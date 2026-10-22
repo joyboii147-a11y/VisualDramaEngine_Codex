@@ -1,0 +1,18 @@
+{
+  "clip": "A124",
+  "endpoint": "openai/gpt-image-2/edit",
+  "refs": [
+    "input/characters/พ่อของริต้า/พ่อริต้า ชุดโปโลกรมท่าW02.png",
+    "input/characters/ริต้า/ริต้า W02 ชุดเดรสสีดำ.webp"
+  ],
+  "out_file": "EP28/Image/EP28_A124_T01.png",
+  "prompt_chars": 7876,
+  "status": "done",
+  "request_id": "01a15c7c-640c-7071-807c-59eafa8e41e2",
+  "status_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a15c7c-640c-7071-807c-59eafa8e41e2/status",
+  "response_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a15c7c-640c-7071-807c-59eafa8e41e2",
+  "submitted": "2026-10-21 10:23:38",
+  "width": null,
+  "height": null,
+  "finished": "2026-10-21 10:26:38"
+}

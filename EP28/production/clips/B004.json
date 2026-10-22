@@ -1,0 +1,37 @@
+{
+  "clip": "B004",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_B004_T01.png",
+        "job": "01a15c7a-5646-7a92-a9a4-065a14ad8fa0",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_B004_T01.png",
+    "prompt_sha": "2a552174e028",
+    "flag": null,
+    "facts": "Wit's father alone, medium close-up, smiling slightly and looking screen-left; night windows and a wall light behind."
+  },
+  "video": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_B004_T01.mp4",
+        "job": "74ccad34-030c-9bce-a5fc-3957cae59dfe",
+        "result": "ok",
+        "qc": "3.04s พ่อยิ้มพยักหน้า drift 0.026",
+        "cost": 0.24
+      }
+    ],
+    "selected": "EP28/Video/EP28_B004_T01.mp4",
+    "prompt_sha": "2cccf464aff8",
+    "flag": null
+  },
+  "notes": []
+}

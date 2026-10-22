@@ -1,0 +1,45 @@
+{
+  "clip": "B118",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_B118_T01.png",
+        "job": "01a15c7b-c6bb-7021-9ecd-c8dbf9703d84",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_B118_T01.png",
+    "prompt_sha": "8ffdddaaa11c",
+    "flag": null,
+    "facts": "Irin in side view facing screen-left, eyes lowered; edge of Wit's cream jacket at the left boundary."
+  },
+  "video": {
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_B118_T01.mp4",
+        "job": "41f39a18-4929-956d-9c25-1051248b359b",
+        "result": "fail",
+        "qc": "camera drifts right/reframes instead of tilting down; ends on Irin's face looking up holding Wit's sleeve, not on hand gripping hem (drift 0.16 suspect, stable until 1.42s)",
+        "cost": 0.08
+      },
+      {
+        "take": 2,
+        "file": "EP28/Video/EP28_B118_T02.mp4",
+        "job": "4cfde111-246f-95ff-b80f-6ed42e1354e7",
+        "result": "ok",
+        "qc": "camera moves down from Irin's profile to the hands as planned; she takes Wit's sleeve cuff/hand rather than the jacket hem; face cropped at end (drift 0.24 = tilt)",
+        "cost": 0.08
+      }
+    ],
+    "selected": "EP28/Video/EP28_B118_T02.mp4",
+    "prompt_sha": "013586cc8293",
+    "flag": "Irin grips Wit's sleeve/hand instead of the jacket hem; the tilt drifts slightly sideways"
+  },
+  "notes": []
+}

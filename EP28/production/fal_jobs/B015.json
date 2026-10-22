@@ -1,0 +1,18 @@
+{
+  "clip": "B015",
+  "endpoint": "openai/gpt-image-2/edit",
+  "refs": [
+    "input/characters/ริต้า/ริต้า W02 ชุดเดรสสีดำ.webp",
+    "input/characters/วิทย์/วิทย์ W06 ชุดแจ็กเก็ตครีมปกดำ.png"
+  ],
+  "out_file": "EP28/Image/EP28_B015_T01.png",
+  "prompt_chars": 5073,
+  "status": "done",
+  "request_id": "01a15c7a-d7dd-7221-bcb5-2c1e5816c55f",
+  "status_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a15c7a-d7dd-7221-bcb5-2c1e5816c55f/status",
+  "response_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a15c7a-d7dd-7221-bcb5-2c1e5816c55f",
+  "submitted": "2026-10-21 10:21:56",
+  "width": null,
+  "height": null,
+  "finished": "2026-10-21 10:27:50"
+}

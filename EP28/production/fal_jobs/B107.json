@@ -1,0 +1,17 @@
+{
+  "clip": "B107",
+  "endpoint": "openai/gpt-image-2/edit",
+  "refs": [
+    "input/characters/ริต้า/Face.jpeg"
+  ],
+  "out_file": "EP28/Image/EP28_B107_T01.png",
+  "prompt_chars": 3688,
+  "status": "done",
+  "request_id": "01a15c7b-3cf3-70b3-b97b-330f7a49665e",
+  "status_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a15c7b-3cf3-70b3-b97b-330f7a49665e/status",
+  "response_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a15c7b-3cf3-70b3-b97b-330f7a49665e",
+  "submitted": "2026-10-21 10:22:22",
+  "width": null,
+  "height": null,
+  "finished": "2026-10-21 10:28:21"
+}

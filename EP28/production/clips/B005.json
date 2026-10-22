@@ -1,0 +1,37 @@
+{
+  "clip": "B005",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_B005_T01.png",
+        "job": "01a15c7a-5ed7-7993-9f5c-e4da655e6a82",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_B005_T01.png",
+    "prompt_sha": "4ee51057fedc",
+    "flag": null,
+    "facts": "Wit at left in cream jacket looking down at Irin at right; white table with flower vase in the foreground hides her lower torso; glass wall and heater behind."
+  },
+  "video": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_B005_T01.mp4",
+        "job": "b916cc88-225c-9461-9b25-a41c24e3e3bb",
+        "result": "ok",
+        "qc": "3.04s วิทเอามือออกจากกระเป๋าขยับเข้าหา Irin ตำแหน่งคงที่ drift 0.097",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Video/EP28_B005_T01.mp4",
+    "prompt_sha": "c9e78a5c8818",
+    "flag": null
+  },
+  "notes": []
+}

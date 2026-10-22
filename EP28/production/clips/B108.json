@@ -1,0 +1,37 @@
+{
+  "clip": "B108",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_B108_T01.png",
+        "job": "01a15c7b-4558-7710-928a-80357eed6e84",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_B108_T01.png",
+    "prompt_sha": "3461622fb817",
+    "flag": null,
+    "facts": "Irin alone standing, waist-up, startled wide eyes facing camera; sofa and lamp behind."
+  },
+  "video": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_B108_T01.mp4",
+        "job": "44a52880-d2d6-945b-bc7f-400c7e742a8d",
+        "result": "ok",
+        "qc": "Irin presses lips, distressed; slight subject sway, no cut (drift 0.09)",
+        "cost": 0.1
+      }
+    ],
+    "selected": "EP28/Video/EP28_B108_T01.mp4",
+    "prompt_sha": "e12409f0eb65",
+    "flag": null
+  },
+  "notes": []
+}

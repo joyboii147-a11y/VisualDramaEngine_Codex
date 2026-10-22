@@ -1,0 +1,37 @@
+{
+  "clip": "B120",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_B120_T01.png",
+        "job": "01a15c7b-d86c-7292-9829-fa0e78ce677c",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_B120_T01.png",
+    "prompt_sha": "d5d08cbd8474",
+    "flag": null,
+    "facts": "Irin medium close-up looking up with a soft expression; Wit's cream shoulder blurred at left edge."
+  },
+  "video": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_B120_T01.mp4",
+        "job": "13bd2abc-23c0-9b84-b883-f639c8f1b9d9",
+        "result": "ok",
+        "qc": "Irin looks up with soft smile (more sweet than pouty), blurred cream shoulder kept, locked (drift 0.03)",
+        "cost": 0.08
+      }
+    ],
+    "selected": "EP28/Video/EP28_B120_T01.mp4",
+    "prompt_sha": "974226ea03fb",
+    "flag": null
+  },
+  "notes": []
+}

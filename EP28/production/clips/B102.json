@@ -1,0 +1,37 @@
+{
+  "clip": "B102",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_B102_T01.png",
+        "job": "01a15c7b-020e-78b0-827d-d90bbc08e72a",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_B102_T01.png",
+    "prompt_sha": "8f8408b0d0cb",
+    "flag": null,
+    "facts": "Wit at left seated with his left hand on Irin's belly, Irin at right seated, both looking screen-right; peach flowers at lower-left; Wit's mother's white shoulder blurred at right edge."
+  },
+  "video": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_B102_T01.mp4",
+        "job": "2745907f-e497-9470-b5ea-c19af261cadf",
+        "result": "ok",
+        "qc": "Wit/Irin seated, hand on belly kept, small glances, locked frame (drift 0.07)",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Video/EP28_B102_T01.mp4",
+    "prompt_sha": "feda88185341",
+    "flag": null
+  },
+  "notes": []
+}

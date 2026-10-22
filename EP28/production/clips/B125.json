@@ -1,0 +1,37 @@
+{
+  "clip": "B125",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_B125_T01.png",
+        "job": "01a15c7c-1a67-7020-b4ad-f478a8a48d81",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_B125_T01.png",
+    "prompt_sha": "45b088d1417b",
+    "flag": null,
+    "facts": "Sila alone standing, waist-up, uneasy frown."
+  },
+  "video": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_B125_T01.mp4",
+        "job": "b5e61311-539b-9681-90f3-96006d349aaf",
+        "result": "ok",
+        "qc": "Sila frown turns to smile (broader/smugger than 'thin uneasy'), locked (drift 0.08)",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Video/EP28_B125_T01.mp4",
+    "prompt_sha": "0f268a7252a3",
+    "flag": null
+  },
+  "notes": []
+}

@@ -1,0 +1,37 @@
+{
+  "clip": "B002",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_B002_T01.png",
+        "job": "01a15c7a-4786-7c91-b5fc-c46920f11893",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_B002_T01.png",
+    "prompt_sha": "b2b431661135",
+    "flag": null,
+    "facts": "Irin medium close-up looking screen-right with a soft smile; Wit's cream sleeve blurred at the left edge; teal-lit wall behind."
+  },
+  "video": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_B002_T01.mp4",
+        "job": "dc7a1a14-d8f9-9d37-972b-3c8612a26549",
+        "result": "ok",
+        "qc": "3.04s Irin นิ่งยิ้ม แขนวิทคงที่ drift 0.031",
+        "cost": 0.24
+      }
+    ],
+    "selected": "EP28/Video/EP28_B002_T01.mp4",
+    "prompt_sha": "f1a3dcc74e65",
+    "flag": null
+  },
+  "notes": []
+}

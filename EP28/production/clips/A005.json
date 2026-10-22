@@ -1,0 +1,37 @@
+{
+  "clip": "A005",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_A005_T01.png",
+        "job": "01a15c7a-2918-70a2-9f92-6f3888efb7fe",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_A005_T01.png",
+    "prompt_sha": "48ce8acc1d78",
+    "flag": null,
+    "facts": "Wit's mother at left (white off-shoulder top, navy skirt, pearls) and Wit's father at right leaning toward her, waist-up; white round table with flower vase at lower-right; night windows behind."
+  },
+  "video": {
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_A005_T01.mp4",
+        "job": "4bf816f1-25d3-9dab-a8c2-ee0c94627fc8",
+        "result": "ok",
+        "qc": "8.04s มีเสียง พ่อแม่ฟังยิ้ม ตำแหน่งคงที่ drift 0.03",
+        "cost": 0.64
+      }
+    ],
+    "selected": "EP28/Video/EP28_A005_T01.mp4",
+    "prompt_sha": "7472a965dc9e",
+    "flag": "ต้องฟังลิปซิงก์"
+  },
+  "notes": []
+}

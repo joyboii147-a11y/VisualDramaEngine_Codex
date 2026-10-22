@@ -1,0 +1,15 @@
+{
+  "clip": "A119",
+  "endpoint": "openai/gpt-image-2",
+  "refs": [],
+  "out_file": "EP28/Image/EP28_A119_T01.png",
+  "prompt_chars": 3394,
+  "status": "done",
+  "request_id": "01a15c7c-303a-7981-ba18-5a327b240e81",
+  "status_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a15c7c-303a-7981-ba18-5a327b240e81/status",
+  "response_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a15c7c-303a-7981-ba18-5a327b240e81",
+  "submitted": "2026-10-21 10:23:25",
+  "width": null,
+  "height": null,
+  "finished": "2026-10-21 10:26:17"
+}

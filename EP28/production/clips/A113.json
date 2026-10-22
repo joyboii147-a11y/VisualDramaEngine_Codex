@@ -1,0 +1,37 @@
+{
+  "clip": "A113",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_A113_T01.png",
+        "job": "01a15c7b-ad0a-72d0-b6fb-1afa7401abfa",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_A113_T01.png",
+    "prompt_sha": "b58e98e1b4c0",
+    "flag": null,
+    "facts": "Irin tight close-up, sideways glance screen-right, faint smile."
+  },
+  "video": {
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_A113_T01.mp4",
+        "job": "6340574c-0d2a-98c4-b7b6-fa2de8d5d7ba",
+        "result": "ok",
+        "qc": "8.0s มีเสียง VO อิรินปากนิ่ง เหลือบตา กล้องนิ่ง",
+        "cost": 0.64
+      }
+    ],
+    "selected": "EP28/Video/EP28_A113_T01.mp4",
+    "prompt_sha": "2e5e95460950",
+    "flag": "ต้องฟังเสียง VO ว่าปากไม่ขยับ"
+  },
+  "notes": []
+}

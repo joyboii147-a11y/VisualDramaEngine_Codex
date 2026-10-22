@@ -1,0 +1,37 @@
+{
+  "clip": "A112",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_A112_T01.png",
+        "job": "01a15c7b-a5dd-7a60-98a1-0b59a0c8c663",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_A112_T01.png",
+    "prompt_sha": "5c2c01736b52",
+    "flag": null,
+    "facts": "Irin standing center-right, waist-up, eyes lowered, hands at belly; Wit's cream sleeve blurred at left foreground edge."
+  },
+  "video": {
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_A112_T01.mp4",
+        "job": "dc933562-6ea3-9cfc-95d1-940a7556ddc4",
+        "result": "ok",
+        "qc": "5.0s มีเสียง VO อิรินปากนิ่ง แขนวิทย์เบลอซ้ายคงที่ กล้องนิ่ง",
+        "cost": 0.1
+      }
+    ],
+    "selected": "EP28/Video/EP28_A112_T01.mp4",
+    "prompt_sha": "fb443445cfea",
+    "flag": "ต้องฟังเสียง VO ว่าปากไม่ขยับ"
+  },
+  "notes": []
+}

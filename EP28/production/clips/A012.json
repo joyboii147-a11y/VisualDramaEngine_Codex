@@ -1,0 +1,37 @@
+{
+  "clip": "A012",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_A012_T01.png",
+        "job": "01a15c7a-b7ba-75f2-a1a2-1ad97ee75182",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_A012_T01.png",
+    "prompt_sha": "ad057ada235e",
+    "flag": null,
+    "facts": "Wit's father alone, medium close-up, serious face looking almost at camera; night window behind, green sprig at lower-right."
+  },
+  "video": {
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_A012_T01.mp4",
+        "job": "5e4f45a8-1f85-9ff0-b4e8-7a6d4273503a",
+        "result": "ok",
+        "qc": "7.04s มีเสียง พ่อพูดมองซ้าย drift 0.043",
+        "cost": 0.56
+      }
+    ],
+    "selected": "EP28/Video/EP28_A012_T01.mp4",
+    "prompt_sha": "5c17ae23e3e7",
+    "flag": "ต้องฟังลิปซิงก์"
+  },
+  "notes": []
+}

@@ -1,0 +1,37 @@
+{
+  "clip": "B103",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_B103_T01.png",
+        "job": "01a15c7b-1c42-75c1-9532-ef95998241af",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_B103_T01.png",
+    "prompt_sha": "ee6581aef556",
+    "flag": null,
+    "facts": "Wide: housemaid by the open door far left, Sila walking along the marble floor center-left, Wit, Irin and Wit's mother seated on the sofa at right looking at him; glass coffee table with flowers in the middle."
+  },
+  "video": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_B103_T01.mp4",
+        "job": "b35437f7-d321-9a47-b234-c02ab642be96",
+        "result": "ok",
+        "qc": "Sila walks and stops before table, family/maid stay, 5 people, locked (drift 0.11)",
+        "cost": 0.08
+      }
+    ],
+    "selected": "EP28/Video/EP28_B103_T01.mp4",
+    "prompt_sha": "4bc46ac3385b",
+    "flag": null
+  },
+  "notes": []
+}

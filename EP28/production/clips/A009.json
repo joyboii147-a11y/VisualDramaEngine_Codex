@@ -1,0 +1,37 @@
+{
+  "clip": "A009",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_A009_T01.png",
+        "job": "01a15c7a-9cab-73f0-bdbb-f2dc67660697",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_A009_T01.png",
+    "prompt_sha": "a38cc0dadbfb",
+    "flag": null,
+    "facts": "Wit's mother alone, waist-up, warm smile looking slightly screen-left; white off-shoulder top with sheer puff sleeves, pearls, navy skirt; night windows behind."
+  },
+  "video": {
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_A009_T01.mp4",
+        "job": "d107b37e-b6ea-949c-87c7-12ac8b02849b",
+        "result": "ok",
+        "qc": "3.04s มีเสียง แม่พูดสั้นยิ้ม drift 0.035",
+        "cost": 0.24
+      }
+    ],
+    "selected": "EP28/Video/EP28_A009_T01.mp4",
+    "prompt_sha": "b8fe0730f3f7",
+    "flag": "ต้องฟังลิปซิงก์"
+  },
+  "notes": []
+}

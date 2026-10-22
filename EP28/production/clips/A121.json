@@ -1,0 +1,61 @@
+{
+  "clip": "A121",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_A121_T01.png",
+        "job": "01a15c7c-3c4c-7582-af91-8f7c11e8f61a",
+        "result": "fail",
+        "qc": "ทิศสายตาผิด: START ให้มองขึ้นซ้ายเฟรม แต่ภาพมองขวา",
+        "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP28/Image/EP28_A121_T02.png",
+        "job": "01a15c85-26e3-78b1-9504-2025363c4ff5",
+        "result": "fail",
+        "qc": "ถ่ายซ้ำแล้วยังมองขวาเฟรม",
+        "cost": 0.06
+      },
+      {
+        "take": 3,
+        "file": "EP28/Image/EP28_A121_T03.png",
+        "job": "hflip",
+        "result": "ok",
+        "qc": "hflip แก้ทิศสายตาให้มองซ้ายเฟรม",
+        "cost": 0.0
+      }
+    ],
+    "selected": "EP28/Image/EP28_A121_T03.png",
+    "prompt_sha": "42438b068df2",
+    "flag": null,
+    "facts": "Wit tight close-up from a low angle, center, chin raised, eyes looking upper screen-left, firm jaw; cream jacket with black collar; cream wall behind (image is mirrored)."
+  },
+  "video": {
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_A121_T01.mp4",
+        "job": "32e533ea-3a74-9fcd-8a1f-492f8b83dddc",
+        "result": "fail",
+        "qc": "10.0s มีเสียง กล้องถอย/ฉากหลังเปลี่ยน เห็นโคมระย้า วิทย์หันหน้าตรงแทนมองบนซ้าย ใช้ได้ถึง 0.62s",
+        "cost": 0.8
+      },
+      {
+        "take": 2,
+        "file": "EP28/Video/EP28_A121_T02.mp4",
+        "job": "cf0051b8-2549-92a5-9824-e9cbeb56ee7f",
+        "result": "fail",
+        "qc": "10.0s มีเสียง กล้องขยับ/ฉากหลังเลื่อน เห็นโคมระย้าและโคมไฟ วิทย์หันหน้าเกือบตรงแทนมองบนซ้าย (drift stable_until 0.96)",
+        "cost": 0.8
+      }
+    ],
+    "selected": "EP28/Video/EP28_A121_T02.mp4",
+    "prompt_sha": "88a147fed1a1",
+    "flag": "ต้องฟังลิปซิงก์; กล้องขยับและฉากหลังเปลี่ยนกลางคลิป วิทย์หันหน้าตรงแทนมองบนซ้าย (เต็มงบ ไม่ได้ retake เพิ่ม)"
+  },
+  "notes": []
+}

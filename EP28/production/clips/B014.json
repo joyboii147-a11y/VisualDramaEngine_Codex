@@ -1,0 +1,37 @@
+{
+  "clip": "B014",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_B014_T01.png",
+        "job": "01a15c7a-d14a-7272-8976-640e1f8703d6",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_B014_T01.png",
+    "prompt_sha": "5630e411355a",
+    "flag": null,
+    "facts": "Wit alone, medium close-up, looking down with a soft smile; greenery top-right, bokeh behind."
+  },
+  "video": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_B014_T01.mp4",
+        "job": "adb71ed4-2582-9677-93a7-f7d76f5b7672",
+        "result": "ok",
+        "qc": "3.04s วิทยิ้มกว้างขึ้น drift 0.016",
+        "cost": 0.24
+      }
+    ],
+    "selected": "EP28/Video/EP28_B014_T01.mp4",
+    "prompt_sha": "66f03ef9025f",
+    "flag": null
+  },
+  "notes": []
+}

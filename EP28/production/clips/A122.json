@@ -1,0 +1,53 @@
+{
+  "clip": "A122",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_A122_T01.png",
+        "job": "01a15c7c-56e2-76f3-ae8d-62a8c969e39f",
+        "result": "fail",
+        "qc": "ทิศสายตาผิด: START ให้มองขึ้นซ้ายเฟรม แต่ภาพมองขวา",
+        "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP28/Image/EP28_A122_T02.png",
+        "job": "01a15c85-2c5d-7183-a696-b699aea98328",
+        "result": "fail",
+        "qc": "ถ่ายซ้ำแล้วยังมองขวาเฟรม",
+        "cost": 0.06
+      },
+      {
+        "take": 3,
+        "file": "EP28/Image/EP28_A122_T03.png",
+        "job": "hflip",
+        "result": "ok",
+        "qc": "hflip แก้ทิศสายตาให้มองซ้ายเฟรม",
+        "cost": 0.0
+      }
+    ],
+    "selected": "EP28/Image/EP28_A122_T03.png",
+    "prompt_sha": "56586d2b05c1",
+    "flag": null,
+    "facts": "Wit tight close-up, center, eyes cutting toward screen-left, firm controlled expression; cream jacket with black collar; wall sconce at left behind (image is mirrored)."
+  },
+  "video": {
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_A122_T01.mp4",
+        "job": "9f90e06f-eabb-9faf-995b-9adf8eaedcfc",
+        "result": "ok",
+        "qc": "10.0s มีเสียง วิทย์มองซ้ายพูดหนักแน่น กล้องนิ่ง",
+        "cost": 0.8
+      }
+    ],
+    "selected": "EP28/Video/EP28_A122_T01.mp4",
+    "prompt_sha": "612c30125404",
+    "flag": "ต้องฟังลิปซิงก์"
+  },
+  "notes": []
+}

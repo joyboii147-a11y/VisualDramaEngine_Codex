@@ -1,0 +1,45 @@
+{
+  "clip": "B116",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_B116_T01.png",
+        "job": "01a15c7b-b260-76b0-bb6e-a729d37c9da0",
+        "result": "fail",
+        "qc": "ทิศสายตาผิด: START ให้มองขึ้นซ้ายเฟรม แต่ภาพมองขวา",
+        "cost": 0.06
+      },
+      {
+        "take": 2,
+        "file": "EP28/Image/EP28_B116_T02.png",
+        "job": "01a15c85-2189-7613-973f-cc30e7db15ee",
+        "result": "fail",
+        "qc": "ถ่ายซ้ำแล้วยังมองขวาเฟรม",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_B116_T01.png",
+    "prompt_sha": "b5c251db4674",
+    "flag": null,
+    "facts": "Wit's mother tight close-up at center-left, head turned toward screen-left, chin raised, eyes looking upper screen-left with a faint smirk; white off-shoulder top and pearls."
+  },
+  "video": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_B116_T01.mp4",
+        "job": "e5cbdbdb-e521-9623-bd02-2b4b02ed554f",
+        "result": "ok",
+        "qc": "Mother tight CU smile grows (shows teeth, a bit broad for 'restrained'), locked (drift 0.05)",
+        "cost": 0.1
+      }
+    ],
+    "selected": "EP28/Video/EP28_B116_T01.mp4",
+    "prompt_sha": "d7d029ca1ec6",
+    "flag": null
+  },
+  "notes": []
+}

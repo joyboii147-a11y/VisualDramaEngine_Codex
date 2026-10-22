@@ -1,0 +1,37 @@
+{
+  "clip": "A007",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_A007_T01.png",
+        "job": "01a15c7a-397b-7d01-8d89-ac6cd0ee549f",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_A007_T01.png",
+    "prompt_sha": "84c5a562fb8a",
+    "flag": null,
+    "facts": "Wide group shot around a white round table, left to right: male attendant in black suit, Wit in cream jacket, Irin, Wit's mother, Wit's father (back three-quarter at right edge); purple flowers lower-left, white orchids lower-right, glass wall and patio heater behind."
+  },
+  "video": {
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_A007_T01.mp4",
+        "job": "d4c33734-85e4-9cfc-bd81-ffddf1177d8a",
+        "result": "ok",
+        "qc": "5.04s มีเสียง 5 คนตำแหน่งเดิม ท้ายคลิปวิทหันหน้าเข้ากล้องเล็กน้อย drift 0.026",
+        "cost": 0.1
+      }
+    ],
+    "selected": "EP28/Video/EP28_A007_T01.mp4",
+    "prompt_sha": "1b49e804b64a",
+    "flag": "ต้องฟังลิปซิงก์"
+  },
+  "notes": []
+}

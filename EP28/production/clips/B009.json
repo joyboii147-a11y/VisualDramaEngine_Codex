@@ -1,0 +1,37 @@
+{
+  "clip": "B009",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_B009_T01.png",
+        "job": "01a15c7a-80ac-7701-9d2f-b65a2715409b",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_B009_T01.png",
+    "prompt_sha": "322ee99d20e7",
+    "flag": null,
+    "facts": "Hand insert: Wit's cream sleeve from upper-left holding Irin's left hand at center; gray cuff from right; white table edge at bottom."
+  },
+  "video": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_B009_T01.mp4",
+        "job": "588bea7e-7fab-94ca-80ff-338558bc3faa",
+        "result": "ok",
+        "qc": "3.04s มือจับกันบีบเบาๆ ข้างถูก drift 0.035",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Video/EP28_B009_T01.mp4",
+    "prompt_sha": "96671505fd3b",
+    "flag": null
+  },
+  "notes": []
+}

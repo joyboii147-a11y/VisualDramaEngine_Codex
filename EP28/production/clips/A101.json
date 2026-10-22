@@ -1,0 +1,37 @@
+{
+  "clip": "A101",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_A101_T01.png",
+        "job": "01a15c7a-f1db-7182-bfa1-a5e51847cde1",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_A101_T01.png",
+    "prompt_sha": "d5dab63535b3",
+    "flag": null,
+    "facts": "Living room: Wit at left and Irin center-left seated on a long sofa, Wit's mother at right seated on the corner sofa facing them; glass coffee table with peach flowers at lower-right; wall sconce, lamp and pink painting behind."
+  },
+  "video": {
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_A101_T01.mp4",
+        "job": "e9043428-61a8-9347-84c1-a5319a3747fe",
+        "result": "ok",
+        "qc": "7.0s มีเสียง ตัวละคร 3 คนตรงภาพตั้งต้น กล้องนิ่ง drift ต่ำ",
+        "cost": 0.56
+      }
+    ],
+    "selected": "EP28/Video/EP28_A101_T01.mp4",
+    "prompt_sha": "f33acd24a34a",
+    "flag": "ต้องฟังลิปซิงก์"
+  },
+  "notes": []
+}

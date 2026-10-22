@@ -1,0 +1,37 @@
+{
+  "clip": "B126",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_B126_T01.png",
+        "job": "01a15c7c-215c-7772-b9bb-1dfd879c583f",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_B126_T01.png",
+    "prompt_sha": "25d1585f34fd",
+    "flag": null,
+    "facts": "Rita alone standing, waist-up, tense, glancing screen-left."
+  },
+  "video": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_B126_T01.mp4",
+        "job": "041cf2c6-f724-9fbb-8faf-5a8d69012eae",
+        "result": "ok",
+        "qc": "Rita blinks, glances sideways and back, uneasy, locked (drift 0.09)",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Video/EP28_B126_T01.mp4",
+    "prompt_sha": "0f1157981656",
+    "flag": null
+  },
+  "notes": []
+}

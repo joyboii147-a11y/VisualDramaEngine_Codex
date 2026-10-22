@@ -1,0 +1,17 @@
+{
+  "clip": "B110",
+  "endpoint": "openai/gpt-image-2/edit",
+  "refs": [
+    "input/characters/แม่วิทย์/Face.webp"
+  ],
+  "out_file": "EP28/Image/EP28_B110_T01.png",
+  "prompt_chars": 3686,
+  "status": "done",
+  "request_id": "01a15c7b-6006-7c02-bfec-e82cb9ed9f65",
+  "status_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a15c7b-6006-7c02-bfec-e82cb9ed9f65/status",
+  "response_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a15c7b-6006-7c02-bfec-e82cb9ed9f65",
+  "submitted": "2026-10-21 10:22:31",
+  "width": null,
+  "height": null,
+  "finished": "2026-10-21 10:28:33"
+}

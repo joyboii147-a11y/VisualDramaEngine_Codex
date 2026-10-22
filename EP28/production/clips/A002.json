@@ -1,0 +1,37 @@
+{
+  "clip": "A002",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_A002_T01.png",
+        "job": "01a15c7a-1587-7fe3-a242-1a2cbdb46aaa",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_A002_T01.png",
+    "prompt_sha": "07d2ad28fc30",
+    "flag": null,
+    "facts": "Irin alone, medium close-up, smiling with head slightly tilted, looking screen-right; blurred white flowers at lower-left foreground; cream wall and teal-lit column behind."
+  },
+  "video": {
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_A002_T01.mp4",
+        "job": "ebb3d550-e1dc-91cb-92cb-a27891ad356d",
+        "result": "ok",
+        "qc": "6.04s มีเสียง ตรงภาพตั้งต้น ยิ้มกว้างขึ้นตาม ACTION drift 0.041",
+        "cost": 0.48
+      }
+    ],
+    "selected": "EP28/Video/EP28_A002_T01.mp4",
+    "prompt_sha": "d5bfd57cca94",
+    "flag": "ต้องฟังลิปซิงก์"
+  },
+  "notes": []
+}

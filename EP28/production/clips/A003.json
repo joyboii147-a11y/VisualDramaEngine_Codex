@@ -1,0 +1,37 @@
+{
+  "clip": "A003",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_A003_T01.png",
+        "job": "01a15c7a-1ad0-7401-84de-31cddedaf60b",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_A003_T01.png",
+    "prompt_sha": "edcd9172344d",
+    "flag": null,
+    "facts": "Wit's father alone, medium close-up, facing camera almost frontally with a composed face, gray-brown polo; dark night windows and a wall light behind."
+  },
+  "video": {
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_A003_T01.mp4",
+        "job": "b298a269-b0e6-9f1c-aa60-bb1912e6468d",
+        "result": "ok",
+        "qc": "6.04s มีเสียง พ่อยิ้มปากปิดตาม ACTION drift 0.008",
+        "cost": 0.48
+      }
+    ],
+    "selected": "EP28/Video/EP28_A003_T01.mp4",
+    "prompt_sha": "25f7d716483a",
+    "flag": "ต้องฟังลิปซิงก์"
+  },
+  "notes": []
+}

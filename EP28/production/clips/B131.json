@@ -1,0 +1,37 @@
+{
+  "clip": "B131",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_B131_T01.png",
+        "job": "01a15c7c-515f-7bd2-ae0a-e6b26f625147",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_B131_T01.png",
+    "prompt_sha": "b484ed129d51",
+    "flag": null,
+    "facts": "Rita center facing camera, shocked; Sila blurred upper-left, a guard blurred upper-right, Wit's cream shoulder blurred at lower-right foreground."
+  },
+  "video": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_B131_T01.mp4",
+        "job": "20fe9575-1f85-9e07-b330-2be3a4bec7d6",
+        "result": "ok",
+        "qc": "Rita frowns, Sila/guard behind still, cream shoulder FG, locked (drift 0.07)",
+        "cost": 0.08
+      }
+    ],
+    "selected": "EP28/Video/EP28_B131_T01.mp4",
+    "prompt_sha": "e867a4c99dce",
+    "flag": null
+  },
+  "notes": []
+}

@@ -1,0 +1,37 @@
+{
+  "clip": "B121",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_B121_T01.png",
+        "job": "01a15c7b-e5d0-7ea2-b6c9-7174cbb4864b",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_B121_T01.png",
+    "prompt_sha": "05acd733da08",
+    "flag": null,
+    "facts": "Sila alone standing, waist-up, chin raised looking at camera; double doors behind."
+  },
+  "video": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_B121_T01.mp4",
+        "job": "e01235bd-d573-9644-9a47-5ae472b6f4ed",
+        "result": "ok",
+        "qc": "Sila startles, turns head right, lips part, locked (drift 0.08)",
+        "cost": 0.04
+      }
+    ],
+    "selected": "EP28/Video/EP28_B121_T01.mp4",
+    "prompt_sha": "9b0b75e2441e",
+    "flag": null
+  },
+  "notes": []
+}

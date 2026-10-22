@@ -1,0 +1,37 @@
+{
+  "clip": "A116",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_A116_T01.png",
+        "job": "01a15c7b-f773-7083-8836-928259920a2b",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_A116_T01.png",
+    "prompt_sha": "db5463e1162d",
+    "flag": null,
+    "facts": "Wit tight close-up looking screen-left with a hard stare; Wit's mother blurred seated at rear-right."
+  },
+  "video": {
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_A116_T01.mp4",
+        "job": "857f62b8-fb8f-9f2c-adfc-28b92f78d497",
+        "result": "ok",
+        "qc": "4.0s มีเสียง วิทย์ตะคอก แม่เบลอหลังขวา กล้องนิ่ง",
+        "cost": 0.08
+      }
+    ],
+    "selected": "EP28/Video/EP28_A116_T01.mp4",
+    "prompt_sha": "0f982e9954da",
+    "flag": "ต้องฟังลิปซิงก์"
+  },
+  "notes": []
+}

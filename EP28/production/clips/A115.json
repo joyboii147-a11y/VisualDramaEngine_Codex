@@ -1,0 +1,37 @@
+{
+  "clip": "A115",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_A115_T01.png",
+        "job": "01a15c7b-ddb9-7d53-b521-4c7ea5931284",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_A115_T01.png",
+    "prompt_sha": "8d8dcec6be4b",
+    "flag": null,
+    "facts": "Wit seen from behind three-quarter, turned away, head lowered toward lower-right; sofa and flowers behind."
+  },
+  "video": {
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_A115_T01.mp4",
+        "job": "e58bc92e-4c9a-920d-9405-e559ddd97fc7",
+        "result": "ok",
+        "qc": "6.0s มีเสียง วิทย์หมุนตัวหันหน้าตามสั่ง drift สูงจากการหมุนตัว ฉากหลังคงที่",
+        "cost": 0.12
+      }
+    ],
+    "selected": "EP28/Video/EP28_A115_T01.mp4",
+    "prompt_sha": "a2ff2734cbda",
+    "flag": "ต้องฟังลิปซิงก์"
+  },
+  "notes": []
+}

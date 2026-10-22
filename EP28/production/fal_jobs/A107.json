@@ -1,0 +1,18 @@
+{
+  "clip": "A107",
+  "endpoint": "openai/gpt-image-2/edit",
+  "refs": [
+    "input/characters/พ่อของริต้า/พ่อของริต้า Face.webp",
+    "input/characters/ริต้า/Face.jpeg"
+  ],
+  "out_file": "EP28/Image/EP28_A107_T01.png",
+  "prompt_chars": 4475,
+  "status": "done",
+  "request_id": "01a15c7b-5aa0-7540-b2da-b2b8c90f228b",
+  "status_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a15c7b-5aa0-7540-b2da-b2b8c90f228b/status",
+  "response_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a15c7b-5aa0-7540-b2da-b2b8c90f228b",
+  "submitted": "2026-10-21 10:22:30",
+  "width": null,
+  "height": null,
+  "finished": "2026-10-21 10:25:27"
+}

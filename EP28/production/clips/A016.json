@@ -1,0 +1,37 @@
+{
+  "clip": "A016",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_A016_T01.png",
+        "job": "01a15c7a-e618-70d1-9d86-5d4599cd2a3a",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_A016_T01.png",
+    "prompt_sha": "ef4f5d19b24e",
+    "flag": null,
+    "facts": "Rita alone, tight medium close-up, phone at her right ear (screen-left), eyes lowered, distressed; gray wall with a round light behind."
+  },
+  "video": {
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_A016_T01.mp4",
+        "job": "2c3f9a6d-37ec-9033-9bc2-03a5a431c136",
+        "result": "ok",
+        "qc": "6.04s มีเสียง Rita พูดโกรธ โทรศัพท์หูขวา ช่วงกลางผนังหลังมีแสงเขียวเพิ่มเล็กน้อย drift 0.096",
+        "cost": 0.48
+      }
+    ],
+    "selected": "EP28/Video/EP28_A016_T01.mp4",
+    "prompt_sha": "f6a2bc110e48",
+    "flag": "ต้องฟังลิปซิงก์"
+  },
+  "notes": []
+}

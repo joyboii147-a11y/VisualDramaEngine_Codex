@@ -1,0 +1,37 @@
+{
+  "clip": "B114",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_B114_T01.png",
+        "job": "01a15c7b-95c3-7cd3-abf4-fe85218974cc",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_B114_T01.png",
+    "prompt_sha": "1d624d642942",
+    "flag": null,
+    "facts": "Wit alone standing, medium shot, unreadable face looking at camera."
+  },
+  "video": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_B114_T01.mp4",
+        "job": "9c9af4fa-ba69-95d8-855c-21135d24c7b1",
+        "result": "ok",
+        "qc": "Wit steady stare, very faint smirk, locked (drift 0.08)",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Video/EP28_B114_T01.mp4",
+    "prompt_sha": "d1f72df5ef6f",
+    "flag": null
+  },
+  "notes": []
+}

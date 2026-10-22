@@ -1,0 +1,37 @@
+{
+  "clip": "B129",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_B129_T01.png",
+        "job": "01a15c7c-4007-70d2-b048-74083cbdfa99",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_B129_T01.png",
+    "prompt_sha": "0b38c34eee11",
+    "flag": null,
+    "facts": "Head guard alone, medium close-up, apprehensive look screen-left."
+  },
+  "video": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_B129_T01.mp4",
+        "job": "fb1db187-fdab-934a-b3cc-6890890cded8",
+        "result": "ok",
+        "qc": "Head guard listens, eyes shift, still; slight face drift late, locked (drift 0.04)",
+        "cost": 0.08
+      }
+    ],
+    "selected": "EP28/Video/EP28_B129_T01.mp4",
+    "prompt_sha": "bf2387a1ac1b",
+    "flag": null
+  },
+  "notes": []
+}

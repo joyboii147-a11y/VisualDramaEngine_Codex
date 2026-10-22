@@ -1,0 +1,18 @@
+{
+  "clip": "A120",
+  "endpoint": "openai/gpt-image-2/edit",
+  "refs": [
+    "input/characters/วิทย์/Face.webp",
+    "input/characters/แม่วิทย์/แม่วิทย์ W04.png"
+  ],
+  "out_file": "EP28/Image/EP28_A120_T01.png",
+  "prompt_chars": 4741,
+  "status": "done",
+  "request_id": "01a15c7c-3700-7702-bc04-5bc3fe5e56d9",
+  "status_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a15c7c-3700-7702-bc04-5bc3fe5e56d9/status",
+  "response_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a15c7c-3700-7702-bc04-5bc3fe5e56d9",
+  "submitted": "2026-10-21 10:23:26",
+  "width": null,
+  "height": null,
+  "finished": "2026-10-21 10:26:22"
+}

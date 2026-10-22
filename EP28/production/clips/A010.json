@@ -1,0 +1,37 @@
+{
+  "clip": "A010",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_A010_T01.png",
+        "job": "01a15c7a-a53b-7920-bfb2-4a82256586dd",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_A010_T01.png",
+    "prompt_sha": "a4f28a23f14e",
+    "flag": null,
+    "facts": "Irin at left smiling toward screen-right; rear of Wit's mother's head and white shoulder blurred at right foreground."
+  },
+  "video": {
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_A010_T01.mp4",
+        "job": "8686d9da-0736-9a78-9b07-cb6c50c3b28f",
+        "result": "ok",
+        "qc": "5.04s มีเสียง Irin ก้มหน้ายิ้ม แม่หันหลังคงที่ กลางคลิปแสงเสาเขียวสว่างขึ้นเล็กน้อย drift 0.062",
+        "cost": 0.4
+      }
+    ],
+    "selected": "EP28/Video/EP28_A010_T01.mp4",
+    "prompt_sha": "1fd71c4a4737",
+    "flag": "ต้องฟังลิปซิงก์"
+  },
+  "notes": []
+}

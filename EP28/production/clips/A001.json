@@ -1,0 +1,37 @@
+{
+  "clip": "A001",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_A001_T01.png",
+        "job": "01a15c7a-0e04-7ac2-94ef-ad6e3cdb24da",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_A001_T01.png",
+    "prompt_sha": "f397c2045c22",
+    "flag": null,
+    "facts": "Irin alone, medium close-up, standing center-left in three-quarter profile looking screen-right; gray cardigan over cream knit maternity dress; teal-lit wall with a horizontal light strip behind."
+  },
+  "video": {
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_A001_T01.mp4",
+        "job": "21bd53df-65e6-922f-be00-0fd1cf0fa10e",
+        "result": "ok",
+        "qc": "6.04s มีเสียง ตรงภาพตั้งต้น ยิ้มตาม ACTION ไม่มีตัด drift 0.026",
+        "cost": 0.48
+      }
+    ],
+    "selected": "EP28/Video/EP28_A001_T01.mp4",
+    "prompt_sha": "43b93f89280b",
+    "flag": "ต้องฟังลิปซิงก์"
+  },
+  "notes": []
+}

@@ -1,0 +1,46 @@
+{
+  "clip": "B015",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_B015_T01.png",
+        "job": "01a15c7a-d7dd-7221-bcb5-2c1e5816c55f",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_B015_T01.png",
+    "prompt_sha": "38e4fa7b3b3f",
+    "flag": null,
+    "facts": "Rita at center-right with her back to camera in a black halter dress, holding a phone low in her right hand; Wit in cream jacket and about six male guests blurred in the middle-rear; standing table with orange flowers at left; tall windows behind."
+  },
+  "video": {
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_B015_T01.mp4",
+        "job": "91e234e3-a270-995a-ae8d-2ea90b7e9848",
+        "result": "fail",
+        "qc": "7.04s Rita หันกลับตาม ACTION (drift suspect 0.16 จากการเคลื่อนไหวจริง) แต่หน้าที่สร้างขึ้นตอนหันไม่ตรงกับ Rita ใน A015/A016 และแขกด้านหลังมากกว่า 6 คน",
+        "cost": 0.56
+      },
+      {
+        "take": 2,
+        "file": "EP28/Video/EP28_B015_T02.mp4",
+        "job": "59567830-e3b4-946a-9f97-342e724774f0",
+        "result": "fail",
+        "qc": "7.04s Rita หันกลับตาม ACTION (drift suspect 0.151 จากการเคลื่อนไหวจริง ไม่มีตัด) แต่หน้าที่สร้างตอนหันยังไม่ตรงกับ Rita ใน A015/A016 และแขกด้านหลังมากกว่า 6 คน",
+        "cost": 0.56
+      }
+    ],
+    "selected": "EP28/Video/EP28_B015_T02.mp4",
+    "prompt_sha": "cdbe64380fec",
+    "flag": "หน้า Rita ตอนหันกลับถูกสร้างใหม่ (ภาพตั้งต้นเห็นแต่ด้านหลัง) ไม่ตรงกับ A015/A016 ทั้ง 2 take; แขกหลังเกิน 6 คน — ควรตัดใช้ช่วงก่อนหันหน้า หรือทำภาพตั้งต้นใหม่ที่เห็นหน้า",
+    "usable_until": 2.4
+  },
+  "notes": []
+}

@@ -1,0 +1,17 @@
+{
+  "clip": "A108",
+  "endpoint": "openai/gpt-image-2/edit",
+  "refs": [
+    "input/characters/พ่อของริต้า/พ่อริต้า ชุดโปโลกรมท่าW02.png"
+  ],
+  "out_file": "EP28/Image/EP28_A108_T01.png",
+  "prompt_chars": 3693,
+  "status": "done",
+  "request_id": "01a15c7b-67a4-7472-b7cf-5067ab411567",
+  "status_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a15c7b-67a4-7472-b7cf-5067ab411567/status",
+  "response_url": "https://queue.fal.run/openai/gpt-image-2/requests/01a15c7b-67a4-7472-b7cf-5067ab411567",
+  "submitted": "2026-10-21 10:22:33",
+  "width": null,
+  "height": null,
+  "finished": "2026-10-21 10:25:31"
+}

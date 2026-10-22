@@ -1,0 +1,45 @@
+{
+  "clip": "A117",
+  "image": {
+    "status": "done",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Image/EP28_A117_T01.png",
+        "job": "01a15c7c-0b5e-7352-9f94-fa01b9c5774d",
+        "result": "ok",
+        "qc": "ผ่านตรวจเบื้องต้น",
+        "cost": 0.06
+      }
+    ],
+    "selected": "EP28/Image/EP28_A117_T01.png",
+    "prompt_sha": "2c458ea8db27",
+    "flag": null,
+    "facts": "Wit standing, medium close-up, hard stare, head turning screen-left."
+  },
+  "video": {
+    "status": "flagged",
+    "takes": [
+      {
+        "take": 1,
+        "file": "EP28/Video/EP28_A117_T01.mp4",
+        "job": "f8cc8402-4423-9906-8aef-adbbd4d5bbd8",
+        "result": "ok",
+        "qc": "4.0s มีเสียง วิทย์พูด แต่หันซ้ายไปทางประตูไม่ชัด มองค่อนมาทางกล้อง",
+        "cost": 0.08
+      },
+      {
+        "take": 2,
+        "file": "EP28/Video/EP28_A117_T02.mp4",
+        "job": "b7fadd13-a7bb-9871-ac1e-bbdda21f0c5c",
+        "result": "fail",
+        "qc": "4.0s มีเสียง ยังหันซ้ายไม่ชัดเหมือน T01 ไม่ดีกว่า",
+        "cost": 0.08
+      }
+    ],
+    "selected": "EP28/Video/EP28_A117_T01.mp4",
+    "prompt_sha": "6dea9c6e5cb8",
+    "flag": "ต้องฟังลิปซิงก์; หันศีรษะไปซ้ายไม่ชัด (2 takes เหมือนกัน)"
+  },
+  "notes": []
+}
