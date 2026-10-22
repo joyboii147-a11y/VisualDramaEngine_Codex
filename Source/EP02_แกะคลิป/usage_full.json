@@ -1,0 +1,14 @@
+{
+ "request_id": "01a161c5-e2f1-7da0-9eaf-a74d2bbe0af1",
+ "model": "google/gemini-3.1-pro-preview",
+ "usage": {
+  "prompt_tokens": 12815,
+  "completion_tokens": 19570,
+  "total_tokens": 32385,
+  "cost": 0.26047,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0
+  }
+ }
+}
