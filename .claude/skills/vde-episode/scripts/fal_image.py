@@ -12,7 +12,7 @@ submit  : every todo image clip (or the ones named) is sent to the fal queue wit
 collect : polls the pending jobs, downloads finished images to the out_file that `state.py todo` gave, and prints
           one line per clip. It does NOT record takes: review each image, then use `state.py take/select` as usual.
 
-API key : env FAL_KEY, else ~/.claude/secrets/fal_key.dpapi (Windows DPAPI, made with set-fal-key). Never printed.
+API key : env FAL_KEY, else macOS Keychain item vde-fal-key, else ~/.claude/secrets/fal_key.dpapi (Windows DPAPI, made with set-fal-key). Never printed.
 Settings: config.json fal_* keys (endpoint, size, quality, max refs, price estimate).
 Jobs    : EPxx/production/fal_jobs/<clip>.json (one file per clip, safe for parallel scene workers)
 """
@@ -38,6 +38,12 @@ def api_key():
     k = os.environ.get('FAL_KEY', '').strip()
     if k:
         return k
+    if sys.platform == 'darwin':  # macOS: Keychain item made with `security add-generic-password -s vde-fal-key`
+        r = subprocess.run(['security', 'find-generic-password', '-s', 'vde-fal-key', '-w'],
+                           capture_output=True, text=True)
+        if r.returncode == 0 and r.stdout.strip():
+            return r.stdout.strip()
+        sys.exit('ไม่พบ fal API key ใน Keychain — ตั้งด้วย: security add-generic-password -U -a "$USER" -s vde-fal-key -w')
     if os.path.exists(KEY_FILE):
         r = subprocess.run(['pwsh', '-NoProfile', '-Command',
                             f"ConvertTo-SecureString (Get-Content '{KEY_FILE}' -Raw) | ConvertFrom-SecureString -AsPlainText"],
@@ -112,7 +118,9 @@ def todo(ep, scene, clips):
 
 def cmd_check(_):
     key = api_key()
-    print(json.dumps({'key': 'ok', 'source': 'env FAL_KEY' if os.environ.get('FAL_KEY') else KEY_FILE,
+    src = ('env FAL_KEY' if os.environ.get('FAL_KEY', '').strip()
+           else 'macOS Keychain vde-fal-key' if sys.platform == 'darwin' else KEY_FILE)
+    print(json.dumps({'key': 'ok', 'source': src,
                       'edit_endpoint': EDIT, 'text_endpoint': TEXT, 'size': SIZE, 'quality': QUALITY,
                       'max_refs': MAX_REFS, 'usd_per_image_estimate': USD}, ensure_ascii=False, indent=1))
     del key
